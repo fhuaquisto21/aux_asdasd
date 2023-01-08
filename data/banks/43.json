@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/km/cscbank-sal",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "COMOROS",
+            "country_img": "https://bincheck.io/assets/flags/svg/km.svg",
+            "country_url": "https://bincheck.io/es/km"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/km/exim-bank-comoros",
+            "bank_name": "EXIM BANK COMOROS",
+            "country_name": "COMOROS",
+            "country_img": "https://bincheck.io/assets/flags/svg/km.svg",
+            "country_url": "https://bincheck.io/es/km"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/km/exim-bank-tanzania,-ltd.",
+            "bank_name": "EXIM BANK TANZANIA, LTD.",
+            "country_name": "COMOROS",
+            "country_img": "https://bincheck.io/assets/flags/svg/km.svg",
+            "country_url": "https://bincheck.io/es/km"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/km/sahara-bank",
+            "bank_name": "SAHARA BANK",
+            "country_name": "COMOROS",
+            "country_img": "https://bincheck.io/assets/flags/svg/km.svg",
+            "country_url": "https://bincheck.io/es/km"
+        }
+    ]
+}

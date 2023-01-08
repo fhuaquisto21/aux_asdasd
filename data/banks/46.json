@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/ck/anz-bank,-ltd.",
+            "bank_name": "ANZ BANK, LTD.",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ck/australia-and-new-zealand-banking-group,-ltd.",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ck/new-zealand-association-of-credit-unions",
+            "bank_name": "NEW ZEALAND ASSOCIATION OF CREDIT UNIONS",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ck/westpac-ـ-south-pacific",
+            "bank_name": "WESTPAC - SOUTH PACIFIC",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck"
+        }
+    ]
+}

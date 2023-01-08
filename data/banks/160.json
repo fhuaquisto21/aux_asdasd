@@ -1,0 +1,683 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/ro/alior-bank-spolka-akcyjna",
+            "bank_name": "ALIOR BANK SPOLKA AKCYJNA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/alpha-bank-romania-s.a.",
+            "bank_name": "ALPHA BANK ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/alpha-bank-romania,-s.a.",
+            "bank_name": "ALPHA BANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/ate-bank-romania-s.a.",
+            "bank_name": "ATE BANK ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/ate-bank-romania,-s.a.",
+            "bank_name": "ATE BANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banc-post,-s.a.",
+            "bank_name": "BANC POST, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-c.r.-firenze-romania,-s.a.",
+            "bank_name": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-carpatica-s.a.",
+            "bank_name": "BANCA COMERCIALA CARPATICA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-carpatica,-s.a.",
+            "bank_name": "BANCA COMERCIALA CARPATICA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-feroviara",
+            "bank_name": "BANCA COMERCIALA FEROVIARA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-hvb-tiriac,-s.a.",
+            "bank_name": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-intesa-sanpaolo-romania-s.a.",
+            "bank_name": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-intesa-sanpaolo-romania,-s.a.",
+            "bank_name": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-romana-sa",
+            "bank_name": "BANCA COMERCIALA ROMANA SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-romana,-s.a.",
+            "bank_name": "BANCA COMERCIALA ROMANA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-sanpaolo-imi-bank-romania,-s.a.",
+            "bank_name": "BANCA COMERCIALA SANPAOLO IMI BANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa-italia-treviso-sucursala-bucuresti",
+            "bank_name": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa,-roma-bucharest-branch",
+            "bank_name": "BANCA ITALO ROMENA SPA, ROMA BUCHAREST BRANCH",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-millennium-sa",
+            "bank_name": "BANCA MILLENNIUM SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-millennium,-s.a.",
+            "bank_name": "BANCA MILLENNIUM, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-comert-exterior",
+            "bank_name": "BANCA ROMANA DE COMERT EXTERIOR",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-comert-exterior,-s.a.",
+            "bank_name": "BANCA ROMANA DE COMERT EXTERIOR, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a.",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-pentru-dezvoltare,-s.a.",
+            "bank_name": "BANCA ROMANA PENTRU DEZVOLTARE, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romaneasca-sa",
+            "bank_name": "BANCA ROMANEASCA SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romaneasca,-s.a.",
+            "bank_name": "BANCA ROMANEASCA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romanesca-s.a.",
+            "bank_name": "BANCA ROMANESCA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-romanesca,-s.a.",
+            "bank_name": "BANCA ROMANESCA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania-s.a.",
+            "bank_name": "BANCA TRANSILVANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a.",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/banca-turcoـromana,-s.a.",
+            "bank_name": "BANCA TURCO-ROMANA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/bancpost",
+            "bank_name": "BANCPOST",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/bancpost-s.a.",
+            "bank_name": "BANCPOST S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/bank-leumi-romania-s.a.",
+            "bank_name": "BANK LEUMI ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/bank-leumi-romania,-s.a.",
+            "bank_name": "BANK LEUMI ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/bank-of-cyprus-public-co.,-ltd.",
+            "bank_name": "BANK OF CYPRUS PUBLIC CO., LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/brd-ـ-groupe-societe-generale,-s.a.",
+            "bank_name": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/brd-groupe-societe-generale",
+            "bank_name": "BRD GROUPE SOCIETE GENERALE",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/capital-financial-services-s.a.",
+            "bank_name": "CAPITAL FINANCIAL SERVICES S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/casa-de-economii-si-consemnatiuni-s.a.-(cec-ـromanian-savings-bank)",
+            "bank_name": "CASA DE ECONOMII SI CONSEMNATIUNI S.A. (CEC -ROMANIAN SAVINGS BANK)",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/cec-bank-s.a.",
+            "bank_name": "CEC BANK S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/cec-bank,-s.a.",
+            "bank_name": "CEC BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/cetelem-ifn-s.a.",
+            "bank_name": "CETELEM IFN S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/cheque-dejeuner-romania-s.r.l.",
+            "bank_name": "CHEQUE DEJEUNER ROMANIA S.R.L.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/citibank-europe-plc",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/citibank-romania,-s.a.",
+            "bank_name": "CITIBANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/credit-agricole-bank",
+            "bank_name": "CREDIT AGRICOLE BANK",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/credit-agricole-bank-romania-s.a.",
+            "bank_name": "CREDIT AGRICOLE BANK ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/credit-europe-bank",
+            "bank_name": "CREDIT EUROPE BANK",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/credit-europe-bank-(romania),-s.a.",
+            "bank_name": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/emporiki-bankـromania,-s.a.",
+            "bank_name": "EMPORIKI BANK-ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/erb-retail-services-ifn-sa",
+            "bank_name": "ERB RETAIL SERVICES IFN SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/euronet-360-finance,-ltd.",
+            "bank_name": "EURONET 360 FINANCE, LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/garanti-bank-s.a.",
+            "bank_name": "GARANTI BANK S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/garanti-bank,-s.a.",
+            "bank_name": "GARANTI BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/idea-bank-s.a.",
+            "bank_name": "IDEA BANK S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/ing-bank-n.v.-amsterdam-ـ-bucharest-branch",
+            "bank_name": "ING BANK N.V. AMSTERDAM - BUCHAREST BRANCH",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/ing-bank-n.v.-amsterdam-bucharest-branch",
+            "bank_name": "ING BANK N.V. AMSTERDAM BUCHAREST BRANCH",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/ing-bank,-n.v.",
+            "bank_name": "ING BANK, N.V.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/intercard-finance-ad",
+            "bank_name": "INTERCARD FINANCE AD",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/libra-bank,-s.a.",
+            "bank_name": "LIBRA BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/libra-internet-bank",
+            "bank_name": "LIBRA INTERNET BANK",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/libra-internet-bank-sa",
+            "bank_name": "LIBRA INTERNET BANK SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/maestro-international",
+            "bank_name": "MAESTRO INTERNATIONAL",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/marfin-bank-(romania),-s.a.",
+            "bank_name": "MARFIN BANK (ROMANIA), S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/mkb-romexterra-bank,-s.a.",
+            "bank_name": "MKB ROMEXTERRA BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/nextebank-sa",
+            "bank_name": "NEXTEBANK SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/nicu-dinu's-bank",
+            "bank_name": "NICU DINU'S BANK",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/otp-bank-romania-s.a.",
+            "bank_name": "OTP BANK ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/otp-bank-romania-sa",
+            "bank_name": "OTP BANK ROMANIA SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/otp-bank-romania,-s.a.",
+            "bank_name": "OTP BANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/patria-bank-sa",
+            "bank_name": "PATRIA BANK SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/patria-bank,-s.a.",
+            "bank_name": "PATRIA BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/piraeus-bank-romania",
+            "bank_name": "PIRAEUS BANK ROMANIA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/piraeus-bank-romania-s.a.",
+            "bank_name": "PIRAEUS BANK ROMANIA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/piraeus-bank-romania,-s.a.",
+            "bank_name": "PIRAEUS BANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/ppro-financial-ltd.",
+            "bank_name": "PPRO FINANCIAL LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/prepay-technologies,-ltd.",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/procredit-bank-s.a.",
+            "bank_name": "PROCREDIT BANK S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/procredit-bank,-s.a.",
+            "bank_name": "PROCREDIT BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/raiffeisen-bank-s.a.",
+            "bank_name": "RAIFFEISEN BANK S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/raiffeisen-bank,-s.a.",
+            "bank_name": "RAIFFEISEN BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/rbs-bank-(romania),-s.a.",
+            "bank_name": "RBS BANK (ROMANIA), S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/romanian-commercial-bank-(banca-comerciala-romana",
+            "bank_name": "ROMANIAN COMMERCIAL BANK (BANCA COMERCIALA ROMANA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/romanian-commercial-bank-s.a.-ـ-banca-comerciala-romana-s.a.",
+            "bank_name": "ROMANIAN COMMERCIAL BANK S.A. - BANCA COMERCIALA ROMANA S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/romanian-commercial-bank,-s.a.-ـ-banca-comerciala-romana,-s.a.",
+            "bank_name": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/romexterra-bank,-s.a.",
+            "bank_name": "ROMEXTERRA BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/sodexo-pass-romania-srl",
+            "bank_name": "SODEXO PASS ROMANIA SRL",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/speed-transfer-financiar-srl",
+            "bank_name": "SPEED TRANSFER FINANCIAR SRL",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/tbi-credit-ifn-s.a.",
+            "bank_name": "TBI CREDIT IFN S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/tbi-credit-ifn,-s.a.",
+            "bank_name": "TBI CREDIT IFN, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/unicredit-bank-sa",
+            "bank_name": "UNICREDIT BANK SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/unicredit-romania,-s.a.",
+            "bank_name": "UNICREDIT ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/unicredit-tiriac-bank,-s.a.",
+            "bank_name": "UNICREDIT TIRIAC BANK, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/up-aganea-ede-sau",
+            "bank_name": "UP AGANEA EDE SAU",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/veneto-banca-s.c.p.a.",
+            "bank_name": "VENETO BANCA S.C.P.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ro/volksbank-romania,-s.a.",
+            "bank_name": "VOLKSBANK ROMANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro"
+        }
+    ]
+}

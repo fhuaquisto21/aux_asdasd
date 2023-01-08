@@ -1,0 +1,494 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/pt/american-express",
+            "bank_name": "AMERICAN EXPRESS",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/american-express-company",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/as-privatbank",
+            "bank_name": "AS PRIVATBANK",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-best",
+            "bank_name": "BANCO BEST",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bic-portugues-s.a.",
+            "bank_name": "BANCO BIC PORTUGUES S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bilbao-vizcaya-argentaria-(duplicated-bid-see-10021435)",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bilbao-vizcaya-argentaria-s.a.",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bilbao-vizcaya-argentaria-s.a.-(bbva)",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bnp-paribas-personal-finance-sa",
+            "bank_name": "BANCO BNP PARIBAS PERSONAL FINANCE SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi",
+            "bank_name": "BANCO BPI",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi-s.a.",
+            "bank_name": "BANCO BPI S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi-sa",
+            "bank_name": "BANCO BPI SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-comercial-portugues",
+            "bank_name": "BANCO COMERCIAL PORTUGUES",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-comercial-portugues-s.a.",
+            "bank_name": "BANCO COMERCIAL PORTUGUES S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-comercial-portugues,-s.a.",
+            "bank_name": "BANCO COMERCIAL PORTUGUES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-credibom,-s.a.",
+            "bank_name": "BANCO CREDIBOM, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-de-alicante,-s.a.",
+            "bank_name": "BANCO DE ALICANTE, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-de-investimento-global-sa",
+            "bank_name": "BANCO DE INVESTIMENTO GLOBAL SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-do-brasil-ag",
+            "bank_name": "BANCO DO BRASIL AG",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-do-brasil,-s.a.",
+            "bank_name": "BANCO DO BRASIL, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a.",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo,-s.a.",
+            "bank_name": "BANCO ESPIRITO SANTO, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-de-credito,-sarl",
+            "bank_name": "BANCO INTERNACIONAL DE CREDITO, SARL",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-mais,-s.a.",
+            "bank_name": "BANCO MAIS, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-popular-portugal,-s.a.",
+            "bank_name": "BANCO POPULAR PORTUGAL, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-portugues-de-investimentos",
+            "bank_name": "BANCO PORTUGUES DE INVESTIMENTOS",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-portugues-de-negocios,-s.a.",
+            "bank_name": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-privado-atlantico-europa-s.a.",
+            "bank_name": "BANCO PRIVADO ATLANTICO EUROPA S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-santander-totta-s.a.",
+            "bank_name": "BANCO SANTANDER TOTTA S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banco-santander-totta,-s.a.",
+            "bank_name": "BANCO SANTANDER TOTTA, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/bankinter,-s.a.",
+            "bank_name": "BANKINTER, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/banque-federative-du-credit-mutuel-(bfcm)",
+            "bank_name": "BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/best",
+            "bank_name": "BEST",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l.",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-de-credito-agrmcola-mutuo-de-leiria-c.r.l",
+            "bank_name": "CAIXA DE CREDITO AGRMCOLA MUTUO DE LEIRIA C.R.L",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-economica-comercial-e-industrial",
+            "bank_name": "CAIXA ECONOMICA COMERCIAL E INDUSTRIAL",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-economica-da-misericordia-de-angra-do-heroismo",
+            "bank_name": "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-economica-montepio-geral",
+            "bank_name": "CAIXA ECONOMICA MONTEPIO GERAL",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-geral-de-depositos-sa",
+            "bank_name": "CAIXA GERAL DE DEPOSITOS SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caixa-geral-de-depositos,-s.a.",
+            "bank_name": "CAIXA GERAL DE DEPOSITOS, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caja-de-ahorros-de-galicia,-vigo,-orense-y-pontevedra",
+            "bank_name": "CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/caja-de-ahorros-de-salamanca-y-soria-(caja-duero)",
+            "bank_name": "CAJA DE AHORROS DE SALAMANCA Y SORIA (CAJA DUERO)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/citibank-portugal,-s.a.",
+            "bank_name": "CITIBANK PORTUGAL, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/credit-lyonnais-portugal",
+            "bank_name": "CREDIT LYONNAIS PORTUGAL",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/credito-predial-portugues,-e.-p.",
+            "bank_name": "CREDITO PREDIAL PORTUGUES, E. P.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/credito-predial-portugues,-s.a.",
+            "bank_name": "CREDITO PREDIAL PORTUGUES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/deutsche-bank-(portugal),-s.a.",
+            "bank_name": "DEUTSCHE BANK (PORTUGAL), S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/eufiserv",
+            "bank_name": "EUFISERV",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/finibanco,-s.a.",
+            "bank_name": "FINIBANCO, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/le-cheque-dejeuner-portugal",
+            "bank_name": "LE CHEQUE DEJEUNER PORTUGAL",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/millenium-bcp",
+            "bank_name": "MILLENIUM BCP",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/montepio-geral-ـ-caixa-economica-de-lisboa",
+            "bank_name": "MONTEPIO GERAL - CAIXA ECONOMICA DE LISBOA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/novo-banco",
+            "bank_name": "NOVO BANCO",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-dos-acores-sa",
+            "bank_name": "NOVO BANCO DOS ACORES SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a.",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/oney-ـ-instituicao-financeira-de-credito,-s.a.",
+            "bank_name": "ONEY - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/oney-bank",
+            "bank_name": "ONEY BANK",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/santander-consumer-finance-s.a.",
+            "bank_name": "SANTANDER CONSUMER FINANCE S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/sibs-ـ-sociedade-interbancaria-de-servicos,-s.a.",
+            "bank_name": "SIBS - SOCIEDADE INTERBANCARIA DE SERVICOS, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/sociedade-interbancaria-de-servicos-s.a.-ـ-sibs",
+            "bank_name": "SOCIEDADE INTERBANCARIA DE SERVICOS S.A. - SIBS",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/sonae-financial-services-s.a.",
+            "bank_name": "SONAE FINANCIAL SERVICES S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/unicre-ـ-instituicao-financeira-de-credito-s.a.",
+            "bank_name": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/unicre-ـ-instituicao-financeira-de-credito,-s.a.",
+            "bank_name": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/unicreـinstituicao-financeira-de-credito,-s.a.",
+            "bank_name": "UNICRE-INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/union-baltic-bank-in-ventspils",
+            "bank_name": "UNION BALTIC BANK IN VENTSPILS",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/viacajas,-s.a.",
+            "bank_name": "VIACAJAS, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/pt/wizink-bank,-s.a.",
+            "bank_name": "WIZINK BANK, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt"
+        }
+    ]
+}

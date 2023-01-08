@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/fm/bank-of-guam",
+            "bank_name": "BANK OF GUAM",
+            "country_name": "MICRONESIA, FEDERATED STATES OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/fm.svg",
+            "country_url": "https://bincheck.io/es/fm"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/fm/bank-of-the-federated-states-of-micronesia",
+            "bank_name": "BANK OF THE FEDERATED STATES OF MICRONESIA",
+            "country_name": "MICRONESIA, FEDERATED STATES OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/fm.svg",
+            "country_url": "https://bincheck.io/es/fm"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/fm/fifth-third-bank",
+            "bank_name": "FIFTH THIRD BANK",
+            "country_name": "MICRONESIA, FEDERATED STATES OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/fm.svg",
+            "country_url": "https://bincheck.io/es/fm"
+        }
+    ]
+}

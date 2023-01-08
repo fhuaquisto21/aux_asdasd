@@ -1,0 +1,697 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/trk/adabank,-a.s.",
+            "bank_name": "ADABANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/akbank",
+            "bank_name": "AKBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/akbank-t.a.s.",
+            "bank_name": "AKBANK T.A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/aktif-yatirim-bankasi-a.s.",
+            "bank_name": "AKTIF YATIRIM BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi-a.s",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI A.S",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi-a.s.",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi,-a.s.",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/alternatif-bank,-a.s.",
+            "bank_name": "ALTERNATIF BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/alternatifbank-a.s.",
+            "bank_name": "ALTERNATIFBANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/alternatifbank,-a.s.",
+            "bank_name": "ALTERNATIFBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/american-express-company",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/anadolubank-a.s.",
+            "bank_name": "ANADOLUBANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/anadolubank,-a.s.",
+            "bank_name": "ANADOLUBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/asya-katilim-bankasi,-a.s.",
+            "bank_name": "ASYA KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/bank-asya-katilim-bankasi,-a.s.",
+            "bank_name": "BANK ASYA KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/bankalararasi-kart-merkezi,-a.s.",
+            "bank_name": "BANKALARARASI KART MERKEZI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/citibank",
+            "bank_name": "CITIBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/citibank-a.s.",
+            "bank_name": "CITIBANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/citibank,-a.s.",
+            "bank_name": "CITIBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/demirbank-t.a.s.",
+            "bank_name": "DEMIRBANK T.A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/denizbank",
+            "bank_name": "DENIZBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/denizbank-a.s.",
+            "bank_name": "DENIZBANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/denizbank,-a.s.",
+            "bank_name": "DENIZBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/deutsche-bank,-a.s.",
+            "bank_name": "DEUTSCHE BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/egebank,-a.s.",
+            "bank_name": "EGEBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/etibank",
+            "bank_name": "ETIBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/etibank,-a.s.",
+            "bank_name": "ETIBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/eurobank-tekfen,-a.s.",
+            "bank_name": "EUROBANK TEKFEN, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/fibabanka-a.s.",
+            "bank_name": "FIBABANKA A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/fibabanka,-a.s.",
+            "bank_name": "FIBABANKA, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/finans-bank,-a.s.",
+            "bank_name": "FINANS BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/finansbank-a.s.",
+            "bank_name": "FINANSBANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/finansbank-as.",
+            "bank_name": "FINANSBANK AS.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/finansbank,-a.s.",
+            "bank_name": "FINANSBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/fortis-bank,-a.s.",
+            "bank_name": "FORTIS BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/garanti-bank",
+            "bank_name": "GARANTI BANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/hsbc",
+            "bank_name": "HSBC",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/hsbc-bank",
+            "bank_name": "HSBC BANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/hsbc-bank-a.s.",
+            "bank_name": "HSBC BANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/hsbc-bank,-a.s.",
+            "bank_name": "HSBC BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/icbc-turkey-bank-a.s.",
+            "bank_name": "ICBC TURKEY BANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/iktisat-bankasi-turk,-a.s.",
+            "bank_name": "IKTISAT BANKASI TURK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/ing-bank-a.s.",
+            "bank_name": "ING BANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/ing-bank,-a.s.",
+            "bank_name": "ING BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/interbank,-a.s.",
+            "bank_name": "INTERBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/is-bankasi,-a.s.",
+            "bank_name": "IS BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/istanbul-transport-card",
+            "bank_name": "ISTANBUL TRANSPORT CARD",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/kentbank,-a.s.",
+            "bank_name": "KENTBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/kentkart-ege-elektronik,-a.s.",
+            "bank_name": "KENTKART EGE ELEKTRONIK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/kocbank",
+            "bank_name": "KOCBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/kuveyt-turk-bank",
+            "bank_name": "KUVEYT TURK BANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/kuveyt-turk-katilim-bankasi--a.s.",
+            "bank_name": "KUVEYT TURK KATILIM BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/kuveyt-turk-katilim-bankasi,-a.s.",
+            "bank_name": "KUVEYT TURK KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/maestro-international",
+            "bank_name": "MAESTRO INTERNATIONAL",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/milli-aydin-bankasi-t.a.s.-tarisbank",
+            "bank_name": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/odea-bank-a.s.",
+            "bank_name": "ODEA BANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/osmanli-bankasi,-a.s.",
+            "bank_name": "OSMANLI BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/oyak-bank,-a.s.",
+            "bank_name": "OYAK BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/pamukbank-t.a.s.",
+            "bank_name": "PAMUKBANK T.A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/papara-elektronik-para-ve-odeme",
+            "bank_name": "PAPARA ELEKTRONIK PARA VE ODEME",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/sekerbank-t.a.s.",
+            "bank_name": "SEKERBANK T.A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/t.-garanti-bankasi,-a.s.",
+            "bank_name": "T. GARANTI BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/t.-halk-bankasi,-a.s.",
+            "bank_name": "T. HALK BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/t.c.-ziraat-bankasi-a.s.",
+            "bank_name": "T.C. ZIRAAT BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/t.c.-ziraat-bankasi,-a.s.",
+            "bank_name": "T.C. ZIRAAT BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/tekfenbank,-a.s.",
+            "bank_name": "TEKFENBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/tekstil-bankasi,-a.s.",
+            "bank_name": "TEKSTIL BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/thankscard",
+            "bank_name": "THANKSCARD",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/toprakbank,-a.s.",
+            "bank_name": "TOPRAKBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turk-ekonomi-bankasi-a.s.",
+            "bank_name": "TURK EKONOMI BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turk-ekonomi-bankasi,-a.s.",
+            "bank_name": "TURK EKONOMI BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turk-ticaret-bankasi,-a.s.",
+            "bank_name": "TURK TICARET BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkish-airlines-(tk)",
+            "bank_name": "TURKISH AIRLINES (TK)",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkish-bank-a.s.",
+            "bank_name": "TURKISH BANK A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkish-bank,-a.s.",
+            "bank_name": "TURKISH BANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-emlak-bankasi,-a.s.",
+            "bank_name": "TURKIYE EMLAK BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-finans-katilim-bankasi",
+            "bank_name": "TURKIYE FINANS KATILIM BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-finans-katilim-bankasi--a.s.",
+            "bank_name": "TURKIYE FINANS KATILIM BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-finans-katilim-bankasi,-a.s.",
+            "bank_name": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi",
+            "bank_name": "TURKIYE GARANTI BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi-a.-s.",
+            "bank_name": "TURKIYE GARANTI BANKASI A. S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi-a.s.",
+            "bank_name": "TURKIYE GARANTI BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi,-a.s.",
+            "bank_name": "TURKIYE GARANTI BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s.",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi,-a.s.",
+            "bank_name": "TURKIYE HALK BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-imar-bankasi-t.a.s.",
+            "bank_name": "TURKIYE IMAR BANKASI T.A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-is-bankasi-a.s.",
+            "bank_name": "TURKIYE IS BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-is-bankasi,-a.s.",
+            "bank_name": "TURKIYE IS BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-turizm-yatirim-ve-dis-ticaret-bankasi",
+            "bank_name": "TURKIYE TURIZM YATIRIM VE DIS TICARET BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-vakiflar-bankasi-t.-a.-o.",
+            "bank_name": "TURKIYE VAKIFLAR BANKASI T. A. O.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-vakiflar-bankasi-t.a.o",
+            "bank_name": "TURKIYE VAKIFLAR BANKASI T.A.O",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/turkiye-vakiflar-bankasi-t.a.o.",
+            "bank_name": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/vakif-bank",
+            "bank_name": "VAKIF BANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/vakif-katilim-bankasi",
+            "bank_name": "VAKIF KATILIM BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/vakifbank",
+            "bank_name": "VAKIFBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/yapi-kredi",
+            "bank_name": "YAPI KREDI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/yapi-ve-kredi-bankasi-a.s.",
+            "bank_name": "YAPI VE KREDI BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/trk/yapi-ve-kredi-bankasi,-a.s.",
+            "bank_name": "YAPI VE KREDI BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk"
+        }
+    ]
+}

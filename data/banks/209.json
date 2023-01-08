@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/ve/100%-banco,-banco-comercial,-c.a.",
+            "bank_name": "100% BANCO, BANCO COMERCIAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/100%-banco,-banco-universal,-c.a.",
+            "bank_name": "100% BANCO, BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/american-express-company",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-activo-c.a.-banco-universal",
+            "bank_name": "BANCO ACTIVO C.A. BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-activo,-c.a.-banco-universal",
+            "bank_name": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-banesco-universal,-c.a.",
+            "bank_name": "BANCO BANESCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-bicentenario-banco-universal,-c.a.",
+            "bank_name": "BANCO BICENTENARIO BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-bicentenario-del-pueblo,-banco-universal,c.a.",
+            "bank_name": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-canarias-de-venezuela",
+            "bank_name": "BANCO CANARIAS DE VENEZUELA",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-canarias-de-venezuela,-banco-universal,-c.a.",
+            "bank_name": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-canarias-de-venezuela,-c.a.",
+            "bank_name": "BANCO CANARIAS DE VENEZUELA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-capital",
+            "bank_name": "BANCO CAPITAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-capital,-c.a.",
+            "bank_name": "BANCO CAPITAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-caracas,-c.a.",
+            "bank_name": "BANCO CARACAS, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-caroni,-c.a.",
+            "bank_name": "BANCO CARONI, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-central-de-venezuela",
+            "bank_name": "BANCO CENTRAL DE VENEZUELA",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-confederado,-s.a.",
+            "bank_name": "BANCO CONFEDERADO, S.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-de-coro-c.a.-(bancoro)",
+            "bank_name": "BANCO DE CORO C.A. (BANCORO)",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-de-venezuela,-s.a.",
+            "bank_name": "BANCO DE VENEZUELA, S.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-de-venezuela,-s.a.c.a.",
+            "bank_name": "BANCO DE VENEZUELA, S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-caribe-c.a.,-banco-univers.a.l.",
+            "bank_name": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-caribe-s.a.c.a.",
+            "bank_name": "BANCO DEL CARIBE S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-caribe,-c.a.-banco-univers.a.l.",
+            "bank_name": "BANCO DEL CARIBE, C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-caribe,-c.a.-banco-universal",
+            "bank_name": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-tesoro-c.a.-banco-univers.a.l.",
+            "bank_name": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-tesoro,-c.a.,-banco-univers.a.l.",
+            "bank_name": "BANCO DEL TESORO, C.A., BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-del-tesoro,-c.a.,-banco-universal",
+            "bank_name": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-exterior,-c.a.",
+            "bank_name": "BANCO EXTERIOR, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-federal,-c.a.",
+            "bank_name": "BANCO FEDERAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-guayana,-c.a.",
+            "bank_name": "BANCO GUAYANA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-industrial-de-venezuela,-c.a.",
+            "bank_name": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-internacional-interbank,-c.a.",
+            "bank_name": "BANCO INTERNACIONAL INTERBANK, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-la-guaira,-c.a.",
+            "bank_name": "BANCO LA GUAIRA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-mercantil,-s.a.c.a.",
+            "bank_name": "BANCO MERCANTIL, S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-nacional-de-credito,-c.a.",
+            "bank_name": "BANCO NACIONAL DE CREDITO, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-occidental-de-descuento-bod",
+            "bank_name": "BANCO OCCIDENTAL DE DESCUENTO BOD",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-occidental-de-descuento-s.a.c.a.",
+            "bank_name": "BANCO OCCIDENTAL DE DESCUENTO S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-occidental-de-descuento-s.a.i.c.a.",
+            "bank_name": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-occidental-de-descuento,-banco-universal,-c.a.",
+            "bank_name": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-plaza,-c.a.",
+            "bank_name": "BANCO PLAZA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-popular,-c.a.",
+            "bank_name": "BANCO POPULAR, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-provincial-s.a.-banco-univers.a.l.",
+            "bank_name": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-provincial-s.a.-banco-universal",
+            "bank_name": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-provincial-s.a.c.a.",
+            "bank_name": "BANCO PROVINCIAL S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-provincial-s.a.i.c.a.-ـ-s.a.c.a.",
+            "bank_name": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-provivienda-c.a.-banco-universal-(banpro)",
+            "bank_name": "BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-sofitasa",
+            "bank_name": "BANCO SOFITASA",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-sofitasa,-c.a.",
+            "bank_name": "BANCO SOFITASA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-union,-c.a.",
+            "bank_name": "BANCO UNION, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banco-venezolano-de-credito",
+            "bank_name": "BANCO VENEZOLANO DE CREDITO",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco",
+            "bank_name": "BANESCO",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco-banco-comercial,-s.a.c",
+            "bank_name": "BANESCO BANCO COMERCIAL, S.A.C",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco-banco-comercial,-s.a.c.a.",
+            "bank_name": "BANESCO BANCO COMERCIAL, S.A.C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco-banco-universal",
+            "bank_name": "BANESCO BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco-banco-universal,-c.a.",
+            "bank_name": "BANESCO BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco,-banco-universal-ca",
+            "bank_name": "BANESCO, BANCO UNIVERSAL CA",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banesco,-banco-universal,-c.a.",
+            "bank_name": "BANESCO, BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banfoandes,-c.a.",
+            "bank_name": "BANFOANDES, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banplus-banco-comercial,-c.a.",
+            "bank_name": "BANPLUS BANCO COMERCIAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/banplus-banco-universal,-c.a.",
+            "bank_name": "BANPLUS BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun-c.a.-banco-univers.a.l.",
+            "bank_name": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun,-c.a.-banco-universal",
+            "bank_name": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/casa-propia-entidad-de-ahorro-y-prestamoc.a.",
+            "bank_name": "CASA PROPIA ENTIDAD DE AHORRO Y PRESTAMOC.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/citibank",
+            "bank_name": "CITIBANK",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/citibank,-n.a.-(venezuela)",
+            "bank_name": "CITIBANK, N.A. (VENEZUELA)",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/consorcio-credicard,-c.a.",
+            "bank_name": "CONSORCIO CREDICARD, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a.",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/credito-union,-c.a.",
+            "bank_name": "CREDITO UNION, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/del-centro-entidad-de-ahorro-y-prestamo",
+            "bank_name": "DEL CENTRO ENTIDAD DE AHORRO Y PRESTAMO",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/del-sur-banco-universal,-c.a.",
+            "bank_name": "DEL SUR BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/del-sur,-banco-universal",
+            "bank_name": "DEL SUR, BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/fondo-comun-c.a.,-banco-univers.a.l.",
+            "bank_name": "FONDO COMUN C.A., BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/interpayment-services,-ltd.",
+            "bank_name": "INTERPAYMENT SERVICES, LTD.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/inversiones-platco,-c.a.",
+            "bank_name": "INVERSIONES PLATCO, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/inverunion-banco-comercial,-c.a.",
+            "bank_name": "INVERUNION BANCO COMERCIAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/inverunion,-banco-comercial,-c.a.",
+            "bank_name": "INVERUNION, BANCO COMERCIAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/mercantil-c.a.-banco-univers.a.l.",
+            "bank_name": "MERCANTIL C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/mercantil-c.a.-banco-universal",
+            "bank_name": "MERCANTIL C.A. BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/mercantil,-c.a.,-banco-universal",
+            "bank_name": "MERCANTIL, C.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/norval-bank-c.a.-banco-univers.a.l.",
+            "bank_name": "NORVAL BANK C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/norval-bank,-c.a.-banco-univers.a.l.",
+            "bank_name": "NORVAL BANK, C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/pida-provincial,-c.a.",
+            "bank_name": "PIDA PROVINCIAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/tebca-transferencia-electronica-de-beneficios,-c.a.",
+            "bank_name": "TEBCA TRANSFERENCIA ELECTRONICA DE BENEFICIOS, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/tebca,-transferencia-electronica-de-beneficios,-c.a.",
+            "bank_name": "TEBCA, TRANSFERENCIA ELECTRONICA DE BENEFICIOS, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/todoticket-2004,-c.a.",
+            "bank_name": "TODOTICKET 2004, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/unibanca,-banco-universal,-c.a.",
+            "bank_name": "UNIBANCA, BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito-s.a.-banco-univers.a.l.",
+            "bank_name": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito-sa-banco-universal",
+            "bank_name": "VENEZOLANO DE CREDITO SA BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito,-s.a.,-banco-univers.a.l.",
+            "bank_name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito,-s.a.,-banco-universal",
+            "bank_name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve"
+        }
+    ]
+}

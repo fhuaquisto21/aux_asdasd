@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/kp/citibank-korea-inc.",
+            "bank_name": "CITIBANK KOREA INC.",
+            "country_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kp.svg",
+            "country_url": "https://bincheck.io/es/kp"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/kp/kookmin-bank-south",
+            "bank_name": "KOOKMIN BANK SOUTH",
+            "country_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kp.svg",
+            "country_url": "https://bincheck.io/es/kp"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/kp/samsung-card-co.",
+            "bank_name": "SAMSUNG CARD CO.",
+            "country_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kp.svg",
+            "country_url": "https://bincheck.io/es/kp"
+        }
+    ]
+}

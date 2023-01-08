@@ -1,0 +1,606 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/hu/abn-amro-(magyar)-bank-rt.",
+            "bank_name": "ABN AMRO (MAGYAR) BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/aesel-ـ-hungary",
+            "bank_name": "AESEL - HUNGARY",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/allianz-bank-zrt.",
+            "bank_name": "ALLIANZ BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/altalanos-ertekforgalmi-bank-rt.-(general-banking-and-trust",
+            "bank_name": "ALTALANOS ERTEKFORGALMI BANK RT. (GENERAL BANKING AND TRUST",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/axa-bank-europe,-n.v.",
+            "bank_name": "AXA BANK EUROPE, N.V.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/axa-bank-europe,-s.a.",
+            "bank_name": "AXA BANK EUROPE, S.A.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/axabank",
+            "bank_name": "AXABANK",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/bank-austria-creditanstalt-hungary-rt.",
+            "bank_name": "BANK AUSTRIA CREDITANSTALT HUNGARY RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/bnp-paribas",
+            "bank_name": "BNP PARIBAS",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/boston-safe-deposit-and-trust-company",
+            "bank_name": "BOSTON SAFE DEPOSIT AND TRUST COMPANY",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd.",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank,-ltd.",
+            "bank_name": "BUDAPEST BANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/centralـeuropean-international-bank-(cib-bank)-rt.",
+            "bank_name": "CENTRAL-EUROPEAN INTERNATIONAL BANK (CIB BANK) RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/cib-bank-rt.-(cib-kozepـeuropai-nemzetkozi-bank-rt.)",
+            "bank_name": "CIB BANK RT. (CIB KOZEP-EUROPAI NEMZETKOZI BANK RT.)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/cib-bank-zrt.",
+            "bank_name": "CIB BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/citibank-europe-plc",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/citibank-europe-public-limited-company",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/citibank-europe-public-ltd-company",
+            "bank_name": "CITIBANK EUROPE PUBLIC LTD COMPANY",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/citibank-europe-public,-ltd.",
+            "bank_name": "CITIBANK EUROPE PUBLIC, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/citibank-rt.",
+            "bank_name": "CITIBANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/credigen-bank-rt.",
+            "bank_name": "CREDIGEN BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/credigen-bank-zrt.",
+            "bank_name": "CREDIGEN BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/delـdunantuli-regionalis-bank-zartkoeruen-mukoedo-reszvenyta",
+            "bank_name": "DEL-DUNANTULI REGIONALIS BANK ZARTKOERUEN MUKOEDO RESZVENYTA",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/delـdunantuli-regionalis-bank-zartkoeruen-mukoedo-reszvenytarsasag",
+            "bank_name": "DEL-DUNANTULI REGIONALIS BANK ZARTKOERUEN MUKOEDO RESZVENYTARSASAG",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/deutsche-bank-rt.",
+            "bank_name": "DEUTSCHE BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/drb-delـdunantuli-regionalis-bank-zrt.",
+            "bank_name": "DRB DEL-DUNANTULI REGIONALIS BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/dunakanyar-savings-coـoperative",
+            "bank_name": "DUNAKANYAR SAVINGS CO-OPERATIVE",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-rt.",
+            "bank_name": "ERSTE BANK HUNGARY RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt.",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/fhb-commercial-bank-ltd.",
+            "bank_name": "FHB COMMERCIAL BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/fhb-commercial-bank,-ltd.",
+            "bank_name": "FHB COMMERCIAL BANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/fhb-commercial-bank,,-ltd.",
+            "bank_name": "FHB COMMERCIAL BANK,, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/fhb-kereskedelmi-bank-zrt.",
+            "bank_name": "FHB KERESKEDELMI BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/fuzesabony-es-videke-savings-coـoperative",
+            "bank_name": "FUZESABONY ES VIDEKE SAVINGS CO-OPERATIVE",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/granit-bank-zrt.",
+            "bank_name": "GRANIT BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/hungarian-foreign-trade-bank,-ltd.",
+            "bank_name": "HUNGARIAN FOREIGN TRADE BANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/hungarian-volksbank,-ltd.",
+            "bank_name": "HUNGARIAN VOLKSBANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/hvb-bank-hungary-rt.",
+            "bank_name": "HVB BANK HUNGARY RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/idt-financial-services-limited",
+            "bank_name": "IDT FINANCIAL SERVICES LIMITED",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/ing-bank-rt.",
+            "bank_name": "ING BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/interـeuropa-bank-rt.",
+            "bank_name": "INTER-EUROPA BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/k-and-h-bank-zrt",
+            "bank_name": "K AND H BANK ZRT",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/k-and-h-bank-zrt.",
+            "bank_name": "K AND H BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/k-and-h-bank-zrt.-(kereskedelmi-es-hitelbank-zartkoerueen-muekoedoe-reszvenytarsasag",
+            "bank_name": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/k-bank-rt.-(kereskedelmi-es-hitelbank-rt)",
+            "bank_name": "K BANK RT. (KERESKEDELMI ES HITELBANK RT)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/k&h-bank-zrt",
+            "bank_name": "K&H BANK ZRT",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/kdb-bank-(hungary),-ltd.",
+            "bank_name": "KDB BANK (HUNGARY), LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/kdb-bank-europe-ltd",
+            "bank_name": "KDB BANK EUROPE LTD",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/kereskedelmi-bank-rt.",
+            "bank_name": "KERESKEDELMI BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/kereskedelmi-es-hitelbank-rt.",
+            "bank_name": "KERESKEDELMI ES HITELBANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/kereskedelmi-es-hitelbank-rt.-ـ-k-and-h-rt.",
+            "bank_name": "KERESKEDELMI ES HITELBANK RT. - K AND H RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/konzumbank-kereskedelmi-bank-rt.",
+            "bank_name": "KONZUMBANK KERESKEDELMI BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/lufthansa-airplus-servicekarten-gmbh",
+            "bank_name": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/maestro-international",
+            "bank_name": "MAESTRO INTERNATIONAL",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/magnet-magyar-kozossegi-bank-zrt.",
+            "bank_name": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/magyar-cetelem-bank-rt.",
+            "bank_name": "MAGYAR CETELEM BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/magyar-kulkereskedelmi-bank-rt.-(hungarian-foreign-trade-bank)",
+            "bank_name": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/magyar-takarekszovekezeti-bank-rt.-(bank-of-hungarian-savings-cooperat",
+            "bank_name": "MAGYAR TAKAREKSZOVEKEZETI BANK RT. (BANK OF HUNGARIAN SAVINGS COOPERAT",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/magyar-takarekszovetkezeti-bank-rt.-(bank-of-hungarian-savings-cooperatives)",
+            "bank_name": "MAGYAR TAKAREKSZOVETKEZETI BANK RT. (BANK OF HUNGARIAN SAVINGS COOPERATIVES)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/magyar-takarekszovetkezeti-bank-zrt.",
+            "bank_name": "MAGYAR TAKAREKSZOVETKEZETI BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/mkb",
+            "bank_name": "MKB",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/mkb-bank-rt.",
+            "bank_name": "MKB BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/mkb-bank-zrt.",
+            "bank_name": "MKB BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/mkb-bank-zrt.",
+            "bank_name": "MKB BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/nagykata-es-videke-savings-coـoperative",
+            "bank_name": "NAGYKATA ES VIDEKE SAVINGS CO-OPERATIVE",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/nhb-growth-credit-bank-plc",
+            "bank_name": "NHB GROWTH CREDIT BANK PLC",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/o.f.sz.-orszagos-fizetesi-szolgatato-zrt.",
+            "bank_name": "O.F.SZ. ORSZAGOS FIZETESI SZOLGATATO ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/otp-bank-nyrt.",
+            "bank_name": "OTP BANK NYRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/otp-bank-plc",
+            "bank_name": "OTP BANK PLC",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/otp-bank-rt-(national-savings-and-commercial-bank-ltd.)",
+            "bank_name": "OTP BANK RT (NATIONAL SAVINGS AND COMMERCIAL BANK LTD.)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/otp-hungarian-national-savings",
+            "bank_name": "OTP HUNGARIAN NATIONAL SAVINGS",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/post-bank-and-savings-bank-corporation",
+            "bank_name": "POST BANK AND SAVINGS BANK CORPORATION",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/post-bank-and-savings-bank-corporation-(postabank-rt.)",
+            "bank_name": "POST BANK AND SAVINGS BANK CORPORATION (POSTABANK RT.)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/prepay-technologies,-ltd.",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/raiffeisen-bank-ltd.",
+            "bank_name": "RAIFFEISEN BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/raiffeisen-bank-zrt.",
+            "bank_name": "RAIFFEISEN BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/raiffeisen-bank,-ltd.",
+            "bank_name": "RAIFFEISEN BANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/sberbank-hungary,-ltd.",
+            "bank_name": "SBERBANK HUNGARY, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/szechenyi-kereskedelmi-bank-zrt",
+            "bank_name": "SZECHENYI KERESKEDELMI BANK ZRT",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/szegvar-es-videke-savings-coـoperative",
+            "bank_name": "SZEGVAR ES VIDEKE SAVINGS CO-OPERATIVE",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/tiszafoldvar-es-videke-savings-coـoperative",
+            "bank_name": "TISZAFOLDVAR ES VIDEKE SAVINGS CO-OPERATIVE",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/unicredit-bank-hungary-zrt.",
+            "bank_name": "UNICREDIT BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/united-export-import-bank",
+            "bank_name": "UNITED EXPORT IMPORT BANK",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/visa-belgium",
+            "bank_name": "VISA BELGIUM",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/hu/volksbank-hungary-private,-ltd.",
+            "bank_name": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu"
+        }
+    ]
+}

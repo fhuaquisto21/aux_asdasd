@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/cf/ecobank-ltd.",
+            "bank_name": "ECOBANK LTD.",
+            "country_name": "CENTRAL AFRICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cf.svg",
+            "country_url": "https://bincheck.io/es/cf"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/cf/ecobank-nigeria-plc",
+            "bank_name": "ECOBANK NIGERIA PLC",
+            "country_name": "CENTRAL AFRICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cf.svg",
+            "country_url": "https://bincheck.io/es/cf"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/cf/ecobank,-ltd.",
+            "bank_name": "ECOBANK, LTD.",
+            "country_name": "CENTRAL AFRICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cf.svg",
+            "country_url": "https://bincheck.io/es/cf"
+        }
+    ]
+}

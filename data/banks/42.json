@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/co/a-toda-hora,-s.a.",
+            "bank_name": "A TODA HORA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/abn-amro-bank-(colombia),-s.a.",
+            "bank_name": "ABN AMRO BANK (COLOMBIA), S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/american-express-company",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/asociacion-de-bancos-que-prestan-el-servicio-de-credibanco-ـ-credibanco",
+            "bank_name": "ASOCIACION DE BANCOS QUE PRESTAN EL SERVICIO DE CREDIBANCO - CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/asociacion-gremial-de-instituciones-financieras-ـ-credibanco",
+            "bank_name": "ASOCIACION GREMIAL DE INSTITUCIONES FINANCIERAS - CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/asociacion-gremial-de-instituciones-financieras-credibanco",
+            "bank_name": "ASOCIACION GREMIAL DE INSTITUCIONES FINANCIERAS CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banca-davivienda,-s.a.",
+            "bank_name": "BANCA DAVIVIENDA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bancafe",
+            "bank_name": "BANCAFE",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-agrario",
+            "bank_name": "BANCO AGRARIO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-agrario-de-colombia-s.a.-(banagrario)",
+            "bank_name": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-aliadas,-s.a.",
+            "bank_name": "BANCO ALIADAS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-andino,-s.a.",
+            "bank_name": "BANCO ANDINO, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-av-villas",
+            "bank_name": "BANCO AV VILLAS",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-bilbao-vizcaya-argentaria",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-bilbao-vizcaya-argentaria-colombia-s.a.",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-bilbao-vizcaya-argentaria-colombia-s.a.-bbva-colombia",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-colpatria-ـ-red-multibanca-colpatria,-s.a.",
+            "bank_name": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-colpatria-multibanca-colpatria,-s.a.",
+            "bank_name": "BANCO COLPATRIA MULTIBANCA COLPATRIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-colpatria-red-multibanca",
+            "bank_name": "BANCO COLPATRIA RED MULTIBANCA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-colpatria-red-multibanca-colpatria-s.a.",
+            "bank_name": "BANCO COLPATRIA RED MULTIBANCA COLPATRIA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-coomeva,-s.a.",
+            "bank_name": "BANCO COOMEVA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-corpbanca-colombia,-s.a.",
+            "bank_name": "BANCO CORPBANCA COLOMBIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-davidenda",
+            "bank_name": "BANCO DAVIDENDA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-davivienda-s.a.",
+            "bank_name": "BANCO DAVIVIENDA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-davivienda,-s.a.",
+            "bank_name": "BANCO DAVIVIENDA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-de-bogota",
+            "bank_name": "BANCO DE BOGOTA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-de-bogota-s.a.",
+            "bank_name": "BANCO DE BOGOTA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-de-credito-de-colombia-s.a.-helm-financial-services",
+            "bank_name": "BANCO DE CREDITO DE COLOMBIA S.A. HELM FINANCIAL SERVICES",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-de-credito-y-desarrollo-social-megabanco-s.a.-ـ-(megabanco-s.a.)",
+            "bank_name": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-de-occidente,-s.a.",
+            "bank_name": "BANCO DE OCCIDENTE, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-del-estado",
+            "bank_name": "BANCO DEL ESTADO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-del-estado,-s.a.",
+            "bank_name": "BANCO DEL ESTADO, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-dividenda",
+            "bank_name": "BANCO DIVIDENDA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-falabella",
+            "bank_name": "BANCO FALABELLA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-finandina,-s.a.",
+            "bank_name": "BANCO FINANDINA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-ganadero",
+            "bank_name": "BANCO GANADERO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-gnb-sudameris,-s.a.",
+            "bank_name": "BANCO GNB SUDAMERIS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-hsbc-colombia,-s.a.",
+            "bank_name": "BANCO HSBC COLOMBIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-industrial-colombiano",
+            "bank_name": "BANCO INDUSTRIAL COLOMBIANO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-mercantil-de-colombia",
+            "bank_name": "BANCO MERCANTIL DE COLOMBIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-pichincha,-s.a.",
+            "bank_name": "BANCO PICHINCHA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-popular",
+            "bank_name": "BANCO POPULAR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-popular-s.a.",
+            "bank_name": "BANCO POPULAR S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-santander-colombia,-s.a.",
+            "bank_name": "BANCO SANTANDER COLOMBIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-selfin,-s.a.",
+            "bank_name": "BANCO SELFIN, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-superior-(superbanco)",
+            "bank_name": "BANCO SUPERIOR (SUPERBANCO)",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banco-tequendama",
+            "bank_name": "BANCO TEQUENDAMA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bancolombia",
+            "bank_name": "BANCOLOMBIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bancolombia-s.a.",
+            "bank_name": "BANCOLOMBIA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bancolombia,-s.a.",
+            "bank_name": "BANCOLOMBIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/banistmo-colombia,-s.a.",
+            "bank_name": "BANISTMO COLOMBIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bansuperior",
+            "bank_name": "BANSUPERIOR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bbva",
+            "bank_name": "BBVA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bbva-banco-ganadero,-s.a.",
+            "bank_name": "BBVA BANCO GANADERO, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bcsc-s.a.ـ-banco-caja-social-bcsc-ـ-banco-caja-social",
+            "bank_name": "BCSC S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/bcsc,-s.a.ـ-banco-caja-social-bcsc-ـ-banco-caja-social",
+            "bank_name": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/caja-de-credito-agrario,-industrial-y-minero",
+            "bank_name": "CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/citibank",
+            "bank_name": "CITIBANK",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/citibank-ـ-colombia",
+            "bank_name": "CITIBANK - COLOMBIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/citibank-colombia,-s.a.",
+            "bank_name": "CITIBANK COLOMBIA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/compa?ia-de-financiamiento-tuya-s.a.",
+            "bank_name": "COMPA?IA DE FINANCIAMIENTO TUYA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/conavi-banco-comercial-y-de-ahorros,-s.a.",
+            "bank_name": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/coopsibate-cooperativa-financiera",
+            "bank_name": "COOPSIBATE COOPERATIVA FINANCIERA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/corporacion-social-de-ahorro-y-vivienda-colmena",
+            "bank_name": "CORPORACION SOCIAL DE AHORRO Y VIVIENDA COLMENA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/credibanco",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/emerald-av",
+            "bank_name": "EMERALD AV",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/emerald-occ",
+            "bank_name": "EMERALD OCC",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/emerald-pp",
+            "bank_name": "EMERALD PP",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/granbanco,-s.a.",
+            "bank_name": "GRANBANCO, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/helm-bank,-s.a.",
+            "bank_name": "HELM BANK, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/house",
+            "bank_name": "HOUSE",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/la-central-cooperativa-financiera-para-la-promocion-social-ـ-coopcentral",
+            "bank_name": "LA CENTRAL COOPERATIVA FINANCIERA PARA LA PROMOCION SOCIAL - COOPCENTRAL",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/lloyds-bank-plc-bank,-s.a.",
+            "bank_name": "LLOYDS BANK PLC BANK, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/macrofinanciera-s.a.-c.f.c.",
+            "bank_name": "MACROFINANCIERA S.A. C.F.C.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/maestro-international",
+            "bank_name": "MAESTRO INTERNATIONAL",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/red-multicolor",
+            "bank_name": "RED MULTICOLOR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/redeban-multicolor-s.a.",
+            "bank_name": "REDEBAN MULTICOLOR S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/redeban-multicolor,-s.a.",
+            "bank_name": "REDEBAN MULTICOLOR, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/servibanca",
+            "bank_name": "SERVIBANCA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/servibanca-s.a.",
+            "bank_name": "SERVIBANCA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/servibanca,-s.a.",
+            "bank_name": "SERVIBANCA, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/servicios-financieros-s.a.-serfinansa-compania-de-financiamiento",
+            "bank_name": "SERVICIOS FINANCIEROS S.A. SERFINANSA COMPANIA DE FINANCIAMIENTO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/spring-step-coplatria",
+            "bank_name": "SPRING STEP COPLATRIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/standard-chartered-bank-(ci),-ltd.",
+            "bank_name": "STANDARD CHARTERED BANK (CI), LTD.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/tarjeta-agropecuaria",
+            "bank_name": "TARJETA AGROPECUARIA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/tarjeta-exito-ـ-tuya",
+            "bank_name": "TARJETA EXITO - TUYA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/tarjeta-ripley",
+            "bank_name": "TARJETA RIPLEY",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/travelex-card",
+            "bank_name": "TRAVELEX CARD",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/tuya-s.a.",
+            "bank_name": "TUYA S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/co/vivero-banco-davivienda",
+            "bank_name": "VIVERO BANCO DAVIVIENDA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co"
+        }
+    ]
+}

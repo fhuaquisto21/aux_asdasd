@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/as/amerika-samoa-bank",
+            "bank_name": "AMERIKA SAMOA BANK",
+            "country_name": "AMERICAN SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/as.svg",
+            "country_url": "https://bincheck.io/es/as"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/as/anz-bank-(samoa)-ltd",
+            "bank_name": "ANZ BANK (SAMOA) LTD",
+            "country_name": "AMERICAN SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/as.svg",
+            "country_url": "https://bincheck.io/es/as"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/as/westpac-ـ-south-pacific",
+            "bank_name": "WESTPAC - SOUTH PACIFIC",
+            "country_name": "AMERICAN SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/as.svg",
+            "country_url": "https://bincheck.io/es/as"
+        }
+    ]
+}

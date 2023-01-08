@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/mh/bank-of-guam",
+            "bank_name": "BANK OF GUAM",
+            "country_name": "MARSHALL ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mh.svg",
+            "country_url": "https://bincheck.io/es/mh"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/mh/fifth-third-bank",
+            "bank_name": "FIFTH THIRD BANK",
+            "country_name": "MARSHALL ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mh.svg",
+            "country_url": "https://bincheck.io/es/mh"
+        }
+    ]
+}

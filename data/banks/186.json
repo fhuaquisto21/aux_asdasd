@@ -1,0 +1,606 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/se/aelandsbanken-sverige-ab",
+            "bank_name": "AELANDSBANKEN SVERIGE AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/aesel-ـ-sweden",
+            "bank_name": "AESEL - SWEDEN",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/alandsbanken-abp",
+            "bank_name": "ALANDSBANKEN ABP",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/american-express",
+            "bank_name": "AMERICAN EXPRESS",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/american-express-company",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/american-express-sweden",
+            "bank_name": "AMERICAN EXPRESS SWEDEN",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/american-express-sweden-ـ-consumer",
+            "bank_name": "AMERICAN EXPRESS SWEDEN - CONSUMER",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/american-express-sweden-ـ-corporate",
+            "bank_name": "AMERICAN EXPRESS SWEDEN - CORPORATE",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/bank-norwegian",
+            "bank_name": "BANK NORWEGIAN",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/bank2",
+            "bank_name": "BANK2",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/banque-invik,-s.a.",
+            "bank_name": "BANQUE INVIK, S.A.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/bnp-paribas-oslo-branch",
+            "bank_name": "BNP PARIBAS OSLO BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/catella-bank-s.a.",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/cerdo-bankpartner-ab",
+            "bank_name": "CERDO BANKPARTNER AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/citibank-europe-plc",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/citibank-international-plc,-sverige-filial",
+            "bank_name": "CITIBANK INTERNATIONAL PLC, SVERIGE FILIAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/collector-bank-ab",
+            "bank_name": "COLLECTOR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/coop-bank-ab",
+            "bank_name": "COOP BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/danske-bank",
+            "bank_name": "DANSKE BANK",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/danske-bank-a+s-sverige-filal",
+            "bank_name": "DANSKE BANK A/S SVERIGE FILAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab-denmark-sweden-branch",
+            "bank_name": "DANSKE BANK AKTIESELSKAB DENMARK SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/danske-bank-as-danmark,-sverige-filial",
+            "bank_name": "DANSKE BANK AS DANMARK, SVERIGE FILIAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/danske-bank-as-danmark,sverige-filial",
+            "bank_name": "DANSKE BANK AS DANMARK,SVERIGE FILIAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/den-danske-bank-aktieselskab,-denmark,-swedish-branch",
+            "bank_name": "DEN DANSKE BANK AKTIESELSKAB, DENMARK, SWEDISH BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/entercard-(swedbank)",
+            "bank_name": "ENTERCARD (SWEDBANK)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/entercard-a.s.",
+            "bank_name": "ENTERCARD A.S.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/entercard-ab",
+            "bank_name": "ENTERCARD AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/entercard-sverige-ab",
+            "bank_name": "ENTERCARD SVERIGE AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/eurocard-ab",
+            "bank_name": "EUROCARD AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/eurocard-ab",
+            "bank_name": "EUROCARD AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/foreningssparbanken-ab",
+            "bank_name": "FORENINGSSPARBANKEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/foreningssparbanken-ab-(publ).",
+            "bank_name": "FORENINGSSPARBANKEN AB (PUBL).",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/forex-bank",
+            "bank_name": "FOREX BANK",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/forex-bank-ab",
+            "bank_name": "FOREX BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/frispar-service-ab",
+            "bank_name": "FRISPAR SERVICE AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ica-banken-a.b.",
+            "bank_name": "ICA BANKEN A.B.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ica-banken-ab",
+            "bank_name": "ICA BANKEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ica-banken-ab",
+            "bank_name": "ICA BANKEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ica-banken-ab+eurocard-ab",
+            "bank_name": "ICA BANKEN AB/EUROCARD AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/icici-bank,-ltd.",
+            "bank_name": "ICICI BANK, LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/idt-financial-services,-ltd.",
+            "bank_name": "IDT FINANCIAL SERVICES, LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ikano-bank-ab-(publ)",
+            "bank_name": "IKANO BANK AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ikano-bank-se",
+            "bank_name": "IKANO BANK SE",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/interpayment-services,-ltd.",
+            "bank_name": "INTERPAYMENT SERVICES, LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank",
+            "bank_name": "LANSFORSAKRINGAR BANK",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank-ab",
+            "bank_name": "LANSFORSAKRINGAR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/lufthansa-airplus-servicekarten-gmbh",
+            "bank_name": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/maestro-international",
+            "bank_name": "MAESTRO INTERNATIONAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/marginalen-bank-bankaktiebolag",
+            "bank_name": "MARGINALEN BANK BANKAKTIEBOLAG",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/medmera-bank-ab",
+            "bank_name": "MEDMERA BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/nordea-bank-ab",
+            "bank_name": "NORDEA BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/nordea-bank-ab-(publ)",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/nordea-finans-sverige-ab",
+            "bank_name": "NORDEA FINANS SVERIGE AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/postgirot-bank-ab",
+            "bank_name": "POSTGIROT BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/ppro-financial-ltd.",
+            "bank_name": "PPRO FINANCIAL LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/prepay-technologies,-ltd.",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/resurs-bank-ab",
+            "bank_name": "RESURS BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/roslagens-sparbank",
+            "bank_name": "ROSLAGENS SPARBANK",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/santander-consumer-bank,-a.s.",
+            "bank_name": "SANTANDER CONSUMER BANK, A.S.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/seb",
+            "bank_name": "SEB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/seb-kort-ab",
+            "bank_name": "SEB KORT AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/skandiabanken",
+            "bank_name": "SKANDIABANKEN",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/skandiabanken-ab-nuf",
+            "bank_name": "SKANDIABANKEN AB NUF",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/skandinaviska-enskilda-banken-ab",
+            "bank_name": "SKANDINAVISKA ENSKILDA BANKEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/sparbanken-finans",
+            "bank_name": "SPARBANKEN FINANS",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/sparbanken-finn",
+            "bank_name": "SPARBANKEN FINN",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/sparbanken-oresund-ab",
+            "bank_name": "SPARBANKEN ORESUND AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/sparbanken-syd",
+            "bank_name": "SPARBANKEN SYD",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/sparebank-1-smn",
+            "bank_name": "SPAREBANK 1 SMN",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/st1-finance-oy",
+            "bank_name": "ST1 FINANCE OY",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab",
+            "bank_name": "SVENSKA HANDELSBANKEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab-(publ)",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/swedbank-ab",
+            "bank_name": "SWEDBANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/teller-a+s",
+            "bank_name": "TELLER A/S",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/teller-as",
+            "bank_name": "TELLER AS",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/teller-sweden-a+s",
+            "bank_name": "TELLER SWEDEN A/S",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/teller-sweden-ab",
+            "bank_name": "TELLER SWEDEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/teller,-a.s.",
+            "bank_name": "TELLER, A.S.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/terra-kortbank,-a.s.",
+            "bank_name": "TERRA KORTBANK, A.S.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/tf-bank-ab",
+            "bank_name": "TF BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/trygg-banken-ab",
+            "bank_name": "TRYGG BANKEN AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/visa-iceland",
+            "bank_name": "VISA ICELAND",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/visa-sweden-association",
+            "bank_name": "VISA SWEDEN ASSOCIATION",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/visa-sweden-forening-(ek.-for)",
+            "bank_name": "VISA SWEDEN FORENING (EK. FOR)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/se/volvofinans-bank-ab-(publ)",
+            "bank_name": "VOLVOFINANS BANK AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se"
+        }
+    ]
+}

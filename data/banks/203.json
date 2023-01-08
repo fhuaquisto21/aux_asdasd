@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/ae/abn-amro-bank,-n.v.",
+            "bank_name": "ABN AMRO BANK, N.V.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/abu-dhabi-commercial-bank",
+            "bank_name": "ABU DHABI COMMERCIAL BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/abu-dhabi-commercial-bank",
+            "bank_name": "ABU DHABI COMMERCIAL BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/abu-dhabi-islamic-bank",
+            "bank_name": "ABU DHABI ISLAMIC BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/abu-dhabi-islamic-bank-p.j.s.c.",
+            "bank_name": "ABU DHABI ISLAMIC BANK P.J.S.C.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/adcb",
+            "bank_name": "ADCB",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/ajman-bank-(p.j.s.c.)",
+            "bank_name": "AJMAN BANK (P.J.S.C.)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/al-hilal-bank-p.j.s.c.",
+            "bank_name": "AL HILAL BANK P.J.S.C.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/al-hilal-bank-pjsc",
+            "bank_name": "AL HILAL BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/alahli-bank-of-kuwait-(k.s.c.)",
+            "bank_name": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/arab-financial-services-company",
+            "bank_name": "ARAB FINANCIAL SERVICES COMPANY",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/arab-financial-services-company-b.s.c.-(c)",
+            "bank_name": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/aseel-finance-jsc",
+            "bank_name": "ASEEL FINANCE JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/bank-of-baroda",
+            "bank_name": "BANK OF BARODA",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/bank-of-baroda-uae",
+            "bank_name": "BANK OF BARODA UAE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/banque-misr",
+            "bank_name": "BANQUE MISR",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/barclays-bank",
+            "bank_name": "BARCLAYS BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/barclays-bank-plc",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/blc-bank-s.a.l.",
+            "bank_name": "BLC BANK S.A.L.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/citibank",
+            "bank_name": "CITIBANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/citibank-n.a.",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/citibank,-n.a.",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/citicorp",
+            "bank_name": "CITICORP",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-international",
+            "bank_name": "COMMERCIAL BANK INTERNATIONAL",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-international",
+            "bank_name": "COMMERCIAL BANK INTERNATIONAL",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-international-plc",
+            "bank_name": "COMMERCIAL BANK INTERNATIONAL PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-of-dubai",
+            "bank_name": "COMMERCIAL BANK OF DUBAI",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-of-dubai,-ltd.",
+            "bank_name": "COMMERCIAL BANK OF DUBAI, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/doha-bank-q.s.c.",
+            "bank_name": "DOHA BANK Q.S.C.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/doha-bank,-ltd.",
+            "bank_name": "DOHA BANK, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/dubai-bank-pjsc",
+            "bank_name": "DUBAI BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/dubai-first-ـ-private-partnership-company",
+            "bank_name": "DUBAI FIRST - PRIVATE PARTNERSHIP COMPANY",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/dubai-islamic-bank",
+            "bank_name": "DUBAI ISLAMIC BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/dunia-finance-l.l.c.",
+            "bank_name": "DUNIA FINANCE L.L.C.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-bank-international-pjsc",
+            "bank_name": "EMIRATES BANK INTERNATIONAL PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-islamic",
+            "bank_name": "EMIRATES ISLAMIC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-islamic-bank",
+            "bank_name": "EMIRATES ISLAMIC BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd",
+            "bank_name": "EMIRATES NBD",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd-bank",
+            "bank_name": "EMIRATES NBD BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd-bank-(p.j.s.c.)",
+            "bank_name": "EMIRATES NBD BANK (P.J.S.C.)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd-bank-pjsc",
+            "bank_name": "EMIRATES NBD BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/etihad-airways-(ey)",
+            "bank_name": "ETIHAD AIRWAYS (EY)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/first-gulf-bank-pjsc",
+            "bank_name": "FIRST GULF BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/fleet-bank-(delaware)-na",
+            "bank_name": "FLEET BANK (DELAWARE) NA",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/habib-bank-ag-zurich",
+            "bank_name": "HABIB BANK AG ZURICH",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/habib-bank-ag-zurich",
+            "bank_name": "HABIB BANK AG ZURICH",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/habib-bank,-ltd.",
+            "bank_name": "HABIB BANK, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/hsbc",
+            "bank_name": "HSBC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/hsbc-bank-middle-east",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/hsbc-bank-middle-east",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/hsbc-uae",
+            "bank_name": "HSBC UAE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/interpayment-services,-ltd.",
+            "bank_name": "INTERPAYMENT SERVICES, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/lari-exchange",
+            "bank_name": "LARI EXCHANGE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/lloyds-bank-plc",
+            "bank_name": "LLOYDS BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/maestro-international",
+            "bank_name": "MAESTRO INTERNATIONAL",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/majid-al-futtaim-finance",
+            "bank_name": "MAJID AL FUTTAIM FINANCE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/majid-al-futtaim-finance-llc",
+            "bank_name": "MAJID AL FUTTAIM FINANCE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/mashreq-bank",
+            "bank_name": "MASHREQ BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/mashreqbank",
+            "bank_name": "MASHREQBANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/mawarid-finance-pjsc",
+            "bank_name": "MAWARID FINANCE PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/najm-bank",
+            "bank_name": "NAJM BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-abu-dhabi",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-bahrain",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-bahrain-b.-s.-c.",
+            "bank_name": "NATIONAL BANK OF BAHRAIN B. S. C.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai-public-jsc",
+            "bank_name": "NATIONAL BANK OF DUBAI PUBLIC JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai,-ltd.",
+            "bank_name": "NATIONAL BANK OF DUBAI, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-kuwait,-s.a.k.",
+            "bank_name": "NATIONAL BANK OF KUWAIT, S.A.K.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-oman-ltd.-(s.a.o.g.)",
+            "bank_name": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-ras-alـkhaimah",
+            "bank_name": "NATIONAL BANK OF RAS AL-KHAIMAH",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-ras-alـkhaimah-(rakbank)",
+            "bank_name": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-umm-alـqaiwain-psc.",
+            "bank_name": "NATIONAL BANK OF UMM AL-QAIWAIN PSC.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/network-international-llc",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/noor-bank-pjsc",
+            "bank_name": "NOOR BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/noor-islamic-bank",
+            "bank_name": "NOOR ISLAMIC BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/noor-islamic-bank",
+            "bank_name": "NOOR ISLAMIC BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/samba-financial-group",
+            "bank_name": "SAMBA FINANCIAL GROUP",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/sharjah-islamic-bank",
+            "bank_name": "SHARJAH ISLAMIC BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/sharjah-islamic-bank-pjsc",
+            "bank_name": "SHARJAH ISLAMIC BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/sharjah-islamic-bank-pjsc",
+            "bank_name": "SHARJAH ISLAMIC BANK PJSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/societe-generale",
+            "bank_name": "SOCIETE GENERALE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/standard-chartered-bank",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/standard-chartered-bank",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/standard-chartered-grindlays-bank,-ltd.",
+            "bank_name": "STANDARD CHARTERED GRINDLAYS BANK, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/the-national-bank-of-ras-alـkhaimah",
+            "bank_name": "THE NATIONAL BANK OF RAS AL-KHAIMAH",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/union-national-bank",
+            "bank_name": "UNION NATIONAL BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/united-arab-bank",
+            "bank_name": "UNITED ARAB BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/united-bank,-ltd.",
+            "bank_name": "UNITED BANK, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/ae/wex-bank",
+            "bank_name": "WEX BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae"
+        }
+    ]
+}

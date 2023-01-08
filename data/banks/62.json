@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "bank_url": "https://bincheck.io/es/eth/commercial-bank-of-ethiopia",
+            "bank_name": "COMMERCIAL BANK OF ETHIOPIA",
+            "country_name": "ETHIOPIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/et.svg",
+            "country_url": "https://bincheck.io/es/eth"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/eth/dashen-bank",
+            "bank_name": "DASHEN BANK",
+            "country_name": "ETHIOPIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/et.svg",
+            "country_url": "https://bincheck.io/es/eth"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/eth/dashen-bank-s.c.",
+            "bank_name": "DASHEN BANK S.C.",
+            "country_name": "ETHIOPIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/et.svg",
+            "country_url": "https://bincheck.io/es/eth"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/eth/wegagen-bank-share-company",
+            "bank_name": "WEGAGEN BANK SHARE COMPANY",
+            "country_name": "ETHIOPIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/et.svg",
+            "country_url": "https://bincheck.io/es/eth"
+        },
+        {
+            "bank_url": "https://bincheck.io/es/eth/zemen-bank-s.c.",
+            "bank_name": "ZEMEN BANK S.C.",
+            "country_name": "ETHIOPIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/et.svg",
+            "country_url": "https://bincheck.io/es/eth"
+        }
+    ]
+}
