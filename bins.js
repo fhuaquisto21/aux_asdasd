@@ -32,7 +32,7 @@ const fs = require('fs');
                 const bin_type = (await (bin_aux[4]).textContent()).trim();
                 const bin_level = (await (bin_aux[5]).textContent()).trim();
 
-                bin_data.data.push({ bin_num, bin_mark, bin_type, bin_level, bank_name: bank.bank_name, country_name: bank.country_name, country_img: bank.country_img })
+                bin_data.data.push({ bin_num, bin_mark, bin_type, bin_level, bank_name: bank.bank_name, country_name: bank.country_name, country_img: bank.country_img, country_url: bank.country_url, bank_url: bank.bank_url })
             }
     
             const bin_json = JSON.stringify(bin_data, 0, 4);
@@ -44,4 +44,4 @@ const fs = require('fs');
         await context.close();
         await browser.close();
     }
-})(11495)
+})(0)
