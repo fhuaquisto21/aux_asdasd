@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "406140",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "RUSSIAN REGIONAL DEVELOPMENT BANK OJSC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/russian-regional-development-bank-ojsc-(closed)"
+        },
+        {
+            "bin_num": "406141",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RUSSIAN REGIONAL DEVELOPMENT BANK OJSC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/russian-regional-development-bank-ojsc-(closed)"
+        },
+        {
+            "bin_num": "413203",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RUSSIAN REGIONAL DEVELOPMENT BANK OJSC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/russian-regional-development-bank-ojsc-(closed)"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "RUSSIAN REGIONAL DEVELOPMENT BANK OJSC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/russian-regional-development-bank-ojsc-(closed)"
+        },
+        {
+            "bin_num": "413205",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RUSSIAN REGIONAL DEVELOPMENT BANK OJSC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/russian-regional-development-bank-ojsc-(closed)"
+        },
+        {
+            "bin_num": "441273",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "RUSSIAN REGIONAL DEVELOPMENT BANK OJSC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/russian-regional-development-bank-ojsc-(closed)"
+        }
+    ]
+}

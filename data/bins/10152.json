@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "484753",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC VOLKSBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-volksbank"
+        },
+        {
+            "bin_num": "484754",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC VOLKSBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-volksbank"
+        },
+        {
+            "bin_num": "484755",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC VOLKSBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-volksbank"
+        },
+        {
+            "bin_num": "484756",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "OJSC VOLKSBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-volksbank"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "413281",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CLEARING HOUSE JSB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/clearing-house-jsb"
+        },
+        {
+            "bin_num": "413282",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CLEARING HOUSE JSB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/clearing-house-jsb"
+        },
+        {
+            "bin_num": "413283",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CLEARING HOUSE JSB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/clearing-house-jsb"
+        },
+        {
+            "bin_num": "413284",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CLEARING HOUSE JSB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/clearing-house-jsb"
+        },
+        {
+            "bin_num": "484173",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CLEARING HOUSE JSB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/clearing-house-jsb"
+        }
+    ]
+}

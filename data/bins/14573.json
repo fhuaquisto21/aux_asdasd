@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "507687",
+            "bin_mark": "EBT",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "GEORGIA EBT ISSUED BY JPMORGAN EFS",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/georgia-ebt-issued-by-jpmorgan-efs"
+        },
+        {
+            "bin_num": "508148",
+            "bin_mark": "EBT",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "GEORGIA EBT ISSUED BY JPMORGAN EFS",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/georgia-ebt-issued-by-jpmorgan-efs"
+        }
+    ]
+}

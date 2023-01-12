@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "488940",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        },
+        {
+            "bin_num": "488941",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        },
+        {
+            "bin_num": "488942",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        },
+        {
+            "bin_num": "488943",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        },
+        {
+            "bin_num": "488944",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        },
+        {
+            "bin_num": "488945",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        },
+        {
+            "bin_num": "488946",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "AFB BANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/afb-bank-ojsc"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "bin_num": "420319",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "420320",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "420321",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "428222",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "442176",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "445807",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "464782",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "517455",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "522340",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "532732",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "533853",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "533856",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "539983",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "540746",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "540761",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "541508",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "552264",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "553396",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "553415",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "559754",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/guaranty-trust-bank-plc"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "462065",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "SOUTH SUDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ss.svg",
+            "country_url": "https://bincheck.io/es/ss",
+            "bank_url": "https://bincheck.io/es/ss/kenya-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "462066",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "SOUTH SUDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ss.svg",
+            "country_url": "https://bincheck.io/es/ss",
+            "bank_url": "https://bincheck.io/es/ss/kenya-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "462067",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "SOUTH SUDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ss.svg",
+            "country_url": "https://bincheck.io/es/ss",
+            "bank_url": "https://bincheck.io/es/ss/kenya-commercial-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "467767",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ACCESS BANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/access-bank-gambia,-ltd."
+        },
+        {
+            "bin_num": "488982",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ACCESS BANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/access-bank-gambia,-ltd."
+        }
+    ]
+}

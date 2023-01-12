@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "533880",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "WAVE CREST HOLDINGS, LTD.",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/wave-crest-holdings,-ltd."
+        },
+        {
+            "bin_num": "533881",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "WAVE CREST HOLDINGS, LTD.",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/wave-crest-holdings,-ltd."
+        },
+        {
+            "bin_num": "539811",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "WAVE CREST HOLDINGS, LTD.",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/wave-crest-holdings,-ltd."
+        }
+    ]
+}

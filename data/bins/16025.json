@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "438974",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MERCHANTS BANK, N.A.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/merchants-bank,-n.a."
+        },
+        {
+            "bin_num": "455631",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MERCHANTS BANK, N.A.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/merchants-bank,-n.a."
+        },
+        {
+            "bin_num": "455696",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MERCHANTS BANK, N.A.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/merchants-bank,-n.a."
+        },
+        {
+            "bin_num": "455697",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MERCHANTS BANK, N.A.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/merchants-bank,-n.a."
+        },
+        {
+            "bin_num": "475626",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MERCHANTS BANK, N.A.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/merchants-bank,-n.a."
+        },
+        {
+            "bin_num": "475627",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MERCHANTS BANK, N.A.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/merchants-bank,-n.a."
+        }
+    ]
+}

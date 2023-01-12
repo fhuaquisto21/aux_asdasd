@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "416635",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "IW BANK S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/iw-bank-s.p.a."
+        },
+        {
+            "bin_num": "416636",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "IW BANK S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/iw-bank-s.p.a."
+        },
+        {
+            "bin_num": "416637",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "IW BANK S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/iw-bank-s.p.a."
+        },
+        {
+            "bin_num": "431261",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "IW BANK S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/iw-bank-s.p.a."
+        },
+        {
+            "bin_num": "431262",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "IW BANK S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/iw-bank-s.p.a."
+        },
+        {
+            "bin_num": "462277",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "IW BANK S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/iw-bank-s.p.a."
+        }
+    ]
+}

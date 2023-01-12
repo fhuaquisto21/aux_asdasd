@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "512078",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ENTERCARD, A.S.",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/entercard,-a.s."
+        },
+        {
+            "bin_num": "512368",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ENTERCARD, A.S.",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/entercard,-a.s."
+        }
+    ]
+}

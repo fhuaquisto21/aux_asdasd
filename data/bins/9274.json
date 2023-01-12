@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "491861",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAJA POSTAL DE AHORROS",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-postal-de-ahorros"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAJA POSTAL DE AHORROS",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-postal-de-ahorros"
+        }
+    ]
+}

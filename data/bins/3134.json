@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "517534",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/cscbank-sal"
+        },
+        {
+            "bin_num": "523919",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/cscbank-sal"
+        },
+        {
+            "bin_num": "524517",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/cscbank-sal"
+        }
+    ]
+}

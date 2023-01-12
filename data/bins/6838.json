@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "407520",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ULAANBAATAR CITY BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/ulaanbaatar-city-bank"
+        },
+        {
+            "bin_num": "421925",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ULAANBAATAR CITY BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/ulaanbaatar-city-bank"
+        },
+        {
+            "bin_num": "421926",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ULAANBAATAR CITY BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/ulaanbaatar-city-bank"
+        },
+        {
+            "bin_num": "421928",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ULAANBAATAR CITY BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/ulaanbaatar-city-bank"
+        }
+    ]
+}

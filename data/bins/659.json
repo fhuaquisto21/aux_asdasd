@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "511659",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c."
+        },
+        {
+            "bin_num": "529070",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c."
+        }
+    ]
+}

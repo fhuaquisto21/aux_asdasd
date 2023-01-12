@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "527530",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "533762",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/cscbank-s.a.l."
+        }
+    ]
+}

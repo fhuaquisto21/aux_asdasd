@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "416641",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DES MASCAREIGNES",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/banque-des-mascareignes"
+        },
+        {
+            "bin_num": "416642",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DES MASCAREIGNES",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/banque-des-mascareignes"
+        },
+        {
+            "bin_num": "417240",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DES MASCAREIGNES",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/banque-des-mascareignes"
+        },
+        {
+            "bin_num": "417620",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DES MASCAREIGNES",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/banque-des-mascareignes"
+        },
+        {
+            "bin_num": "459282",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DES MASCAREIGNES",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/banque-des-mascareignes"
+        },
+        {
+            "bin_num": "459283",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DES MASCAREIGNES",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/banque-des-mascareignes"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "522020",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ARAB FINANCIAL SERVICES COMPANY",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-financial-services-company"
+        },
+        {
+            "bin_num": "537795",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "ARAB FINANCIAL SERVICES COMPANY",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-financial-services-company"
+        }
+    ]
+}

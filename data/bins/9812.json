@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "517825",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "527392",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "534442",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "540492",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "541029",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "541496",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "557755",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "557772",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "403258",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        },
+        {
+            "bin_num": "412771",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        },
+        {
+            "bin_num": "412772",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        },
+        {
+            "bin_num": "419516",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        },
+        {
+            "bin_num": "419517",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        },
+        {
+            "bin_num": "419518",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        },
+        {
+            "bin_num": "421044",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BYBLOS BANK S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/byblos-bank-s.a.l."
+        }
+    ]
+}

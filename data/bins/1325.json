@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "408321",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-(ibb)-s.a.r.l."
+        },
+        {
+            "bin_num": "408322",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-(ibb)-s.a.r.l."
+        },
+        {
+            "bin_num": "408323",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-(ibb)-s.a.r.l."
+        },
+        {
+            "bin_num": "408324",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-(ibb)-s.a.r.l."
+        },
+        {
+            "bin_num": "408325",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-(ibb)-s.a.r.l."
+        }
+    ]
+}

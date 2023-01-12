@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "521430",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TRANSPORTATION ALLIANCE BANK INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/transportation-alliance-bank-inc."
+        },
+        {
+            "bin_num": "553705",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TRANSPORTATION ALLIANCE BANK INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/transportation-alliance-bank-inc."
+        },
+        {
+            "bin_num": "556965",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "FLEET",
+            "bank_name": "TRANSPORTATION ALLIANCE BANK INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/transportation-alliance-bank-inc."
+        },
+        {
+            "bin_num": "556972",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "FLEET",
+            "bank_name": "TRANSPORTATION ALLIANCE BANK INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/transportation-alliance-bank-inc."
+        }
+    ]
+}

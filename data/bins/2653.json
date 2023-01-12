@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "517000",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK EUROPE PLC., ORG. SL.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-plc.,-org.-sl."
+        },
+        {
+            "bin_num": "517001",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK EUROPE PLC., ORG. SL.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-plc.,-org.-sl."
+        },
+        {
+            "bin_num": "517002",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK EUROPE PLC., ORG. SL.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-plc.,-org.-sl."
+        },
+        {
+            "bin_num": "517003",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK EUROPE PLC., ORG. SL.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-plc.,-org.-sl."
+        },
+        {
+            "bin_num": "517004",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK EUROPE PLC., ORG. SL.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-plc.,-org.-sl."
+        },
+        {
+            "bin_num": "517005",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK EUROPE PLC., ORG. SL.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-plc.,-org.-sl."
+        }
+    ]
+}

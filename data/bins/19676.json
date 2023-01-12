@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "403013",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SHINHAN VIETNAM BANK, LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/shinhan-vietnam-bank,-ltd."
+        },
+        {
+            "bin_num": "469672",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SHINHAN VIETNAM BANK, LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/shinhan-vietnam-bank,-ltd."
+        },
+        {
+            "bin_num": "469673",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SHINHAN VIETNAM BANK, LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/shinhan-vietnam-bank,-ltd."
+        },
+        {
+            "bin_num": "469674",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SHINHAN VIETNAM BANK, LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/shinhan-vietnam-bank,-ltd."
+        },
+        {
+            "bin_num": "469676",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "SHINHAN VIETNAM BANK, LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/shinhan-vietnam-bank,-ltd."
+        },
+        {
+            "bin_num": "469678",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "SHINHAN VIETNAM BANK, LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/shinhan-vietnam-bank,-ltd."
+        }
+    ]
+}

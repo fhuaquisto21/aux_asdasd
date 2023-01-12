@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "542969",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO POPOLARE CROATIA D.D",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/banco-popolare-croatia-d.d"
+        },
+        {
+            "bin_num": "547970",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO POPOLARE CROATIA D.D",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/banco-popolare-croatia-d.d"
+        },
+        {
+            "bin_num": "677722",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO POPOLARE CROATIA D.D",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/banco-popolare-croatia-d.d"
+        }
+    ]
+}

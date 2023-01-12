@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "457705",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        },
+        {
+            "bin_num": "457706",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        },
+        {
+            "bin_num": "472472",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        },
+        {
+            "bin_num": "472473",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        },
+        {
+            "bin_num": "472474",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        },
+        {
+            "bin_num": "472475",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        },
+        {
+            "bin_num": "544667",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PJSC PIRAEUS BANK ICB",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-piraeus-bank-icb"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "458200",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE LHABITAT DU SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-de-lhabitat-du-senegal"
+        },
+        {
+            "bin_num": "458201",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE LHABITAT DU SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-de-lhabitat-du-senegal"
+        },
+        {
+            "bin_num": "458202",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE LHABITAT DU SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-de-lhabitat-du-senegal"
+        },
+        {
+            "bin_num": "458203",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANQUE DE LHABITAT DU SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-de-lhabitat-du-senegal"
+        }
+    ]
+}

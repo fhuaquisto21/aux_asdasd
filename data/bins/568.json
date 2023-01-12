@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "430344",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RBS (RD EUROPE) GMBH",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/rbs-(rd-europe)-gmbh"
+        },
+        {
+            "bin_num": "430345",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RBS (RD EUROPE) GMBH",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/rbs-(rd-europe)-gmbh"
+        },
+        {
+            "bin_num": "430346",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RBS (RD EUROPE) GMBH",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/rbs-(rd-europe)-gmbh"
+        },
+        {
+            "bin_num": "430347",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RBS (RD EUROPE) GMBH",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/rbs-(rd-europe)-gmbh"
+        },
+        {
+            "bin_num": "486435",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "RBS (RD EUROPE) GMBH",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/rbs-(rd-europe)-gmbh"
+        }
+    ]
+}

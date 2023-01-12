@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "421312",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "456458",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "469556",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "469557",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "490728",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "498482",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "621337",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "622482",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "622483",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        },
+        {
+            "bin_num": "622484",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/standard-chartered-bank"
+        }
+    ]
+}

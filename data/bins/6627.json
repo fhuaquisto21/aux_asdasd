@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506393",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COOPDESARROLLO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/coopdesarrollo"
+        },
+        {
+            "bin_num": "506394",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "COOPDESARROLLO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/coopdesarrollo"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "422400",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        },
+        {
+            "bin_num": "422401",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        },
+        {
+            "bin_num": "431699",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        },
+        {
+            "bin_num": "460226",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        },
+        {
+            "bin_num": "464413",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        },
+        {
+            "bin_num": "469431",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        },
+        {
+            "bin_num": "480119",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "COMMONWEALTH CENTRAL C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commonwealth-central-c.u."
+        }
+    ]
+}

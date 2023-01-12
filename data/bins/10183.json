@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "515196",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        },
+        {
+            "bin_num": "527111",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        },
+        {
+            "bin_num": "535219",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        },
+        {
+            "bin_num": "535221",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        },
+        {
+            "bin_num": "535270",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        },
+        {
+            "bin_num": "535272",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        },
+        {
+            "bin_num": "548467",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC COMMERCIAL BANK KHRESCH",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-commercial-bank-khresch"
+        }
+    ]
+}

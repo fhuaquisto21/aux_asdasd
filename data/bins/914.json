@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "428171",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BRITISH CARIBBEAN BANK INTERNATIONAL, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/british-caribbean-bank-international,-ltd."
+        },
+        {
+            "bin_num": "442160",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BRITISH CARIBBEAN BANK INTERNATIONAL, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/british-caribbean-bank-international,-ltd."
+        },
+        {
+            "bin_num": "442161",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BRITISH CARIBBEAN BANK INTERNATIONAL, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/british-caribbean-bank-international,-ltd."
+        }
+    ]
+}

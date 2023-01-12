@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "498056",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DAITO CARD CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/daito-card-co.,-ltd."
+        },
+        {
+            "bin_num": "498057",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DAITO CARD CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/daito-card-co.,-ltd."
+        },
+        {
+            "bin_num": "543076",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "DAITO CARD CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/daito-card-co.,-ltd."
+        }
+    ]
+}

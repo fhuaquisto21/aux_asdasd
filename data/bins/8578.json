@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "220002",
+            "bin_mark": "NSPK",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "RNKB",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rnkb"
+        },
+        {
+            "bin_num": "465209",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "RNKB",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rnkb"
+        },
+        {
+            "bin_num": "484633",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RNKB",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rnkb"
+        },
+        {
+            "bin_num": "550377",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RNKB",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rnkb"
+        },
+        {
+            "bin_num": "605470",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "RNKB",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rnkb"
+        }
+    ]
+}

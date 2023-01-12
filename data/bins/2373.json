@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "379558",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "OPEN GOLD REVOLVE",
+            "bank_name": "HOUSE",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/house"
+        },
+        {
+            "bin_num": "379559",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL REVOLVE",
+            "bank_name": "HOUSE",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/house"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "516090",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAMBODIAN PUBLIC BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodian-public-bank-plc."
+        },
+        {
+            "bin_num": "526555",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAMBODIAN PUBLIC BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodian-public-bank-plc."
+        },
+        {
+            "bin_num": "526881",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAMBODIAN PUBLIC BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodian-public-bank-plc."
+        },
+        {
+            "bin_num": "531489",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CAMBODIAN PUBLIC BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodian-public-bank-plc."
+        }
+    ]
+}

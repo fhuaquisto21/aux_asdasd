@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "421300",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "421301",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "455104",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "455110",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "455148",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "455175",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "455176",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "455189",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        },
+        {
+            "bin_num": "468562",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO ITAU URUGUAY, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/banco-itau-uruguay,-s.a."
+        }
+    ]
+}

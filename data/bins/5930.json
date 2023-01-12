@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "525403",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PROCREDIT BANK KOSOVO",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank-kosovo"
+        },
+        {
+            "bin_num": "535447",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PROCREDIT BANK KOSOVO",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank-kosovo"
+        },
+        {
+            "bin_num": "676830",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PROCREDIT BANK KOSOVO",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank-kosovo"
+        }
+    ]
+}

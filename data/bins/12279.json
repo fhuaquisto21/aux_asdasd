@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "401729",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "401730",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "432513",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "517194",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID PAYROLL",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "532115",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID PAYROLL",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "532827",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "538757",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "540029",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "543579",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "544763",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "544765",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        },
+        {
+            "bin_num": "546776",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CENTRAL BANK OF KANSAS CITY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/central-bank-of-kansas-city"
+        }
+    ]
+}

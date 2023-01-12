@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "bin_num": "422405",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "450767",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "458040",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "483661",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "483662",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "483663",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "502000",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "518963",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "521829",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "522898",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "534623",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "553916",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "554000",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "554019",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "554099",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        },
+        {
+            "bin_num": "558550",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CECABANK, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/cecabank,-s.a."
+        }
+    ]
+}

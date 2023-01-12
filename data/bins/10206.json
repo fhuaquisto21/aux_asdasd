@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "419815",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PJSC TERRA BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-terra-bank"
+        },
+        {
+            "bin_num": "419816",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC TERRA BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-terra-bank"
+        },
+        {
+            "bin_num": "419817",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PJSC TERRA BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-terra-bank"
+        },
+        {
+            "bin_num": "419818",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PJSC TERRA BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-terra-bank"
+        },
+        {
+            "bin_num": "456593",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PJSC TERRA BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-terra-bank"
+        },
+        {
+            "bin_num": "456594",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "PJSC TERRA BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/pjsc-terra-bank"
+        }
+    ]
+}

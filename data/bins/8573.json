@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "457653",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAMBANK MOSCOW",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rambank-moscow"
+        },
+        {
+            "bin_num": "457654",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "RAMBANK MOSCOW",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rambank-moscow"
+        },
+        {
+            "bin_num": "457655",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "RAMBANK MOSCOW",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rambank-moscow"
+        },
+        {
+            "bin_num": "457656",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RAMBANK MOSCOW",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rambank-moscow"
+        },
+        {
+            "bin_num": "457718",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RAMBANK MOSCOW",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/rambank-moscow"
+        }
+    ]
+}

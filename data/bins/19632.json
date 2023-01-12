@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "402460",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JS COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-investment-and-development-of-vietnam"
+        },
+        {
+            "bin_num": "427126",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JS COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-investment-and-development-of-vietnam"
+        },
+        {
+            "bin_num": "428695",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JS COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-investment-and-development-of-vietnam"
+        },
+        {
+            "bin_num": "457600",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JS COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-investment-and-development-of-vietnam"
+        },
+        {
+            "bin_num": "476633",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "JS COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-investment-and-development-of-vietnam"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "457570",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOLAR S.A. DE AHORRO Y PRESTAMO PARA LA VIVIENDA",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/solar-s.a.-de-ahorro-y-prestamo-para-la-vivienda"
+        },
+        {
+            "bin_num": "491335",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOLAR S.A. DE AHORRO Y PRESTAMO PARA LA VIVIENDA",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/solar-s.a.-de-ahorro-y-prestamo-para-la-vivienda"
+        },
+        {
+            "bin_num": "491336",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOLAR S.A. DE AHORRO Y PRESTAMO PARA LA VIVIENDA",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/solar-s.a.-de-ahorro-y-prestamo-para-la-vivienda"
+        }
+    ]
+}

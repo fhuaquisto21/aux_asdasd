@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "401764",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/cal-bank,-ltd."
+        },
+        {
+            "bin_num": "466038",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/cal-bank,-ltd."
+        },
+        {
+            "bin_num": "466039",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/cal-bank,-ltd."
+        },
+        {
+            "bin_num": "531168",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/cal-bank,-ltd."
+        }
+    ]
+}

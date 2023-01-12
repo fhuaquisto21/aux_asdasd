@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "521425",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "530262",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "534989",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "535012",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "540959",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD/WORLD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "546070",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM/STANDARD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "559536",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        },
+        {
+            "bin_num": "559538",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "DANSKE BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/danske-bank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "531300",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MOBILMAT ISTITUTO DI MONETA ELETTRONICA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/mobilmat-istituto-di-moneta-elettronica-s.p.a."
+        },
+        {
+            "bin_num": "533419",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MOBILMAT ISTITUTO DI MONETA ELETTRONICA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/mobilmat-istituto-di-moneta-elettronica-s.p.a."
+        }
+    ]
+}

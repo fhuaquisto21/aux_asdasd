@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "420187",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        },
+        {
+            "bin_num": "424109",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        },
+        {
+            "bin_num": "424112",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        },
+        {
+            "bin_num": "440041",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        },
+        {
+            "bin_num": "441129",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        },
+        {
+            "bin_num": "462450",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "CHASE BANK (KENYA) LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/chase-bank-(kenya)-ltd."
+        }
+    ]
+}

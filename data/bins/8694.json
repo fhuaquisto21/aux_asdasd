@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "548574",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RBC ROYAL BANK (BAHAMAS), LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/rbc-royal-bank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "557896",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RBC ROYAL BANK (BAHAMAS), LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/rbc-royal-bank-(bahamas),-ltd."
+        }
+    ]
+}

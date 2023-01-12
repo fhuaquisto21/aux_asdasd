@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "423936",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "ARARATBANK OJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/araratbank-ojsc"
+        },
+        {
+            "bin_num": "437511",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARARATBANK OJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/araratbank-ojsc"
+        },
+        {
+            "bin_num": "437512",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ARARATBANK OJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/araratbank-ojsc"
+        },
+        {
+            "bin_num": "437513",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ARARATBANK OJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/araratbank-ojsc"
+        },
+        {
+            "bin_num": "437514",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ARARATBANK OJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/araratbank-ojsc"
+        }
+    ]
+}

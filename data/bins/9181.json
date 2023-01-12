@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "541612",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE SANTANDER",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-santander"
+        },
+        {
+            "bin_num": "541613",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE SANTANDER",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-santander"
+        }
+    ]
+}

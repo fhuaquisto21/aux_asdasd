@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "459560",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "459561",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "485062",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "485063",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "485064",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "485065",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "485066",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "510149",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "552998",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        },
+        {
+            "bin_num": "900048",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TARGO BANK",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/targo-bank"
+        }
+    ]
+}

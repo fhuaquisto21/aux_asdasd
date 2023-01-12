@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "413059",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "416064",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "417770",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "437458",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "445987",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "458285",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "471326",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "472950",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "480949",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "483451",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIORBANK JSCB",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/priorbank-jscb"
+        }
+    ]
+}

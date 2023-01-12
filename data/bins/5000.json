@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "426750",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT BANK BUMIPUTERA INDONESIA, TBK.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt-bank-bumiputera-indonesia,-tbk."
+        },
+        {
+            "bin_num": "432443",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PT BANK BUMIPUTERA INDONESIA, TBK.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt-bank-bumiputera-indonesia,-tbk."
+        }
+    ]
+}

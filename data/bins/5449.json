@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "461935",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JAPAN NET BANK, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/japan-net-bank,-ltd."
+        },
+        {
+            "bin_num": "464988",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JAPAN NET BANK, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/japan-net-bank,-ltd."
+        },
+        {
+            "bin_num": "467923",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JAPAN NET BANK, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/japan-net-bank,-ltd."
+        },
+        {
+            "bin_num": "467924",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JAPAN NET BANK, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/japan-net-bank,-ltd."
+        },
+        {
+            "bin_num": "467925",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JAPAN NET BANK, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/japan-net-bank,-ltd."
+        }
+    ]
+}

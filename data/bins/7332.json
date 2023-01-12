@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "530461",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BALBOA BANK AND TRUST, CORP.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/balboa-bank-and-trust,-corp."
+        },
+        {
+            "bin_num": "547002",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BALBOA BANK AND TRUST, CORP.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/balboa-bank-and-trust,-corp."
+        },
+        {
+            "bin_num": "551827",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BALBOA BANK AND TRUST, CORP.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/balboa-bank-and-trust,-corp."
+        },
+        {
+            "bin_num": "553175",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BALBOA BANK AND TRUST, CORP.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/balboa-bank-and-trust,-corp."
+        },
+        {
+            "bin_num": "553629",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BALBOA BANK AND TRUST, CORP.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/balboa-bank-and-trust,-corp."
+        }
+    ]
+}

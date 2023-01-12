@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "504897",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ME BANK",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/me-bank"
+        },
+        {
+            "bin_num": "622078",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "ME BANK",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/me-bank"
+        }
+    ]
+}

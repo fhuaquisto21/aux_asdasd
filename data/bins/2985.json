@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "bin_num": "400929",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "512102",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "514072",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "515826",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "518172",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "520133",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "521309",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "523768",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "530054",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "530219",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "531950",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "539706",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "540771",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "545195",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "547649",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "550227",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        },
+        {
+            "bin_num": "552036",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-la-produccion-s.a.-(produbanco)"
+        }
+    ]
+}

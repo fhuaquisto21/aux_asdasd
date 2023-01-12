@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "451470",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "COMMERCIAL BANK OF CEYLON, LTD.",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/commercial-bank-of-ceylon,-ltd."
+        },
+        {
+            "bin_num": "550598",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "COMMERCIAL BANK OF CEYLON, LTD.",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/commercial-bank-of-ceylon,-ltd."
+        }
+    ]
+}

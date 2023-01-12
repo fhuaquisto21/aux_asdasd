@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "546256",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ASB BANK, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/asb-bank,-ltd."
+        },
+        {
+            "bin_num": "546257",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASB BANK, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/asb-bank,-ltd."
+        },
+        {
+            "bin_num": "548848",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ASB BANK, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/asb-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "451171",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF CHINA (UK) LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/bank-of-china-(uk)-ltd."
+        },
+        {
+            "bin_num": "451172",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF CHINA (UK) LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/bank-of-china-(uk)-ltd."
+        },
+        {
+            "bin_num": "459569",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF CHINA (UK) LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/bank-of-china-(uk)-ltd."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "424331",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST INVESTMENT BANK",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/first-investment-bank"
+        },
+        {
+            "bin_num": "424332",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST INVESTMENT BANK",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/first-investment-bank"
+        },
+        {
+            "bin_num": "424333",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST INVESTMENT BANK",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/first-investment-bank"
+        },
+        {
+            "bin_num": "424334",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FIRST INVESTMENT BANK",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/first-investment-bank"
+        },
+        {
+            "bin_num": "424335",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST INVESTMENT BANK",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/first-investment-bank"
+        },
+        {
+            "bin_num": "429931",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST INVESTMENT BANK",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/first-investment-bank"
+        }
+    ]
+}

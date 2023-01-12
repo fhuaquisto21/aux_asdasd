@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "402713",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "423504",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "424523",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "446390",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "446391",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "458288",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "472209",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "477391",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "479753",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "482801",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "482802",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        },
+        {
+            "bin_num": "482803",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BELVNESHECONOMBANK OJSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-ojsc"
+        }
+    ]
+}

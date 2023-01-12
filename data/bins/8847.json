@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NLB BANKA AD BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/nlb-banka-ad-beograd"
+        },
+        {
+            "bin_num": "552883",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NLB BANKA AD BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/nlb-banka-ad-beograd"
+        },
+        {
+            "bin_num": "677070",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "NLB BANKA AD BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/nlb-banka-ad-beograd"
+        }
+    ]
+}

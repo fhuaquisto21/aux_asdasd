@@ -1,0 +1,279 @@
+{
+    "data": [
+        {
+            "bin_num": "404854",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "405755",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "407119",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "419080",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "423269",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "423270",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "424924",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "432250",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "432251",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "433833",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "433849",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "439818",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "440692",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "448478",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "451275",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "451377",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "451786",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "454832",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "454846",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "454850",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "468549",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "468574",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "473711",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "487053",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "bin_num": "489321",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-la-provincia-de-buenos-aires"
+        }
+    ]
+}

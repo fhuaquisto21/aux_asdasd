@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "418713",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC IZHCOMBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/jsc-izhcombank"
+        },
+        {
+            "bin_num": "418714",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC IZHCOMBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/jsc-izhcombank"
+        },
+        {
+            "bin_num": "418715",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC IZHCOMBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/jsc-izhcombank"
+        },
+        {
+            "bin_num": "466156",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC IZHCOMBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/jsc-izhcombank"
+        }
+    ]
+}

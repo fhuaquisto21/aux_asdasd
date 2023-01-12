@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "444534",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CHILDRENS MEDICAL CENTER F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/childrens-medical-center-f.c.u."
+        },
+        {
+            "bin_num": "456006",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CHILDRENS MEDICAL CENTER F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/childrens-medical-center-f.c.u."
+        },
+        {
+            "bin_num": "462190",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CHILDRENS MEDICAL CENTER F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/childrens-medical-center-f.c.u."
+        },
+        {
+            "bin_num": "462191",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CHILDRENS MEDICAL CENTER F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/childrens-medical-center-f.c.u."
+        }
+    ]
+}

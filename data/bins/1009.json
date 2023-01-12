@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "424183",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "425501",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "425502",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "425503",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "425504",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "425505",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "464528",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        },
+        {
+            "bin_num": "470450",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/raiffeisen-bank-dd-bosna-i-hercegovina"
+        }
+    ]
+}

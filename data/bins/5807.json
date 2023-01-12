@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "512471",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "519457",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "522323",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "522374",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "522395",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "525456",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "531145",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        },
+        {
+            "bin_num": "549771",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SPIRE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/spire-bank,-ltd."
+        }
+    ]
+}

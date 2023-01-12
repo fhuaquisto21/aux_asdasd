@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "420082",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNION SQUARE F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/union-square-f.c.u."
+        },
+        {
+            "bin_num": "420083",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "UNION SQUARE F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/union-square-f.c.u."
+        },
+        {
+            "bin_num": "449515",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNION SQUARE F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/union-square-f.c.u."
+        },
+        {
+            "bin_num": "476784",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "UNION SQUARE F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/union-square-f.c.u."
+        }
+    ]
+}

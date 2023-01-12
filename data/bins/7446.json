@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "403775",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO REGIONAL, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-regional,-s.a."
+        },
+        {
+            "bin_num": "403776",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO REGIONAL, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-regional,-s.a."
+        },
+        {
+            "bin_num": "423156",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO REGIONAL, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-regional,-s.a."
+        },
+        {
+            "bin_num": "423199",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO REGIONAL, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-regional,-s.a."
+        },
+        {
+            "bin_num": "499890",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO REGIONAL, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-regional,-s.a."
+        }
+    ]
+}

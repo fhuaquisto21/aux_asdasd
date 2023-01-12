@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "510393",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JACK HENRY AND ASSOCIATES, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/jack-henry-and-associates,-inc."
+        },
+        {
+            "bin_num": "520515",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JACK HENRY AND ASSOCIATES, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/jack-henry-and-associates,-inc."
+        },
+        {
+            "bin_num": "540327",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JACK HENRY AND ASSOCIATES, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/jack-henry-and-associates,-inc."
+        },
+        {
+            "bin_num": "557212",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JACK HENRY AND ASSOCIATES, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/jack-henry-and-associates,-inc."
+        }
+    ]
+}

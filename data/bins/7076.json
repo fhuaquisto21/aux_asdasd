@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "555230",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/wex-bank"
+        },
+        {
+            "bin_num": "555290",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/wex-bank"
+        },
+        {
+            "bin_num": "555297",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/wex-bank"
+        }
+    ]
+}

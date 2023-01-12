@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "417967",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-regional-de-monterrey-s.a.-banregio"
+        },
+        {
+            "bin_num": "417968",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-regional-de-monterrey-s.a.-banregio"
+        },
+        {
+            "bin_num": "424139",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GIFT",
+            "bank_name": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-regional-de-monterrey-s.a.-banregio"
+        },
+        {
+            "bin_num": "474174",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-regional-de-monterrey-s.a.-banregio"
+        },
+        {
+            "bin_num": "474175",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-regional-de-monterrey-s.a.-banregio"
+        }
+    ]
+}

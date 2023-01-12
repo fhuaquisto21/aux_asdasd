@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "409888",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ALMAZERGIENBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/almazergienbank"
+        },
+        {
+            "bin_num": "427843",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ALMAZERGIENBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/almazergienbank"
+        },
+        {
+            "bin_num": "427844",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ALMAZERGIENBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/almazergienbank"
+        },
+        {
+            "bin_num": "462044",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ALMAZERGIENBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/almazergienbank"
+        },
+        {
+            "bin_num": "464834",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ALMAZERGIENBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/almazergienbank"
+        }
+    ]
+}

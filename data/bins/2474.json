@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "414452",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/cooperativa-nacional-de-educadores-r.l.-(coopenae-r.l.)"
+        },
+        {
+            "bin_num": "414453",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/cooperativa-nacional-de-educadores-r.l.-(coopenae-r.l.)"
+        },
+        {
+            "bin_num": "414454",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/cooperativa-nacional-de-educadores-r.l.-(coopenae-r.l.)"
+        },
+        {
+            "bin_num": "414455",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/cooperativa-nacional-de-educadores-r.l.-(coopenae-r.l.)"
+        }
+    ]
+}

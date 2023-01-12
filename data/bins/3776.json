@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "540178",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/societe-generale-haitienne-de-cartes-de-credit-s.a."
+        },
+        {
+            "bin_num": "546052",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/societe-generale-haitienne-de-cartes-de-credit-s.a."
+        },
+        {
+            "bin_num": "546053",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/societe-generale-haitienne-de-cartes-de-credit-s.a."
+        },
+        {
+            "bin_num": "546054",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/societe-generale-haitienne-de-cartes-de-credit-s.a."
+        }
+    ]
+}

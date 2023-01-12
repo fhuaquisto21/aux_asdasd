@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "430327",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "430381",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "453938",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "453939",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "491940",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "515694",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "EXECUTIVE",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "541123",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "544335",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "544968",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "552456",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "552460",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "553588",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SCOTIABANK (BAHAMAS), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/scotiabank-(bahamas),-ltd."
+        }
+    ]
+}

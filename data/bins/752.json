@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "400460",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "400462",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "400465",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "400468",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "400469",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "400470",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "539949",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "548044",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "548418",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "550093",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        },
+        {
+            "bin_num": "704700",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PUBALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/pubali-bank,-ltd."
+        }
+    ]
+}

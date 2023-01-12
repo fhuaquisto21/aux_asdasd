@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "411060",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO BANDEIRANTES, S.A. (CLOSED)",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/banco-bandeirantes,-s.a.-(closed)"
+        },
+        {
+            "bin_num": "422407",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BANDEIRANTES, S.A. (CLOSED)",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/banco-bandeirantes,-s.a.-(closed)"
+        },
+        {
+            "bin_num": "440873",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BANDEIRANTES, S.A. (CLOSED)",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/banco-bandeirantes,-s.a.-(closed)"
+        },
+        {
+            "bin_num": "441173",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO BANDEIRANTES, S.A. (CLOSED)",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/banco-bandeirantes,-s.a.-(closed)"
+        }
+    ]
+}

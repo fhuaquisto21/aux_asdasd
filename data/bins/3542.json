@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "534222",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/sia-transact-pro"
+        },
+        {
+            "bin_num": "542799",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/sia-transact-pro"
+        }
+    ]
+}

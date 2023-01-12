@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "408306",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "408307",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "408308",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "408309",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "408310",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "408312",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "457368",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "457372",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        },
+        {
+            "bin_num": "457729",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERIABANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/ameriabank-cjsc"
+        }
+    ]
+}

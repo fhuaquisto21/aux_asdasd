@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "416958",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC UNICREDIT BANK",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/ojsc-unicredit-bank"
+        },
+        {
+            "bin_num": "416959",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC UNICREDIT BANK",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/ojsc-unicredit-bank"
+        },
+        {
+            "bin_num": "416960",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC UNICREDIT BANK",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/ojsc-unicredit-bank"
+        },
+        {
+            "bin_num": "416961",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "OJSC UNICREDIT BANK",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/ojsc-unicredit-bank"
+        },
+        {
+            "bin_num": "443997",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "OJSC UNICREDIT BANK",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/ojsc-unicredit-bank"
+        }
+    ]
+}

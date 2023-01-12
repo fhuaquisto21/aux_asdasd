@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "532193",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        },
+        {
+            "bin_num": "532194",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        },
+        {
+            "bin_num": "533223",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        },
+        {
+            "bin_num": "533229",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        },
+        {
+            "bin_num": "545736",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        },
+        {
+            "bin_num": "545854",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        },
+        {
+            "bin_num": "558387",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PPF BANKA A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ppf-banka-a.s."
+        }
+    ]
+}

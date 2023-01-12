@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "524940",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF CHINA, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/bank-of-china,-ltd."
+        },
+        {
+            "bin_num": "525841",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF CHINA, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/bank-of-china,-ltd."
+        },
+        {
+            "bin_num": "532815",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF CHINA, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/bank-of-china,-ltd."
+        },
+        {
+            "bin_num": "533659",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF CHINA, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/bank-of-china,-ltd."
+        }
+    ]
+}

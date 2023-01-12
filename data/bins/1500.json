@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "516179",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        },
+        {
+            "bin_num": "518116",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        },
+        {
+            "bin_num": "518127",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        },
+        {
+            "bin_num": "522879",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        },
+        {
+            "bin_num": "528269",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        },
+        {
+            "bin_num": "533866",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        },
+        {
+            "bin_num": "533893",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PRESIDENT'S CHOICE BANK",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/president's-choice-bank"
+        }
+    ]
+}

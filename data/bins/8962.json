@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "455606",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OVERSEAS UNION BANK, LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/overseas-union-bank,-ltd."
+        },
+        {
+            "bin_num": "545831",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OVERSEAS UNION BANK, LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/overseas-union-bank,-ltd."
+        }
+    ]
+}

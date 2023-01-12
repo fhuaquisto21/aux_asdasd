@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "558399",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TURKIYE GARANTI BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi"
+        },
+        {
+            "bin_num": "642011",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TURKIYE GARANTI BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi"
+        },
+        {
+            "bin_num": "642012",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TURKIYE GARANTI BANKASI",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-garanti-bankasi"
+        }
+    ]
+}

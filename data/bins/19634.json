@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "406220",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSCB FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-investment-and-development-of-vietnam"
+        },
+        {
+            "bin_num": "476632",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSCB FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-investment-and-development-of-vietnam"
+        }
+    ]
+}

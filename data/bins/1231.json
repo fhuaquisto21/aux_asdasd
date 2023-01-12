@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "536543",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BNP PARIBAS PERSONAL FINANCE EAD",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/bnp-paribas-personal-finance-ead"
+        },
+        {
+            "bin_num": "537126",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BNP PARIBAS PERSONAL FINANCE EAD",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/bnp-paribas-personal-finance-ead"
+        }
+    ]
+}

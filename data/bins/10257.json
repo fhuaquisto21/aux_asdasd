@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "404860",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SELYANSKIY COMMERCIAL BANK DNISTER",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/selyanskiy-commercial-bank-dnister"
+        },
+        {
+            "bin_num": "404861",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SELYANSKIY COMMERCIAL BANK DNISTER",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/selyanskiy-commercial-bank-dnister"
+        }
+    ]
+}

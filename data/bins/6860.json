@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "535587",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PJSC BANK VOSTOK",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/pjsc-bank-vostok"
+        },
+        {
+            "bin_num": "535588",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC BANK VOSTOK",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/pjsc-bank-vostok"
+        },
+        {
+            "bin_num": "535589",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PJSC BANK VOSTOK",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/pjsc-bank-vostok"
+        }
+    ]
+}

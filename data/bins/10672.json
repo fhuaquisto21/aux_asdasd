@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "412484",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHERN ROCK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/northern-rock-plc"
+        },
+        {
+            "bin_num": "412485",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NORTHERN ROCK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/northern-rock-plc"
+        },
+        {
+            "bin_num": "454311",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NORTHERN ROCK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/northern-rock-plc"
+        },
+        {
+            "bin_num": "491737",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NORTHERN ROCK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/northern-rock-plc"
+        },
+        {
+            "bin_num": "545811",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NORTHERN ROCK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/northern-rock-plc"
+        }
+    ]
+}

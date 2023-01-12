@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "408799",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "VISALUX S.C.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/visalux-s.c."
+        },
+        {
+            "bin_num": "494024",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VISALUX S.C.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/visalux-s.c."
+        },
+        {
+            "bin_num": "494025",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VISALUX S.C.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/visalux-s.c."
+        },
+        {
+            "bin_num": "494036",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "VISALUX S.C.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/visalux-s.c."
+        }
+    ]
+}

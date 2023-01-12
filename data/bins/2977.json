@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "512294",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        },
+        {
+            "bin_num": "512401",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        },
+        {
+            "bin_num": "519209",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        },
+        {
+            "bin_num": "520081",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        },
+        {
+            "bin_num": "521384",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        },
+        {
+            "bin_num": "549618",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        },
+        {
+            "bin_num": "553634",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO BOLIVARIANO C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-bolivariano-c.a."
+        }
+    ]
+}

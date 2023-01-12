@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "515591",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/sia-transact-pro"
+        },
+        {
+            "bin_num": "516847",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/sia-transact-pro"
+        },
+        {
+            "bin_num": "516848",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/sia-transact-pro"
+        },
+        {
+            "bin_num": "519754",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/sia-transact-pro"
+        },
+        {
+            "bin_num": "535204",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "SIA TRANSACT PRO",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/sia-transact-pro"
+        }
+    ]
+}

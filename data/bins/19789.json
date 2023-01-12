@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "512935",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/central-africa-building-society,-ltd."
+        },
+        {
+            "bin_num": "515602",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/central-africa-building-society,-ltd."
+        },
+        {
+            "bin_num": "516617",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/central-africa-building-society,-ltd."
+        },
+        {
+            "bin_num": "520190",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/central-africa-building-society,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "458243",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        },
+        {
+            "bin_num": "458244",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        },
+        {
+            "bin_num": "458245",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        },
+        {
+            "bin_num": "532970",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE CARD",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        },
+        {
+            "bin_num": "552918",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE PURCHASING",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        },
+        {
+            "bin_num": "552919",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        },
+        {
+            "bin_num": "552921",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/citibank,-n.a."
+        }
+    ]
+}

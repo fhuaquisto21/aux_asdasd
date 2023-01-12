@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "440034",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/network-international-llc"
+        },
+        {
+            "bin_num": "440037",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/network-international-llc"
+        }
+    ]
+}

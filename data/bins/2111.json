@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "621095",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "POSTAL SAVINGS AND REMITTANCE BUREAU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/postal-savings-and-remittance-bureau"
+        },
+        {
+            "bin_num": "621096",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "POSTAL SAVINGS AND REMITTANCE BUREAU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/postal-savings-and-remittance-bureau"
+        },
+        {
+            "bin_num": "621285",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "POSTAL SAVINGS AND REMITTANCE BUREAU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/postal-savings-and-remittance-bureau"
+        },
+        {
+            "bin_num": "622150",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "POSTAL SAVINGS AND REMITTANCE BUREAU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/postal-savings-and-remittance-bureau"
+        },
+        {
+            "bin_num": "622151",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "POSTAL SAVINGS AND REMITTANCE BUREAU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/postal-savings-and-remittance-bureau"
+        },
+        {
+            "bin_num": "955100",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "POSTAL SAVINGS AND REMITTANCE BUREAU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/postal-savings-and-remittance-bureau"
+        }
+    ]
+}

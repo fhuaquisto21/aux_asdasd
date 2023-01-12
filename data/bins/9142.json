@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "431851",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        },
+        {
+            "bin_num": "438299",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        },
+        {
+            "bin_num": "438300",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        },
+        {
+            "bin_num": "438301",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        },
+        {
+            "bin_num": "466275",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        },
+        {
+            "bin_num": "494119",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        },
+        {
+            "bin_num": "900095",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA PUEYO, S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banca-pueyo,-s.a."
+        }
+    ]
+}

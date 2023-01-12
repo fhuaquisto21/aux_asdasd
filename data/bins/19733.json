@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "519721",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "FIRST BANK PUERTO RICO",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-bank-puerto-rico"
+        },
+        {
+            "bin_num": "526999",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FIRST BANK PUERTO RICO",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-bank-puerto-rico"
+        },
+        {
+            "bin_num": "533429",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRST BANK PUERTO RICO",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-bank-puerto-rico"
+        },
+        {
+            "bin_num": "536274",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST BANK PUERTO RICO",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-bank-puerto-rico"
+        }
+    ]
+}

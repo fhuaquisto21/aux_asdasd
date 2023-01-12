@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "532920",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "R. RAPHAEL & SONS PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/r.-raphael-&-sons-plc"
+        },
+        {
+            "bin_num": "538433",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "R. RAPHAEL & SONS PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/r.-raphael-&-sons-plc"
+        },
+        {
+            "bin_num": "538458",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "R. RAPHAEL & SONS PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/r.-raphael-&-sons-plc"
+        },
+        {
+            "bin_num": "538672",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "R. RAPHAEL & SONS PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/r.-raphael-&-sons-plc"
+        },
+        {
+            "bin_num": "545901",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "R. RAPHAEL & SONS PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/r.-raphael-&-sons-plc"
+        }
+    ]
+}

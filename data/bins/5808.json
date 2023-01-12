@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "411999",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ST. GEORGE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/st.-george-bank,-ltd."
+        },
+        {
+            "bin_num": "423932",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ST. GEORGE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/st.-george-bank,-ltd."
+        },
+        {
+            "bin_num": "423933",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ST. GEORGE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/st.-george-bank,-ltd."
+        },
+        {
+            "bin_num": "423934",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ST. GEORGE BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/st.-george-bank,-ltd."
+        }
+    ]
+}

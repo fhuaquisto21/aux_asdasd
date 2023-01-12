@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "417715",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi,-a.s."
+        },
+        {
+            "bin_num": "417716",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi,-a.s."
+        },
+        {
+            "bin_num": "432284",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi,-a.s."
+        },
+        {
+            "bin_num": "432285",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/albaraka-turk-katilim-bankasi,-a.s."
+        }
+    ]
+}

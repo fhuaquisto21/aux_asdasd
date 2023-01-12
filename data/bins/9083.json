@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "555034",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A. SOUTH AFRICA",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/citibank,-n.a.-south-africa"
+        },
+        {
+            "bin_num": "555036",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A. SOUTH AFRICA",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/citibank,-n.a.-south-africa"
+        },
+        {
+            "bin_num": "555037",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A. SOUTH AFRICA",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/citibank,-n.a.-south-africa"
+        },
+        {
+            "bin_num": "558753",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK, N.A. SOUTH AFRICA",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/citibank,-n.a.-south-africa"
+        }
+    ]
+}

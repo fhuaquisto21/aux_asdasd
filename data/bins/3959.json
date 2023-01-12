@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "419677",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIGEN BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/credigen-bank-zrt."
+        },
+        {
+            "bin_num": "419678",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CREDIGEN BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/credigen-bank-zrt."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "416921",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/societe-generale-congo"
+        },
+        {
+            "bin_num": "416923",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SOCIETE GENERALE CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/societe-generale-congo"
+        },
+        {
+            "bin_num": "416924",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SOCIETE GENERALE CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/societe-generale-congo"
+        },
+        {
+            "bin_num": "416925",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/societe-generale-congo"
+        }
+    ]
+}

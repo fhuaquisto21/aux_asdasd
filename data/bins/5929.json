@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "423170",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NLB PRISHTINA J.S.C.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/nlb-prishtina-j.s.c."
+        },
+        {
+            "bin_num": "423260",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NLB PRISHTINA J.S.C.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/nlb-prishtina-j.s.c."
+        },
+        {
+            "bin_num": "431897",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NLB PRISHTINA J.S.C.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/nlb-prishtina-j.s.c."
+        },
+        {
+            "bin_num": "460202",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NLB PRISHTINA J.S.C.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/nlb-prishtina-j.s.c."
+        }
+    ]
+}

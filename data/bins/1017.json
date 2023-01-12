@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "465752",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "UNION BANKA D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/union-banka-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "486025",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNION BANKA D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/union-banka-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "486026",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNION BANKA D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/union-banka-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "486027",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNION BANKA D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/union-banka-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "486028",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UNION BANKA D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/union-banka-d.d.-sarajevo"
+        }
+    ]
+}

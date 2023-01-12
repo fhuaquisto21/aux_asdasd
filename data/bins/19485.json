@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BRED (VANUATU), LTD.",
+            "country_name": "VANUATU",
+            "country_img": "https://bincheck.io/assets/flags/svg/vu.svg",
+            "country_url": "https://bincheck.io/es/vu",
+            "bank_url": "https://bincheck.io/es/vu/bred-(vanuatu),-ltd."
+        },
+        {
+            "bin_num": "428453",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BRED (VANUATU), LTD.",
+            "country_name": "VANUATU",
+            "country_img": "https://bincheck.io/assets/flags/svg/vu.svg",
+            "country_url": "https://bincheck.io/es/vu",
+            "bank_url": "https://bincheck.io/es/vu/bred-(vanuatu),-ltd."
+        },
+        {
+            "bin_num": "467843",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BRED (VANUATU), LTD.",
+            "country_name": "VANUATU",
+            "country_img": "https://bincheck.io/assets/flags/svg/vu.svg",
+            "country_url": "https://bincheck.io/es/vu",
+            "bank_url": "https://bincheck.io/es/vu/bred-(vanuatu),-ltd."
+        },
+        {
+            "bin_num": "470604",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BRED (VANUATU), LTD.",
+            "country_name": "VANUATU",
+            "country_img": "https://bincheck.io/assets/flags/svg/vu.svg",
+            "country_url": "https://bincheck.io/es/vu",
+            "bank_url": "https://bincheck.io/es/vu/bred-(vanuatu),-ltd."
+        }
+    ]
+}

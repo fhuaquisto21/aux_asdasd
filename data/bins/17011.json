@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "601104",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PAYPAL",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/paypal"
+        },
+        {
+            "bin_num": "650600",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PAYPAL",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/paypal"
+        },
+        {
+            "bin_num": "650610",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PAYPAL",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/paypal"
+        }
+    ]
+}

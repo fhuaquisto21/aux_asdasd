@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437446",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNITED BANK FOR AFRICA (TANZANIA), LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/united-bank-for-africa-(tanzania),-ltd."
+        },
+        {
+            "bin_num": "437447",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UNITED BANK FOR AFRICA (TANZANIA), LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/united-bank-for-africa-(tanzania),-ltd."
+        },
+        {
+            "bin_num": "457280",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA (TANZANIA), LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/united-bank-for-africa-(tanzania),-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "502013",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CAJA DE AHORROS DE CATALUNA (CAIXA DESTALVIS DE)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-de-cataluna-(caixa-destalvis-de)"
+        },
+        {
+            "bin_num": "550546",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAJA DE AHORROS DE CATALUNA (CAIXA DESTALVIS DE)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-de-cataluna-(caixa-destalvis-de)"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "419298",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DEMERARA BANK, LTD.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/demerara-bank,-ltd."
+        },
+        {
+            "bin_num": "419299",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "DEMERARA BANK, LTD.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/demerara-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "492050",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OP",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/op"
+        },
+        {
+            "bin_num": "492051",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OP",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/op"
+        }
+    ]
+}

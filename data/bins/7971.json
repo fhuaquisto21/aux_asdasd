@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "512672",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CETELEM IFN S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/cetelem-ifn-s.a."
+        },
+        {
+            "bin_num": "517392",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CETELEM IFN S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/cetelem-ifn-s.a."
+        },
+        {
+            "bin_num": "531331",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "CETELEM IFN S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/cetelem-ifn-s.a."
+        },
+        {
+            "bin_num": "531342",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "CETELEM IFN S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/cetelem-ifn-s.a."
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "406939",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "406940",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "406941",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "428961",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "428962",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "428963",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "472224",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "472225",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "472226",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        },
+        {
+            "bin_num": "473851",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD BANK SARL",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/standard-bank-sarl"
+        }
+    ]
+}

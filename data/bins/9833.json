@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "555173",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/wex-bank"
+        },
+        {
+            "bin_num": "555289",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/wex-bank"
+        },
+        {
+            "bin_num": "555295",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/wex-bank"
+        },
+        {
+            "bin_num": "555296",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WEX BANK",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/wex-bank"
+        }
+    ]
+}

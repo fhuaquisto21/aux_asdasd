@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "512800",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FIRST CITIZEN BANK (BARBADOS), LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/first-citizen-bank-(barbados),-ltd."
+        },
+        {
+            "bin_num": "521634",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "FIRST CITIZEN BANK (BARBADOS), LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/first-citizen-bank-(barbados),-ltd."
+        }
+    ]
+}

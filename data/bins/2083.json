@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "621213",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "NANYANG COMMERCIAL BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank"
+        },
+        {
+            "bin_num": "622349",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "NANYANG COMMERCIAL BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank"
+        },
+        {
+            "bin_num": "622350",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "NANYANG COMMERCIAL BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank"
+        },
+        {
+            "bin_num": "622351",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "NANYANG COMMERCIAL BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank"
+        }
+    ]
+}

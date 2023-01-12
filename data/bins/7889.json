@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "421976",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421977",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421978",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421979",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421980",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/total-system-services,-inc."
+        }
+    ]
+}

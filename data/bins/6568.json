@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "428464",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANSI, S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/bansi,-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "465762",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANSI, S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/bansi,-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "523595",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANSI, S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/bansi,-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "539978",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANSI, S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/bansi,-s.a.-institucion-de-banca-multiple"
+        }
+    ]
+}

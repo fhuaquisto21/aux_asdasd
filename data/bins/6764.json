@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "522312",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SI VALE MEXICO S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/si-vale-mexico-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "522794",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SI VALE MEXICO S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/si-vale-mexico-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "523013",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SI VALE MEXICO S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/si-vale-mexico-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "527374",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SI VALE MEXICO S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/si-vale-mexico-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "534926",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SI VALE MEXICO S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/si-vale-mexico-s.a.-de-c.v."
+        }
+    ]
+}

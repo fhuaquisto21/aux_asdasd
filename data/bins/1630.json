@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "559202",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAT ADMINISTRADORA DE TARJETAS S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/cat-administradora-de-tarjetas-s.a."
+        },
+        {
+            "bin_num": "559205",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAT ADMINISTRADORA DE TARJETAS S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/cat-administradora-de-tarjetas-s.a."
+        },
+        {
+            "bin_num": "559207",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAT ADMINISTRADORA DE TARJETAS S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/cat-administradora-de-tarjetas-s.a."
+        }
+    ]
+}

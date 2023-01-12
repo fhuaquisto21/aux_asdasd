@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "657373",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANKA POSTANSKA STEDIONICA",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/banka-postanska-stedionica"
+        },
+        {
+            "bin_num": "989101",
+            "bin_mark": "DINACARD",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANKA POSTANSKA STEDIONICA",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/banka-postanska-stedionica"
+        }
+    ]
+}

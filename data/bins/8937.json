@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "512904",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS WORLD",
+            "bank_name": "HONGKONG AND SHANGHAI BANK",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-bank"
+        },
+        {
+            "bin_num": "555313",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "HONGKONG AND SHANGHAI BANK",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-bank"
+        }
+    ]
+}

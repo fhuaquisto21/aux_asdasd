@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "452215",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARCLAYS BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/barclays-bank"
+        },
+        {
+            "bin_num": "452216",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/barclays-bank"
+        }
+    ]
+}

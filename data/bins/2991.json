@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "517943",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DEL AUSTRO S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-del-austro-s.a."
+        },
+        {
+            "bin_num": "522827",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO DEL AUSTRO S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-del-austro-s.a."
+        },
+        {
+            "bin_num": "543393",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DEL AUSTRO S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-del-austro-s.a."
+        },
+        {
+            "bin_num": "548244",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DEL AUSTRO S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-del-austro-s.a."
+        },
+        {
+            "bin_num": "552995",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO DEL AUSTRO S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-del-austro-s.a."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "542503",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/industrial-and-commercial-bank-of-china,-ltd."
+        },
+        {
+            "bin_num": "671161",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/industrial-and-commercial-bank-of-china,-ltd."
+        }
+    ]
+}

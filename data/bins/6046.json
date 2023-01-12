@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "bin_num": "514836",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "516897",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "520978",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "522770",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "523925",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "526123",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "527406",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "535533",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "545899",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "546051",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "547814",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "676198",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        },
+        {
+            "bin_num": "677116",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "JSC SEB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-seb-banka"
+        }
+    ]
+}

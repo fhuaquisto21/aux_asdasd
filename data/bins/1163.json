@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "422024",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREFISA SA CREDITO FINANCIAMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/crefisa-sa-credito-financiamento"
+        },
+        {
+            "bin_num": "520013",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CREFISA SA CREDITO FINANCIAMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/crefisa-sa-credito-financiamento"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "433688",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMERZ FINANZ GMBH",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/commerz-finanz-gmbh"
+        },
+        {
+            "bin_num": "446148",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMERZ FINANZ GMBH",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/commerz-finanz-gmbh"
+        },
+        {
+            "bin_num": "527108",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMERZ FINANZ GMBH",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/commerz-finanz-gmbh"
+        },
+        {
+            "bin_num": "535596",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMERZ FINANZ GMBH",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/commerz-finanz-gmbh"
+        },
+        {
+            "bin_num": "671268",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "COMMERZ FINANZ GMBH",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/commerz-finanz-gmbh"
+        }
+    ]
+}

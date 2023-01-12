@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "445109",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB EUROCREDITBANK SA JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-eurocreditbank-sa-jsc"
+        },
+        {
+            "bin_num": "445110",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB EUROCREDITBANK SA JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-eurocreditbank-sa-jsc"
+        },
+        {
+            "bin_num": "445111",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CB EUROCREDITBANK SA JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-eurocreditbank-sa-jsc"
+        },
+        {
+            "bin_num": "445112",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB EUROCREDITBANK SA JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-eurocreditbank-sa-jsc"
+        },
+        {
+            "bin_num": "445113",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CB EUROCREDITBANK SA JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-eurocreditbank-sa-jsc"
+        }
+    ]
+}

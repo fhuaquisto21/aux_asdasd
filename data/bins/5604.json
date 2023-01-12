@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "533480",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE BANK OF FUKUOKA, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/the-bank-of-fukuoka,-ltd."
+        },
+        {
+            "bin_num": "533481",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "THE BANK OF FUKUOKA, LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/the-bank-of-fukuoka,-ltd."
+        }
+    ]
+}

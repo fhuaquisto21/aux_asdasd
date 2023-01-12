@@ -1,0 +1,202 @@
+{
+    "data": [
+        {
+            "bin_num": "476363",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "476364",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "476365",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "476366",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "476367",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "479532",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "479533",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "485473",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "485474",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "513388",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "535626",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "535627",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "535628",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "535629",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "535630",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "535631",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "670940",
+            "bin_mark": "CIRRUS",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        },
+        {
+            "bin_num": "670945",
+            "bin_mark": "CIRRUS",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "TSB BANK PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/tsb-bank-plc"
+        }
+    ]
+}

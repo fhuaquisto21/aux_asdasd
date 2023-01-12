@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "446692",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "CAYMAN NATIONAL BANK, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/cayman-national-bank,-ltd."
+        },
+        {
+            "bin_num": "446693",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "CAYMAN NATIONAL BANK, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/cayman-national-bank,-ltd."
+        },
+        {
+            "bin_num": "542568",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAYMAN NATIONAL BANK, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/cayman-national-bank,-ltd."
+        },
+        {
+            "bin_num": "542978",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAYMAN NATIONAL BANK, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/cayman-national-bank,-ltd."
+        }
+    ]
+}

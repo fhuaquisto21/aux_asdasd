@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "542085",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AS DNB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/as-dnb-banka"
+        },
+        {
+            "bin_num": "542090",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AS DNB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/as-dnb-banka"
+        },
+        {
+            "bin_num": "547626",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AS DNB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/as-dnb-banka"
+        },
+        {
+            "bin_num": "676192",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "AS DNB BANKA",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/as-dnb-banka"
+        }
+    ]
+}

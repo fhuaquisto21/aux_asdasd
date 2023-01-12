@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "534528",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MEDMERA BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/medmera-bank-ab"
+        },
+        {
+            "bin_num": "534532",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MEDMERA BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/medmera-bank-ab"
+        },
+        {
+            "bin_num": "534534",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MEDMERA BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/medmera-bank-ab"
+        }
+    ]
+}

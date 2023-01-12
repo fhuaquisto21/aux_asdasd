@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "419757",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ROKEL COMMERCIAL BANK (SIERRA LEONE), LTD.",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/rokel-commercial-bank-(sierra-leone),-ltd."
+        },
+        {
+            "bin_num": "419758",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ROKEL COMMERCIAL BANK (SIERRA LEONE), LTD.",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/rokel-commercial-bank-(sierra-leone),-ltd."
+        },
+        {
+            "bin_num": "419759",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ROKEL COMMERCIAL BANK (SIERRA LEONE), LTD.",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/rokel-commercial-bank-(sierra-leone),-ltd."
+        }
+    ]
+}

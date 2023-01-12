@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "400317",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "487707",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "522336",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "522342",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "522741",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "526724",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "527329",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "527345",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "527360",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        },
+        {
+            "bin_num": "543305",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CREDIT AGRICOLE CARIPARMA S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/credit-agricole-cariparma-s.p.a."
+        }
+    ]
+}

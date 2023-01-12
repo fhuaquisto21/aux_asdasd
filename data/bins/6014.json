@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "527557",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AS EXPOBANK",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/as-expobank"
+        },
+        {
+            "bin_num": "534255",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AS EXPOBANK",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/as-expobank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "524437",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/prepay-technologies,-ltd."
+        },
+        {
+            "bin_num": "529588",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/prepay-technologies,-ltd."
+        }
+    ]
+}

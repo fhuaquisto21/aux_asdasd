@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "446329",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK UGANDA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/stanbic-bank-uganda,-ltd."
+        },
+        {
+            "bin_num": "459259",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "STANBIC BANK UGANDA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/stanbic-bank-uganda,-ltd."
+        },
+        {
+            "bin_num": "459260",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANBIC BANK UGANDA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/stanbic-bank-uganda,-ltd."
+        }
+    ]
+}

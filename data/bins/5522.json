@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "533498",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "NTT SMART TRADE INC.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/ntt-smart-trade-inc."
+        },
+        {
+            "bin_num": "533868",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "NTT SMART TRADE INC.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/ntt-smart-trade-inc."
+        }
+    ]
+}

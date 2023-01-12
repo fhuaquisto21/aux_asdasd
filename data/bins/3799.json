@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "406123",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "410875",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "425118",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "440818",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "518400",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "528595",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "534185",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "545473",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "545480",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "548125",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        },
+        {
+            "bin_num": "553644",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-hondurena,-s.a."
+        }
+    ]
+}

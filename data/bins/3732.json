@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/el-credito-hipotecario-nacional-de-guatemala"
+        },
+        {
+            "bin_num": "423838",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/el-credito-hipotecario-nacional-de-guatemala"
+        },
+        {
+            "bin_num": "424302",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/el-credito-hipotecario-nacional-de-guatemala"
+        },
+        {
+            "bin_num": "424303",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/el-credito-hipotecario-nacional-de-guatemala"
+        },
+        {
+            "bin_num": "483068",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/el-credito-hipotecario-nacional-de-guatemala"
+        }
+    ]
+}

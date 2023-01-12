@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "357402",
+            "bin_mark": "JCB",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RAKUTEN BANK",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/rakuten-bank"
+        },
+        {
+            "bin_num": "454202",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAKUTEN BANK",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/rakuten-bank"
+        }
+    ]
+}

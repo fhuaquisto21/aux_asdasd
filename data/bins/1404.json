@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "486581",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "BANK OF THE WEST",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/bank-of-the-west"
+        },
+        {
+            "bin_num": "553291",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "FLEET",
+            "bank_name": "BANK OF THE WEST",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/bank-of-the-west"
+        },
+        {
+            "bin_num": "556934",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "FLEET",
+            "bank_name": "BANK OF THE WEST",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/bank-of-the-west"
+        }
+    ]
+}

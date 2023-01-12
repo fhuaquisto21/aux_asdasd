@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "402620",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORDEA BANK DANMARK A/S",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-danmark-a+s"
+        },
+        {
+            "bin_num": "437883",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NORDEA BANK DANMARK A/S",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-danmark-a+s"
+        },
+        {
+            "bin_num": "483059",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NORDEA BANK DANMARK A/S",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-danmark-a+s"
+        },
+        {
+            "bin_num": "489499",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "NORDEA BANK DANMARK A/S",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-danmark-a+s"
+        }
+    ]
+}

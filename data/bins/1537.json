@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "480457",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "WELLS FARGO BANK, N.A.",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/wells-fargo-bank,-n.a."
+        },
+        {
+            "bin_num": "547802",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WELLS FARGO BANK, N.A.",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/wells-fargo-bank,-n.a."
+        }
+    ]
+}

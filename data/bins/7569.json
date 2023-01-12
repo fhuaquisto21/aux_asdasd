@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "464571",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "526548",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/hongkong-and-shanghai-banking-corp.,-ltd."
+        }
+    ]
+}

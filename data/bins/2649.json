@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "bin_num": "440752",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "440753",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "440754",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "487494",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "491011",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "491080",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "491825",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "494360",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "540452",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "547122",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "554398",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "589231",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "676224",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "676233",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "676580",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/ceskoslovenska-obchodni-banka,-a.s."
+        }
+    ]
+}

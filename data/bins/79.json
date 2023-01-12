@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "457286",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PRIVADO ATLANTICO, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-privado-atlantico,-s.a."
+        },
+        {
+            "bin_num": "457287",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PRIVADO ATLANTICO, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-privado-atlantico,-s.a."
+        }
+    ]
+}

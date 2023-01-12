@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "403524",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNITED BANK FOR AFRICA RD CONGO SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/united-bank-for-africa-rd-congo-sarl"
+        },
+        {
+            "bin_num": "403525",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA RD CONGO SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/united-bank-for-africa-rd-congo-sarl"
+        }
+    ]
+}

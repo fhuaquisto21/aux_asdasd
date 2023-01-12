@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "402550",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAMBODIA ASIA BANK, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodia-asia-bank,-ltd."
+        },
+        {
+            "bin_num": "466531",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAMBODIA ASIA BANK, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodia-asia-bank,-ltd."
+        },
+        {
+            "bin_num": "466532",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAMBODIA ASIA BANK, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cambodia-asia-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "400159",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "AMINIT, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/aminit,-ltd."
+        },
+        {
+            "bin_num": "431905",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AMINIT, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/aminit,-ltd."
+        },
+        {
+            "bin_num": "431906",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AMINIT, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/aminit,-ltd."
+        },
+        {
+            "bin_num": "431907",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AMINIT, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/aminit,-ltd."
+        }
+    ]
+}

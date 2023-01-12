@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "402586",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "406424",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "411986",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "411987",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "411988",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "414048",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "414049",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "423177",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "424453",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "426235",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "428100",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCA TRANSILVANIA, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-transilvania,-s.a."
+        }
+    ]
+}

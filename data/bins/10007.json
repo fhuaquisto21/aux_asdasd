@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "443948",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/firstcaribbean-international-bank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "443961",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/firstcaribbean-international-bank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "443974",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/firstcaribbean-international-bank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "469277",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/firstcaribbean-international-bank-(bahamas),-ltd."
+        },
+        {
+            "bin_num": "479482",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/firstcaribbean-international-bank-(bahamas),-ltd."
+        }
+    ]
+}

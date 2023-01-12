@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "413098",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "423646",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "432049",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "448790",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "512029",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "512048",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "514044",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "535943",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PRIVAT LABEL",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "537030",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        },
+        {
+            "bin_num": "539672",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCA AFIRME, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banca-afirme,-s.a."
+        }
+    ]
+}

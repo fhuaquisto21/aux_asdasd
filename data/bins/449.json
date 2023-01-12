@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "502811",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "INDUE",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/indue"
+        },
+        {
+            "bin_num": "502949",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INDUE",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/indue"
+        }
+    ]
+}

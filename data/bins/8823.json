@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "402975",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDY BANKA AD KRAGUJEVAC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/credy-banka-ad-kragujevac"
+        },
+        {
+            "bin_num": "402976",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CREDY BANKA AD KRAGUJEVAC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/credy-banka-ad-kragujevac"
+        },
+        {
+            "bin_num": "402977",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CREDY BANKA AD KRAGUJEVAC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/credy-banka-ad-kragujevac"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CREDY BANKA AD KRAGUJEVAC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/credy-banka-ad-kragujevac"
+        }
+    ]
+}

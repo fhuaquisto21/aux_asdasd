@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "508246",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "521551",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "529758",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "540184",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "542177",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "552042",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "555018",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "555163",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "558720",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "559742",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        },
+        {
+            "bin_num": "559909",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/citibank-n.a."
+        }
+    ]
+}

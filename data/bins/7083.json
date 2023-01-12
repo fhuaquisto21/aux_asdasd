@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "404284",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-credito-centroamericano-s.a.-(bancentro)"
+        },
+        {
+            "bin_num": "438057",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-credito-centroamericano-s.a.-(bancentro)"
+        },
+        {
+            "bin_num": "444044",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-credito-centroamericano-s.a.-(bancentro)"
+        },
+        {
+            "bin_num": "444045",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-credito-centroamericano-s.a.-(bancentro)"
+        },
+        {
+            "bin_num": "444046",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-credito-centroamericano-s.a.-(bancentro)"
+        }
+    ]
+}

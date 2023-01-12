@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "524016",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HSBC BANK BERMUDA, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/hsbc-bank-bermuda,-ltd."
+        },
+        {
+            "bin_num": "541004",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HSBC BANK BERMUDA, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/hsbc-bank-bermuda,-ltd."
+        },
+        {
+            "bin_num": "543858",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HSBC BANK BERMUDA, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/hsbc-bank-bermuda,-ltd."
+        },
+        {
+            "bin_num": "544444",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HSBC BANK BERMUDA, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/hsbc-bank-bermuda,-ltd."
+        }
+    ]
+}

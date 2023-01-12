@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "510019",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        },
+        {
+            "bin_num": "525642",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        },
+        {
+            "bin_num": "545415",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        },
+        {
+            "bin_num": "545494",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD/PLATINUM",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        },
+        {
+            "bin_num": "547425",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        },
+        {
+            "bin_num": "557704",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        },
+        {
+            "bin_num": "676506",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BUDAPEST BANK LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/budapest-bank-ltd."
+        }
+    ]
+}

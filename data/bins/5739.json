@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "bin_num": "403167",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "404363",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "405772",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "414621",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "414622",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "414623",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "422126",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "422191",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "422192",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "427704",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "439087",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "439088",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "440254",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "440256",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "440257",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "440258",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "440259",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "447176",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "447178",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "452440",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "475771",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "476283",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        },
+        {
+            "bin_num": "476284",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-halyk-savings-bank-of-kazakhstan"
+        }
+    ]
+}

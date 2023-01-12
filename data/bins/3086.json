@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "521038",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK S.E.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/united-bank-s.e.a."
+        },
+        {
+            "bin_num": "525937",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITED BANK S.E.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/united-bank-s.e.a."
+        },
+        {
+            "bin_num": "540307",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITED BANK S.E.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/united-bank-s.e.a."
+        },
+        {
+            "bin_num": "549776",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITED BANK S.E.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/united-bank-s.e.a."
+        },
+        {
+            "bin_num": "550228",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED BANK S.E.A.",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/united-bank-s.e.a."
+        }
+    ]
+}

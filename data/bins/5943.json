@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "424337",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF KUWAIT AND THE MIDDLE EAST, KSC",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/bank-of-kuwait-and-the-middle-east,-ksc"
+        },
+        {
+            "bin_num": "468502",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KUWAIT AND THE MIDDLE EAST, KSC",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/bank-of-kuwait-and-the-middle-east,-ksc"
+        }
+    ]
+}

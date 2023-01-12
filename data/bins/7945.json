@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "411967",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa-italia-treviso-sucursala-bucuresti"
+        },
+        {
+            "bin_num": "411968",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa-italia-treviso-sucursala-bucuresti"
+        },
+        {
+            "bin_num": "411969",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa-italia-treviso-sucursala-bucuresti"
+        },
+        {
+            "bin_num": "411970",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa-italia-treviso-sucursala-bucuresti"
+        },
+        {
+            "bin_num": "411971",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-italo-romena-spa-italia-treviso-sucursala-bucuresti"
+        }
+    ]
+}

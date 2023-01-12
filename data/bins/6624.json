@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506420",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CONEXION YUCATECA",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/conexion-yucateca"
+        },
+        {
+            "bin_num": "506421",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CONEXION YUCATECA",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/conexion-yucateca"
+        }
+    ]
+}

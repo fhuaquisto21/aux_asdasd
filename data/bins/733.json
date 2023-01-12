@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "458598",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/international-finance-investment-and-commerce-bank,-ltd."
+        },
+        {
+            "bin_num": "458790",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/international-finance-investment-and-commerce-bank,-ltd."
+        },
+        {
+            "bin_num": "490258",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/international-finance-investment-and-commerce-bank,-ltd."
+        },
+        {
+            "bin_num": "490259",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/international-finance-investment-and-commerce-bank,-ltd."
+        },
+        {
+            "bin_num": "490262",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/international-finance-investment-and-commerce-bank,-ltd."
+        },
+        {
+            "bin_num": "490263",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/international-finance-investment-and-commerce-bank,-ltd."
+        }
+    ]
+}

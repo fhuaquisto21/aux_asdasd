@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "406445",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/privredna-banka-beograd-d.d.-beograd"
+        },
+        {
+            "bin_num": "406446",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/privredna-banka-beograd-d.d.-beograd"
+        },
+        {
+            "bin_num": "406464",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/privredna-banka-beograd-d.d.-beograd"
+        },
+        {
+            "bin_num": "431872",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/privredna-banka-beograd-d.d.-beograd"
+        }
+    ]
+}

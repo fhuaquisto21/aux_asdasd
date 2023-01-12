@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "470647",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EGYPTIAN ARAB LAND BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/egyptian-arab-land-bank"
+        },
+        {
+            "bin_num": "470648",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EGYPTIAN ARAB LAND BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/egyptian-arab-land-bank"
+        },
+        {
+            "bin_num": "470649",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "EGYPTIAN ARAB LAND BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/egyptian-arab-land-bank"
+        }
+    ]
+}

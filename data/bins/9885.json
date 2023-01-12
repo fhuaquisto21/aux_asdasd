@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "409619",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "417007",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "417481",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "454144",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "454401",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "464851",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "464852",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "491219",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "491220",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        },
+        {
+            "bin_num": "491242",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-internationale-arabe-de-tunisie"
+        }
+    ]
+}

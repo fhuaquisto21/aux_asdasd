@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "521988",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "UNITY BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/unity-bank-plc"
+        },
+        {
+            "bin_num": "532155",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITY BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/unity-bank-plc"
+        },
+        {
+            "bin_num": "536399",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNITY BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/unity-bank-plc"
+        },
+        {
+            "bin_num": "551609",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITY BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/unity-bank-plc"
+        }
+    ]
+}

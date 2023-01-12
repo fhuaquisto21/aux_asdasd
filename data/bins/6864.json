@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "525237",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PRVA BANKA CG AD",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/prva-banka-cg-ad"
+        },
+        {
+            "bin_num": "548751",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PRVA BANKA CG AD",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/prva-banka-cg-ad"
+        },
+        {
+            "bin_num": "553582",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PRVA BANKA CG AD",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/prva-banka-cg-ad"
+        },
+        {
+            "bin_num": "557463",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PRVA BANKA CG AD",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/prva-banka-cg-ad"
+        },
+        {
+            "bin_num": "677313",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PRVA BANKA CG AD",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/prva-banka-cg-ad"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "405664",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE NATIONALE AGRICOLE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-nationale-agricole"
+        },
+        {
+            "bin_num": "455040",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE NATIONALE AGRICOLE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-nationale-agricole"
+        },
+        {
+            "bin_num": "455041",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANQUE NATIONALE AGRICOLE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-nationale-agricole"
+        },
+        {
+            "bin_num": "465245",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE NATIONALE AGRICOLE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-nationale-agricole"
+        },
+        {
+            "bin_num": "465246",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE NATIONALE AGRICOLE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-nationale-agricole"
+        }
+    ]
+}

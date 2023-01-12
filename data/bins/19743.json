@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "421981",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421982",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421983",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421984",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/total-system-services,-inc."
+        },
+        {
+            "bin_num": "421985",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TOTAL SYSTEM SERVICES, INC.",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/total-system-services,-inc."
+        }
+    ]
+}

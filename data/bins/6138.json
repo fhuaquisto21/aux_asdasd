@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "444583",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA (LIBERIA), LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/united-bank-for-africa-(liberia),-ltd."
+        },
+        {
+            "bin_num": "458806",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED BANK FOR AFRICA (LIBERIA), LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/united-bank-for-africa-(liberia),-ltd."
+        },
+        {
+            "bin_num": "458807",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "UNITED BANK FOR AFRICA (LIBERIA), LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/united-bank-for-africa-(liberia),-ltd."
+        },
+        {
+            "bin_num": "458808",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UNITED BANK FOR AFRICA (LIBERIA), LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/united-bank-for-africa-(liberia),-ltd."
+        }
+    ]
+}

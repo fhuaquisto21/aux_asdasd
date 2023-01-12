@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "520640",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "NATIONAL WESTMINSTER BANK PLC",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/national-westminster-bank-plc"
+        },
+        {
+            "bin_num": "543472",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL WESTMINSTER BANK PLC",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/national-westminster-bank-plc"
+        },
+        {
+            "bin_num": "547368",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL WESTMINSTER BANK PLC",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/national-westminster-bank-plc"
+        },
+        {
+            "bin_num": "556970",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE FLEET CARD",
+            "bank_name": "NATIONAL WESTMINSTER BANK PLC",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/national-westminster-bank-plc"
+        }
+    ]
+}

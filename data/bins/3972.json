@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "536242",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "GRANIT BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/granit-bank-zrt."
+        },
+        {
+            "bin_num": "558644",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GRANIT BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/granit-bank-zrt."
+        },
+        {
+            "bin_num": "558647",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GRANIT BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/granit-bank-zrt."
+        }
+    ]
+}

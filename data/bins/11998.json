@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "442892",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BSB BANK AND TRUST COMPANY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/bsb-bank-and-trust-company"
+        },
+        {
+            "bin_num": "461019",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BSB BANK AND TRUST COMPANY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/bsb-bank-and-trust-company"
+        }
+    ]
+}

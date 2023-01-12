@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "502106",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAJA DE AHORROS Y PENSIONES DE BARCELONA LA CAIXA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-y-pensiones-de-barcelona-la-caixa"
+        },
+        {
+            "bin_num": "520729",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAJA DE AHORROS Y PENSIONES DE BARCELONA LA CAIXA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-y-pensiones-de-barcelona-la-caixa"
+        },
+        {
+            "bin_num": "520730",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAJA DE AHORROS Y PENSIONES DE BARCELONA LA CAIXA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-y-pensiones-de-barcelona-la-caixa"
+        },
+        {
+            "bin_num": "520731",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAJA DE AHORROS Y PENSIONES DE BARCELONA LA CAIXA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-y-pensiones-de-barcelona-la-caixa"
+        },
+        {
+            "bin_num": "545047",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAJA DE AHORROS Y PENSIONES DE BARCELONA LA CAIXA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-y-pensiones-de-barcelona-la-caixa"
+        },
+        {
+            "bin_num": "676960",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CAJA DE AHORROS Y PENSIONES DE BARCELONA LA CAIXA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-y-pensiones-de-barcelona-la-caixa"
+        }
+    ]
+}

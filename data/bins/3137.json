@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "422342",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE EQUATORIALE (SGBGE)",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/societe-generale-de-banques-en-guinee-equatoriale-(sgbge)"
+        },
+        {
+            "bin_num": "446959",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE EQUATORIALE (SGBGE)",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/societe-generale-de-banques-en-guinee-equatoriale-(sgbge)"
+        },
+        {
+            "bin_num": "485466",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE EQUATORIALE (SGBGE)",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/societe-generale-de-banques-en-guinee-equatoriale-(sgbge)"
+        }
+    ]
+}

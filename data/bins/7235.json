@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "519454",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "EXECUTIVE",
+            "bank_name": "BANK DHOFAR SAOG",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-dhofar-saog"
+        },
+        {
+            "bin_num": "528162",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD FOR BUSINESS",
+            "bank_name": "BANK DHOFAR SAOG",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-dhofar-saog"
+        },
+        {
+            "bin_num": "533776",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "BANK DHOFAR SAOG",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-dhofar-saog"
+        },
+        {
+            "bin_num": "539179",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK DHOFAR SAOG",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-dhofar-saog"
+        },
+        {
+            "bin_num": "546803",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK DHOFAR SAOG",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-dhofar-saog"
+        }
+    ]
+}

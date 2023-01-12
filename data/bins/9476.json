@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "451110",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "DANSKE BANK A/S SVERIGE FILAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-a+s-sverige-filal"
+        },
+        {
+            "bin_num": "491859",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "DANSKE BANK A/S SVERIGE FILAL",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-a+s-sverige-filal"
+        }
+    ]
+}

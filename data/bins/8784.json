@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "428120",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (CNCAS)",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/caisse-nationale-de-credit-agricole-du-senegal-(cncas)"
+        },
+        {
+            "bin_num": "428121",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (CNCAS)",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/caisse-nationale-de-credit-agricole-du-senegal-(cncas)"
+        }
+    ]
+}

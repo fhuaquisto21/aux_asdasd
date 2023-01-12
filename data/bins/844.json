@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "670370",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "AXA BANK EUROPE N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/axa-bank-europe-n.v."
+        },
+        {
+            "bin_num": "670375",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "AXA BANK EUROPE N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/axa-bank-europe-n.v."
+        },
+        {
+            "bin_num": "670380",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "AXA BANK EUROPE N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/axa-bank-europe-n.v."
+        }
+    ]
+}

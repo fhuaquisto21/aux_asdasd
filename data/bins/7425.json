@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "429348",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "431493",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "464037",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "481261",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "481270",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "518012",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/westpac-banking-corporation"
+        }
+    ]
+}

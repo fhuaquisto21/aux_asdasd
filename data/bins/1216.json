@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "493541",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "DEUTSCHE BANK S.P.A.",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/deutsche-bank-s.p.a."
+        },
+        {
+            "bin_num": "493543",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DEUTSCHE BANK S.P.A.",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/deutsche-bank-s.p.a."
+        }
+    ]
+}

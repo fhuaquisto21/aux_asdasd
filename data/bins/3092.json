@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "520110",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/asociacion-cooperativa-de-ahorro-y-credito"
+        },
+        {
+            "bin_num": "521772",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/asociacion-cooperativa-de-ahorro-y-credito"
+        },
+        {
+            "bin_num": "526823",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/asociacion-cooperativa-de-ahorro-y-credito"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "416704",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIME BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/prime-bank,-ltd."
+        },
+        {
+            "bin_num": "416705",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PRIME BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/prime-bank,-ltd."
+        },
+        {
+            "bin_num": "416706",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRIME BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/prime-bank,-ltd."
+        },
+        {
+            "bin_num": "416793",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIME BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/prime-bank,-ltd."
+        },
+        {
+            "bin_num": "416794",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PRIME BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/prime-bank,-ltd."
+        },
+        {
+            "bin_num": "430878",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRIME BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/prime-bank,-ltd."
+        }
+    ]
+}

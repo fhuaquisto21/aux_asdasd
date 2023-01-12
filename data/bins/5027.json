@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "379565",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "469151",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "513458",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "515291",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "522990",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "526051",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "530795",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "537941",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "540912",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "541322",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        },
+        {
+            "bin_num": "543248",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "PT. BANK CENTRAL ASIA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-central-asia"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "401111",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STATE EMPLOYEES C.U. OF MARYLAND, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/state-employees-c.u.-of-maryland,-inc."
+        },
+        {
+            "bin_num": "410455",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STATE EMPLOYEES C.U. OF MARYLAND, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/state-employees-c.u.-of-maryland,-inc."
+        },
+        {
+            "bin_num": "414862",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STATE EMPLOYEES C.U. OF MARYLAND, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/state-employees-c.u.-of-maryland,-inc."
+        },
+        {
+            "bin_num": "432658",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STATE EMPLOYEES C.U. OF MARYLAND, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/state-employees-c.u.-of-maryland,-inc."
+        },
+        {
+            "bin_num": "446738",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STATE EMPLOYEES C.U. OF MARYLAND, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/state-employees-c.u.-of-maryland,-inc."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "408908",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        },
+        {
+            "bin_num": "515663",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        },
+        {
+            "bin_num": "519777",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        },
+        {
+            "bin_num": "540078",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        },
+        {
+            "bin_num": "544450",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        },
+        {
+            "bin_num": "547889",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        },
+        {
+            "bin_num": "676835",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BALTIKUMS BANK AS",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/baltikums-bank-as"
+        }
+    ]
+}

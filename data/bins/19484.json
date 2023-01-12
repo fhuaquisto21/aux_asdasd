@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "437963",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "VANUATU",
+            "country_img": "https://bincheck.io/assets/flags/svg/vu.svg",
+            "country_url": "https://bincheck.io/es/vu",
+            "bank_url": "https://bincheck.io/es/vu/australia-and-new-zealand-banking-group,-ltd."
+        },
+        {
+            "bin_num": "462871",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "VANUATU",
+            "country_img": "https://bincheck.io/assets/flags/svg/vu.svg",
+            "country_url": "https://bincheck.io/es/vu",
+            "bank_url": "https://bincheck.io/es/vu/australia-and-new-zealand-banking-group,-ltd."
+        }
+    ]
+}

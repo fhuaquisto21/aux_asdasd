@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "406320",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "411608",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "424101",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "424102",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "432131",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "441178",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "473298",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "473299",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "489771",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "493141",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "493142",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        },
+        {
+            "bin_num": "493143",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SCOTIABANK DE COSTA RICA, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/scotiabank-de-costa-rica,-s.a."
+        }
+    ]
+}

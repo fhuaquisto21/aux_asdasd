@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "510018",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PKO SAVINGS BANK",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/pko-savings-bank"
+        },
+        {
+            "bin_num": "550429",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PKO SAVINGS BANK",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/pko-savings-bank"
+        }
+    ]
+}

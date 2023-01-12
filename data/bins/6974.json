@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "410744",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK NEPAL, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank-nepal,-ltd."
+        },
+        {
+            "bin_num": "518166",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK NEPAL, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank-nepal,-ltd."
+        },
+        {
+            "bin_num": "548360",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK NEPAL, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank-nepal,-ltd."
+        }
+    ]
+}

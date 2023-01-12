@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "433148",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FRANCES, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-frances,-s.a."
+        },
+        {
+            "bin_num": "442775",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FRANCES, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-frances,-s.a."
+        },
+        {
+            "bin_num": "454070",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO FRANCES, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-frances,-s.a."
+        },
+        {
+            "bin_num": "454075",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FRANCES, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-frances,-s.a."
+        }
+    ]
+}

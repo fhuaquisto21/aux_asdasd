@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "427116",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHEAST BANK, F.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northeast-bank,-f.s.b."
+        },
+        {
+            "bin_num": "545088",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NORTHEAST BANK, F.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northeast-bank,-f.s.b."
+        }
+    ]
+}

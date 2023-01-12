@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437709",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ALGERIA GULF BANK",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/algeria-gulf-bank"
+        },
+        {
+            "bin_num": "437710",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ALGERIA GULF BANK",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/algeria-gulf-bank"
+        },
+        {
+            "bin_num": "437711",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "ALGERIA GULF BANK",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/algeria-gulf-bank"
+        }
+    ]
+}

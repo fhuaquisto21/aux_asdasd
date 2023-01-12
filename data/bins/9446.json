@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "513474",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DE SURINAAMSCHE BANK N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/de-surinaamsche-bank-n.v."
+        },
+        {
+            "bin_num": "519792",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DE SURINAAMSCHE BANK N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/de-surinaamsche-bank-n.v."
+        },
+        {
+            "bin_num": "544028",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DE SURINAAMSCHE BANK N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/de-surinaamsche-bank-n.v."
+        },
+        {
+            "bin_num": "544029",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DE SURINAAMSCHE BANK N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/de-surinaamsche-bank-n.v."
+        }
+    ]
+}

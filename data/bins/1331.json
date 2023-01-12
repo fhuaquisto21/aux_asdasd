@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "516223",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ACLEDA BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/acleda-bank-plc."
+        },
+        {
+            "bin_num": "532592",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ACLEDA BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/acleda-bank-plc."
+        }
+    ]
+}

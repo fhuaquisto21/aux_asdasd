@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "527209",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/deutsche-bank-sociedad-anonima-espanola"
+        },
+        {
+            "bin_num": "538109",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/deutsche-bank-sociedad-anonima-espanola"
+        }
+    ]
+}

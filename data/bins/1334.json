@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "468787",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/australia-and-new-zealand-banking-group,-ltd."
+        },
+        {
+            "bin_num": "468788",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/australia-and-new-zealand-banking-group,-ltd."
+        }
+    ]
+}

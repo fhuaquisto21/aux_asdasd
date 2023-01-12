@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "422237",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/banco-procredit,-s.a."
+        },
+        {
+            "bin_num": "431825",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/banco-procredit,-s.a."
+        },
+        {
+            "bin_num": "444829",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/banco-procredit,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "425710",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        },
+        {
+            "bin_num": "452757",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        },
+        {
+            "bin_num": "465823",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        },
+        {
+            "bin_num": "485859",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        },
+        {
+            "bin_num": "492826",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        },
+        {
+            "bin_num": "492827",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        },
+        {
+            "bin_num": "492828",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "BARCLAYS",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/barclays"
+        }
+    ]
+}

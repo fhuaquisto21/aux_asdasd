@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "400946",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SOCIETE GENERALE ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/societe-generale-algerie"
+        },
+        {
+            "bin_num": "405060",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/societe-generale-algerie"
+        },
+        {
+            "bin_num": "434981",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/societe-generale-algerie"
+        }
+    ]
+}

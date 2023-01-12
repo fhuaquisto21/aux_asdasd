@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "408490",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FINTRO",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/fintro"
+        },
+        {
+            "bin_num": "408491",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FINTRO",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/fintro"
+        }
+    ]
+}

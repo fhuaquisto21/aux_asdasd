@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "518597",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BELGAZPROMBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belgazprombank"
+        },
+        {
+            "bin_num": "518707",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BELGAZPROMBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belgazprombank"
+        },
+        {
+            "bin_num": "529922",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BELGAZPROMBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belgazprombank"
+        },
+        {
+            "bin_num": "530422",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BELGAZPROMBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belgazprombank"
+        },
+        {
+            "bin_num": "676821",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BELGAZPROMBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belgazprombank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417851",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMERCIAL BANK DANIEL LLC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/commercial-bank-daniel-llc"
+        },
+        {
+            "bin_num": "417852",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COMMERCIAL BANK DANIEL LLC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/commercial-bank-daniel-llc"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "437967",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/australia-and-new-zealand-banking-group,-ltd."
+        },
+        {
+            "bin_num": "462873",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/australia-and-new-zealand-banking-group,-ltd."
+        },
+        {
+            "bin_num": "470610",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/australia-and-new-zealand-banking-group,-ltd."
+        },
+        {
+            "bin_num": "518638",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/australia-and-new-zealand-banking-group,-ltd."
+        },
+        {
+            "bin_num": "544325",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/australia-and-new-zealand-banking-group,-ltd."
+        }
+    ]
+}

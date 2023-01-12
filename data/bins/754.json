@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "418128",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SHAHJALAL ISLAMI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/shahjalal-islami-bank,-ltd."
+        },
+        {
+            "bin_num": "418129",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SHAHJALAL ISLAMI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/shahjalal-islami-bank,-ltd."
+        },
+        {
+            "bin_num": "700701",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SHAHJALAL ISLAMI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/shahjalal-islami-bank,-ltd."
+        },
+        {
+            "bin_num": "700781",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SHAHJALAL ISLAMI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/shahjalal-islami-bank,-ltd."
+        },
+        {
+            "bin_num": "700791",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SHAHJALAL ISLAMI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/shahjalal-islami-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "543308",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/banque-federative-du-credit-mutuel-(bfcm)"
+        },
+        {
+            "bin_num": "549526",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/banque-federative-du-credit-mutuel-(bfcm)"
+        }
+    ]
+}

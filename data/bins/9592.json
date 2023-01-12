@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "418740",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BEMO SAUDI FRANSA BANK SARL",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bemo-saudi-fransa-bank-sarl"
+        },
+        {
+            "bin_num": "418741",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BEMO SAUDI FRANSA BANK SARL",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bemo-saudi-fransa-bank-sarl"
+        }
+    ]
+}

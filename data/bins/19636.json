@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "564380",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "KIENLONGBANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/kienlongbank"
+        },
+        {
+            "bin_num": "970452",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "KIENLONGBANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/kienlongbank"
+        }
+    ]
+}

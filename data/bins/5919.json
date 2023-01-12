@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "400124",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WOORI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/woori-bank"
+        },
+        {
+            "bin_num": "400924",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WOORI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/woori-bank"
+        },
+        {
+            "bin_num": "401020",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WOORI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/woori-bank"
+        },
+        {
+            "bin_num": "406107",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "WOORI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/woori-bank"
+        },
+        {
+            "bin_num": "430984",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WOORI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/woori-bank"
+        }
+    ]
+}

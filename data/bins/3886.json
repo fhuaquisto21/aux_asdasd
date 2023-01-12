@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "515513",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HANG SENG BANK LIMITED",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/hang-seng-bank-limited"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HANG SENG BANK LIMITED",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/hang-seng-bank-limited"
+        }
+    ]
+}

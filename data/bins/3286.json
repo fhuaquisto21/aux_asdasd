@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "519318",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        },
+        {
+            "bin_num": "522521",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        },
+        {
+            "bin_num": "528289",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        },
+        {
+            "bin_num": "529434",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        },
+        {
+            "bin_num": "529888",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        },
+        {
+            "bin_num": "536568",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        },
+        {
+            "bin_num": "537964",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARREFOUR BANQUE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/carrefour-banque"
+        }
+    ]
+}

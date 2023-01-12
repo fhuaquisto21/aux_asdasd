@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "470910",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KDB BANK EUROPE LTD",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/kdb-bank-europe-ltd"
+        },
+        {
+            "bin_num": "470911",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "KDB BANK EUROPE LTD",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/kdb-bank-europe-ltd"
+        },
+        {
+            "bin_num": "470912",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KDB BANK EUROPE LTD",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/kdb-bank-europe-ltd"
+        }
+    ]
+}

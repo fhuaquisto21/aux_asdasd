@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "538809",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "33 FINANCIAL SERVICES, LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/33-financial-services,-ltd."
+        },
+        {
+            "bin_num": "539249",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "33 FINANCIAL SERVICES, LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/33-financial-services,-ltd."
+        }
+    ]
+}

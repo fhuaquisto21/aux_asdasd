@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "535835",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MATCHMOVE PAY PTE. LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/matchmove-pay-pte.-ltd."
+        },
+        {
+            "bin_num": "536395",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MATCHMOVE PAY PTE. LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/matchmove-pay-pte.-ltd."
+        },
+        {
+            "bin_num": "543111",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "MATCHMOVE PAY PTE. LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/matchmove-pay-pte.-ltd."
+        },
+        {
+            "bin_num": "544411",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MATCHMOVE PAY PTE. LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/matchmove-pay-pte.-ltd."
+        },
+        {
+            "bin_num": "557872",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MATCHMOVE PAY PTE. LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/matchmove-pay-pte.-ltd."
+        },
+        {
+            "bin_num": "557877",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MATCHMOVE PAY PTE. LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/matchmove-pay-pte.-ltd."
+        }
+    ]
+}

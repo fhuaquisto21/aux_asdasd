@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "514370",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ONEY SERVICIOS FINANCIEROS EFC",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/oney-servicios-financieros-efc"
+        },
+        {
+            "bin_num": "514413",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ONEY SERVICIOS FINANCIEROS EFC",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/oney-servicios-financieros-efc"
+        },
+        {
+            "bin_num": "514466",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ONEY SERVICIOS FINANCIEROS EFC",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/oney-servicios-financieros-efc"
+        }
+    ]
+}

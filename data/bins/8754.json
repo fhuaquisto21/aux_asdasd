@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "521076",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/national-bank-of-bahrain"
+        },
+        {
+            "bin_num": "541554",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/national-bank-of-bahrain"
+        }
+    ]
+}

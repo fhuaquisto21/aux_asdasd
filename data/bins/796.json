@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "434484",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvest"
+        },
+        {
+            "bin_num": "434485",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvest"
+        },
+        {
+            "bin_num": "434486",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvest"
+        },
+        {
+            "bin_num": "434487",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvest"
+        },
+        {
+            "bin_num": "458291",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvest"
+        }
+    ]
+}

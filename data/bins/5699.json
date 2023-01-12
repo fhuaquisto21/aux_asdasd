@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "413823",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "414687",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "414689",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "419088",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "520146",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "520375",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "521356",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        },
+        {
+            "bin_num": "524063",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/standard-chartered-bank"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "516155",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "JORDAN ISLAMIC BANK CO",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/jordan-islamic-bank-co"
+        },
+        {
+            "bin_num": "517065",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JORDAN ISLAMIC BANK CO",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/jordan-islamic-bank-co"
+        },
+        {
+            "bin_num": "524426",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "JORDAN ISLAMIC BANK CO",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/jordan-islamic-bank-co"
+        }
+    ]
+}

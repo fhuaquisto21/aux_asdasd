@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "519768",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANK OF AMERICA, N.A.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/bank-of-america,-n.a."
+        },
+        {
+            "bin_num": "521559",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANK OF AMERICA, N.A.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/bank-of-america,-n.a."
+        },
+        {
+            "bin_num": "555168",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "BANK OF AMERICA, N.A.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/bank-of-america,-n.a."
+        },
+        {
+            "bin_num": "555298",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "BANK OF AMERICA, N.A.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/bank-of-america,-n.a."
+        }
+    ]
+}

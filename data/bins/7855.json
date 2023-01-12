@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "531076",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK, N.A., PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/citibank,-n.a.,-puerto-rico"
+        },
+        {
+            "bin_num": "553516",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK, N.A., PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/citibank,-n.a.,-puerto-rico"
+        },
+        {
+            "bin_num": "555056",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A., PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/citibank,-n.a.,-puerto-rico"
+        }
+    ]
+}

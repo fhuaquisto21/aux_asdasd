@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "516148",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL MICROFINANCE BANK PLC",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/national-microfinance-bank-plc"
+        },
+        {
+            "bin_num": "516167",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL MICROFINANCE BANK PLC",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/national-microfinance-bank-plc"
+        },
+        {
+            "bin_num": "516239",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL MICROFINANCE BANK PLC",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/national-microfinance-bank-plc"
+        },
+        {
+            "bin_num": "527046",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "NATIONAL MICROFINANCE BANK PLC",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/national-microfinance-bank-plc"
+        },
+        {
+            "bin_num": "527048",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "NATIONAL MICROFINANCE BANK PLC",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/national-microfinance-bank-plc"
+        }
+    ]
+}

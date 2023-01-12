@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "479765",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "479766",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "514010",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "514099",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "527042",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "540547",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "552224",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        },
+        {
+            "bin_num": "552844",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "ASKARI BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/askari-bank,-ltd."
+        }
+    ]
+}

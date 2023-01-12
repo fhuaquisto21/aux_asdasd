@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "428270",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "WEMA BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/wema-bank-plc"
+        },
+        {
+            "bin_num": "472491",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "WEMA BANK PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/wema-bank-plc"
+        }
+    ]
+}

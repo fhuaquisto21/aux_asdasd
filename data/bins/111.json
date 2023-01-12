@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "536120",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CARIBBEAN UNION BANK LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-union-bank-ltd."
+        },
+        {
+            "bin_num": "536620",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARIBBEAN UNION BANK LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-union-bank-ltd."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "520059",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VOJVODJANSKA BANKA AD NOVI SAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/vojvodjanska-banka-ad-novi-sad"
+        },
+        {
+            "bin_num": "526112",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VOJVODJANSKA BANKA AD NOVI SAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/vojvodjanska-banka-ad-novi-sad"
+        },
+        {
+            "bin_num": "532053",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "VOJVODJANSKA BANKA AD NOVI SAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/vojvodjanska-banka-ad-novi-sad"
+        },
+        {
+            "bin_num": "557482",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VOJVODJANSKA BANKA AD NOVI SAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/vojvodjanska-banka-ad-novi-sad"
+        }
+    ]
+}

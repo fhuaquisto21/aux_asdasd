@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "406452",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "429048",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "430189",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "430190",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "430191",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "458251",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "462206",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "464520",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        },
+        {
+            "bin_num": "471292",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSC VTB BANK (GEORGIA)",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-vtb-bank-(georgia)"
+        }
+    ]
+}

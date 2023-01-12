@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "430413",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARCLAYS BANK PLC (ITALY)",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/barclays-bank-plc-(italy)"
+        },
+        {
+            "bin_num": "473113",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK PLC (ITALY)",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/barclays-bank-plc-(italy)"
+        },
+        {
+            "bin_num": "473116",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARCLAYS BANK PLC (ITALY)",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/barclays-bank-plc-(italy)"
+        },
+        {
+            "bin_num": "544452",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BARCLAYS BANK PLC (ITALY)",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/barclays-bank-plc-(italy)"
+        },
+        {
+            "bin_num": "592910",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BARCLAYS BANK PLC (ITALY)",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/barclays-bank-plc-(italy)"
+        },
+        {
+            "bin_num": "677248",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BARCLAYS BANK PLC (ITALY)",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/barclays-bank-plc-(italy)"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "445586",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC MOTOR BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-motor-bank"
+        },
+        {
+            "bin_num": "445587",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "OJSC MOTOR BANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-motor-bank"
+        }
+    ]
+}

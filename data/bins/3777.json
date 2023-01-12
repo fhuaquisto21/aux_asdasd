@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "516619",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "518273",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "519748",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "528017",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "533962",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "542750",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "542752",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "543004",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        },
+        {
+            "bin_num": "545989",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "UNIBANK S.A.",
+            "country_name": "HAITI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ht.svg",
+            "country_url": "https://bincheck.io/es/ht",
+            "bank_url": "https://bincheck.io/es/ht/unibank-s.a."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "543656",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "OCBC WING HANG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/ocbc-wing-hang-bank,-ltd."
+        },
+        {
+            "bin_num": "552227",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "OCBC WING HANG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/ocbc-wing-hang-bank,-ltd."
+        },
+        {
+            "bin_num": "554644",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "OCBC WING HANG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/ocbc-wing-hang-bank,-ltd."
+        },
+        {
+            "bin_num": "554728",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "OCBC WING HANG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/ocbc-wing-hang-bank,-ltd."
+        }
+    ]
+}

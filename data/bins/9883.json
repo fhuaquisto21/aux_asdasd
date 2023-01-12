@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "422255",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE TUNISIE ET DES EMIRATS",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie-et-des-emirats"
+        },
+        {
+            "bin_num": "422256",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE TUNISIE ET DES EMIRATS",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie-et-des-emirats"
+        },
+        {
+            "bin_num": "432042",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE TUNISIE ET DES EMIRATS",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie-et-des-emirats"
+        },
+        {
+            "bin_num": "432043",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE DE TUNISIE ET DES EMIRATS",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie-et-des-emirats"
+        }
+    ]
+}

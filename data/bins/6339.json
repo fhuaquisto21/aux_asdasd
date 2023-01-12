@@ -1,0 +1,323 @@
+{
+    "data": [
+        {
+            "bin_num": "407410",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "407601",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "415939",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "428332",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "429316",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "436500",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "446031",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "446032",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "450618",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "463225",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "466540",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "479109",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "484281",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "489086",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "496623",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "523945",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "524312",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "526478",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "531155",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "533392",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "540067",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "540068",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "540558",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "542124",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "544933",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "546015",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "549186",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "552357",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        },
+        {
+            "bin_num": "623000",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MALAYAN BANKING BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/malayan-banking-berhad"
+        }
+    ]
+}

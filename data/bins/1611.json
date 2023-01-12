@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517980",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO CREDITO INVERSIONES",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-credito-inversiones"
+        },
+        {
+            "bin_num": "518891",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO CREDITO INVERSIONES",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-credito-inversiones"
+        },
+        {
+            "bin_num": "531663",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO CREDITO INVERSIONES",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-credito-inversiones"
+        },
+        {
+            "bin_num": "552273",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO CREDITO INVERSIONES",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-credito-inversiones"
+        }
+    ]
+}

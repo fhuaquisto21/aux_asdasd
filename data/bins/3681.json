@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "430874",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANKPACIFIC, LTD.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/bankpacific,-ltd."
+        },
+        {
+            "bin_num": "436714",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANKPACIFIC, LTD.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/bankpacific,-ltd."
+        }
+    ]
+}

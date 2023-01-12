@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "412975",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "412976",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "428310",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "458486",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "461136",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "547886",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "549054",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/jscb-for-foreign-trade-of-vietnam"
+        }
+    ]
+}

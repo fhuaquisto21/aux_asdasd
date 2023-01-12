@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "400263",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "COOP BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/coop-bank-ab"
+        },
+        {
+            "bin_num": "430437",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COOP BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/coop-bank-ab"
+        },
+        {
+            "bin_num": "430438",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "COOP BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/coop-bank-ab"
+        },
+        {
+            "bin_num": "432957",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COOP BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/coop-bank-ab"
+        },
+        {
+            "bin_num": "432958",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "COOP BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/coop-bank-ab"
+        }
+    ]
+}

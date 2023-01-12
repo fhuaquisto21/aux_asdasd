@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "471378",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/kenya-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "471379",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/kenya-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "471380",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/kenya-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "471381",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KENYA COMMERCIAL BANK, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/kenya-commercial-bank,-ltd."
+        }
+    ]
+}

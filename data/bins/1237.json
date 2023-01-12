@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "413889",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB MKB UNIONBANK A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-mkb-unionbank-a.d."
+        },
+        {
+            "bin_num": "417650",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB MKB UNIONBANK A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-mkb-unionbank-a.d."
+        },
+        {
+            "bin_num": "469764",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CB MKB UNIONBANK A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-mkb-unionbank-a.d."
+        }
+    ]
+}

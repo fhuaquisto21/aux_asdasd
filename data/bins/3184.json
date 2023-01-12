@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "419989",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "429349",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "431492",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "464038",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "472236",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "546037",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/westpac-banking-corporation"
+        }
+    ]
+}

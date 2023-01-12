@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "355111",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JCB CARD",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/jcb-card"
+        },
+        {
+            "bin_num": "355121",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JCB CARD",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/jcb-card"
+        }
+    ]
+}

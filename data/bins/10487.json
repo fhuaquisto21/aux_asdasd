@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "546297",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIFINANCIAL EUROPE PLC.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/citifinancial-europe-plc."
+        },
+        {
+            "bin_num": "546298",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIFINANCIAL EUROPE PLC.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/citifinancial-europe-plc."
+        }
+    ]
+}

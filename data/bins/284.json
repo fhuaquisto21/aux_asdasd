@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "406290",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "406291",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "416414",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "416415",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "416416",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "416417",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "421541",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "433815",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "486510",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "486585",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        },
+        {
+            "bin_num": "486611",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "NUEVO BANCO DE SANTA FE, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/nuevo-banco-de-santa-fe,-s.a."
+        }
+    ]
+}

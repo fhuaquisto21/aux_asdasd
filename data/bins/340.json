@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "432113",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GIROBANK N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/girobank-n.v."
+        },
+        {
+            "bin_num": "467471",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GIROBANK N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/girobank-n.v."
+        }
+    ]
+}

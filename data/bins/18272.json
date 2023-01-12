@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "411233",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "STEEL VALLEY F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/steel-valley-f.c.u."
+        },
+        {
+            "bin_num": "447145",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STEEL VALLEY F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/steel-valley-f.c.u."
+        }
+    ]
+}

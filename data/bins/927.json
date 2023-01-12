@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "404122",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF AFRICA",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/bank-of-africa"
+        },
+        {
+            "bin_num": "404123",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK OF AFRICA",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/bank-of-africa"
+        },
+        {
+            "bin_num": "404124",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF AFRICA",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/bank-of-africa"
+        },
+        {
+            "bin_num": "444448",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF AFRICA",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/bank-of-africa"
+        },
+        {
+            "bin_num": "470358",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF AFRICA",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/bank-of-africa"
+        }
+    ]
+}

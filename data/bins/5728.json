@@ -1,0 +1,202 @@
+{
+    "data": [
+        {
+            "bin_num": "405255",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "405256",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "405257",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "405258",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "405263",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "417803",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "423208",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "426668",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "427764",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "431253",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "431879",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "433317",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "433318",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "433319",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "462000",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "479068",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "484197",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        },
+        {
+            "bin_num": "497149",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC ATF BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-atf-bank"
+        }
+    ]
+}

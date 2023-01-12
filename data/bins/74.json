@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "520022",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE NEGOCIOS INTERNACIONAL, SA",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-de-negocios-internacional,-sa"
+        },
+        {
+            "bin_num": "530819",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANCO DE NEGOCIOS INTERNACIONAL, SA",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-de-negocios-internacional,-sa"
+        },
+        {
+            "bin_num": "534197",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE NEGOCIOS INTERNACIONAL, SA",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-de-negocios-internacional,-sa"
+        },
+        {
+            "bin_num": "556679",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO DE NEGOCIOS INTERNACIONAL, SA",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-de-negocios-internacional,-sa"
+        }
+    ]
+}

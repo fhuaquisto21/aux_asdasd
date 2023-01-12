@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431181",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PT. BANK ARTHA GRAHA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-artha-graha"
+        },
+        {
+            "bin_num": "431182",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PT. BANK ARTHA GRAHA",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-artha-graha"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "512998",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "519624",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "528492",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "529406",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "535315",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "547585",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/cscbank-s.a.l."
+        }
+    ]
+}

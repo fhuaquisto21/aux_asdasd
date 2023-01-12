@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "539248",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "EURONET 360 FINANCE, LTD.",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/euronet-360-finance,-ltd."
+        },
+        {
+            "bin_num": "554502",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "EURONET 360 FINANCE, LTD.",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/euronet-360-finance,-ltd."
+        }
+    ]
+}

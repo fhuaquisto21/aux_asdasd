@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "465310",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MBNA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/mbna"
+        },
+        {
+            "bin_num": "465311",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MBNA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/mbna"
+        },
+        {
+            "bin_num": "601300",
+            "bin_mark": "DISCOVER",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "MBNA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/mbna"
+        }
+    ]
+}

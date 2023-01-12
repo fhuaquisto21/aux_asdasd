@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "486279",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agricultural-and-rural-development"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agricultural-and-rural-development"
+        },
+        {
+            "bin_num": "486282",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agricultural-and-rural-development"
+        },
+        {
+            "bin_num": "486283",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agricultural-and-rural-development"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "517188",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "HSA NON SUBSTANTIATED",
+            "bank_name": "FIRST NATIONAL BANK OF DURANGO",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-national-bank-of-durango"
+        },
+        {
+            "bin_num": "533414",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST NATIONAL BANK OF DURANGO",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-national-bank-of-durango"
+        },
+        {
+            "bin_num": "533719",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST NATIONAL BANK OF DURANGO",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-national-bank-of-durango"
+        }
+    ]
+}

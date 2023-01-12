@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "406970",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BOSNA BANK INTERNATIONAL",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/bosna-bank-international"
+        },
+        {
+            "bin_num": "406971",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BOSNA BANK INTERNATIONAL",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/bosna-bank-international"
+        },
+        {
+            "bin_num": "417488",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BOSNA BANK INTERNATIONAL",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/bosna-bank-international"
+        },
+        {
+            "bin_num": "417616",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BOSNA BANK INTERNATIONAL",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/bosna-bank-international"
+        },
+        {
+            "bin_num": "428172",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BOSNA BANK INTERNATIONAL",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/bosna-bank-international"
+        },
+        {
+            "bin_num": "428173",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BOSNA BANK INTERNATIONAL",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/bosna-bank-international"
+        }
+    ]
+}

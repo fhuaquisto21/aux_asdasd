@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "478076",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAIFFEISEN BANK",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-bank"
+        },
+        {
+            "bin_num": "478077",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RAIFFEISEN BANK",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-bank"
+        }
+    ]
+}

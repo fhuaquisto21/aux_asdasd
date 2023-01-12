@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "432162",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK GABORONE, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/bank-gaborone,-ltd."
+        },
+        {
+            "bin_num": "432163",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK GABORONE, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/bank-gaborone,-ltd."
+        },
+        {
+            "bin_num": "432164",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK GABORONE, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/bank-gaborone,-ltd."
+        },
+        {
+            "bin_num": "432165",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK GABORONE, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/bank-gaborone,-ltd."
+        }
+    ]
+}

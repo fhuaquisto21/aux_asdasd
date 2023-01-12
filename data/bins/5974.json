@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "532749",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "WARBA BANK K.S.C",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/warba-bank-k.s.c"
+        },
+        {
+            "bin_num": "536325",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "WARBA BANK K.S.C",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/warba-bank-k.s.c"
+        },
+        {
+            "bin_num": "559459",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "WARBA BANK K.S.C",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/warba-bank-k.s.c"
+        }
+    ]
+}

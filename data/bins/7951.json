@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "524669",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        },
+        {
+            "bin_num": "527037",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        },
+        {
+            "bin_num": "532085",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        },
+        {
+            "bin_num": "539105",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        },
+        {
+            "bin_num": "539118",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        },
+        {
+            "bin_num": "549856",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        },
+        {
+            "bin_num": "557485",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-romana-de-credite-si-investitii-s.a."
+        }
+    ]
+}

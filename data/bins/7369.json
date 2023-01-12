@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "512096",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        },
+        {
+            "bin_num": "514893",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        },
+        {
+            "bin_num": "519743",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        },
+        {
+            "bin_num": "519773",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        },
+        {
+            "bin_num": "522764",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        },
+        {
+            "bin_num": "527614",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        },
+        {
+            "bin_num": "548815",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAPITAL BANK, INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/capital-bank,-inc."
+        }
+    ]
+}

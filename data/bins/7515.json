@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "377750",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INTERBANK",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/interbank"
+        },
+        {
+            "bin_num": "377751",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD CHARGE",
+            "bank_name": "INTERBANK",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/interbank"
+        },
+        {
+            "bin_num": "377752",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GNS PLATINUM CHARGE",
+            "bank_name": "INTERBANK",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/interbank"
+        },
+        {
+            "bin_num": "377753",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERBANK",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/interbank"
+        },
+        {
+            "bin_num": "377754",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "INTERBANK",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/interbank"
+        }
+    ]
+}

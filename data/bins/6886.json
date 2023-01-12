@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "521092",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CREDIT AGRICOLE DU MAROC",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/credit-agricole-du-maroc"
+        },
+        {
+            "bin_num": "533179",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CREDIT AGRICOLE DU MAROC",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/credit-agricole-du-maroc"
+        },
+        {
+            "bin_num": "537014",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CREDIT AGRICOLE DU MAROC",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/credit-agricole-du-maroc"
+        }
+    ]
+}

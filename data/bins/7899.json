@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "bin_num": "420372",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "420373",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "420374",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "420375",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "457658",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "457659",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "458454",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "458506",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "510463",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "512713",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "516140",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "527158",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        },
+        {
+            "bin_num": "527283",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARWA BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/barwa-bank"
+        }
+    ]
+}

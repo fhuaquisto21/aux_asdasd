@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "489032",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "DHAKA BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/dhaka-bank,-ltd."
+        },
+        {
+            "bin_num": "603590",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DHAKA BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/dhaka-bank,-ltd."
+        }
+    ]
+}

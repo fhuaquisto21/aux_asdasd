@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "403449",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        },
+        {
+            "bin_num": "448825",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        },
+        {
+            "bin_num": "448866",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        },
+        {
+            "bin_num": "448867",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        },
+        {
+            "bin_num": "470307",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        },
+        {
+            "bin_num": "482047",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        },
+        {
+            "bin_num": "499153",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITY COUNTY CREDIT UNION OF FORT LAUDERDALE",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/city-county-credit-union-of-fort-lauderdale"
+        }
+    ]
+}

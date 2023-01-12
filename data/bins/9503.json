@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "402150",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "LANSFORSAKRINGAR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank-ab"
+        },
+        {
+            "bin_num": "403252",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "LANSFORSAKRINGAR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank-ab"
+        },
+        {
+            "bin_num": "410806",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "LANSFORSAKRINGAR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank-ab"
+        },
+        {
+            "bin_num": "457241",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "LANSFORSAKRINGAR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank-ab"
+        },
+        {
+            "bin_num": "525235",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LANSFORSAKRINGAR BANK AB",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/lansforsakringar-bank-ab"
+        }
+    ]
+}

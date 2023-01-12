@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "402440",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ZAMINBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/zaminbank-ojsc"
+        },
+        {
+            "bin_num": "432487",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ZAMINBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/zaminbank-ojsc"
+        },
+        {
+            "bin_num": "432488",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ZAMINBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/zaminbank-ojsc"
+        },
+        {
+            "bin_num": "432489",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ZAMINBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/zaminbank-ojsc"
+        },
+        {
+            "bin_num": "484875",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "ZAMINBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/zaminbank-ojsc"
+        }
+    ]
+}

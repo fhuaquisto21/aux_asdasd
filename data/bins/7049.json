@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "405547",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CARDS NZ, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/cards-nz,-ltd."
+        },
+        {
+            "bin_num": "428333",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GIFT",
+            "bank_name": "CARDS NZ, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/cards-nz,-ltd."
+        },
+        {
+            "bin_num": "433243",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CARDS NZ, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/cards-nz,-ltd."
+        },
+        {
+            "bin_num": "442417",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CARDS NZ, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/cards-nz,-ltd."
+        },
+        {
+            "bin_num": "466566",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CARDS NZ, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/cards-nz,-ltd."
+        }
+    ]
+}

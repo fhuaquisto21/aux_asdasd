@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "513550",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/carrefour-servizi-finanziari-s.p.a."
+        },
+        {
+            "bin_num": "532977",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/carrefour-servizi-finanziari-s.p.a."
+        },
+        {
+            "bin_num": "546861",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/carrefour-servizi-finanziari-s.p.a."
+        },
+        {
+            "bin_num": "548983",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/carrefour-servizi-finanziari-s.p.a."
+        }
+    ]
+}

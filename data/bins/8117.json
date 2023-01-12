@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403231",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CB INDUSTRIAL CREDIT BANK LLC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cb-industrial-credit-bank-llc-(closed)"
+        },
+        {
+            "bin_num": "432781",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB INDUSTRIAL CREDIT BANK LLC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cb-industrial-credit-bank-llc-(closed)"
+        },
+        {
+            "bin_num": "432782",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CB INDUSTRIAL CREDIT BANK LLC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cb-industrial-credit-bank-llc-(closed)"
+        },
+        {
+            "bin_num": "432783",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB INDUSTRIAL CREDIT BANK LLC (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cb-industrial-credit-bank-llc-(closed)"
+        }
+    ]
+}

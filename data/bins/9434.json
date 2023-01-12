@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "405534",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "454487",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "454489",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "462975",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "469342",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "512940",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "526910",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "539138",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        },
+        {
+            "bin_num": "540331",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PEOPLES BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/peoples-bank"
+        }
+    ]
+}

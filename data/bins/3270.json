@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "456254",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE POPULAIRE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/banque-populaire"
+        },
+        {
+            "bin_num": "481143",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE POPULAIRE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/banque-populaire"
+        },
+        {
+            "bin_num": "497592",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE POPULAIRE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/banque-populaire"
+        },
+        {
+            "bin_num": "499096",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE POPULAIRE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/banque-populaire"
+        }
+    ]
+}

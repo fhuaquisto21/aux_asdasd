@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "529591",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/prepay-technologies,-ltd."
+        },
+        {
+            "bin_num": "535047",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/prepay-technologies,-ltd."
+        },
+        {
+            "bin_num": "536213",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/prepay-technologies,-ltd."
+        },
+        {
+            "bin_num": "559204",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PREPAY TECHNOLOGIES, LTD.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/prepay-technologies,-ltd."
+        }
+    ]
+}

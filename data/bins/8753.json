@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "419593",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MEEM BANK",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/meem-bank"
+        },
+        {
+            "bin_num": "439954",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MEEM BANK",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/meem-bank"
+        },
+        {
+            "bin_num": "439955",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MEEM BANK",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/meem-bank"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517894",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "541372",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "543444",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "554344",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/standard-bank-of-south-africa,-ltd."
+        }
+    ]
+}

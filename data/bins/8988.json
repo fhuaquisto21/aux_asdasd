@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "bin_num": "516762",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "516763",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "518806",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "520651",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "521168",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "522464",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "528051",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "542781",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "544397",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "544605",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "547144",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "547145",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "547515",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "547737",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "589602",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "676108",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        },
+        {
+            "bin_num": "676191",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CESKOSLOVENSKA OBCHODNA BANKA A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodna-banka-a.s."
+        }
+    ]
+}

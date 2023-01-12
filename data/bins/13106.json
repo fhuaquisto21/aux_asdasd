@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "485656",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DALTON WHITFIELD BANK (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/dalton-whitfield-bank-(closed)"
+        },
+        {
+            "bin_num": "489914",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DALTON WHITFIELD BANK (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/dalton-whitfield-bank-(closed)"
+        },
+        {
+            "bin_num": "489915",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DALTON WHITFIELD BANK (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/dalton-whitfield-bank-(closed)"
+        }
+    ]
+}

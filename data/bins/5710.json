@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "417432",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASIACREDIT BANK JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/asiacredit-bank-jsc"
+        },
+        {
+            "bin_num": "417433",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASIACREDIT BANK JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/asiacredit-bank-jsc"
+        },
+        {
+            "bin_num": "417434",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ASIACREDIT BANK JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/asiacredit-bank-jsc"
+        }
+    ]
+}

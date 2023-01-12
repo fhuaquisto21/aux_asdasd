@@ -1,0 +1,202 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "427351",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "428942",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "478736",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "478738",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "487030",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "516050",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "526435",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "531460",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "531814",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "536810",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "540004",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "553600",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "554522",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "554533",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "558654",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "676427",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        },
+        {
+            "bin_num": "676890",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "ERSTE BANK HUNGARY ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/erste-bank-hungary-zrt."
+        }
+    ]
+}

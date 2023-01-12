@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "409767",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FALABELLA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-falabella"
+        },
+        {
+            "bin_num": "410406",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FALABELLA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-falabella"
+        },
+        {
+            "bin_num": "410407",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FALABELLA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-falabella"
+        },
+        {
+            "bin_num": "421413",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FALABELLA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-falabella"
+        }
+    ]
+}

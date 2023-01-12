@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "441055",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FINABANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/finabank,-n.v."
+        },
+        {
+            "bin_num": "441056",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FINABANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/finabank,-n.v."
+        },
+        {
+            "bin_num": "441057",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FINABANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/finabank,-n.v."
+        },
+        {
+            "bin_num": "460078",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FINABANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/finabank,-n.v."
+        },
+        {
+            "bin_num": "474572",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FINABANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/finabank,-n.v."
+        }
+    ]
+}

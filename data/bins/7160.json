@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "402438",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "VALUCARD NIGERIA PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/valucard-nigeria-plc"
+        },
+        {
+            "bin_num": "424367",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "VALUCARD NIGERIA PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/valucard-nigeria-plc"
+        },
+        {
+            "bin_num": "424465",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "VALUCARD NIGERIA PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/valucard-nigeria-plc"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "VALUCARD NIGERIA PLC",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/valucard-nigeria-plc"
+        }
+    ]
+}

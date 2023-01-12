@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "354036",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANA",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/ana"
+        },
+        {
+            "bin_num": "354062",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANA",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/ana"
+        }
+    ]
+}

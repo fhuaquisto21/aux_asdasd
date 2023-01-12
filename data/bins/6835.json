@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "949612",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "TERIYN BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/teriyn-bank"
+        },
+        {
+            "bin_num": "949622",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "TERIYN BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/teriyn-bank"
+        }
+    ]
+}

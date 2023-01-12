@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "400569",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITI CARDS",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/citi-cards"
+        },
+        {
+            "bin_num": "452013",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITI CARDS",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/citi-cards"
+        },
+        {
+            "bin_num": "910027",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CITI CARDS",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/citi-cards"
+        },
+        {
+            "bin_num": "920027",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CITI CARDS",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/citi-cards"
+        },
+        {
+            "bin_num": "940327",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CITI CARDS",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/citi-cards"
+        }
+    ]
+}

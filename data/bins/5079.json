@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "512328",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "518075",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "549241",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "549876",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/cscbank-s.a.l."
+        }
+    ]
+}

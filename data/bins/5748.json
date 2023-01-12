@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "377514",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD REVOLVE",
+            "bank_name": "KKB",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/kkb"
+        },
+        {
+            "bin_num": "379894",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "KKB",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/kkb"
+        },
+        {
+            "bin_num": "379895",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN REVOLVE",
+            "bank_name": "KKB",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/kkb"
+        }
+    ]
+}

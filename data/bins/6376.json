@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "428151",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "489603",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/hongkong-and-shanghai-banking-corp.,-ltd."
+        }
+    ]
+}

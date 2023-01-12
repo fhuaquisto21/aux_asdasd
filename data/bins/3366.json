@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437353",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UNITED BANK FOR AFRICA GABON",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/united-bank-for-africa-gabon"
+        },
+        {
+            "bin_num": "457279",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA GABON",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/united-bank-for-africa-gabon"
+        },
+        {
+            "bin_num": "472853",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNITED BANK FOR AFRICA GABON",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/united-bank-for-africa-gabon"
+        }
+    ]
+}

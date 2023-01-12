@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "524213",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "524262",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "529612",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "530525",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "542035",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "542794",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "546965",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "554300",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        },
+        {
+            "bin_num": "557674",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-sal"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "466260",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "510056",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "521378",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "526289",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "526290",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "540435",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "543081",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "552879",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "588843",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "639001",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        },
+        {
+            "bin_num": "676258",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "TURKIYE HALK BANKASI A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-halk-bankasi-a.s."
+        }
+    ]
+}

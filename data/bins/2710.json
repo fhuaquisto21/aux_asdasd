@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "375500",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERICAN EXPRESS",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/american-express"
+        },
+        {
+            "bin_num": "375501",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERICAN EXPRESS",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/american-express"
+        }
+    ]
+}

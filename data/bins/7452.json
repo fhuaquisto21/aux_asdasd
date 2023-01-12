@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "545549",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK NA PARAGUAY BRANCH",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/citibank-na-paraguay-branch"
+        },
+        {
+            "bin_num": "545609",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK NA PARAGUAY BRANCH",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/citibank-na-paraguay-branch"
+        },
+        {
+            "bin_num": "549200",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK NA PARAGUAY BRANCH",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/citibank-na-paraguay-branch"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "433805",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        },
+        {
+            "bin_num": "433806",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        },
+        {
+            "bin_num": "481214",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        },
+        {
+            "bin_num": "481215",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        },
+        {
+            "bin_num": "481216",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        },
+        {
+            "bin_num": "481217",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        },
+        {
+            "bin_num": "481218",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BRAMER BANKING CORPORATION LTD",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/bramer-banking-corporation-ltd"
+        }
+    ]
+}

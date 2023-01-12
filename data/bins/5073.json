@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431991",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BLOM BANK S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/blom-bank-s.a.l."
+        },
+        {
+            "bin_num": "481773",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BLOM BANK S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/blom-bank-s.a.l."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "423607",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SARATOGA NATIONAL BANK AND TRUST",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/saratoga-national-bank-and-trust"
+        },
+        {
+            "bin_num": "446462",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SARATOGA NATIONAL BANK AND TRUST",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/saratoga-national-bank-and-trust"
+        }
+    ]
+}

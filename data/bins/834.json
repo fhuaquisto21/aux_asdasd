@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "411856",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC TRUSTBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/pjsc-trustbank"
+        },
+        {
+            "bin_num": "432201",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PJSC TRUSTBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/pjsc-trustbank"
+        },
+        {
+            "bin_num": "432231",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PJSC TRUSTBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/pjsc-trustbank"
+        },
+        {
+            "bin_num": "432232",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PJSC TRUSTBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/pjsc-trustbank"
+        },
+        {
+            "bin_num": "432233",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PJSC TRUSTBANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/pjsc-trustbank"
+        }
+    ]
+}

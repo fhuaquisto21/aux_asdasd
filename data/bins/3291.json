@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "371006",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN REVOLVE",
+            "bank_name": "CREDIPAR",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/credipar"
+        },
+        {
+            "bin_num": "374736",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN REVOLVE",
+            "bank_name": "CREDIPAR",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/credipar"
+        },
+        {
+            "bin_num": "375540",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CREDIPAR",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/credipar"
+        }
+    ]
+}

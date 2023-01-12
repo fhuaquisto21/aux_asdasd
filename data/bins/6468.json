@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "506199",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AKALA PR",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/akala-pr"
+        },
+        {
+            "bin_num": "506306",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "AKALA PR",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/akala-pr"
+        },
+        {
+            "bin_num": "506332",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "AKALA PR",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/akala-pr"
+        }
+    ]
+}

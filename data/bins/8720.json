@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "428111",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        },
+        {
+            "bin_num": "428112",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        },
+        {
+            "bin_num": "441519",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        },
+        {
+            "bin_num": "449157",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        },
+        {
+            "bin_num": "459014",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        },
+        {
+            "bin_num": "459015",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        },
+        {
+            "bin_num": "459016",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL COMMERCIAL BANK (SVG), LTD.",
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/vc.svg",
+            "country_url": "https://bincheck.io/es/vc",
+            "bank_url": "https://bincheck.io/es/vc/national-commercial-bank-(svg),-ltd."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "624435",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "HANA CARD",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "624436",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "ONE CHECK CARD",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "626399",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "ONE CORPORATE CARD",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "626400",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "ONE COMPANY CHECK",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "626409",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "ONE CORPORATE CARD",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "943181",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "HANA CARD",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "943281",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "HANA CARD",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "944281",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        },
+        {
+            "bin_num": "946181",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ONE",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/one"
+        }
+    ]
+}

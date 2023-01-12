@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "408240",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VOLKSBANK SLOVENSKO, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/volksbank-slovensko,-a.s."
+        },
+        {
+            "bin_num": "408241",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "VOLKSBANK SLOVENSKO, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/volksbank-slovensko,-a.s."
+        },
+        {
+            "bin_num": "410614",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "VOLKSBANK SLOVENSKO, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/volksbank-slovensko,-a.s."
+        },
+        {
+            "bin_num": "460058",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "VOLKSBANK SLOVENSKO, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/volksbank-slovensko,-a.s."
+        },
+        {
+            "bin_num": "548392",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VOLKSBANK SLOVENSKO, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/volksbank-slovensko,-a.s."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "458757",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST MERCHANT BANK, LTD.",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/first-merchant-bank,-ltd."
+        },
+        {
+            "bin_num": "472820",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST MERCHANT BANK, LTD.",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/first-merchant-bank,-ltd."
+        }
+    ]
+}

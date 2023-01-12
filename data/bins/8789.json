@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "465472",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "CREDIT INTERNATIONAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-international"
+        },
+        {
+            "bin_num": "489036",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIT INTERNATIONAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-international"
+        },
+        {
+            "bin_num": "489037",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CREDIT INTERNATIONAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-international"
+        },
+        {
+            "bin_num": "489038",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "CREDIT INTERNATIONAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-international"
+        },
+        {
+            "bin_num": "489039",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CREDIT INTERNATIONAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-international"
+        }
+    ]
+}

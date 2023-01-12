@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "434657",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "468978",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "468979",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "468980",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "701500",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "Q-CASH",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "Q-CASH",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "701502",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "Q-CASH",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "701503",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "Q-CASH",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "701570",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "Q-CASH",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        },
+        {
+            "bin_num": "701590",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SONALI BANK, LTD.",
+            "country_name": "BANGLADESH",
+            "country_img": "https://bincheck.io/assets/flags/svg/bd.svg",
+            "country_url": "https://bincheck.io/es/bd",
+            "bank_url": "https://bincheck.io/es/bd/sonali-bank,-ltd."
+        }
+    ]
+}

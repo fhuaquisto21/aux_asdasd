@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "406981",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE",
+            "country_name": "GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gn.svg",
+            "country_url": "https://bincheck.io/es/gn",
+            "bank_url": "https://bincheck.io/es/gn/societe-generale-de-banques-en-guinee"
+        },
+        {
+            "bin_num": "458850",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE",
+            "country_name": "GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gn.svg",
+            "country_url": "https://bincheck.io/es/gn",
+            "bank_url": "https://bincheck.io/es/gn/societe-generale-de-banques-en-guinee"
+        },
+        {
+            "bin_num": "458851",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE",
+            "country_name": "GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gn.svg",
+            "country_url": "https://bincheck.io/es/gn",
+            "bank_url": "https://bincheck.io/es/gn/societe-generale-de-banques-en-guinee"
+        },
+        {
+            "bin_num": "470644",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE",
+            "country_name": "GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gn.svg",
+            "country_url": "https://bincheck.io/es/gn",
+            "bank_url": "https://bincheck.io/es/gn/societe-generale-de-banques-en-guinee"
+        },
+        {
+            "bin_num": "470645",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SOCIETE GENERALE DE BANQUES EN GUINEE",
+            "country_name": "GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gn.svg",
+            "country_url": "https://bincheck.io/es/gn",
+            "bank_url": "https://bincheck.io/es/gn/societe-generale-de-banques-en-guinee"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "449787",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FARMERS AND MERCHANTS BANK OF CENTRAL CALIFORNIA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/farmers-and-merchants-bank-of-central-california"
+        },
+        {
+            "bin_num": "472359",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FARMERS AND MERCHANTS BANK OF CENTRAL CALIFORNIA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/farmers-and-merchants-bank-of-central-california"
+        }
+    ]
+}

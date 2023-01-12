@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "513057",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE INTERBANK",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/societe-interbank"
+        },
+        {
+            "bin_num": "540150",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE INTERBANK",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/societe-interbank"
+        }
+    ]
+}

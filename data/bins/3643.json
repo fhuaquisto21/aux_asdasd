@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "403278",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/citibank-europe-plc"
+        },
+        {
+            "bin_num": "428539",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/citibank-europe-plc"
+        },
+        {
+            "bin_num": "428540",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/citibank-europe-plc"
+        },
+        {
+            "bin_num": "428541",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/citibank-europe-plc"
+        },
+        {
+            "bin_num": "477105",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CITIBANK EUROPE PLC",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/citibank-europe-plc"
+        }
+    ]
+}

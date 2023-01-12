@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "519746",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PJSC ORIENT FINANS",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/pjsc-orient-finans"
+        },
+        {
+            "bin_num": "527685",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PJSC ORIENT FINANS",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/pjsc-orient-finans"
+        },
+        {
+            "bin_num": "531951",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PJSC ORIENT FINANS",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/pjsc-orient-finans"
+        },
+        {
+            "bin_num": "670862",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PJSC ORIENT FINANS",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/pjsc-orient-finans"
+        }
+    ]
+}

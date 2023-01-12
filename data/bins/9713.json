@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "423314",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "425550",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "425551",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "425552",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "444826",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "464652",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "464653",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        },
+        {
+            "bin_num": "464654",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC AGROINVESTBANK",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-agroinvestbank"
+        }
+    ]
+}

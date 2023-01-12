@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "400080",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        },
+        {
+            "bin_num": "413251",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        },
+        {
+            "bin_num": "516053",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        },
+        {
+            "bin_num": "534120",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        },
+        {
+            "bin_num": "537514",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        },
+        {
+            "bin_num": "537547",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "COMMERCIAL",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        },
+        {
+            "bin_num": "553049",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RAIFFEISEN BANK SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/raiffeisen-bank-sh.a."
+        }
+    ]
+}

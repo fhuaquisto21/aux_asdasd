@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "420403",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK WINDHOEK",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek"
+        },
+        {
+            "bin_num": "457808",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK WINDHOEK",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek"
+        },
+        {
+            "bin_num": "476984",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK WINDHOEK",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek"
+        },
+        {
+            "bin_num": "476985",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK WINDHOEK",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek"
+        }
+    ]
+}

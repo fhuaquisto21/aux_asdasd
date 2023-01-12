@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "400071",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "440251",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "440252",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "440253",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "478719",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "490801",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437548",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "MAJID AL FUTTAIM FINANCE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/majid-al-futtaim-finance"
+        },
+        {
+            "bin_num": "457377",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MAJID AL FUTTAIM FINANCE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/majid-al-futtaim-finance"
+        },
+        {
+            "bin_num": "469679",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "MAJID AL FUTTAIM FINANCE",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/majid-al-futtaim-finance"
+        }
+    ]
+}

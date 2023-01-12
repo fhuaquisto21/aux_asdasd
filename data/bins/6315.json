@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "519528",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF CHINA (MALAYSIA) BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/bank-of-china-(malaysia)-berhad"
+        },
+        {
+            "bin_num": "532142",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF CHINA (MALAYSIA) BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/bank-of-china-(malaysia)-berhad"
+        }
+    ]
+}

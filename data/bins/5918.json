@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "625243",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "CHUFA CARD",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        },
+        {
+            "bin_num": "625244",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        },
+        {
+            "bin_num": "943907",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "CHUFA CARD",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        },
+        {
+            "bin_num": "944007",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        },
+        {
+            "bin_num": "944307",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        },
+        {
+            "bin_num": "945107",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        },
+        {
+            "bin_num": "946007",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "WATER SUPPLIER",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/water-supplier"
+        }
+    ]
+}

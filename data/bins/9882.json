@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "412545",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "412618",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "427129",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "431524",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "431525",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "440648",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "440649",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "443958",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "455769",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "456894",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "474156",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        },
+        {
+            "bin_num": "474157",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE TUNISIE",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/banque-de-tunisie"
+        }
+    ]
+}

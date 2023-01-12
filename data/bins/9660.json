@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "451803",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GRAND COMMERCIAL BANK",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/grand-commercial-bank"
+        },
+        {
+            "bin_num": "514069",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GRAND COMMERCIAL BANK",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/grand-commercial-bank"
+        }
+    ]
+}

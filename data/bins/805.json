@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "403558",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-open-joint-stock-company"
+        },
+        {
+            "bin_num": "424199",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belvnesheconombank-open-joint-stock-company"
+        }
+    ]
+}

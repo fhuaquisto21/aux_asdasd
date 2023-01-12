@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "521344",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SYNCHRONY BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/synchrony-bank"
+        },
+        {
+            "bin_num": "523770",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SYNCHRONY BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/synchrony-bank"
+        },
+        {
+            "bin_num": "524391",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SYNCHRONY BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/synchrony-bank"
+        }
+    ]
+}

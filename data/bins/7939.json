@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "412727",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-hvb-tiriac,-s.a."
+        },
+        {
+            "bin_num": "446297",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-hvb-tiriac,-s.a."
+        },
+        {
+            "bin_num": "457985",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-hvb-tiriac,-s.a."
+        },
+        {
+            "bin_num": "477541",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/banca-comerciala-hvb-tiriac,-s.a."
+        }
+    ]
+}

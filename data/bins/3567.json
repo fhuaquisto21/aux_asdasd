@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "431850",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VON ESSEN KG BANKGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/von-essen-kg-bankgesellschaft"
+        },
+        {
+            "bin_num": "432110",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VON ESSEN KG BANKGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/von-essen-kg-bankgesellschaft"
+        },
+        {
+            "bin_num": "432111",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VON ESSEN KG BANKGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/von-essen-kg-bankgesellschaft"
+        },
+        {
+            "bin_num": "432112",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VON ESSEN KG BANKGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/von-essen-kg-bankgesellschaft"
+        }
+    ]
+}

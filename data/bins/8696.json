@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "419723",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ROYAL BANK OF CANADA",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/royal-bank-of-canada"
+        },
+        {
+            "bin_num": "419724",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ROYAL BANK OF CANADA",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/royal-bank-of-canada"
+        },
+        {
+            "bin_num": "423653",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ROYAL BANK OF CANADA",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/royal-bank-of-canada"
+        },
+        {
+            "bin_num": "423657",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ROYAL BANK OF CANADA",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/royal-bank-of-canada"
+        }
+    ]
+}

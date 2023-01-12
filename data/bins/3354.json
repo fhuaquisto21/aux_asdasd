@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "559956",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "UP AGANEA EDE SAU",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/up-aganea-ede-sau"
+        },
+        {
+            "bin_num": "559974",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "UP AGANEA EDE SAU",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/up-aganea-ede-sau"
+        }
+    ]
+}

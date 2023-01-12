@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "453588",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "LONE STAR BANK, S.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/lone-star-bank,-s.s.b."
+        },
+        {
+            "bin_num": "453589",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "LONE STAR BANK, S.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/lone-star-bank,-s.s.b."
+        }
+    ]
+}

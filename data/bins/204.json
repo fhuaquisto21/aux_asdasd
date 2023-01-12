@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "450993",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO MAYO COOPERATIVO LIMITADO",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-mayo-cooperativo-limitado"
+        },
+        {
+            "bin_num": "451755",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO MAYO COOPERATIVO LIMITADO",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-mayo-cooperativo-limitado"
+        }
+    ]
+}

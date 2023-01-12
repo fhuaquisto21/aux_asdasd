@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "410443",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TARJETAS BCT, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/tarjetas-bct,-s.a."
+        },
+        {
+            "bin_num": "441175",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TARJETAS BCT, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/tarjetas-bct,-s.a."
+        },
+        {
+            "bin_num": "458103",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TARJETAS BCT, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/tarjetas-bct,-s.a."
+        },
+        {
+            "bin_num": "458106",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TARJETAS BCT, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/tarjetas-bct,-s.a."
+        },
+        {
+            "bin_num": "458107",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TARJETAS BCT, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/tarjetas-bct,-s.a."
+        },
+        {
+            "bin_num": "458108",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TARJETAS BCT, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/tarjetas-bct,-s.a."
+        }
+    ]
+}

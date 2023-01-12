@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "400817",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        },
+        {
+            "bin_num": "423125",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        },
+        {
+            "bin_num": "440644",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        },
+        {
+            "bin_num": "440645",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        },
+        {
+            "bin_num": "440646",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        },
+        {
+            "bin_num": "459449",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        },
+        {
+            "bin_num": "470940",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/caixa-central-de-credito-agricola-mutuo-c.r.l."
+        }
+    ]
+}

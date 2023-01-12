@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "447869",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STOPANSKA BANKA A.D. BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d.-bitola"
+        },
+        {
+            "bin_num": "447870",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STOPANSKA BANKA A.D. BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d.-bitola"
+        },
+        {
+            "bin_num": "447871",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STOPANSKA BANKA A.D. BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d.-bitola"
+        },
+        {
+            "bin_num": "447872",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STOPANSKA BANKA A.D. BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d.-bitola"
+        },
+        {
+            "bin_num": "447873",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "STOPANSKA BANKA A.D. BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d.-bitola"
+        }
+    ]
+}

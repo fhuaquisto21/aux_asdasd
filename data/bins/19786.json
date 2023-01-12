@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "405825",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/zambia-national-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "440883",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/zambia-national-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "476076",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/zambia-national-commercial-bank,-ltd."
+        }
+    ]
+}

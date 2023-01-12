@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "538128",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO INTERAMERICANO DE FINANZAS",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-interamericano-de-finanzas"
+        },
+        {
+            "bin_num": "540860",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO INTERAMERICANO DE FINANZAS",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-interamericano-de-finanzas"
+        },
+        {
+            "bin_num": "554017",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO INTERAMERICANO DE FINANZAS",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-interamericano-de-finanzas"
+        }
+    ]
+}

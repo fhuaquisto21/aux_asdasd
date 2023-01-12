@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417710",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERATLANTICO, SARL",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/banco-interatlantico,-sarl"
+        },
+        {
+            "bin_num": "417711",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INTERATLANTICO, SARL",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/banco-interatlantico,-sarl"
+        }
+    ]
+}

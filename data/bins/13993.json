@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "449283",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST NATIONAL BANK IN LAMAR",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-national-bank-in-lamar"
+        },
+        {
+            "bin_num": "449284",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST NATIONAL BANK IN LAMAR",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-national-bank-in-lamar"
+        }
+    ]
+}

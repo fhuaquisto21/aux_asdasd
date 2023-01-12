@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "532922",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PAYNETICS EAD",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/paynetics-ead"
+        },
+        {
+            "bin_num": "535593",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PAYNETICS EAD",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/paynetics-ead"
+        },
+        {
+            "bin_num": "535594",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PAYNETICS EAD",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/paynetics-ead"
+        },
+        {
+            "bin_num": "549625",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PAYNETICS EAD",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/paynetics-ead"
+        }
+    ]
+}

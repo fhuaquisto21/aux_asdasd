@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "405465",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "410708",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "410726",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "410727",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "410728",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "410729",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "410799",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "425680",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "425699",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        },
+        {
+            "bin_num": "444482",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC BTA BANK",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/jsc-bta-bank"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "405706",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/standard-chartered-bank"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/standard-chartered-bank"
+        },
+        {
+            "bin_num": "417611",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/standard-chartered-bank"
+        },
+        {
+            "bin_num": "417612",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/standard-chartered-bank"
+        },
+        {
+            "bin_num": "460012",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/standard-chartered-bank"
+        }
+    ]
+}

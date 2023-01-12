@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "432416",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "440713",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "448313",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "449369",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "457039",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "462734",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "465235",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "467018",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        },
+        {
+            "bin_num": "543137",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ABANKA VIPA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/abanka-vipa-d.d."
+        }
+    ]
+}

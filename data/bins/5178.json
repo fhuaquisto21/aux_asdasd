@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "530075",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "IDT FINANCIAL SERVICES, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/idt-financial-services,-ltd."
+        },
+        {
+            "bin_num": "557370",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "IDT FINANCIAL SERVICES, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/idt-financial-services,-ltd."
+        }
+    ]
+}

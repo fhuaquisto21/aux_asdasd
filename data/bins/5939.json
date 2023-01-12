@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "406966",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "433863",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458583",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458838",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458839",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458840",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458841",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458842",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        },
+        {
+            "bin_num": "458843",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AL RAJHI BANKING AND INVESTMENT CORP.",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-rajhi-banking-and-investment-corp."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "403277",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JS COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "412946",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JS COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "412947",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JS COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "477389",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JS COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-foreign-trade-of-vietnam"
+        },
+        {
+            "bin_num": "477390",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JS COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/js-commercial-bank-for-foreign-trade-of-vietnam"
+        }
+    ]
+}

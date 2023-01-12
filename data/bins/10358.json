@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "458289",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc"
+        },
+        {
+            "bin_num": "458849",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc"
+        },
+        {
+            "bin_num": "517353",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc"
+        },
+        {
+            "bin_num": "530583",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc"
+        },
+        {
+            "bin_num": "533861",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc"
+        },
+        {
+            "bin_num": "537207",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UAE EXCHANGE CENTRE LLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/uae-exchange-centre-llc"
+        }
+    ]
+}

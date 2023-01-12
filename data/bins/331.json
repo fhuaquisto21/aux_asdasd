@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "547008",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BBA BANK, N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/bba-bank,-n.v."
+        },
+        {
+            "bin_num": "553631",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BBA BANK, N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/bba-bank,-n.v."
+        }
+    ]
+}

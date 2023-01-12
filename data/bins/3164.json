@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "446070",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SWEDBANK, A.S.",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/swedbank,-a.s."
+        },
+        {
+            "bin_num": "545033",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SWEDBANK, A.S.",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/swedbank,-a.s."
+        },
+        {
+            "bin_num": "923362",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "ATM CARD",
+            "bank_name": "SWEDBANK, A.S.",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/swedbank,-a.s."
+        }
+    ]
+}

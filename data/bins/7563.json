@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "406463",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "EQUITABLE PCI BANK",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/equitable-pci-bank"
+        },
+        {
+            "bin_num": "439197",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "EQUITABLE PCI BANK",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/equitable-pci-bank"
+        },
+        {
+            "bin_num": "451194",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "EQUITABLE PCI BANK",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/equitable-pci-bank"
+        },
+        {
+            "bin_num": "456752",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EQUITABLE PCI BANK",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/equitable-pci-bank"
+        },
+        {
+            "bin_num": "474137",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EQUITABLE PCI BANK",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/equitable-pci-bank"
+        },
+        {
+            "bin_num": "492123",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "EQUITABLE PCI BANK",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/equitable-pci-bank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "409556",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "HIGH PLAINS F.C.U. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/high-plains-f.c.u.-(closed)"
+        },
+        {
+            "bin_num": "423737",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HIGH PLAINS F.C.U. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/high-plains-f.c.u.-(closed)"
+        }
+    ]
+}

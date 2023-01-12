@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "518585",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "535141",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "539713",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "552208",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "552551",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "552607",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "555962",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "556054",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        },
+        {
+            "bin_num": "676072",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "COMMERCIAL BANK INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/commercial-bank-investbank-plc"
+        }
+    ]
+}

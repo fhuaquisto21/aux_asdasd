@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "543693",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "WELLS FARGO FINANCIAL NATIONAL BANK",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/wells-fargo-financial-national-bank"
+        },
+        {
+            "bin_num": "543825",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "WELLS FARGO FINANCIAL NATIONAL BANK",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/wells-fargo-financial-national-bank"
+        }
+    ]
+}

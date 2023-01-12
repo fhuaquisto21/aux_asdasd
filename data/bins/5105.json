@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "370025",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "AMEX GCS IRELAND",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/amex-gcs-ireland"
+        },
+        {
+            "bin_num": "372385",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE GE VPAYMENT",
+            "bank_name": "AMEX GCS IRELAND",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/amex-gcs-ireland"
+        }
+    ]
+}

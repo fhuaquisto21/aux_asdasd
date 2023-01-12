@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "406052",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "TAI FUNG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/tai-fung-bank,-ltd."
+        },
+        {
+            "bin_num": "430267",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TAI FUNG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/tai-fung-bank,-ltd."
+        },
+        {
+            "bin_num": "459559",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "TAI FUNG BANK, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/tai-fung-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "457968",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DBS BANK, LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/dbs-bank,-ltd."
+        },
+        {
+            "bin_num": "457970",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DBS BANK, LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/dbs-bank,-ltd."
+        },
+        {
+            "bin_num": "512133",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "DBS BANK, LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/dbs-bank,-ltd."
+        }
+    ]
+}

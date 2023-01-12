@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "404800",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "408200",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "409100",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "432451",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "432452",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "432453",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "432454",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "432455",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        },
+        {
+            "bin_num": "432456",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/banca-popolare-di-milano-s.c.a.r.l."
+        }
+    ]
+}

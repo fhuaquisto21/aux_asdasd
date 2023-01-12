@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "457535",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAPITAL BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/capital-bank-of-mongolia"
+        },
+        {
+            "bin_num": "457536",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAPITAL BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/capital-bank-of-mongolia"
+        },
+        {
+            "bin_num": "486285",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAPITAL BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/capital-bank-of-mongolia"
+        },
+        {
+            "bin_num": "486286",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAPITAL BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/capital-bank-of-mongolia"
+        },
+        {
+            "bin_num": "486287",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAPITAL BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/capital-bank-of-mongolia"
+        }
+    ]
+}

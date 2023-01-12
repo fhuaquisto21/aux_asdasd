@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "533187",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "PROMOTORA CMR FALABELLA S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/promotora-cmr-falabella-s.a."
+        },
+        {
+            "bin_num": "548740",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PROMOTORA CMR FALABELLA S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/promotora-cmr-falabella-s.a."
+        },
+        {
+            "bin_num": "548742",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PROMOTORA CMR FALABELLA S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/promotora-cmr-falabella-s.a."
+        },
+        {
+            "bin_num": "558984",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD FOR BUSINESS",
+            "bank_name": "PROMOTORA CMR FALABELLA S.A.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/promotora-cmr-falabella-s.a."
+        }
+    ]
+}

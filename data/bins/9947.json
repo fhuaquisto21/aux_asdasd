@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "447500",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "KENTBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/kentbank,-a.s."
+        },
+        {
+            "bin_num": "447501",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "KENTBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/kentbank,-a.s."
+        },
+        {
+            "bin_num": "491793",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "KENTBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/kentbank,-a.s."
+        },
+        {
+            "bin_num": "491794",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "KENTBANK, A.S.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/kentbank,-a.s."
+        }
+    ]
+}

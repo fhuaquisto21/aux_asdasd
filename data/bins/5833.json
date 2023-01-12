@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "920092",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CACAO PAYCHECK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/cacao-paycheck"
+        },
+        {
+            "bin_num": "944192",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CACAO PAYCHECK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/cacao-paycheck"
+        }
+    ]
+}

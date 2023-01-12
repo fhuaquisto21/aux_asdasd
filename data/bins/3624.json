@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "402380",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/barclays-bank-plc"
+        },
+        {
+            "bin_num": "402564",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/barclays-bank-plc"
+        },
+        {
+            "bin_num": "454772",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/barclays-bank-plc"
+        },
+        {
+            "bin_num": "543206",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "GIBRALTAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/gi.svg",
+            "country_url": "https://bincheck.io/es/gi",
+            "bank_url": "https://bincheck.io/es/gi/barclays-bank-plc"
+        }
+    ]
+}

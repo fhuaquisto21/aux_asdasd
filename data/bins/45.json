@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "437964",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ANZ BANK (SAMOA) LTD",
+            "country_name": "AMERICAN SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/as.svg",
+            "country_url": "https://bincheck.io/es/as",
+            "bank_url": "https://bincheck.io/es/as/anz-bank-(samoa)-ltd"
+        },
+        {
+            "bin_num": "437965",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ANZ BANK (SAMOA) LTD",
+            "country_name": "AMERICAN SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/as.svg",
+            "country_url": "https://bincheck.io/es/as",
+            "bank_url": "https://bincheck.io/es/as/anz-bank-(samoa)-ltd"
+        }
+    ]
+}

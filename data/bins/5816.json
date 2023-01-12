@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "405387",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/united-bank-for-africa-plc"
+        },
+        {
+            "bin_num": "459925",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/united-bank-for-africa-plc"
+        },
+        {
+            "bin_num": "534407",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/united-bank-for-africa-plc"
+        }
+    ]
+}

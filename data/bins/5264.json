@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "620143",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MILAN BRANCH",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/industrial-and-commercial-bank-of-china-milan-branch"
+        },
+        {
+            "bin_num": "620149",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MILAN BRANCH",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/industrial-and-commercial-bank-of-china-milan-branch"
+        },
+        {
+            "bin_num": "621371",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MILAN BRANCH",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/industrial-and-commercial-bank-of-china-milan-branch"
+        },
+        {
+            "bin_num": "670982",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MILAN BRANCH",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/industrial-and-commercial-bank-of-china-milan-branch"
+        }
+    ]
+}

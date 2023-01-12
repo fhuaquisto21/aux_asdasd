@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "bin_num": "515073",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "521388",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "526396",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "527619",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "528168",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "528169",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "530574",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "530575",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "532383",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "532384",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "544312",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "554791",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        },
+        {
+            "bin_num": "558642",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO PATAGONIA S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-patagonia-s.a."
+        }
+    ]
+}

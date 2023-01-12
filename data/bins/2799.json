@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "521319",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "523004",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "529492",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "542908",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "545139",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "552518",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "552891",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        },
+        {
+            "bin_num": "557892",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NORDEA BANK AB (PUBL)",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/nordea-bank-ab-(publ)"
+        }
+    ]
+}

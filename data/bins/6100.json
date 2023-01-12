@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "528003",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BLC BANK SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/blc-bank-sal"
+        },
+        {
+            "bin_num": "541876",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BLC BANK SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/blc-bank-sal"
+        },
+        {
+            "bin_num": "543937",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BLC BANK SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/blc-bank-sal"
+        },
+        {
+            "bin_num": "552231",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BLC BANK SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/blc-bank-sal"
+        }
+    ]
+}

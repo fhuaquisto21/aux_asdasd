@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "411453",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURESA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-honduresa,-s.a."
+        },
+        {
+            "bin_num": "412288",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO FINANCIERA COMERCIAL HONDURESA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-financiera-comercial-honduresa,-s.a."
+        }
+    ]
+}

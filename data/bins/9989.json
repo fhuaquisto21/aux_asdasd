@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "477901",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TURKIYE VAKIFLAR BANKASI T. A. O.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-vakiflar-bankasi-t.-a.-o."
+        },
+        {
+            "bin_num": "493841",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TURKIYE VAKIFLAR BANKASI T. A. O.",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/turkiye-vakiflar-bankasi-t.-a.-o."
+        }
+    ]
+}

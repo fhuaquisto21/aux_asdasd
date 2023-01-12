@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "450173",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/industrial-and-commercial-bank-of-china-(thai)-public-company,-ltd."
+        },
+        {
+            "bin_num": "467307",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/industrial-and-commercial-bank-of-china-(thai)-public-company,-ltd."
+        },
+        {
+            "bin_num": "467308",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/industrial-and-commercial-bank-of-china-(thai)-public-company,-ltd."
+        }
+    ]
+}

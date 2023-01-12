@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "412831",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/citibank-n.a."
+        },
+        {
+            "bin_num": "523404",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/citibank-n.a."
+        },
+        {
+            "bin_num": "552923",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/citibank-n.a."
+        },
+        {
+            "bin_num": "552933",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/citibank-n.a."
+        },
+        {
+            "bin_num": "553410",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK N.A.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/citibank-n.a."
+        }
+    ]
+}

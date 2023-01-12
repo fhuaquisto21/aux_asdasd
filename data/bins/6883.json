@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "407447",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "CDG CAPITAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/cdg-capital"
+        },
+        {
+            "bin_num": "446362",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CDG CAPITAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/cdg-capital"
+        },
+        {
+            "bin_num": "446363",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CDG CAPITAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/cdg-capital"
+        },
+        {
+            "bin_num": "446364",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CDG CAPITAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/cdg-capital"
+        }
+    ]
+}

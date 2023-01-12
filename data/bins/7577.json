@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "517706",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MAYBANK PHILIPPINES, INCORPORATED",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/maybank-philippines,-incorporated"
+        },
+        {
+            "bin_num": "532808",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MAYBANK PHILIPPINES, INCORPORATED",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/maybank-philippines,-incorporated"
+        },
+        {
+            "bin_num": "547150",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MAYBANK PHILIPPINES, INCORPORATED",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/maybank-philippines,-incorporated"
+        }
+    ]
+}

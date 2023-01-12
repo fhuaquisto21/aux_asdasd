@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "621043",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CHIYU BANKING CORPORATION",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/chiyu-banking-corporation"
+        },
+        {
+            "bin_num": "621742",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CHIYU BANKING CORPORATION",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/chiyu-banking-corporation"
+        },
+        {
+            "bin_num": "623042",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CHIYU BANKING CORPORATION",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/chiyu-banking-corporation"
+        }
+    ]
+}

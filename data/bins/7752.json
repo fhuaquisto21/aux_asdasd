@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "512361",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/sygma-banque-societe-anonyme-oddzial-w-polsce"
+        },
+        {
+            "bin_num": "521187",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC",
+            "bank_name": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/sygma-banque-societe-anonyme-oddzial-w-polsce"
+        },
+        {
+            "bin_num": "527439",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC",
+            "bank_name": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/sygma-banque-societe-anonyme-oddzial-w-polsce"
+        },
+        {
+            "bin_num": "528623",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/sygma-banque-societe-anonyme-oddzial-w-polsce"
+        }
+    ]
+}

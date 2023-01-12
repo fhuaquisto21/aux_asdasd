@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417839",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK CAMEROUN, S.A.",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/ecobank-cameroun,-s.a."
+        },
+        {
+            "bin_num": "484675",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK CAMEROUN, S.A.",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/ecobank-cameroun,-s.a."
+        }
+    ]
+}

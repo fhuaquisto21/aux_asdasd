@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "529296",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EXIM BANK (TANZANIA), LTD.",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/exim-bank-(tanzania),-ltd."
+        },
+        {
+            "bin_num": "553801",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EXIM BANK (TANZANIA), LTD.",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/exim-bank-(tanzania),-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "530426",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HOKKAIDO CARD SERVICE CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/hokkaido-card-service-co.,-ltd."
+        },
+        {
+            "bin_num": "530428",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HOKKAIDO CARD SERVICE CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/hokkaido-card-service-co.,-ltd."
+        }
+    ]
+}

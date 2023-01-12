@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "475186",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "KEYSTONE BANK, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/keystone-bank,-ltd."
+        },
+        {
+            "bin_num": "546778",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "KEYSTONE BANK, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/keystone-bank,-ltd."
+        },
+        {
+            "bin_num": "555940",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "KEYSTONE BANK, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/keystone-bank,-ltd."
+        }
+    ]
+}

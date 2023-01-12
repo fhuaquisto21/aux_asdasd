@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "464591",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-investbank-plc"
+        },
+        {
+            "bin_num": "464592",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CB INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-investbank-plc"
+        },
+        {
+            "bin_num": "464593",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CB INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-investbank-plc"
+        },
+        {
+            "bin_num": "464594",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB INVESTBANK PLC",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/cb-investbank-plc"
+        }
+    ]
+}

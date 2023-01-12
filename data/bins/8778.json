@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403570",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-internationale-pour-le-commerce-et-l'industrie-du-sen"
+        },
+        {
+            "bin_num": "404109",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-internationale-pour-le-commerce-et-l'industrie-du-sen"
+        },
+        {
+            "bin_num": "458116",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-internationale-pour-le-commerce-et-l'industrie-du-sen"
+        },
+        {
+            "bin_num": "458119",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/banque-internationale-pour-le-commerce-et-l'industrie-du-sen"
+        }
+    ]
+}

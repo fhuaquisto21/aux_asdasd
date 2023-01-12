@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "532542",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen"
+        },
+        {
+            "bin_num": "532544",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen"
+        }
+    ]
+}

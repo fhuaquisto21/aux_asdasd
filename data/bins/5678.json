@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "445814",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "455208",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "476031",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "476032",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "545531",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "545532",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "552105",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/hsbc-bank-middle-east"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "541593",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/national-bank-of-greece-(cyprus)-ltd."
+        },
+        {
+            "bin_num": "589893",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/national-bank-of-greece-(cyprus)-ltd."
+        }
+    ]
+}

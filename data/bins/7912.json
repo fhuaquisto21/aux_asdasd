@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "408597",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INTERNATIONAL BANK OF QATAR QSC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-qsc"
+        },
+        {
+            "bin_num": "419586",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERNATIONAL BANK OF QATAR QSC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-qsc"
+        },
+        {
+            "bin_num": "419587",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "INTERNATIONAL BANK OF QATAR QSC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-qsc"
+        },
+        {
+            "bin_num": "425886",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "INTERNATIONAL BANK OF QATAR QSC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-qsc"
+        },
+        {
+            "bin_num": "475790",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "INTERNATIONAL BANK OF QATAR QSC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-qsc"
+        }
+    ]
+}

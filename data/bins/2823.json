@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "543394",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "SEB BANK AB",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/seb-bank-ab"
+        },
+        {
+            "bin_num": "559896",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM MASTERCARD",
+            "bank_name": "SEB BANK AB",
+            "country_name": "DENMARK",
+            "country_img": "https://bincheck.io/assets/flags/svg/dk.svg",
+            "country_url": "https://bincheck.io/es/dk",
+            "bank_url": "https://bincheck.io/es/dk/seb-bank-ab"
+        }
+    ]
+}

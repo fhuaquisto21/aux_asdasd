@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417333",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FOKUS BANK ASA",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/fokus-bank-asa"
+        },
+        {
+            "bin_num": "530677",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FOKUS BANK ASA",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/fokus-bank-asa"
+        }
+    ]
+}

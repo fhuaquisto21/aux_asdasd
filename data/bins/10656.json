@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "445803",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "NATIONWIDE",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/nationwide"
+        },
+        {
+            "bin_num": "459000",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "NATIONWIDE",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/nationwide"
+        },
+        {
+            "bin_num": "459607",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONWIDE",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/nationwide"
+        }
+    ]
+}

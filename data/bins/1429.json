@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "379180",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CIBC",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/cibc"
+        },
+        {
+            "bin_num": "424594",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CIBC",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/cibc"
+        },
+        {
+            "bin_num": "481285",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CIBC",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/cibc"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "406772",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BURKINA (SGBB)",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/societe-generale-de-banques-au-burkina-(sgbb)"
+        },
+        {
+            "bin_num": "406773",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BURKINA (SGBB)",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/societe-generale-de-banques-au-burkina-(sgbb)"
+        },
+        {
+            "bin_num": "429090",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BURKINA (SGBB)",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/societe-generale-de-banques-au-burkina-(sgbb)"
+        },
+        {
+            "bin_num": "429091",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BURKINA (SGBB)",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/societe-generale-de-banques-au-burkina-(sgbb)"
+        },
+        {
+            "bin_num": "431861",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BURKINA (SGBB)",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/societe-generale-de-banques-au-burkina-(sgbb)"
+        },
+        {
+            "bin_num": "446014",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BURKINA (SGBB)",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/societe-generale-de-banques-au-burkina-(sgbb)"
+        }
+    ]
+}

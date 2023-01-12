@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "406142",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "421104",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "421105",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "439076",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "457481",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "457484",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "461743",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        },
+        {
+            "bin_num": "466293",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/standard-chartered-bank"
+        }
+    ]
+}

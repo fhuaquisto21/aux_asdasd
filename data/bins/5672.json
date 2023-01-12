@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "526136",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CAPITAL BANK OF JORDAN",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/capital-bank-of-jordan"
+        },
+        {
+            "bin_num": "530349",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CAPITAL BANK OF JORDAN",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/capital-bank-of-jordan"
+        },
+        {
+            "bin_num": "531947",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAPITAL BANK OF JORDAN",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/capital-bank-of-jordan"
+        },
+        {
+            "bin_num": "534556",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAPITAL BANK OF JORDAN",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/capital-bank-of-jordan"
+        },
+        {
+            "bin_num": "535090",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CAPITAL BANK OF JORDAN",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/capital-bank-of-jordan"
+        }
+    ]
+}

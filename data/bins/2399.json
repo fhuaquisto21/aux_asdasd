@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "445410",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE COMMERCIALE INTERNATIONALE",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/banque-commerciale-internationale"
+        },
+        {
+            "bin_num": "445411",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE COMMERCIALE INTERNATIONALE",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/banque-commerciale-internationale"
+        },
+        {
+            "bin_num": "445412",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE COMMERCIALE INTERNATIONALE",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/banque-commerciale-internationale"
+        },
+        {
+            "bin_num": "445413",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE COMMERCIALE INTERNATIONALE",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/banque-commerciale-internationale"
+        },
+        {
+            "bin_num": "469621",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE COMMERCIALE INTERNATIONALE",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/banque-commerciale-internationale"
+        }
+    ]
+}

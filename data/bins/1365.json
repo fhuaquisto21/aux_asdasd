@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "409614",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "409615",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "411715",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "411716",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "416491",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "417060",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "480366",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "481201",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "486029",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        },
+        {
+            "bin_num": "486030",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/banque-internationale-de-cameroun-pour-lepargne-et-le-credit"
+        }
+    ]
+}

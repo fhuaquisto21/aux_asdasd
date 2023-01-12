@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "944137",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "JEONBUK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/jeonbuk"
+        },
+        {
+            "bin_num": "944337",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "JEONBUK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/jeonbuk"
+        },
+        {
+            "bin_num": "946137",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "JEONBUK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/jeonbuk"
+        },
+        {
+            "bin_num": "947137",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JEONBUK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/jeonbuk"
+        }
+    ]
+}

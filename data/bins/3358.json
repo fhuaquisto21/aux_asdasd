@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403189",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/banque-internationale-pour-le-commerce-et-l'industrie-du-gab"
+        },
+        {
+            "bin_num": "403190",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/banque-internationale-pour-le-commerce-et-l'industrie-du-gab"
+        },
+        {
+            "bin_num": "427373",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/banque-internationale-pour-le-commerce-et-l'industrie-du-gab"
+        },
+        {
+            "bin_num": "476086",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/banque-internationale-pour-le-commerce-et-l'industrie-du-gab"
+        }
+    ]
+}

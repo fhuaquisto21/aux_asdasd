@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE ATLANTIQUE MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-atlantique-mali"
+        },
+        {
+            "bin_num": "472550",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE ATLANTIQUE MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-atlantique-mali"
+        },
+        {
+            "bin_num": "472551",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE ATLANTIQUE MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-atlantique-mali"
+        },
+        {
+            "bin_num": "472552",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE ATLANTIQUE MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-atlantique-mali"
+        }
+    ]
+}

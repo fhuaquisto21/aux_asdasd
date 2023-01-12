@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "414759",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BAC BAHAMAS BANK, LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/bac-bahamas-bank,-ltd."
+        },
+        {
+            "bin_num": "450563",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BAC BAHAMAS BANK, LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/bac-bahamas-bank,-ltd."
+        }
+    ]
+}

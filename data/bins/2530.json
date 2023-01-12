@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "420447",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ORABANK COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/orabank-cote-d'ivoire"
+        },
+        {
+            "bin_num": "420448",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ORABANK COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/orabank-cote-d'ivoire"
+        },
+        {
+            "bin_num": "420449",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ORABANK COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/orabank-cote-d'ivoire"
+        },
+        {
+            "bin_num": "420451",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ORABANK COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/orabank-cote-d'ivoire"
+        }
+    ]
+}

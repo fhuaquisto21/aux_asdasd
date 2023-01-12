@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "437486",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC BTB BANK",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/ojsc-btb-bank"
+        },
+        {
+            "bin_num": "437487",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "OJSC BTB BANK",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/ojsc-btb-bank"
+        },
+        {
+            "bin_num": "472587",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC BTB BANK",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/ojsc-btb-bank"
+        },
+        {
+            "bin_num": "472588",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC BTB BANK",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/ojsc-btb-bank"
+        },
+        {
+            "bin_num": "472589",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "OJSC BTB BANK",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/ojsc-btb-bank"
+        }
+    ]
+}

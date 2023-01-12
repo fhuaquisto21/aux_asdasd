@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "621529",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "YCCCB",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ycccb"
+        },
+        {
+            "bin_num": "625529",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "YCCCB",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ycccb"
+        }
+    ]
+}

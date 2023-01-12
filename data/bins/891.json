@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "474810",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KBC BANK, N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/kbc-bank,-n.v."
+        },
+        {
+            "bin_num": "474811",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KBC BANK, N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/kbc-bank,-n.v."
+        },
+        {
+            "bin_num": "489113",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KBC BANK, N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/kbc-bank,-n.v."
+        }
+    ]
+}

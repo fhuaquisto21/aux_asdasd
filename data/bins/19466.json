@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "427831",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSCB KAPITALBANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/jscb-kapitalbank"
+        },
+        {
+            "bin_num": "427832",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSCB KAPITALBANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/jscb-kapitalbank"
+        },
+        {
+            "bin_num": "427833",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSCB KAPITALBANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/jscb-kapitalbank"
+        },
+        {
+            "bin_num": "427834",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSCB KAPITALBANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/jscb-kapitalbank"
+        },
+        {
+            "bin_num": "460472",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSCB KAPITALBANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/jscb-kapitalbank"
+        },
+        {
+            "bin_num": "499893",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSCB KAPITALBANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/jscb-kapitalbank"
+        }
+    ]
+}

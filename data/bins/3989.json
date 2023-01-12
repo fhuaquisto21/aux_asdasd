@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "427720",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KONZUMBANK KERESKEDELMI BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/konzumbank-kereskedelmi-bank-rt."
+        },
+        {
+            "bin_num": "440551",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KONZUMBANK KERESKEDELMI BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/konzumbank-kereskedelmi-bank-rt."
+        },
+        {
+            "bin_num": "440552",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "KONZUMBANK KERESKEDELMI BANK RT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/konzumbank-kereskedelmi-bank-rt."
+        }
+    ]
+}

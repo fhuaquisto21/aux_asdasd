@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "533811",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/catella-bank-s.a."
+        },
+        {
+            "bin_num": "535961",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/catella-bank-s.a."
+        },
+        {
+            "bin_num": "542746",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/catella-bank-s.a."
+        },
+        {
+            "bin_num": "543802",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/catella-bank-s.a."
+        },
+        {
+            "bin_num": "545417",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/catella-bank-s.a."
+        },
+        {
+            "bin_num": "547620",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CATELLA BANK S.A.",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/catella-bank-s.a."
+        }
+    ]
+}

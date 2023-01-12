@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "511733",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "530814",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "540494",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "541515",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "543610",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "545536",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "545577",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "545600",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "547821",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "553653",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        },
+        {
+            "bin_num": "554887",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO GENERAL S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-general-s.a."
+        }
+    ]
+}

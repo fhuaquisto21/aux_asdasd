@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "603389",
+            "bin_mark": "SODEXO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SODEXO PASS DO BRASIL",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/sodexo-pass-do-brasil"
+        },
+        {
+            "bin_num": "603397",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SODEXO PASS DO BRASIL",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/sodexo-pass-do-brasil"
+        },
+        {
+            "bin_num": "606071",
+            "bin_mark": "SODEXO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SODEXO PASS DO BRASIL",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/sodexo-pass-do-brasil"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "402479",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "411076",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "433437",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "454063",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "454064",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "454086",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "454437",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        },
+        {
+            "bin_num": "476942",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE GUAYAQUIL, S.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil,-s.a."
+        }
+    ]
+}

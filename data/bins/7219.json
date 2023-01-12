@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517376",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SVENSKA HANDELSBANKEN AB",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/svenska-handelsbanken-ab"
+        },
+        {
+            "bin_num": "535179",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SVENSKA HANDELSBANKEN AB",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/svenska-handelsbanken-ab"
+        },
+        {
+            "bin_num": "535198",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SVENSKA HANDELSBANKEN AB",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/svenska-handelsbanken-ab"
+        },
+        {
+            "bin_num": "548741",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SVENSKA HANDELSBANKEN AB",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/svenska-handelsbanken-ab"
+        }
+    ]
+}

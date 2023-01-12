@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "518815",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        },
+        {
+            "bin_num": "518837",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        },
+        {
+            "bin_num": "526431",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        },
+        {
+            "bin_num": "533294",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        },
+        {
+            "bin_num": "533297",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        },
+        {
+            "bin_num": "536304",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        },
+        {
+            "bin_num": "552223",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF MALDIVES (PLC) LTD.",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-(plc)-ltd."
+        }
+    ]
+}

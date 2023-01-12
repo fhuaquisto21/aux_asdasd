@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "410654",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ITHALA, LTD.",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/ithala,-ltd."
+        },
+        {
+            "bin_num": "448389",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ITHALA, LTD.",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/ithala,-ltd."
+        },
+        {
+            "bin_num": "473231",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ITHALA, LTD.",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/ithala,-ltd."
+        },
+        {
+            "bin_num": "473232",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ITHALA, LTD.",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/ithala,-ltd."
+        },
+        {
+            "bin_num": "473233",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ITHALA, LTD.",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/ithala,-ltd."
+        }
+    ]
+}

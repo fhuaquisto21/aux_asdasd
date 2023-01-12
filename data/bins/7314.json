@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "529361",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "531648",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "536162",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "536299",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "536339",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "536906",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "552174",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        },
+        {
+            "bin_num": "554558",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM MASTERCARD",
+            "bank_name": "CAIRO AMMAN BANK PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/cairo-amman-bank-plc"
+        }
+    ]
+}

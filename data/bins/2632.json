@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "477152",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        },
+        {
+            "bin_num": "477153",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        },
+        {
+            "bin_num": "477154",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        },
+        {
+            "bin_num": "479904",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        },
+        {
+            "bin_num": "479905",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        },
+        {
+            "bin_num": "479906",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        },
+        {
+            "bin_num": "479907",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "RCB BANK, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/rcb-bank,-ltd."
+        }
+    ]
+}

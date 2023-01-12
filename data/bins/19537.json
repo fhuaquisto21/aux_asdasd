@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "456010",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO UNION, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/banco-union,-c.a."
+        },
+        {
+            "bin_num": "456013",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID PRIVATE LABEL",
+            "bank_name": "BANCO UNION, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/banco-union,-c.a."
+        }
+    ]
+}

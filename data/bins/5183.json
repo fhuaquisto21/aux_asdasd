@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "518989",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ISRAEL DISCOUNT BANK LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/israel-discount-bank-ltd."
+        },
+        {
+            "bin_num": "518991",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ISRAEL DISCOUNT BANK LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/israel-discount-bank-ltd."
+        },
+        {
+            "bin_num": "536407",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "ISRAEL DISCOUNT BANK LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/israel-discount-bank-ltd."
+        },
+        {
+            "bin_num": "547714",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ISRAEL DISCOUNT BANK LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/israel-discount-bank-ltd."
+        },
+        {
+            "bin_num": "552184",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ISRAEL DISCOUNT BANK LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/israel-discount-bank-ltd."
+        }
+    ]
+}

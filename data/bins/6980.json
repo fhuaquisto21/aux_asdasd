@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "370340",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/american-express-company"
+        },
+        {
+            "bin_num": "370422",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/american-express-company"
+        },
+        {
+            "bin_num": "376865",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GRMS CORPORATE CONTROL",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/american-express-company"
+        }
+    ]
+}

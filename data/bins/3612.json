@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "401828",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "401942",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "401948",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "401989",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "402088",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "402092",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "459318",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        },
+        {
+            "bin_num": "459319",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANBIC BANK UGANDA LTD",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-uganda-ltd"
+        }
+    ]
+}

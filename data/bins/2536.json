@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "406601",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE IVOIRIENNE DE BANQUE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-ivoirienne-de-banque"
+        },
+        {
+            "bin_num": "406602",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SOCIETE IVOIRIENNE DE BANQUE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-ivoirienne-de-banque"
+        },
+        {
+            "bin_num": "406603",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SOCIETE IVOIRIENNE DE BANQUE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-ivoirienne-de-banque"
+        },
+        {
+            "bin_num": "407305",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE IVOIRIENNE DE BANQUE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-ivoirienne-de-banque"
+        },
+        {
+            "bin_num": "469633",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE IVOIRIENNE DE BANQUE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-ivoirienne-de-banque"
+        }
+    ]
+}

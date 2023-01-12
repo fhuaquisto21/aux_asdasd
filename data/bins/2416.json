@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "510076",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/banque-internationale-pour-l'afrique-au-congo"
+        },
+        {
+            "bin_num": "512327",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/banque-internationale-pour-l'afrique-au-congo"
+        },
+        {
+            "bin_num": "514926",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/banque-internationale-pour-l'afrique-au-congo"
+        },
+        {
+            "bin_num": "517346",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/banque-internationale-pour-l'afrique-au-congo"
+        },
+        {
+            "bin_num": "517666",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/banque-internationale-pour-l'afrique-au-congo"
+        },
+        {
+            "bin_num": "528462",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/banque-internationale-pour-l'afrique-au-congo"
+        }
+    ]
+}

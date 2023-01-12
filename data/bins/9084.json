@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "529742",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "FINBOND MUTUAL BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/finbond-mutual-bank"
+        },
+        {
+            "bin_num": "536030",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FINBOND MUTUAL BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/finbond-mutual-bank"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FINBOND MUTUAL BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/finbond-mutual-bank"
+        }
+    ]
+}

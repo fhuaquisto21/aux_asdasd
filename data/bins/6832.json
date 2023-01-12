@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "410415",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "MONGOL POST BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/mongol-post-bank"
+        },
+        {
+            "bin_num": "450012",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MONGOL POST BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/mongol-post-bank"
+        },
+        {
+            "bin_num": "450015",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "MONGOL POST BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/mongol-post-bank"
+        },
+        {
+            "bin_num": "450016",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MONGOL POST BANK",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/mongol-post-bank"
+        }
+    ]
+}

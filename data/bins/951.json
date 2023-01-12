@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "526145",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CLARIEN BANK, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/clarien-bank,-ltd."
+        },
+        {
+            "bin_num": "526186",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CLARIEN BANK, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/clarien-bank,-ltd."
+        },
+        {
+            "bin_num": "526190",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CLARIEN BANK, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/clarien-bank,-ltd."
+        },
+        {
+            "bin_num": "531192",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STUDENT",
+            "bank_name": "CLARIEN BANK, LTD.",
+            "country_name": "BERMUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bm.svg",
+            "country_url": "https://bincheck.io/es/bm",
+            "bank_url": "https://bincheck.io/es/bm/clarien-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "424910",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/norddeutsche-landesbank-girozentrale-nord-lb"
+        },
+        {
+            "bin_num": "427370",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/norddeutsche-landesbank-girozentrale-nord-lb"
+        },
+        {
+            "bin_num": "440768",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/norddeutsche-landesbank-girozentrale-nord-lb"
+        },
+        {
+            "bin_num": "446135",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/norddeutsche-landesbank-girozentrale-nord-lb"
+        },
+        {
+            "bin_num": "480468",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/norddeutsche-landesbank-girozentrale-nord-lb"
+        },
+        {
+            "bin_num": "491782",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/norddeutsche-landesbank-girozentrale-nord-lb"
+        }
+    ]
+}

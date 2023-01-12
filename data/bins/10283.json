@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "432580",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc"
+        },
+        {
+            "bin_num": "432581",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc"
+        },
+        {
+            "bin_num": "447521",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc"
+        },
+        {
+            "bin_num": "474721",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc"
+        },
+        {
+            "bin_num": "474734",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc"
+        },
+        {
+            "bin_num": "524175",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/arab-bank-plc"
+        }
+    ]
+}

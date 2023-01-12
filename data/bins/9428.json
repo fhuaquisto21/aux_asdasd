@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "483560",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL SAVINGS BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/national-savings-bank"
+        },
+        {
+            "bin_num": "498728",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "NATIONAL SAVINGS BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/national-savings-bank"
+        },
+        {
+            "bin_num": "517270",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "NATIONAL SAVINGS BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/national-savings-bank"
+        },
+        {
+            "bin_num": "517580",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL SAVINGS BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/national-savings-bank"
+        },
+        {
+            "bin_num": "531191",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STUDENT",
+            "bank_name": "NATIONAL SAVINGS BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/national-savings-bank"
+        },
+        {
+            "bin_num": "539986",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL SAVINGS BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/national-savings-bank"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "bin_num": "400992",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "400993",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "412611",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "412612",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "418542",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "437507",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "437550",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "450177",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "457556",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "457557",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "468767",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "514921",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "516637",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "517988",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "518096",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "518886",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "519149",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "524224",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "546308",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "548924",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "554550",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        },
+        {
+            "bin_num": "554601",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EAST WEST BANKING CORPORATION",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/east-west-banking-corporation"
+        }
+    ]
+}

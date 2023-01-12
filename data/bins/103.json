@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "406677",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        },
+        {
+            "bin_num": "421694",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        },
+        {
+            "bin_num": "422106",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        },
+        {
+            "bin_num": "422107",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        },
+        {
+            "bin_num": "422177",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        },
+        {
+            "bin_num": "458165",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        },
+        {
+            "bin_num": "524974",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF ANTIGUA, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/bank-of-antigua,-ltd."
+        }
+    ]
+}

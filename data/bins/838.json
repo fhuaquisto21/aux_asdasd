@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "375115",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CHARGE",
+            "bank_name": "ALPHA CARD GC&S",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/alpha-card-gc&s"
+        },
+        {
+            "bin_num": "375116",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "REVOLVE",
+            "bank_name": "ALPHA CARD GC&S",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/alpha-card-gc&s"
+        }
+    ]
+}

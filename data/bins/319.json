@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "411952",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNIBANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/unibank-cjsc"
+        },
+        {
+            "bin_num": "411953",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNIBANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/unibank-cjsc"
+        },
+        {
+            "bin_num": "411954",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNIBANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/unibank-cjsc"
+        },
+        {
+            "bin_num": "411955",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNIBANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/unibank-cjsc"
+        },
+        {
+            "bin_num": "411956",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UNIBANK CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/unibank-cjsc"
+        }
+    ]
+}

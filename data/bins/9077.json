@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "403736",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        },
+        {
+            "bin_num": "403737",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        },
+        {
+            "bin_num": "418738",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID PLATINUM",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        },
+        {
+            "bin_num": "418739",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID PLATINUM",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        },
+        {
+            "bin_num": "420554",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        },
+        {
+            "bin_num": "424515",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        },
+        {
+            "bin_num": "424957",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BIDVEST BANK",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/bidvest-bank"
+        }
+    ]
+}

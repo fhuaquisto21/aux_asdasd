@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "438085",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-dominicana-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "438086",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-dominicana-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "438087",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-dominicana-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "492410",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-dominicana-de-ahorros-y-prestamos"
+        }
+    ]
+}

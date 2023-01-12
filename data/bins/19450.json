@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "421571",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OCA CASA FINANCIERA, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/oca-casa-financiera,-s.a."
+        },
+        {
+            "bin_num": "441573",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OCA CASA FINANCIERA, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/oca-casa-financiera,-s.a."
+        },
+        {
+            "bin_num": "491669",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OCA CASA FINANCIERA, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/oca-casa-financiera,-s.a."
+        },
+        {
+            "bin_num": "491670",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "OCA CASA FINANCIERA, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/oca-casa-financiera,-s.a."
+        }
+    ]
+}

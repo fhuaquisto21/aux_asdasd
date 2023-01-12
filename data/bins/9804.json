@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "523910",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/krungthai-card-public-company,-ltd."
+        },
+        {
+            "bin_num": "540604",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/krungthai-card-public-company,-ltd."
+        },
+        {
+            "bin_num": "540605",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/krungthai-card-public-company,-ltd."
+        },
+        {
+            "bin_num": "540716",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/krungthai-card-public-company,-ltd."
+        },
+        {
+            "bin_num": "543420",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/krungthai-card-public-company,-ltd."
+        }
+    ]
+}

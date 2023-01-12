@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "622393",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "XIAMEN BANK CO. LTD",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/xiamen-bank-co.-ltd"
+        },
+        {
+            "bin_num": "940023",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "XIAMEN BANK CO. LTD",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/xiamen-bank-co.-ltd"
+        }
+    ]
+}

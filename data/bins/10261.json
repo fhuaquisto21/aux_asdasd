@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "424428",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-sberbank-of-russia-pjsc"
+        },
+        {
+            "bin_num": "424493",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-sberbank-of-russia-pjsc"
+        },
+        {
+            "bin_num": "452401",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-sberbank-of-russia-pjsc"
+        },
+        {
+            "bin_num": "452434",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-sberbank-of-russia-pjsc"
+        },
+        {
+            "bin_num": "452435",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-sberbank-of-russia-pjsc"
+        },
+        {
+            "bin_num": "473838",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-sberbank-of-russia-pjsc"
+        }
+    ]
+}

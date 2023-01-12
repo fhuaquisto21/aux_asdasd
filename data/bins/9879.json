@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "404383",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ARAB TUNISIAN BANK",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/arab-tunisian-bank"
+        },
+        {
+            "bin_num": "433304",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ARAB TUNISIAN BANK",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/arab-tunisian-bank"
+        },
+        {
+            "bin_num": "433800",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ARAB TUNISIAN BANK",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/arab-tunisian-bank"
+        },
+        {
+            "bin_num": "433801",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ARAB TUNISIAN BANK",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/arab-tunisian-bank"
+        },
+        {
+            "bin_num": "455042",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARAB TUNISIAN BANK",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/arab-tunisian-bank"
+        },
+        {
+            "bin_num": "455043",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARAB TUNISIAN BANK",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/arab-tunisian-bank"
+        }
+    ]
+}

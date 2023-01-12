@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "515491",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "EMIRATES NBD BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd-bank"
+        },
+        {
+            "bin_num": "543945",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EMIRATES NBD BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd-bank"
+        },
+        {
+            "bin_num": "548891",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EMIRATES NBD BANK",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/emirates-nbd-bank"
+        }
+    ]
+}

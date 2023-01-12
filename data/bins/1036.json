@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "406901",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "406902",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "406903",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "406928",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "406938",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "406944",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "416918",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "444562",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "445613",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        },
+        {
+            "bin_num": "445614",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK BOTSWANA, LTD.",
+            "country_name": "BOTSWANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bw.svg",
+            "country_url": "https://bincheck.io/es/bw",
+            "bank_url": "https://bincheck.io/es/bw/stanbic-bank-botswana,-ltd."
+        }
+    ]
+}

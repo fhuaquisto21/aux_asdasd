@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "406474",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "406475",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "416963",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "442664",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "451166",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "490985",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "499985",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        },
+        {
+            "bin_num": "499986",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/barclays-bank-plc"
+        }
+    ]
+}

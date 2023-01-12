@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "487840",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAISSE D'EPARGNE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/caisse-d'epargne"
+        },
+        {
+            "bin_num": "487903",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CAISSE D'EPARGNE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/caisse-d'epargne"
+        }
+    ]
+}

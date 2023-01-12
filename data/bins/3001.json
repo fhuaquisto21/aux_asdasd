@@ -1,0 +1,312 @@
+{
+    "data": [
+        {
+            "bin_num": "400925",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "424285",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "433820",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "438107",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "438108",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "439098",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "445444",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "445445",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "445446",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "445447",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "446004",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "446005",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "450661",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "451432",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "454819",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "459353",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "459424",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "462943",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "469716",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "469717",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "473293",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "473294",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "473296",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "473882",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "477281",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "479305",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "493779",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        },
+        {
+            "bin_num": "496602",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PICHINCHA, C.A.",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-pichincha,-c.a."
+        }
+    ]
+}

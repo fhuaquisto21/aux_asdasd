@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/ecobank-gambia,-ltd."
+        },
+        {
+            "bin_num": "408382",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ECOBANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/ecobank-gambia,-ltd."
+        },
+        {
+            "bin_num": "458533",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ECOBANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/ecobank-gambia,-ltd."
+        },
+        {
+            "bin_num": "472424",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "ECOBANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/ecobank-gambia,-ltd."
+        },
+        {
+            "bin_num": "484682",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ECOBANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/ecobank-gambia,-ltd."
+        },
+        {
+            "bin_num": "484683",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK GAMBIA, LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/ecobank-gambia,-ltd."
+        }
+    ]
+}

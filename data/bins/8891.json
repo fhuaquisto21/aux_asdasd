@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "457403",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MCB INTERNATIONAL SERVICES, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/mcb-international-services,-ltd."
+        },
+        {
+            "bin_num": "457404",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MCB INTERNATIONAL SERVICES, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/mcb-international-services,-ltd."
+        },
+        {
+            "bin_num": "457900",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MCB INTERNATIONAL SERVICES, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/mcb-international-services,-ltd."
+        },
+        {
+            "bin_num": "479706",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MCB INTERNATIONAL SERVICES, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/mcb-international-services,-ltd."
+        },
+        {
+            "bin_num": "479714",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "MCB INTERNATIONAL SERVICES, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/mcb-international-services,-ltd."
+        }
+    ]
+}

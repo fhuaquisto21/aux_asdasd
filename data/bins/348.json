@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "430302",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RBTT BANK N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/rbtt-bank-n.v."
+        },
+        {
+            "bin_num": "473123",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RBTT BANK N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/rbtt-bank-n.v."
+        },
+        {
+            "bin_num": "473124",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RBTT BANK N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/rbtt-bank-n.v."
+        }
+    ]
+}

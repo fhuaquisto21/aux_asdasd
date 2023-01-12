@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "419672",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HALYK BANK KYRGYZSTAN OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/halyk-bank-kyrgyzstan-ojsc"
+        },
+        {
+            "bin_num": "419673",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "HALYK BANK KYRGYZSTAN OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/halyk-bank-kyrgyzstan-ojsc"
+        },
+        {
+            "bin_num": "419674",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HALYK BANK KYRGYZSTAN OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/halyk-bank-kyrgyzstan-ojsc"
+        },
+        {
+            "bin_num": "458702",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "HALYK BANK KYRGYZSTAN OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/halyk-bank-kyrgyzstan-ojsc"
+        },
+        {
+            "bin_num": "458703",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HALYK BANK KYRGYZSTAN OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/halyk-bank-kyrgyzstan-ojsc"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "441069",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ZUNO BANK AG",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/zuno-bank-ag"
+        },
+        {
+            "bin_num": "529040",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ZUNO BANK AG",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/zuno-bank-ag"
+        },
+        {
+            "bin_num": "550155",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ZUNO BANK AG",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/zuno-bank-ag"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "430263",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/svenska-handelsbanken-ab-(publ)"
+        },
+        {
+            "bin_num": "430264",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/svenska-handelsbanken-ab-(publ)"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "510861",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AMERIPRISE BANK, F.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/ameriprise-bank,-f.s.b."
+        },
+        {
+            "bin_num": "510943",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AMERIPRISE BANK, F.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/ameriprise-bank,-f.s.b."
+        }
+    ]
+}

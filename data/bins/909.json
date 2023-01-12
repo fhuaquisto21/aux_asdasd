@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "404094",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO ATLANTIDA S.A.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/banco-atlantida-s.a."
+        },
+        {
+            "bin_num": "411521",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ATLANTIDA S.A.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/banco-atlantida-s.a."
+        },
+        {
+            "bin_num": "411522",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ATLANTIDA S.A.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/banco-atlantida-s.a."
+        },
+        {
+            "bin_num": "411531",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ATLANTIDA S.A.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/banco-atlantida-s.a."
+        }
+    ]
+}

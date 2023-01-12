@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "529507",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SANTANDER CARDS UK LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/santander-cards-uk-ltd."
+        },
+        {
+            "bin_num": "531049",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SANTANDER CARDS UK LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/santander-cards-uk-ltd."
+        },
+        {
+            "bin_num": "541647",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SANTANDER CARDS UK LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/santander-cards-uk-ltd."
+        },
+        {
+            "bin_num": "557712",
+            "bin_mark": "GE",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SANTANDER CARDS UK LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/santander-cards-uk-ltd."
+        }
+    ]
+}

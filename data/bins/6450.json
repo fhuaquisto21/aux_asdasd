@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "515869",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "528165",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "543928",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "545486",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "548583",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "549388",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "549398",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        },
+        {
+            "bin_num": "549399",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MAUBANK, LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/maubank,-ltd."
+        }
+    ]
+}

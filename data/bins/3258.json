@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "370567",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/american-express-company"
+        },
+        {
+            "bin_num": "376868",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GRMS CORPORATE CONTROL",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/american-express-company"
+        }
+    ]
+}

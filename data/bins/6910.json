@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "457206",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO UNICO SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-unico-sa"
+        },
+        {
+            "bin_num": "457207",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO UNICO SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-unico-sa"
+        },
+        {
+            "bin_num": "457208",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO UNICO SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-unico-sa"
+        },
+        {
+            "bin_num": "457209",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO UNICO SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-unico-sa"
+        },
+        {
+            "bin_num": "457210",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO UNICO SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-unico-sa"
+        }
+    ]
+}

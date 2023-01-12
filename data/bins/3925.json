@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STATE BANK OF INDIA",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/state-bank-of-india"
+        },
+        {
+            "bin_num": "483546",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STATE BANK OF INDIA",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/state-bank-of-india"
+        }
+    ]
+}

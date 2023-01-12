@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "412571",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PEOPLES BANK OF GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/peoples-bank-of-georgia"
+        },
+        {
+            "bin_num": "412572",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PEOPLES BANK OF GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/peoples-bank-of-georgia"
+        },
+        {
+            "bin_num": "412573",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PEOPLES BANK OF GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/peoples-bank-of-georgia"
+        }
+    ]
+}

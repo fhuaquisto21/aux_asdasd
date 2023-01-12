@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "463925",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL AUSTRALIA BANK LTD",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/national-australia-bank-ltd"
+        },
+        {
+            "bin_num": "496629",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL AUSTRALIA BANK LTD",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/national-australia-bank-ltd"
+        }
+    ]
+}

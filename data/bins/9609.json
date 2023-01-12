@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "414159",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        },
+        {
+            "bin_num": "494126",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        },
+        {
+            "bin_num": "494127",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        },
+        {
+            "bin_num": "523980",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        },
+        {
+            "bin_num": "529471",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        },
+        {
+            "bin_num": "545465",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        },
+        {
+            "bin_num": "558706",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KAOHSIUNG",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/bank-of-kaohsiung"
+        }
+    ]
+}

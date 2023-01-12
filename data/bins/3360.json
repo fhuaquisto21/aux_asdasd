@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "437477",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BGFIBANK SA",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/bgfibank-sa"
+        },
+        {
+            "bin_num": "437478",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BGFIBANK SA",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/bgfibank-sa"
+        },
+        {
+            "bin_num": "437479",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BGFIBANK SA",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/bgfibank-sa"
+        },
+        {
+            "bin_num": "437480",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BGFIBANK SA",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/bgfibank-sa"
+        },
+        {
+            "bin_num": "437481",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BGFIBANK SA",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/bgfibank-sa"
+        },
+        {
+            "bin_num": "462524",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BGFIBANK SA",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/bgfibank-sa"
+        }
+    ]
+}

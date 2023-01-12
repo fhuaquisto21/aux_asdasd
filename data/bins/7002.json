@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "528873",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ING BANK N.V",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/ing-bank-n.v"
+        },
+        {
+            "bin_num": "532548",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ING BANK N.V",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/ing-bank-n.v"
+        }
+    ]
+}

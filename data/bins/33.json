@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "512617",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-de-developpement-local"
+        },
+        {
+            "bin_num": "538146",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-de-developpement-local"
+        },
+        {
+            "bin_num": "546134",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-de-developpement-local"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "448577",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/citibank,-n.a."
+        },
+        {
+            "bin_num": "457539",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/citibank,-n.a."
+        }
+    ]
+}

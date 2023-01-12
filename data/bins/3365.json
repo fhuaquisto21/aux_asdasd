@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "406610",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNION GABONAISE DE BANQUES",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/union-gabonaise-de-banques"
+        },
+        {
+            "bin_num": "406611",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNION GABONAISE DE BANQUES",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/union-gabonaise-de-banques"
+        },
+        {
+            "bin_num": "406612",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNION GABONAISE DE BANQUES",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/union-gabonaise-de-banques"
+        },
+        {
+            "bin_num": "469635",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UNION GABONAISE DE BANQUES",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/union-gabonaise-de-banques"
+        }
+    ]
+}

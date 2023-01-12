@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417378",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "EFG EUROBANK A.D. BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/efg-eurobank-a.d.-beograd"
+        },
+        {
+            "bin_num": "424566",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "EFG EUROBANK A.D. BEOGRAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/efg-eurobank-a.d.-beograd"
+        }
+    ]
+}

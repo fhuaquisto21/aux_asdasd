@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "356519",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "516995",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "524083",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "528645",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "533147",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "533968",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "559270",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NAM A COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/nam-a-commercial-joint-stock-bank"
+        }
+    ]
+}

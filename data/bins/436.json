@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "404137",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GREATER BUILDING SOCIETY, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/greater-building-society,-ltd."
+        },
+        {
+            "bin_num": "408177",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GREATER BUILDING SOCIETY, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/greater-building-society,-ltd."
+        },
+        {
+            "bin_num": "415700",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GREATER BUILDING SOCIETY, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/greater-building-society,-ltd."
+        },
+        {
+            "bin_num": "440484",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GREATER BUILDING SOCIETY, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/greater-building-society,-ltd."
+        },
+        {
+            "bin_num": "462857",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GREATER BUILDING SOCIETY, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/greater-building-society,-ltd."
+        }
+    ]
+}

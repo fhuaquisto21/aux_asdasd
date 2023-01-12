@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "515329",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNIPRIME NORTE DO PARANA",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/uniprime-norte-do-parana"
+        },
+        {
+            "bin_num": "532165",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "UNIPRIME NORTE DO PARANA",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/uniprime-norte-do-parana"
+        },
+        {
+            "bin_num": "541351",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNIPRIME NORTE DO PARANA",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/uniprime-norte-do-parana"
+        },
+        {
+            "bin_num": "543627",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "UNIPRIME NORTE DO PARANA",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/uniprime-norte-do-parana"
+        },
+        {
+            "bin_num": "554784",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNIPRIME NORTE DO PARANA",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/uniprime-norte-do-parana"
+        }
+    ]
+}

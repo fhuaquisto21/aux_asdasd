@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "445551",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB BANCA SOCIALA, S.A.",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-banca-sociala,-s.a."
+        },
+        {
+            "bin_num": "445552",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CB BANCA SOCIALA, S.A.",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-banca-sociala,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "362084",
+            "bin_mark": "DINERS",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANSUPERIOR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/bansuperior"
+        },
+        {
+            "bin_num": "439153",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANSUPERIOR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/bansuperior"
+        },
+        {
+            "bin_num": "473229",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANSUPERIOR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/bansuperior"
+        },
+        {
+            "bin_num": "473230",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANSUPERIOR",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/bansuperior"
+        }
+    ]
+}

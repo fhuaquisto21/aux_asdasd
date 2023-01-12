@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "408246",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB PROCREDIT BANK, S.A.",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-procredit-bank,-s.a."
+        },
+        {
+            "bin_num": "408247",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB PROCREDIT BANK, S.A.",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-procredit-bank,-s.a."
+        },
+        {
+            "bin_num": "408248",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CB PROCREDIT BANK, S.A.",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-procredit-bank,-s.a."
+        },
+        {
+            "bin_num": "408249",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CB PROCREDIT BANK, S.A.",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-procredit-bank,-s.a."
+        }
+    ]
+}

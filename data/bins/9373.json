@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "524640",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servired-sociedad-espanola-de-medios-de-pago-s.a."
+        },
+        {
+            "bin_num": "527027",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servired-sociedad-espanola-de-medios-de-pago-s.a."
+        }
+    ]
+}

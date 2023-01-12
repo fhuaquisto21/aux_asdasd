@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "513357",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "513359",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "520627",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "539132",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "541085",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "542434",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "545123",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "552146",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        },
+        {
+            "bin_num": "552147",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HELLENIC BANK PUBLIC COMPANY, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/hellenic-bank-public-company,-ltd."
+        }
+    ]
+}

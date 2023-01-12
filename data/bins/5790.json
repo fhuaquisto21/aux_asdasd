@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "401100",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIDELITY COMMERCIAL BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/fidelity-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "410033",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIDELITY COMMERCIAL BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/fidelity-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "411629",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIDELITY COMMERCIAL BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/fidelity-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "417492",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIDELITY COMMERCIAL BANK, LTD.",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/fidelity-commercial-bank,-ltd."
+        }
+    ]
+}

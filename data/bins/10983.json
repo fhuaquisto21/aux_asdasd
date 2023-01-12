@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "519236",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "HEALTH SAVINGS",
+            "bank_name": "AGRIBANK, FCB",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/agribank,-fcb"
+        },
+        {
+            "bin_num": "547226",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AGRIBANK, FCB",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/agribank,-fcb"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "433984",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK KAZAKHSTAN JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/hsbc-bank-kazakhstan-jsc"
+        },
+        {
+            "bin_num": "467783",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK KAZAKHSTAN JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/hsbc-bank-kazakhstan-jsc"
+        }
+    ]
+}

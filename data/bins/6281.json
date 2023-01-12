@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "532541",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STOPANSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "536506",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD/PLATINUM",
+            "bank_name": "STOPANSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-ad-skopje"
+        }
+    ]
+}

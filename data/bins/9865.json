@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "461147",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/first-caribbean-international-bank-(trinidad-and-tobago),-ltd."
+        },
+        {
+            "bin_num": "470417",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/first-caribbean-international-bank-(trinidad-and-tobago),-ltd."
+        },
+        {
+            "bin_num": "470442",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/first-caribbean-international-bank-(trinidad-and-tobago),-ltd."
+        },
+        {
+            "bin_num": "470443",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/first-caribbean-international-bank-(trinidad-and-tobago),-ltd."
+        }
+    ]
+}

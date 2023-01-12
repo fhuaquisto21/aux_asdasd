@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "407326",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "THE BANK OF NOVA SCOTIA",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/the-bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "THE BANK OF NOVA SCOTIA",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/the-bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "491062",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "THE BANK OF NOVA SCOTIA",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/the-bank-of-nova-scotia"
+        }
+    ]
+}

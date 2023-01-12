@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "970419",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NAVIBANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/navibank"
+        },
+        {
+            "bin_num": "970425",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "NAVIBANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/navibank"
+        }
+    ]
+}

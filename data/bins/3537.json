@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417640",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ROYAL BANK OF SCOTLAND PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/royal-bank-of-scotland-plc"
+        },
+        {
+            "bin_num": "448409",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "ROYAL BANK OF SCOTLAND PLC",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/royal-bank-of-scotland-plc"
+        }
+    ]
+}

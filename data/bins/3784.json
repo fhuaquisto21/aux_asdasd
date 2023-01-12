@@ -1,0 +1,312 @@
+{
+    "data": [
+        {
+            "bin_num": "404352",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "404368",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "404399",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "414771",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "420075",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "430453",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "455129",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "455130",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "460092",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "489930",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "498461",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "517211",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "517486",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "522514",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "522982",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "526442",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "528034",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "528035",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "529197",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "529478",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "533479",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "537122",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "547597",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "552337",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "552767",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "553475",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "553676",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        },
+        {
+            "bin_num": "558184",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO ATLANTIDA, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-atlantida,-s.a."
+        }
+    ]
+}

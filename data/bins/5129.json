@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "421683",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "IRISH LIFE & PERMANENT PLC",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/irish-life-&-permanent-plc"
+        },
+        {
+            "bin_num": "459565",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "IRISH LIFE & PERMANENT PLC",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/irish-life-&-permanent-plc"
+        }
+    ]
+}

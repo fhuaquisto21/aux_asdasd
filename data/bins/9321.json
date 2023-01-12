@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "377617",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN CHARGE",
+            "bank_name": "GRUPO BANCO POPULAR",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/grupo-banco-popular"
+        },
+        {
+            "bin_num": "377623",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "GRUPO BANCO POPULAR",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/grupo-banco-popular"
+        }
+    ]
+}

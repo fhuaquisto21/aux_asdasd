@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "520060",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNION COMMERCIAL BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/union-commercial-bank-plc."
+        },
+        {
+            "bin_num": "522947",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "UNION COMMERCIAL BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/union-commercial-bank-plc."
+        },
+        {
+            "bin_num": "523801",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNION COMMERCIAL BANK PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/union-commercial-bank-plc."
+        }
+    ]
+}

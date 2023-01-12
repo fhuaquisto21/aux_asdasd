@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "411840",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "450951",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/bank-of-nova-scotia"
+        }
+    ]
+}

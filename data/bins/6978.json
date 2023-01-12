@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "498750",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "ADYEN B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/adyen-b.v."
+        },
+        {
+            "bin_num": "526567",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ADYEN B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/adyen-b.v."
+        }
+    ]
+}

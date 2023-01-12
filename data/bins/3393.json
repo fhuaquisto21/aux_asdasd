@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "428633",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC HALYK BANK GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-halyk-bank-georgia"
+        },
+        {
+            "bin_num": "428634",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC HALYK BANK GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-halyk-bank-georgia"
+        },
+        {
+            "bin_num": "482416",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC HALYK BANK GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-halyk-bank-georgia"
+        },
+        {
+            "bin_num": "482417",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC HALYK BANK GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-halyk-bank-georgia"
+        },
+        {
+            "bin_num": "482418",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC HALYK BANK GEORGIA",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-halyk-bank-georgia"
+        }
+    ]
+}

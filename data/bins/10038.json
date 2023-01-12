@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "422121",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        },
+        {
+            "bin_num": "422809",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        },
+        {
+            "bin_num": "430399",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        },
+        {
+            "bin_num": "459243",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        },
+        {
+            "bin_num": "459244",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        },
+        {
+            "bin_num": "459245",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        },
+        {
+            "bin_num": "486034",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/standard-chartered-bank"
+        }
+    ]
+}

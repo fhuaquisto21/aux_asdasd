@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "459035",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST NATIONAL BANK OF OMAHA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-national-bank-of-omaha"
+        },
+        {
+            "bin_num": "459036",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST NATIONAL BANK OF OMAHA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-national-bank-of-omaha"
+        },
+        {
+            "bin_num": "459037",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST NATIONAL BANK OF OMAHA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-national-bank-of-omaha"
+        },
+        {
+            "bin_num": "522127",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FIRST NATIONAL BANK OF OMAHA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-national-bank-of-omaha"
+        },
+        {
+            "bin_num": "542397",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FIRST NATIONAL BANK OF OMAHA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/first-national-bank-of-omaha"
+        }
+    ]
+}

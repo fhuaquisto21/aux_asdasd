@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "402686",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a."
+        },
+        {
+            "bin_num": "407616",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a."
+        },
+        {
+            "bin_num": "422242",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a."
+        },
+        {
+            "bin_num": "491509",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a."
+        },
+        {
+            "bin_num": "493752",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a."
+        },
+        {
+            "bin_num": "493753",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CORP BANCA, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/corp-banca,-c.a."
+        }
+    ]
+}

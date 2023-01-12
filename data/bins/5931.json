@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "404915",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PROCREDIT BANK, LTD.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank,-ltd."
+        },
+        {
+            "bin_num": "410130",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PROCREDIT BANK, LTD.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank,-ltd."
+        },
+        {
+            "bin_num": "410131",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PROCREDIT BANK, LTD.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank,-ltd."
+        },
+        {
+            "bin_num": "422699",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PROCREDIT BANK, LTD.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank,-ltd."
+        },
+        {
+            "bin_num": "441081",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PROCREDIT BANK, LTD.",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/procredit-bank,-ltd."
+        }
+    ]
+}

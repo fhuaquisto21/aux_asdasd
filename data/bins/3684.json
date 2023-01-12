@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "425103",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COAST360 F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/coast360-f.c.u."
+        },
+        {
+            "bin_num": "466702",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COAST360 F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/coast360-f.c.u."
+        },
+        {
+            "bin_num": "466703",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COAST360 F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/coast360-f.c.u."
+        }
+    ]
+}

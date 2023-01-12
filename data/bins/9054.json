@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "433343",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "440640",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "440641",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "440642",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "467301",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "467303",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "467304",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        },
+        {
+            "bin_num": "467305",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SKB BANKA D.D. LJUBLJANA",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/skb-banka-d.d.-ljubljana"
+        }
+    ]
+}

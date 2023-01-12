@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "513332",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbc-royal-bank-(trinidad-&-tobago),-ltd."
+        },
+        {
+            "bin_num": "541687",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbc-royal-bank-(trinidad-&-tobago),-ltd."
+        },
+        {
+            "bin_num": "541792",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbc-royal-bank-(trinidad-&-tobago),-ltd."
+        },
+        {
+            "bin_num": "547713",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbc-royal-bank-(trinidad-&-tobago),-ltd."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "377910",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN CHARGE",
+            "bank_name": "DBS BANK LTD",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/dbs-bank-ltd"
+        },
+        {
+            "bin_num": "377911",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD CHARGE",
+            "bank_name": "DBS BANK LTD",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/dbs-bank-ltd"
+        },
+        {
+            "bin_num": "535404",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DBS BANK LTD",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/dbs-bank-ltd"
+        },
+        {
+            "bin_num": "547198",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DBS BANK LTD",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/dbs-bank-ltd"
+        },
+        {
+            "bin_num": "548065",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DBS BANK LTD",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/dbs-bank-ltd"
+        }
+    ]
+}

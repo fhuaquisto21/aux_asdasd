@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "431028",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "472065",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "491094",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "491320",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "491321",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "491378",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "536083",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "548882",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "548884",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        },
+        {
+            "bin_num": "554640",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ATLANTIC BANK, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/atlantic-bank,-ltd."
+        }
+    ]
+}

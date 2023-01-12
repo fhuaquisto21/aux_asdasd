@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "493525",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DEUTSCHE BANK S.P.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/deutsche-bank-s.p.a."
+        },
+        {
+            "bin_num": "493526",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "DEUTSCHE BANK S.P.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/deutsche-bank-s.p.a."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "517527",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED OVERSEAS BANK",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/united-overseas-bank"
+        },
+        {
+            "bin_num": "522457",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "UNITED OVERSEAS BANK",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/united-overseas-bank"
+        }
+    ]
+}

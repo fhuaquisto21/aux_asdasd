@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "538732",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "ALLIED WALLET, LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/allied-wallet,-ltd."
+        },
+        {
+            "bin_num": "539263",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "ALLIED WALLET, LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/allied-wallet,-ltd."
+        },
+        {
+            "bin_num": "557347",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "ALLIED WALLET, LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/allied-wallet,-ltd."
+        }
+    ]
+}

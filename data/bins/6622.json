@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506222",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "CREDIT",
+            "bank_name": "COMPARTAMOS",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/compartamos"
+        },
+        {
+            "bin_num": "506257",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMPARTAMOS",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/compartamos"
+        }
+    ]
+}

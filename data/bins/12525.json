@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "421069",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITIZENS BANK OF WASHINGTON COUNTY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/citizens-bank-of-washington-county"
+        },
+        {
+            "bin_num": "451144",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITIZENS BANK OF WASHINGTON COUNTY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/citizens-bank-of-washington-county"
+        }
+    ]
+}

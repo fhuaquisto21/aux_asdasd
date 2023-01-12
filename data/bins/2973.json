@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "489956",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA A",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/asociacion-mutualista-de-ahorro-y-credito-para-la-vivienda-a"
+        },
+        {
+            "bin_num": "489957",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA A",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/asociacion-mutualista-de-ahorro-y-credito-para-la-vivienda-a"
+        }
+    ]
+}

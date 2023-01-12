@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "452217",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/barclays-bank"
+        },
+        {
+            "bin_num": "452218",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARCLAYS BANK",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/barclays-bank"
+        }
+    ]
+}

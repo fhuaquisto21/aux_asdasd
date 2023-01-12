@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "486387",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANCO MERCANTIL DEL NORTE, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-mercantil-del-norte,-s.a."
+        },
+        {
+            "bin_num": "486388",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANCO MERCANTIL DEL NORTE, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-mercantil-del-norte,-s.a."
+        },
+        {
+            "bin_num": "544550",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO MERCANTIL DEL NORTE, S.A.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-mercantil-del-norte,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "401751",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/national-bank-of-abu-dhabi"
+        },
+        {
+            "bin_num": "417652",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/national-bank-of-abu-dhabi"
+        },
+        {
+            "bin_num": "417653",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/national-bank-of-abu-dhabi"
+        },
+        {
+            "bin_num": "439950",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/national-bank-of-abu-dhabi"
+        },
+        {
+            "bin_num": "484130",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/national-bank-of-abu-dhabi"
+        },
+        {
+            "bin_num": "484131",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK OF ABU DHABI",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/national-bank-of-abu-dhabi"
+        }
+    ]
+}

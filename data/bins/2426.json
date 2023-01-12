@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "510835",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PROCREDIT BANK CONGO S.A.R.L",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/procredit-bank-congo-s.a.r.l"
+        },
+        {
+            "bin_num": "521032",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PROCREDIT BANK CONGO S.A.R.L",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/procredit-bank-congo-s.a.r.l"
+        }
+    ]
+}

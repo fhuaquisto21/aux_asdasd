@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "510163",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/la-banque-internationale-pour-le-commerce-et-l'industrie-du-senegal"
+        },
+        {
+            "bin_num": "510473",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC",
+            "bank_name": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/la-banque-internationale-pour-le-commerce-et-l'industrie-du-senegal"
+        },
+        {
+            "bin_num": "521062",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/la-banque-internationale-pour-le-commerce-et-l'industrie-du-senegal"
+        },
+        {
+            "bin_num": "529927",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/la-banque-internationale-pour-le-commerce-et-l'industrie-du-senegal"
+        },
+        {
+            "bin_num": "536520",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/la-banque-internationale-pour-le-commerce-et-l'industrie-du-senegal"
+        }
+    ]
+}

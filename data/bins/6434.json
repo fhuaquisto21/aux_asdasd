@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "522396",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ABC BANKING CORPORATION LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/abc-banking-corporation-ltd."
+        },
+        {
+            "bin_num": "532643",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ABC BANKING CORPORATION LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/abc-banking-corporation-ltd."
+        }
+    ]
+}

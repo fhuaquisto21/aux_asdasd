@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "531940",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        },
+        {
+            "bin_num": "533270",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        },
+        {
+            "bin_num": "535397",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        },
+        {
+            "bin_num": "540916",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        },
+        {
+            "bin_num": "544198",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        },
+        {
+            "bin_num": "544588",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        },
+        {
+            "bin_num": "553020",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BENDIGO AND ADELAIDE BANK LIMITED",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/bendigo-and-adelaide-bank-limited"
+        }
+    ]
+}

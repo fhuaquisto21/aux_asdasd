@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "bin_num": "465283",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "476588",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "520116",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "548843",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "557602",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "639790",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854809",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854819",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854840",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854858",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854859",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854860",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854863",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854873",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854874",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854881",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "854897",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "881006",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "881021",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        },
+        {
+            "bin_num": "881052",
+            "bin_mark": "PRIVATE",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANAMEX",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banamex"
+        }
+    ]
+}

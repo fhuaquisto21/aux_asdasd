@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "406105",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "414615",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "414616",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "422073",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "422074",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "431400",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "431401",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "431402",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        },
+        {
+            "bin_num": "431419",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AB DNB NORD BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-dnb-nord-bankas"
+        }
+    ]
+}

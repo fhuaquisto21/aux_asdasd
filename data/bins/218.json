@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "412705",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROVINCIA DEL NEUQUEN, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-provincia-del-neuquen,-s.a."
+        },
+        {
+            "bin_num": "450750",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PROVINCIA DEL NEUQUEN, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-provincia-del-neuquen,-s.a."
+        }
+    ]
+}

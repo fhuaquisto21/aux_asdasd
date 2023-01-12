@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "686868",
+            "bin_mark": "MAESTRO",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "BANK FOR FOREIGN TRADE",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/bank-for-foreign-trade"
+        },
+        {
+            "bin_num": "970436",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANK FOR FOREIGN TRADE",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/bank-for-foreign-trade"
+        }
+    ]
+}

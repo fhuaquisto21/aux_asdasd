@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431185",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "GE CAPITAL CONSUMER CARD CO.",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ge-capital-consumer-card-co."
+        },
+        {
+            "bin_num": "431189",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GE CAPITAL CONSUMER CARD CO.",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ge-capital-consumer-card-co."
+        }
+    ]
+}

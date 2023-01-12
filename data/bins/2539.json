@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "517084",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "ADDIKO BANK D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/addiko-bank-d.d."
+        },
+        {
+            "bin_num": "518793",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ADDIKO BANK D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/addiko-bank-d.d."
+        },
+        {
+            "bin_num": "522432",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC COMMERCIAL",
+            "bank_name": "ADDIKO BANK D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/addiko-bank-d.d."
+        },
+        {
+            "bin_num": "525414",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ADDIKO BANK D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/addiko-bank-d.d."
+        },
+        {
+            "bin_num": "531152",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ADDIKO BANK D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/addiko-bank-d.d."
+        },
+        {
+            "bin_num": "676842",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "ADDIKO BANK D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/addiko-bank-d.d."
+        }
+    ]
+}

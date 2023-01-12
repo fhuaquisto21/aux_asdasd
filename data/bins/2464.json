@@ -1,0 +1,301 @@
+{
+    "data": [
+        {
+            "bin_num": "511771",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "517717",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "518858",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "519790",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "519827",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "519989",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE BUSINESS",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "521316",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "522891",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "525887",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "526982",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "529753",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "529754",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "530006",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "530045",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "531711",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "532023",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "532068",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "532113",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "532944",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "535831",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "537645",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "538100",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "538101",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "539166",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "546571",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        },
+        {
+            "bin_num": "553625",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO PROMERICA DE COSTA RICA S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/banco-promerica-de-costa-rica-s.a."
+        }
+    ]
+}

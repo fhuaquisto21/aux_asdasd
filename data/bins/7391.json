@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "404203",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HSBC BANK USA",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/hsbc-bank-usa"
+        },
+        {
+            "bin_num": "548320",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK USA",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/hsbc-bank-usa"
+        }
+    ]
+}

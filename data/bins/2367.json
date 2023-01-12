@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "417761",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        },
+        {
+            "bin_num": "419819",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        },
+        {
+            "bin_num": "459427",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        },
+        {
+            "bin_num": "464822",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        },
+        {
+            "bin_num": "474553",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        },
+        {
+            "bin_num": "474554",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        },
+        {
+            "bin_num": "487597",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CREDIBANCO",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/credibanco"
+        }
+    ]
+}

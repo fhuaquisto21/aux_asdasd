@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "408313",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB COMERTBANK SA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-comertbank-sa"
+        },
+        {
+            "bin_num": "408314",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CB COMERTBANK SA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-comertbank-sa"
+        },
+        {
+            "bin_num": "408315",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CB COMERTBANK SA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-comertbank-sa"
+        },
+        {
+            "bin_num": "408316",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CB COMERTBANK SA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-comertbank-sa"
+        },
+        {
+            "bin_num": "408317",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CB COMERTBANK SA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/cb-comertbank-sa"
+        }
+    ]
+}

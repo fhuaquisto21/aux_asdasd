@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "448444",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "LANDESBANK BERLIN GIROZENTRALE",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/landesbank-berlin-girozentrale"
+        },
+        {
+            "bin_num": "477951",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "LANDESBANK BERLIN GIROZENTRALE",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/landesbank-berlin-girozentrale"
+        }
+    ]
+}

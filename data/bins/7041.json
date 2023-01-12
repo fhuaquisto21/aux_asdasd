@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "483561",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "483562",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "540221",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "542764",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "542766",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "547343",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "558251",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "560221",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ BANK NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/anz-bank-new-zealand,-ltd."
+        }
+    ]
+}

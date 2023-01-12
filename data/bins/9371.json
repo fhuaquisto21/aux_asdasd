@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "544749",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servicios-financieros-carrefour,-establecimiento"
+        },
+        {
+            "bin_num": "549821",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servicios-financieros-carrefour,-establecimiento"
+        },
+        {
+            "bin_num": "549928",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servicios-financieros-carrefour,-establecimiento"
+        },
+        {
+            "bin_num": "558454",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servicios-financieros-carrefour,-establecimiento"
+        }
+    ]
+}

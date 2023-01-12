@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "519781",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-federal,-s.a."
+        },
+        {
+            "bin_num": "522779",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-federal,-s.a."
+        },
+        {
+            "bin_num": "528879",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-federal,-s.a."
+        },
+        {
+            "bin_num": "528896",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-federal,-s.a."
+        },
+        {
+            "bin_num": "531957",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-federal,-s.a."
+        },
+        {
+            "bin_num": "555174",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-federal,-s.a."
+        }
+    ]
+}

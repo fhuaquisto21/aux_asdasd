@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "545643",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "545644",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/hsbc-bank-middle-east"
+        }
+    ]
+}

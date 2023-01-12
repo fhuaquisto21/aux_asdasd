@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "489098",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK ARMENIA CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/hsbc-bank-armenia-cjsc"
+        },
+        {
+            "bin_num": "520300",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK ARMENIA CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/hsbc-bank-armenia-cjsc"
+        },
+        {
+            "bin_num": "550068",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "HSBC BANK ARMENIA CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/hsbc-bank-armenia-cjsc"
+        },
+        {
+            "bin_num": "557114",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HSBC BANK ARMENIA CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/hsbc-bank-armenia-cjsc"
+        },
+        {
+            "bin_num": "557115",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "HSBC BANK ARMENIA CJSC",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/hsbc-bank-armenia-cjsc"
+        }
+    ]
+}

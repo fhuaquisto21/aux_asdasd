@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "435773",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BICSACARD, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/bicsacard,-s.a."
+        },
+        {
+            "bin_num": "473218",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BICSACARD, S.A.",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/bicsacard,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "425545",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "443279",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "469305",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "469306",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "470111",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "477749",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "482075",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "542322",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        },
+        {
+            "bin_num": "547016",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/community-first-credit-union-of-florida"
+        }
+    ]
+}

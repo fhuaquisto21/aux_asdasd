@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "477940",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMERCIAL BANK OF OMAN (S.A.O.G.)",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/commercial-bank-of-oman-(s.a.o.g.)"
+        },
+        {
+            "bin_num": "477941",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COMMERCIAL BANK OF OMAN (S.A.O.G.)",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/commercial-bank-of-oman-(s.a.o.g.)"
+        },
+        {
+            "bin_num": "478783",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "COMMERCIAL BANK OF OMAN (S.A.O.G.)",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/commercial-bank-of-oman-(s.a.o.g.)"
+        }
+    ]
+}

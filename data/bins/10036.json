@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "403656",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ORIENT BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/orient-bank,-ltd."
+        },
+        {
+            "bin_num": "432281",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ORIENT BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/orient-bank,-ltd."
+        },
+        {
+            "bin_num": "432282",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ORIENT BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/orient-bank,-ltd."
+        },
+        {
+            "bin_num": "432283",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ORIENT BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/orient-bank,-ltd."
+        },
+        {
+            "bin_num": "464829",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ORIENT BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/orient-bank,-ltd."
+        },
+        {
+            "bin_num": "464830",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "ORIENT BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/orient-bank,-ltd."
+        }
+    ]
+}

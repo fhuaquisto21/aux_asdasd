@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "535344",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI S.A. (PKO BANK POL",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/powszechna-kasa-oszczednosci-bank-polski-s.a.-(pko-bank-pol"
+        },
+        {
+            "bin_num": "541787",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI S.A. (PKO BANK POL",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/powszechna-kasa-oszczednosci-bank-polski-s.a.-(pko-bank-pol"
+        }
+    ]
+}

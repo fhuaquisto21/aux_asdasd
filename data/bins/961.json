@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "454474",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO BOLIVIANO AMERICANO",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-boliviano-americano"
+        },
+        {
+            "bin_num": "454821",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO BOLIVIANO AMERICANO",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-boliviano-americano"
+        }
+    ]
+}

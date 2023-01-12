@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "517765",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FIRST DATA LOAN COMPANY CANADA",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/first-data-loan-company-canada"
+        },
+        {
+            "bin_num": "531583",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST DATA LOAN COMPANY CANADA",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/first-data-loan-company-canada"
+        },
+        {
+            "bin_num": "544564",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST DATA LOAN COMPANY CANADA",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/first-data-loan-company-canada"
+        }
+    ]
+}

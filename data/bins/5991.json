@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "462234",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ANZ BANK (LAO), LTD.",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/anz-bank-(lao),-ltd."
+        },
+        {
+            "bin_num": "529490",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ BANK (LAO), LTD.",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/anz-bank-(lao),-ltd."
+        }
+    ]
+}

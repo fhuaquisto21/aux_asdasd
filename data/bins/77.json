@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "444467",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO MILLENNIUM ANGOLA, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-millennium-angola,-s.a."
+        },
+        {
+            "bin_num": "446909",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO MILLENNIUM ANGOLA, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-millennium-angola,-s.a."
+        },
+        {
+            "bin_num": "457313",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO MILLENNIUM ANGOLA, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-millennium-angola,-s.a."
+        },
+        {
+            "bin_num": "457314",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO MILLENNIUM ANGOLA, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-millennium-angola,-s.a."
+        },
+        {
+            "bin_num": "475160",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO MILLENNIUM ANGOLA, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-millennium-angola,-s.a."
+        },
+        {
+            "bin_num": "475161",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO MILLENNIUM ANGOLA, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-millennium-angola,-s.a."
+        }
+    ]
+}

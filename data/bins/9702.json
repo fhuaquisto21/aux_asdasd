@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "356738",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "TAIWAN RAKUTEN CARD INC.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/taiwan-rakuten-card-inc."
+        },
+        {
+            "bin_num": "406579",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TAIWAN RAKUTEN CARD INC.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/taiwan-rakuten-card-inc."
+        }
+    ]
+}

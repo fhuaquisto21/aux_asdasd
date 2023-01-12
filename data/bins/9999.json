@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "541981",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/the-state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "544242",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/the-state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "547873",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/the-state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        },
+        {
+            "bin_num": "677695",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+            "country_name": "TURKMENISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tm.svg",
+            "country_url": "https://bincheck.io/es/tm",
+            "bank_url": "https://bincheck.io/es/tm/the-state-bank-for-foreign-economic-affairs-of-turkmenistan"
+        }
+    ]
+}

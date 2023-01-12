@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "622298",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PING AN BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ping-an-bank"
+        },
+        {
+            "bin_num": "625360",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "PING AN BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ping-an-bank"
+        },
+        {
+            "bin_num": "625361",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "PING AN BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ping-an-bank"
+        },
+        {
+            "bin_num": "627068",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PING AN BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ping-an-bank"
+        },
+        {
+            "bin_num": "627069",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PING AN BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ping-an-bank"
+        },
+        {
+            "bin_num": "628296",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "PING AN BANK",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/ping-an-bank"
+        }
+    ]
+}

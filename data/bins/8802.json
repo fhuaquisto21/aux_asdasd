@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "471422",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/united-bank-for-africa-senegal"
+        },
+        {
+            "bin_num": "472854",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED BANK FOR AFRICA SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/united-bank-for-africa-senegal"
+        },
+        {
+            "bin_num": "472855",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UNITED BANK FOR AFRICA SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/united-bank-for-africa-senegal"
+        }
+    ]
+}

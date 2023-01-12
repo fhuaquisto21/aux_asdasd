@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "517518",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-generale-de-banques-au-senegal"
+        },
+        {
+            "bin_num": "517521",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/societe-generale-de-banques-au-senegal"
+        }
+    ]
+}

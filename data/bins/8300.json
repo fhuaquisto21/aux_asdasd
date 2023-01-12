@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "440032",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "440567",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "471408",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "541279",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "544568",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "546844",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "548268",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        },
+        {
+            "bin_num": "677384",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "INVESTMENT BANK OF CHELYABINSK JS CHELYABINVESTBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/investment-bank-of-chelyabinsk-js-chelyabinvestbank"
+        }
+    ]
+}

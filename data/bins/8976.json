@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "376316",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD CHARGE",
+            "bank_name": "UNITED OVERSEAS BANK",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/united-overseas-bank"
+        },
+        {
+            "bin_num": "376317",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL PLATINUM CHARGE",
+            "bank_name": "UNITED OVERSEAS BANK",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/united-overseas-bank"
+        },
+        {
+            "bin_num": "377149",
+            "bin_mark": "AMERICAN",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL GOLD REVOLVE",
+            "bank_name": "UNITED OVERSEAS BANK",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/united-overseas-bank"
+        }
+    ]
+}

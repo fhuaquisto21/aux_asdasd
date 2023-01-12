@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "406427",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        },
+        {
+            "bin_num": "406444",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        },
+        {
+            "bin_num": "410554",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        },
+        {
+            "bin_num": "413104",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        },
+        {
+            "bin_num": "413888",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        },
+        {
+            "bin_num": "429783",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        },
+        {
+            "bin_num": "457409",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-razvojna-banka-jsc-banja-luka"
+        }
+    ]
+}

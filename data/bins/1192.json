@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "483044",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "REDECARD, S.A.",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/redecard,-s.a."
+        },
+        {
+            "bin_num": "489409",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "REDECARD, S.A.",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/redecard,-s.a."
+        },
+        {
+            "bin_num": "548087",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "REDECARD, S.A.",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/redecard,-s.a."
+        },
+        {
+            "bin_num": "548088",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "REDECARD, S.A.",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/redecard,-s.a."
+        }
+    ]
+}

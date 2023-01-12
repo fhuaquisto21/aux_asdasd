@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "538750",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERCARD FINANCE AD",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/intercard-finance-ad"
+        },
+        {
+            "bin_num": "538975",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "INTERCARD FINANCE AD",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/intercard-finance-ad"
+        }
+    ]
+}

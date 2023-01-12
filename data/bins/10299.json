@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "470642",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "COMMERCIAL BANK INTERNATIONAL PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-international-plc"
+        },
+        {
+            "bin_num": "470643",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "COMMERCIAL BANK INTERNATIONAL PLC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/commercial-bank-international-plc"
+        }
+    ]
+}

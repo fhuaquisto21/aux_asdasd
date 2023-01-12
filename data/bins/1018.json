@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "402332",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UPI BANKA DD SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/upi-banka-dd-sarajevo"
+        },
+        {
+            "bin_num": "406335",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UPI BANKA DD SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/upi-banka-dd-sarajevo"
+        },
+        {
+            "bin_num": "422196",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UPI BANKA DD SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/upi-banka-dd-sarajevo"
+        }
+    ]
+}

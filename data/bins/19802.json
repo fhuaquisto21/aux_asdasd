@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "406909",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK ZIMBABWE, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/stanbic-bank-zimbabwe,-ltd."
+        },
+        {
+            "bin_num": "406913",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANBIC BANK ZIMBABWE, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/stanbic-bank-zimbabwe,-ltd."
+        },
+        {
+            "bin_num": "406930",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANBIC BANK ZIMBABWE, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/stanbic-bank-zimbabwe,-ltd."
+        },
+        {
+            "bin_num": "424347",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK ZIMBABWE, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/stanbic-bank-zimbabwe,-ltd."
+        },
+        {
+            "bin_num": "424348",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANBIC BANK ZIMBABWE, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/stanbic-bank-zimbabwe,-ltd."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK ZIMBABWE, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/stanbic-bank-zimbabwe,-ltd."
+        }
+    ]
+}

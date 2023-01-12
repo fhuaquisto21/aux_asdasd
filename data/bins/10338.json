@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "413063",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK OF DUBAI PUBLIC JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai-public-jsc"
+        },
+        {
+            "bin_num": "443911",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF DUBAI PUBLIC JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai-public-jsc"
+        },
+        {
+            "bin_num": "443912",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL BANK OF DUBAI PUBLIC JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai-public-jsc"
+        },
+        {
+            "bin_num": "443913",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE/SIGNATURE",
+            "bank_name": "NATIONAL BANK OF DUBAI PUBLIC JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai-public-jsc"
+        },
+        {
+            "bin_num": "455365",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NATIONAL BANK OF DUBAI PUBLIC JSC",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/national-bank-of-dubai-public-jsc"
+        }
+    ]
+}

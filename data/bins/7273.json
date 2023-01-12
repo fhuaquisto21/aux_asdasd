@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "419557",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/barclays-bank-plc"
+        },
+        {
+            "bin_num": "419558",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/barclays-bank-plc"
+        },
+        {
+            "bin_num": "419559",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/barclays-bank-plc"
+        }
+    ]
+}

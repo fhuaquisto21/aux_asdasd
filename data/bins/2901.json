@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "423324",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "446880",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "462964",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "465739",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "470603",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "483095",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "496087",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "496088",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/asociacion-la-vega-real-de-ahorros-y-prestamos"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "bin_num": "521943",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SIA FSC EU",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/sia-fsc-eu"
+        }
+    ]
+}

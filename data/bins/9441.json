@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "521085",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        },
+        {
+            "bin_num": "524118",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        },
+        {
+            "bin_num": "530091",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        },
+        {
+            "bin_num": "532169",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        },
+        {
+            "bin_num": "538391",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        },
+        {
+            "bin_num": "541902",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        },
+        {
+            "bin_num": "557676",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SEYLAN BANK PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/seylan-bank-plc"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "519724",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a."
+        },
+        {
+            "bin_num": "519744",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a."
+        },
+        {
+            "bin_num": "519774",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a."
+        },
+        {
+            "bin_num": "525808",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a."
+        },
+        {
+            "bin_num": "527014",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a."
+        },
+        {
+            "bin_num": "553057",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NOVO BANCO S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-s.a."
+        }
+    ]
+}

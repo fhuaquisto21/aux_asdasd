@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "424739",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "GREAT AMERICAN C.U. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/great-american-c.u.-(closed)"
+        },
+        {
+            "bin_num": "473032",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GREAT AMERICAN C.U. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/great-american-c.u.-(closed)"
+        },
+        {
+            "bin_num": "485171",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GREAT AMERICAN C.U. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/great-american-c.u.-(closed)"
+        }
+    ]
+}

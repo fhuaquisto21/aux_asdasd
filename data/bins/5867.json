@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "624358",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "KB KOOKMIN CARD",
+            "bank_name": "KB KOOKMIN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin"
+        },
+        {
+            "bin_num": "624434",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "KB KOOKMIN CARD",
+            "bank_name": "KB KOOKMIN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin"
+        },
+        {
+            "bin_num": "624462",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "KB KOOKMIN CARD",
+            "bank_name": "KB KOOKMIN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin"
+        },
+        {
+            "bin_num": "625804",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "KB KOOKMIN CARD",
+            "bank_name": "KB KOOKMIN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin"
+        },
+        {
+            "bin_num": "626402",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KB KOOKMIN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin"
+        }
+    ]
+}

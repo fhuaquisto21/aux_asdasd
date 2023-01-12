@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "481387",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PUBLIC ISLAMIC BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/public-islamic-bank-berhad"
+        },
+        {
+            "bin_num": "481388",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PUBLIC ISLAMIC BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/public-islamic-bank-berhad"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "418119",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "RASTRIYA BANIJYA BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/rastriya-banijya-bank"
+        },
+        {
+            "bin_num": "418120",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RASTRIYA BANIJYA BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/rastriya-banijya-bank"
+        },
+        {
+            "bin_num": "418121",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RASTRIYA BANIJYA BANK",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/rastriya-banijya-bank"
+        }
+    ]
+}

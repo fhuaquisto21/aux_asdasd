@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "622815",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "JIANGSU RCCU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/jiangsu-rccu"
+        },
+        {
+            "bin_num": "622816",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "JIANGSU RCCU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/jiangsu-rccu"
+        },
+        {
+            "bin_num": "623066",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "JIANGSU RCCU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/jiangsu-rccu"
+        },
+        {
+            "bin_num": "628226",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JIANGSU RCCU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/jiangsu-rccu"
+        }
+    ]
+}

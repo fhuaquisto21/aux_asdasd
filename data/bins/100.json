@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "493180",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ANTIGUA COMMERCIAL BANK",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/antigua-commercial-bank"
+        },
+        {
+            "bin_num": "496037",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ANTIGUA COMMERCIAL BANK",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/antigua-commercial-bank"
+        },
+        {
+            "bin_num": "496038",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ANTIGUA COMMERCIAL BANK",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/antigua-commercial-bank"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ANTIGUA COMMERCIAL BANK",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/antigua-commercial-bank"
+        }
+    ]
+}

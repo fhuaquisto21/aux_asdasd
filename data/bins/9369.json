@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "550147",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SERVICIOS FINANCIEROS CARREFOU",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servicios-financieros-carrefou"
+        },
+        {
+            "bin_num": "550208",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SERVICIOS FINANCIEROS CARREFOU",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/servicios-financieros-carrefou"
+        }
+    ]
+}

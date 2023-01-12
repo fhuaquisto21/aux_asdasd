@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "375724",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN REVOLVE",
+            "bank_name": "ENTERCARD (SWEDBANK)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/entercard-(swedbank)"
+        },
+        {
+            "bin_num": "377980",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "OPEN GREEN REVOLVE",
+            "bank_name": "ENTERCARD (SWEDBANK)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/entercard-(swedbank)"
+        }
+    ]
+}

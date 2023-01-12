@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "524251",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "KHAN BANK LLC",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/khan-bank-llc"
+        },
+        {
+            "bin_num": "537151",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "KHAN BANK LLC",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/khan-bank-llc"
+        },
+        {
+            "bin_num": "546401",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "KHAN BANK LLC",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/khan-bank-llc"
+        },
+        {
+            "bin_num": "558703",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "KHAN BANK LLC",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/khan-bank-llc"
+        }
+    ]
+}

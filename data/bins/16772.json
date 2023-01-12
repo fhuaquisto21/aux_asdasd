@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "415138",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OHIO UNIVERSITY CREDIT UNION, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/ohio-university-credit-union,-inc."
+        },
+        {
+            "bin_num": "483390",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OHIO UNIVERSITY CREDIT UNION, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/ohio-university-credit-union,-inc."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "589748",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "TALLINNA PANK",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/tallinna-pank"
+        },
+        {
+            "bin_num": "593220",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "TALLINNA PANK",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/tallinna-pank"
+        }
+    ]
+}

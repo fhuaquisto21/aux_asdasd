@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "521103",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MAIWAND BANK",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/maiwand-bank"
+        },
+        {
+            "bin_num": "540726",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MAIWAND BANK",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/maiwand-bank"
+        }
+    ]
+}

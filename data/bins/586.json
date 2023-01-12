@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "420553",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "427857",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "427858",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "427859",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "427860",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "524313",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "533215",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "542671",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "558641",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        },
+        {
+            "bin_num": "670836",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANK OF AZERBAIJAN OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/bank-of-azerbaijan-ojsc"
+        }
+    ]
+}

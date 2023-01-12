@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506351",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "NCUBO CAPITAL SAPI",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/ncubo-capital-sapi"
+        },
+        {
+            "bin_num": "506456",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NCUBO CAPITAL SAPI",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/ncubo-capital-sapi"
+        }
+    ]
+}

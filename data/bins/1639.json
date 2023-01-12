@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "421100",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "425876",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "443861",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "452427",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "454723",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "454813",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "455342",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "491098",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        },
+        {
+            "bin_num": "496624",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CORPBANCA",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corpbanca"
+        }
+    ]
+}

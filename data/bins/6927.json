@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "446943",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNITED BANK FOR AFRICA MOZAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/united-bank-for-africa-mozambique-sa"
+        },
+        {
+            "bin_num": "484133",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA MOZAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/united-bank-for-africa-mozambique-sa"
+        }
+    ]
+}

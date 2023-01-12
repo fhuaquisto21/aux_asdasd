@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "941111",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SHINHAN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/shinhan"
+        },
+        {
+            "bin_num": "941112",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SHINHAN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/shinhan"
+        },
+        {
+            "bin_num": "941194",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SHINHAN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/shinhan"
+        },
+        {
+            "bin_num": "941195",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SHINHAN",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/shinhan"
+        }
+    ]
+}

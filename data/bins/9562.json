@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "530804",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "POSTFINANCE AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/postfinance-ag"
+        },
+        {
+            "bin_num": "530826",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "POSTFINANCE AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/postfinance-ag"
+        },
+        {
+            "bin_num": "548719",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "POSTFINANCE AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/postfinance-ag"
+        }
+    ]
+}

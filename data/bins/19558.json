@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "422271",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DEL SUR BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/del-sur-banco-universal,-c.a."
+        },
+        {
+            "bin_num": "425888",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "DEL SUR BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/del-sur-banco-universal,-c.a."
+        },
+        {
+            "bin_num": "433485",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DEL SUR BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/del-sur-banco-universal,-c.a."
+        },
+        {
+            "bin_num": "433486",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DEL SUR BANCO UNIVERSAL, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/del-sur-banco-universal,-c.a."
+        }
+    ]
+}

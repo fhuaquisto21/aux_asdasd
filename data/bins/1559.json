@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "415203",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCOLOMBIA CAYMAN",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bancolombia-cayman"
+        },
+        {
+            "bin_num": "415204",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCOLOMBIA CAYMAN",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bancolombia-cayman"
+        }
+    ]
+}

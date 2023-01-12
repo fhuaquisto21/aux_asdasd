@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "516157",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "THE HOUSING BANK FOR TRADE & FINANCE",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/the-housing-bank-for-trade-&-finance"
+        },
+        {
+            "bin_num": "521505",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "THE HOUSING BANK FOR TRADE & FINANCE",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/the-housing-bank-for-trade-&-finance"
+        },
+        {
+            "bin_num": "528485",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE HOUSING BANK FOR TRADE & FINANCE",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/the-housing-bank-for-trade-&-finance"
+        },
+        {
+            "bin_num": "539961",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE HOUSING BANK FOR TRADE & FINANCE",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/the-housing-bank-for-trade-&-finance"
+        },
+        {
+            "bin_num": "544035",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "THE HOUSING BANK FOR TRADE & FINANCE",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/the-housing-bank-for-trade-&-finance"
+        }
+    ]
+}

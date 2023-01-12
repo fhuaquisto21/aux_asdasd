@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "428280",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "488973",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "488974",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "488975",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "489678",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "529389",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "533181",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/bank-of-south-pacific,-ltd."
+        }
+    ]
+}

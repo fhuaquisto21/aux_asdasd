@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "406910",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-ghana,-ltd."
+        },
+        {
+            "bin_num": "406929",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANBIC BANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-ghana,-ltd."
+        },
+        {
+            "bin_num": "406931",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANBIC BANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-ghana,-ltd."
+        },
+        {
+            "bin_num": "406942",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-ghana,-ltd."
+        },
+        {
+            "bin_num": "439957",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANBIC BANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-ghana,-ltd."
+        },
+        {
+            "bin_num": "444569",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STANBIC BANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/stanbic-bank-ghana,-ltd."
+        }
+    ]
+}

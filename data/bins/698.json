@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "522018",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-bahrain"
+        },
+        {
+            "bin_num": "524259",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-bahrain"
+        },
+        {
+            "bin_num": "527432",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-bahrain"
+        },
+        {
+            "bin_num": "540729",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-bahrain"
+        },
+        {
+            "bin_num": "543256",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF BAHRAIN",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-bahrain"
+        }
+    ]
+}

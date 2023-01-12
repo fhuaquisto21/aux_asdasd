@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "458002",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARAB ISRAEL BANK, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/arab-israel-bank,-ltd."
+        },
+        {
+            "bin_num": "458022",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ARAB ISRAEL BANK, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/arab-israel-bank,-ltd."
+        },
+        {
+            "bin_num": "458092",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ARAB ISRAEL BANK, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/arab-israel-bank,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "457426",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE ATLANTIQUE NIGER",
+            "country_name": "NIGER",
+            "country_img": "https://bincheck.io/assets/flags/svg/ne.svg",
+            "country_url": "https://bincheck.io/es/ne",
+            "bank_url": "https://bincheck.io/es/ne/banque-atlantique-niger"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE ATLANTIQUE NIGER",
+            "country_name": "NIGER",
+            "country_img": "https://bincheck.io/assets/flags/svg/ne.svg",
+            "country_url": "https://bincheck.io/es/ne",
+            "bank_url": "https://bincheck.io/es/ne/banque-atlantique-niger"
+        },
+        {
+            "bin_num": "457428",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANQUE ATLANTIQUE NIGER",
+            "country_name": "NIGER",
+            "country_img": "https://bincheck.io/assets/flags/svg/ne.svg",
+            "country_url": "https://bincheck.io/es/ne",
+            "bank_url": "https://bincheck.io/es/ne/banque-atlantique-niger"
+        }
+    ]
+}

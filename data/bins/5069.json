@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "435311",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABU DHABI ISLAMIC BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/abu-dhabi-islamic-bank"
+        },
+        {
+            "bin_num": "435322",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "ABU DHABI ISLAMIC BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/abu-dhabi-islamic-bank"
+        },
+        {
+            "bin_num": "448784",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABU DHABI ISLAMIC BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/abu-dhabi-islamic-bank"
+        },
+        {
+            "bin_num": "448785",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "ABU DHABI ISLAMIC BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/abu-dhabi-islamic-bank"
+        },
+        {
+            "bin_num": "468226",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ABU DHABI ISLAMIC BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/abu-dhabi-islamic-bank"
+        }
+    ]
+}

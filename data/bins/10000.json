@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "407327",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "409079",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "430328",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "430382",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/bank-of-nova-scotia"
+        }
+    ]
+}

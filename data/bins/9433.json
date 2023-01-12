@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "454486",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PEOPLE'S BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/people's-bank"
+        },
+        {
+            "bin_num": "454488",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PEOPLE'S BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/people's-bank"
+        },
+        {
+            "bin_num": "492301",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PEOPLE'S BANK",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/people's-bank"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "377669",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN CHARGE",
+            "bank_name": "ERB RETAIL SERVICES IFN SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/erb-retail-services-ifn-sa"
+        },
+        {
+            "bin_num": "520351",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERB RETAIL SERVICES IFN SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/erb-retail-services-ifn-sa"
+        },
+        {
+            "bin_num": "524461",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "ERB RETAIL SERVICES IFN SA",
+            "country_name": "ROMANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ro.svg",
+            "country_url": "https://bincheck.io/es/ro",
+            "bank_url": "https://bincheck.io/es/ro/erb-retail-services-ifn-sa"
+        }
+    ]
+}

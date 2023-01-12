@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "603522",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CABAL",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/cabal"
+        },
+        {
+            "bin_num": "604248",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CABAL",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/cabal"
+        },
+        {
+            "bin_num": "627170",
+            "bin_mark": "CABAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "CABAL",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/cabal"
+        }
+    ]
+}

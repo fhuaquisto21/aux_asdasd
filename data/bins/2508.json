@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "429599",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/banque-internationale-pour-le-commerce-et-lindustrie-de-la-cote-d'ivoire"
+        },
+        {
+            "bin_num": "433338",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/banque-internationale-pour-le-commerce-et-lindustrie-de-la-cote-d'ivoire"
+        },
+        {
+            "bin_num": "433339",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE",
+            "country_name": "COTE D'IVOIRE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ci.svg",
+            "country_url": "https://bincheck.io/es/ci",
+            "bank_url": "https://bincheck.io/es/ci/banque-internationale-pour-le-commerce-et-lindustrie-de-la-cote-d'ivoire"
+        }
+    ]
+}

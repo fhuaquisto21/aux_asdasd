@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "422946",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RG PREMIER BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/rg-premier-bank"
+        },
+        {
+            "bin_num": "429630",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "RG PREMIER BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/rg-premier-bank"
+        },
+        {
+            "bin_num": "453963",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RG PREMIER BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/rg-premier-bank"
+        },
+        {
+            "bin_num": "453964",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "RG PREMIER BANK",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/rg-premier-bank"
+        }
+    ]
+}

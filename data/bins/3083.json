@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "489303",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/societe-arabe-internationale-de-banque"
+        },
+        {
+            "bin_num": "489305",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/societe-arabe-internationale-de-banque"
+        }
+    ]
+}

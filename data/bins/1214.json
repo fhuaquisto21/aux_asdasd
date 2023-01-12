@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "512945",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "519495",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "519794",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "520096",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "528621",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "549536",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "551619",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        },
+        {
+            "bin_num": "557603",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/bank-islam-brunei-darussalam-berhad"
+        }
+    ]
+}

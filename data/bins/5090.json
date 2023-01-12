@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "517452",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        },
+        {
+            "bin_num": "524729",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        },
+        {
+            "bin_num": "533410",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        },
+        {
+            "bin_num": "537024",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        },
+        {
+            "bin_num": "554647",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        },
+        {
+            "bin_num": "557690",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        },
+        {
+            "bin_num": "557691",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD/GOLD",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/middle-east-payment-services-limited-co."
+        }
+    ]
+}

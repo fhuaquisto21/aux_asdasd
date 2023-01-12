@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "457648",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GHANA COMMERCIAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ghana-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "457721",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GHANA COMMERCIAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ghana-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "533826",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "GHANA COMMERCIAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ghana-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "549240",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GHANA COMMERCIAL BANK, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ghana-commercial-bank,-ltd."
+        }
+    ]
+}

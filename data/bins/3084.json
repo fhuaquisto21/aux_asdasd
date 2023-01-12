@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "404238",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUEZ CANAL BANK",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/suez-canal-bank"
+        },
+        {
+            "bin_num": "404239",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SUEZ CANAL BANK",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/suez-canal-bank"
+        },
+        {
+            "bin_num": "424263",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SUEZ CANAL BANK",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/suez-canal-bank"
+        },
+        {
+            "bin_num": "424264",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SUEZ CANAL BANK",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/suez-canal-bank"
+        }
+    ]
+}

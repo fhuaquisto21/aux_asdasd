@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "405688",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "FINANCIAL INFORMATION SERVICE CO., LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/financial-information-service-co.,-ltd."
+        },
+        {
+            "bin_num": "451818",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FINANCIAL INFORMATION SERVICE CO., LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/financial-information-service-co.,-ltd."
+        },
+        {
+            "bin_num": "455742",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FINANCIAL INFORMATION SERVICE CO., LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/financial-information-service-co.,-ltd."
+        },
+        {
+            "bin_num": "468001",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "FINANCIAL INFORMATION SERVICE CO., LTD.",
+            "country_name": "TAIWAN, PROVINCE OF CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tw.svg",
+            "country_url": "https://bincheck.io/es/tw",
+            "bank_url": "https://bincheck.io/es/tw/financial-information-service-co.,-ltd."
+        }
+    ]
+}

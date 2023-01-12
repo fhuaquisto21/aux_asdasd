@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "459850",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AIR BANK A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/air-bank-a.s."
+        },
+        {
+            "bin_num": "516844",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AIR BANK A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/air-bank-a.s."
+        },
+        {
+            "bin_num": "523624",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AIR BANK A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/air-bank-a.s."
+        },
+        {
+            "bin_num": "524834",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AIR BANK A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/air-bank-a.s."
+        },
+        {
+            "bin_num": "536964",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AIR BANK A.S.",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/air-bank-a.s."
+        }
+    ]
+}

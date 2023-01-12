@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "bin_num": "402769",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "403382",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "428086",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "428087",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "445620",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "457242",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "477257",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "477258",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "477259",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "531706",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GLOBAL PAYMENT",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "531708",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GLOBAL PAYMENT",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "541866",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "541960",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        },
+        {
+            "bin_num": "545828",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PAYSQUARE B.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/paysquare-b.v."
+        }
+    ]
+}

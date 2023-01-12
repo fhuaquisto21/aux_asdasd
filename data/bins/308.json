@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "512456",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ARMBUSINESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/armbusinessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "517596",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ARMBUSINESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/armbusinessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "528550",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "ARMBUSINESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/armbusinessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "531944",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ARMBUSINESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/armbusinessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "558362",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ARMBUSINESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/armbusinessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "671101",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "ARMBUSINESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "ARMENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/am.svg",
+            "country_url": "https://bincheck.io/es/am",
+            "bank_url": "https://bincheck.io/es/am/armbusinessbank-closed-joint-stock-company"
+        }
+    ]
+}

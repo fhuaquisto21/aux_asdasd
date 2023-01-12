@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "458037",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST INTERNATIONAL BANK OF ISRAEL, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/first-international-bank-of-israel,-ltd."
+        },
+        {
+            "bin_num": "458038",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST INTERNATIONAL BANK OF ISRAEL, LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/first-international-bank-of-israel,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "531389",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PAPARA ELEKTRONIK PARA VE ODEME",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/papara-elektronik-para-ve-odeme"
+        },
+        {
+            "bin_num": "535925",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PAPARA ELEKTRONIK PARA VE ODEME",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/papara-elektronik-para-ve-odeme"
+        }
+    ]
+}

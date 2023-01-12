@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "451878",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DI CARIBE N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/banco-di-caribe-n.v."
+        },
+        {
+            "bin_num": "451879",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DI CARIBE N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/banco-di-caribe-n.v."
+        },
+        {
+            "bin_num": "512236",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DI CARIBE N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/banco-di-caribe-n.v."
+        },
+        {
+            "bin_num": "512237",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DI CARIBE N.V.",
+            "country_name": "ARUBA",
+            "country_img": "https://bincheck.io/assets/flags/svg/aw.svg",
+            "country_url": "https://bincheck.io/es/aw",
+            "bank_url": "https://bincheck.io/es/aw/banco-di-caribe-n.v."
+        }
+    ]
+}

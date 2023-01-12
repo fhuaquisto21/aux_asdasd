@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "410659",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "416967",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "418009",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "433970",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "446904",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "446905",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "446906",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "479046",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "479047",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "479048",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "479049",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        },
+        {
+            "bin_num": "479074",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UZKDB BANK",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/uzkdb-bank"
+        }
+    ]
+}

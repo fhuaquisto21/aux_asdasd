@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "417460",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "450854",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "450855",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "450856",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "458728",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "458729",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "458730",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "459264",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        },
+        {
+            "bin_num": "459265",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NEDBANK NAMIBIA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/nedbank-namibia,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "468757",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/industrial-&-commercial-bank-of-china,-ltd."
+        },
+        {
+            "bin_num": "468768",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/industrial-&-commercial-bank-of-china,-ltd."
+        }
+    ]
+}

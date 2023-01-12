@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "418040",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GRUPA BPS BANKI SPOLDZIELCZE I BANK BPS",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/grupa-bps-banki-spoldzielcze-i-bank-bps"
+        },
+        {
+            "bin_num": "418042",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GRUPA BPS BANKI SPOLDZIELCZE I BANK BPS",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/grupa-bps-banki-spoldzielcze-i-bank-bps"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "457880",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/privredna-banka-sarajevo-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "457881",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/privredna-banka-sarajevo-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "457882",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/privredna-banka-sarajevo-d.d.-sarajevo"
+        },
+        {
+            "bin_num": "483954",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/privredna-banka-sarajevo-d.d.-sarajevo"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "358270",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "APLUS",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/aplus"
+        },
+        {
+            "bin_num": "358277",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "APLUS",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/aplus"
+        }
+    ]
+}

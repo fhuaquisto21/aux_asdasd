@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "621247",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO NACIONAL ULTRAMARINO",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/banco-nacional-ultramarino"
+        },
+        {
+            "bin_num": "623043",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANCO NACIONAL ULTRAMARINO",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/banco-nacional-ultramarino"
+        }
+    ]
+}

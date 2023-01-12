@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "657376",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "PIRAEUS BANK, S.A.",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/piraeus-bank,-s.a."
+        },
+        {
+            "bin_num": "989167",
+            "bin_mark": "DINACARD",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "PIRAEUS BANK, S.A.",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/piraeus-bank,-s.a."
+        }
+    ]
+}

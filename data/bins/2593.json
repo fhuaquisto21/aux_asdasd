@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "513068",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "SOUTH AMERICAN INTERNATIONAL BANK CURACAO",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/south-american-international-bank-curacao"
+        },
+        {
+            "bin_num": "515115",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "SOUTH AMERICAN INTERNATIONAL BANK CURACAO",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/south-american-international-bank-curacao"
+        },
+        {
+            "bin_num": "520961",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SOUTH AMERICAN INTERNATIONAL BANK CURACAO",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/south-american-international-bank-curacao"
+        },
+        {
+            "bin_num": "526017",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SOUTH AMERICAN INTERNATIONAL BANK CURACAO",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/south-american-international-bank-curacao"
+        },
+        {
+            "bin_num": "526903",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SOUTH AMERICAN INTERNATIONAL BANK CURACAO",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/south-american-international-bank-curacao"
+        },
+        {
+            "bin_num": "533993",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "SOUTH AMERICAN INTERNATIONAL BANK CURACAO",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/south-american-international-bank-curacao"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "402037",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OLDENBURGISCHE LANDESBANK AG",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/oldenburgische-landesbank-ag"
+        },
+        {
+            "bin_num": "402038",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "OLDENBURGISCHE LANDESBANK AG",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/oldenburgische-landesbank-ag"
+        },
+        {
+            "bin_num": "477100",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "OLDENBURGISCHE LANDESBANK AG",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/oldenburgische-landesbank-ag"
+        }
+    ]
+}

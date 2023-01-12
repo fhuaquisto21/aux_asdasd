@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "465330",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BGFIBANK CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/bgfibank-congo"
+        },
+        {
+            "bin_num": "465331",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BGFIBANK CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/bgfibank-congo"
+        },
+        {
+            "bin_num": "465332",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BGFIBANK CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/bgfibank-congo"
+        },
+        {
+            "bin_num": "465333",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BGFIBANK CONGO",
+            "country_name": "CONGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cg.svg",
+            "country_url": "https://bincheck.io/es/cg",
+            "bank_url": "https://bincheck.io/es/cg/bgfibank-congo"
+        }
+    ]
+}

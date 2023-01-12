@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "440618",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/magyar-kulkereskedelmi-bank-rt.-(hungarian-foreign-trade-bank)"
+        },
+        {
+            "bin_num": "457988",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/magyar-kulkereskedelmi-bank-rt.-(hungarian-foreign-trade-bank)"
+        },
+        {
+            "bin_num": "490826",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/magyar-kulkereskedelmi-bank-rt.-(hungarian-foreign-trade-bank)"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "600505",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "YKKOS BONUS",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/ykkos-bonus"
+        },
+        {
+            "bin_num": "600678",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "YKKOS BONUS",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/ykkos-bonus"
+        }
+    ]
+}

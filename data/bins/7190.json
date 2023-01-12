@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "451466",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GJENSIDIGE BANK ASA",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/gjensidige-bank-asa"
+        },
+        {
+            "bin_num": "459875",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "GJENSIDIGE BANK ASA",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/gjensidige-bank-asa"
+        }
+    ]
+}

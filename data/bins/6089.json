@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "457527",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "464493",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "489093",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "529128",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "541261",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "544091",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "547850",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        },
+        {
+            "bin_num": "549836",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANKMED SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/bankmed-sal"
+        }
+    ]
+}

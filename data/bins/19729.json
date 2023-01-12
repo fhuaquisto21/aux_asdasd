@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "407323",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "430380",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "434646",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/bank-of-nova-scotia"
+        }
+    ]
+}

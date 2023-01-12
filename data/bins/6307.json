@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "427183",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "462146",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "465885",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "465886",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "493471",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "511876",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "517801",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "517811",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "537685",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        },
+        {
+            "bin_num": "549781",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AFFIN BANK BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/affin-bank-berhad"
+        }
+    ]
+}

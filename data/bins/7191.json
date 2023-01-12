@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431208",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HANDELSBANKEN",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/handelsbanken"
+        },
+        {
+            "bin_num": "462424",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "HANDELSBANKEN",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/handelsbanken"
+        }
+    ]
+}

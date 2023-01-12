@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "621731",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (LONDON)",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/industrial-and-commercial-bank-of-china-(london)"
+        },
+        {
+            "bin_num": "621781",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (LONDON)",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/industrial-and-commercial-bank-of-china-(london)"
+        }
+    ]
+}

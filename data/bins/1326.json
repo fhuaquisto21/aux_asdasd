@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "527772",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERBANK BURUNDI S.A.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-s.a."
+        },
+        {
+            "bin_num": "551278",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERBANK BURUNDI S.A.",
+            "country_name": "BURUNDI",
+            "country_img": "https://bincheck.io/assets/flags/svg/bi.svg",
+            "country_url": "https://bincheck.io/es/bi",
+            "bank_url": "https://bincheck.io/es/bi/interbank-burundi-s.a."
+        }
+    ]
+}

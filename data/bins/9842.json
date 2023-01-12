@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "408326",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-togolaise-pour-le-commerce-et-l'industrie"
+        },
+        {
+            "bin_num": "408327",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-togolaise-pour-le-commerce-et-l'industrie"
+        },
+        {
+            "bin_num": "408328",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-togolaise-pour-le-commerce-et-l'industrie"
+        },
+        {
+            "bin_num": "408329",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-togolaise-pour-le-commerce-et-l'industrie"
+        },
+        {
+            "bin_num": "458445",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-togolaise-pour-le-commerce-et-l'industrie"
+        },
+        {
+            "bin_num": "491799",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-togolaise-pour-le-commerce-et-l'industrie"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "510548",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AL BARID BANK",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/al-barid-bank"
+        },
+        {
+            "bin_num": "524076",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "AL BARID BANK",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/al-barid-bank"
+        },
+        {
+            "bin_num": "530110",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "AL BARID BANK",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/al-barid-bank"
+        }
+    ]
+}

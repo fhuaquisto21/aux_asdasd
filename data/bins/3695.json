@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "457216",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO AZTECA DE GUATEMALA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-azteca-de-guatemala,-s.a."
+        },
+        {
+            "bin_num": "457217",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO AZTECA DE GUATEMALA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-azteca-de-guatemala,-s.a."
+        }
+    ]
+}

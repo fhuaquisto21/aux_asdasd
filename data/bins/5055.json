@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "462436",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PT. BANK TABUNGAN NEGARA (PERSERO)",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-tabungan-negara-(persero)"
+        },
+        {
+            "bin_num": "485447",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PT. BANK TABUNGAN NEGARA (PERSERO)",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-tabungan-negara-(persero)"
+        }
+    ]
+}

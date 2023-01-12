@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "476687",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "TARJETAS BANAMEX SA DE CV SOFOM E.R.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/tarjetas-banamex-sa-de-cv-sofom-e.r."
+        },
+        {
+            "bin_num": "533341",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARJETAS BANAMEX SA DE CV SOFOM E.R.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/tarjetas-banamex-sa-de-cv-sofom-e.r."
+        },
+        {
+            "bin_num": "542412",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARJETAS BANAMEX SA DE CV SOFOM E.R.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/tarjetas-banamex-sa-de-cv-sofom-e.r."
+        },
+        {
+            "bin_num": "550056",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TARJETAS BANAMEX SA DE CV SOFOM E.R.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/tarjetas-banamex-sa-de-cv-sofom-e.r."
+        },
+        {
+            "bin_num": "854899",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TARJETAS BANAMEX SA DE CV SOFOM E.R.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/tarjetas-banamex-sa-de-cv-sofom-e.r."
+        }
+    ]
+}

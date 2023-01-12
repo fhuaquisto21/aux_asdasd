@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "422406",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        },
+        {
+            "bin_num": "422433",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        },
+        {
+            "bin_num": "422434",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        },
+        {
+            "bin_num": "422435",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        },
+        {
+            "bin_num": "422436",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        },
+        {
+            "bin_num": "467948",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        },
+        {
+            "bin_num": "483955",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO FINANCIERO DEL PERU",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-financiero-del-peru"
+        }
+    ]
+}

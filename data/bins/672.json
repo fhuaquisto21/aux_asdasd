@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "410537",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANKMUSCAT INTERNATIONAL B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bankmuscat-international-b.s.c.-(closed)"
+        },
+        {
+            "bin_num": "410538",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANKMUSCAT INTERNATIONAL B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bankmuscat-international-b.s.c.-(closed)"
+        },
+        {
+            "bin_num": "420179",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANKMUSCAT INTERNATIONAL B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bankmuscat-international-b.s.c.-(closed)"
+        }
+    ]
+}

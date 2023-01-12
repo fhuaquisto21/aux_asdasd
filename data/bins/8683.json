@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "404855",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        },
+        {
+            "bin_num": "418682",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        },
+        {
+            "bin_num": "423624",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        },
+        {
+            "bin_num": "432602",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        },
+        {
+            "bin_num": "433162",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        },
+        {
+            "bin_num": "486148",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        },
+        {
+            "bin_num": "512206",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NEVIS, LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/bank-of-nevis,-ltd."
+        }
+    ]
+}

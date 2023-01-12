@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "413536",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+            "country_name": "MYANMAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mm.svg",
+            "country_url": "https://bincheck.io/es/mm",
+            "bank_url": "https://bincheck.io/es/mm/asociacion-la-nacional-de-ahorros-y-prestamos"
+        },
+        {
+            "bin_num": "468993",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+            "country_name": "MYANMAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mm.svg",
+            "country_url": "https://bincheck.io/es/mm",
+            "bank_url": "https://bincheck.io/es/mm/asociacion-la-nacional-de-ahorros-y-prestamos"
+        }
+    ]
+}

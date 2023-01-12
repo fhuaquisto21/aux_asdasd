@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "457792",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CONTINENTAL BANK BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/continental-bank-benin"
+        },
+        {
+            "bin_num": "457793",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CONTINENTAL BANK BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/continental-bank-benin"
+        }
+    ]
+}

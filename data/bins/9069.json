@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "403260",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "AFRICAN BANKING CORPORATION OF BOTSWANA LTD",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/african-banking-corporation-of-botswana-ltd"
+        },
+        {
+            "bin_num": "431416",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "AFRICAN BANKING CORPORATION OF BOTSWANA LTD",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/african-banking-corporation-of-botswana-ltd"
+        }
+    ]
+}

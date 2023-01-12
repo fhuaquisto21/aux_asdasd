@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "408346",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NBCBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/nbcbank-ojsc"
+        },
+        {
+            "bin_num": "408347",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NBCBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/nbcbank-ojsc"
+        },
+        {
+            "bin_num": "408348",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NBCBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/nbcbank-ojsc"
+        },
+        {
+            "bin_num": "408349",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NBCBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/nbcbank-ojsc"
+        },
+        {
+            "bin_num": "408350",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NBCBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/nbcbank-ojsc"
+        },
+        {
+            "bin_num": "408351",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "NBCBANK OJSC",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/nbcbank-ojsc"
+        }
+    ]
+}

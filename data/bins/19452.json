@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "491385",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OCA, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/oca,-s.a."
+        },
+        {
+            "bin_num": "549576",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "OCA, S.A.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/oca,-s.a."
+        }
+    ]
+}

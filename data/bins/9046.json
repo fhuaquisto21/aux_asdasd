@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "517540",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-kreditna-banka-maribor-d.d.-maribor"
+        },
+        {
+            "bin_num": "550145",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD/PLATINUM",
+            "bank_name": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-kreditna-banka-maribor-d.d.-maribor"
+        },
+        {
+            "bin_num": "558444",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-kreditna-banka-maribor-d.d.-maribor"
+        }
+    ]
+}

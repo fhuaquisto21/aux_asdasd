@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "404379",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "420558",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "444249",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "473126",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "473127",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "473128",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "473173",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "473174",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "473175",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "518851",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "536559",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        },
+        {
+            "bin_num": "547090",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ABI BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/abi-bank,-ltd."
+        }
+    ]
+}

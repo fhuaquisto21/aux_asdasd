@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "559100",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BLANICO SA",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/blanico-sa"
+        },
+        {
+            "bin_num": "559109",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BLANICO SA",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/blanico-sa"
+        }
+    ]
+}

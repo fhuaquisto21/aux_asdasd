@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "414307",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "426053",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "432679",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "451282",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "465814",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "489248",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "489249",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "514062",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        },
+        {
+            "bin_num": "550181",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/provident-bank-and-trust-of-belize,-ltd."
+        }
+    ]
+}

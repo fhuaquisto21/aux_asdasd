@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "464006",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PUBLIC BANK (HONG KONG), LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/public-bank-(hong-kong),-ltd."
+        },
+        {
+            "bin_num": "464007",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PUBLIC BANK (HONG KONG), LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/public-bank-(hong-kong),-ltd."
+        },
+        {
+            "bin_num": "490285",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PUBLIC BANK (HONG KONG), LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/public-bank-(hong-kong),-ltd."
+        }
+    ]
+}

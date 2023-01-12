@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "410325",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/amalgamated-banks-of-south-africa-limited-(absa-bank-limited)"
+        },
+        {
+            "bin_num": "547971",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+            "country_name": "SOUTH AFRICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/za.svg",
+            "country_url": "https://bincheck.io/es/za",
+            "bank_url": "https://bincheck.io/es/za/amalgamated-banks-of-south-africa-limited-(absa-bank-limited)"
+        }
+    ]
+}

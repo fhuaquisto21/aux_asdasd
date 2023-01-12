@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "417747",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC BANK KYRGYZSTAN",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/jsc-bank-kyrgyzstan"
+        },
+        {
+            "bin_num": "417748",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC BANK KYRGYZSTAN",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/jsc-bank-kyrgyzstan"
+        },
+        {
+            "bin_num": "417749",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC BANK KYRGYZSTAN",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/jsc-bank-kyrgyzstan"
+        },
+        {
+            "bin_num": "457811",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC BANK KYRGYZSTAN",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/jsc-bank-kyrgyzstan"
+        },
+        {
+            "bin_num": "471470",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC BANK KYRGYZSTAN",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/jsc-bank-kyrgyzstan"
+        }
+    ]
+}

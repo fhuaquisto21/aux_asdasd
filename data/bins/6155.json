@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "520674",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SIX PAYMENT SERVICES AG",
+            "country_name": "LIECHTENSTEIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/li.svg",
+            "country_url": "https://bincheck.io/es/li",
+            "bank_url": "https://bincheck.io/es/li/six-payment-services-ag"
+        },
+        {
+            "bin_num": "671088",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SIX PAYMENT SERVICES AG",
+            "country_name": "LIECHTENSTEIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/li.svg",
+            "country_url": "https://bincheck.io/es/li",
+            "bank_url": "https://bincheck.io/es/li/six-payment-services-ag"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "402811",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BC MOLDINDCONBANK",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/bc-moldindconbank"
+        },
+        {
+            "bin_num": "402812",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BC MOLDINDCONBANK",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/bc-moldindconbank"
+        }
+    ]
+}

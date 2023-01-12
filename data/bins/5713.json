@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "433029",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANKPOZITIV KAZAKHSTAN JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/bankpozitiv-kazakhstan-jsc"
+        },
+        {
+            "bin_num": "433030",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANKPOZITIV KAZAKHSTAN JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/bankpozitiv-kazakhstan-jsc"
+        },
+        {
+            "bin_num": "433031",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANKPOZITIV KAZAKHSTAN JSC",
+            "country_name": "KAZAKHSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kz.svg",
+            "country_url": "https://bincheck.io/es/kz",
+            "bank_url": "https://bincheck.io/es/kz/bankpozitiv-kazakhstan-jsc"
+        }
+    ]
+}

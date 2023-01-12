@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "404299",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "422043",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "422170",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "430541",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "430545",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "461636",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "476986",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "476987",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "476988",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "484680",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        },
+        {
+            "bin_num": "484681",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK GHANA, LTD.",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-ghana,-ltd."
+        }
+    ]
+}

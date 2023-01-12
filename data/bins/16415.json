@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "455949",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF THE REDWOODS (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/national-bank-of-the-redwoods-(closed)"
+        },
+        {
+            "bin_num": "541191",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK OF THE REDWOODS (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/national-bank-of-the-redwoods-(closed)"
+        }
+    ]
+}

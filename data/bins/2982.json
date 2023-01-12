@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "376650",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CHARGE CARD",
+            "bin_level": "PERSONAL GREEN CHARGE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "376651",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CHARGE CARD",
+            "bin_level": "PERSONAL GOLD CHARGE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "376652",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD REVOLVE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "376653",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN REVOLVE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "376654",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CHARGE CARD",
+            "bin_level": "PERSONAL BLUE CHARGE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "376659",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL PLATINUM CHARGE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "377046",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL BLUE REVOLVE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        },
+        {
+            "bin_num": "377047",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL PLATINUM REVOLVE",
+            "bank_name": "BANCO DE GUAYAQUIL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/banco-de-guayaquil"
+        }
+    ]
+}

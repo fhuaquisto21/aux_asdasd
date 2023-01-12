@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "422169",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "TODOTICKET 2004, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/todoticket-2004,-c.a."
+        },
+        {
+            "bin_num": "422209",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "TODOTICKET 2004, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/todoticket-2004,-c.a."
+        }
+    ]
+}

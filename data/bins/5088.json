@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "528671",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "KURDISTAN INTERNATIONAL BANK FOR INVESTMENT AND DEVELOPMENT INC. P.S.C",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/kurdistan-international-bank-for-investment-and-development-inc.-p.s.c"
+        },
+        {
+            "bin_num": "532120",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "KURDISTAN INTERNATIONAL BANK FOR INVESTMENT AND DEVELOPMENT INC. P.S.C",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/kurdistan-international-bank-for-investment-and-development-inc.-p.s.c"
+        },
+        {
+            "bin_num": "546267",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "KURDISTAN INTERNATIONAL BANK FOR INVESTMENT AND DEVELOPMENT INC. P.S.C",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/kurdistan-international-bank-for-investment-and-development-inc.-p.s.c"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "413854",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HVB BANK SLOVAKIA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/hvb-bank-slovakia,-a.s."
+        },
+        {
+            "bin_num": "413855",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HVB BANK SLOVAKIA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/hvb-bank-slovakia,-a.s."
+        },
+        {
+            "bin_num": "429019",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HVB BANK SLOVAKIA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/hvb-bank-slovakia,-a.s."
+        },
+        {
+            "bin_num": "465892",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "HVB BANK SLOVAKIA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/hvb-bank-slovakia,-a.s."
+        },
+        {
+            "bin_num": "530652",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HVB BANK SLOVAKIA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/hvb-bank-slovakia,-a.s."
+        },
+        {
+            "bin_num": "530653",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HVB BANK SLOVAKIA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/hvb-bank-slovakia,-a.s."
+        }
+    ]
+}

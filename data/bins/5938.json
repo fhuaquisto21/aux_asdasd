@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "522869",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "AL AHLI BANK OF KUWAIT (KSC)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-ahli-bank-of-kuwait-(ksc)"
+        },
+        {
+            "bin_num": "524114",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "AL AHLI BANK OF KUWAIT (KSC)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-ahli-bank-of-kuwait-(ksc)"
+        },
+        {
+            "bin_num": "529072",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "AL AHLI BANK OF KUWAIT (KSC)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-ahli-bank-of-kuwait-(ksc)"
+        },
+        {
+            "bin_num": "544621",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AL AHLI BANK OF KUWAIT (KSC)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-ahli-bank-of-kuwait-(ksc)"
+        },
+        {
+            "bin_num": "544622",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AL AHLI BANK OF KUWAIT (KSC)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/al-ahli-bank-of-kuwait-(ksc)"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "411426",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/jscb-eximbank-gruppo-veneto-banca"
+        },
+        {
+            "bin_num": "433592",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/jscb-eximbank-gruppo-veneto-banca"
+        },
+        {
+            "bin_num": "433593",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/jscb-eximbank-gruppo-veneto-banca"
+        },
+        {
+            "bin_num": "433594",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/jscb-eximbank-gruppo-veneto-banca"
+        },
+        {
+            "bin_num": "433595",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/jscb-eximbank-gruppo-veneto-banca"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "415193",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ALPHA BANK CYPRUS, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/alpha-bank-cyprus,-ltd."
+        },
+        {
+            "bin_num": "415914",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ALPHA BANK CYPRUS, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/alpha-bank-cyprus,-ltd."
+        },
+        {
+            "bin_num": "415915",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ALPHA BANK CYPRUS, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/alpha-bank-cyprus,-ltd."
+        },
+        {
+            "bin_num": "415916",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ALPHA BANK CYPRUS, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/alpha-bank-cyprus,-ltd."
+        },
+        {
+            "bin_num": "415917",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ALPHA BANK CYPRUS, LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/alpha-bank-cyprus,-ltd."
+        }
+    ]
+}

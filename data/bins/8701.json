@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "467790",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/1st-national-bank-st.-lucia,-ltd."
+        },
+        {
+            "bin_num": "482442",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/1st-national-bank-st.-lucia,-ltd."
+        },
+        {
+            "bin_num": "482444",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/1st-national-bank-st.-lucia,-ltd."
+        },
+        {
+            "bin_num": "499814",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/1st-national-bank-st.-lucia,-ltd."
+        }
+    ]
+}

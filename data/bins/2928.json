@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "493711",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-dominicano-del-progreso,-s.a."
+        },
+        {
+            "bin_num": "543838",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-dominicano-del-progreso,-s.a."
+        }
+    ]
+}

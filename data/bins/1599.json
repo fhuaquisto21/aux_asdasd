@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "464658",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/network-international-llc"
+        },
+        {
+            "bin_num": "464659",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/network-international-llc"
+        },
+        {
+            "bin_num": "464661",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/network-international-llc"
+        },
+        {
+            "bin_num": "464663",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/network-international-llc"
+        }
+    ]
+}

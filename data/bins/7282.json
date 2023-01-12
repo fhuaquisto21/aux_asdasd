@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437791",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "437792",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "437793",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/hong-kong-and-shanghai-banking-corp.,-ltd."
+        }
+    ]
+}

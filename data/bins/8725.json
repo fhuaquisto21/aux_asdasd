@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "400466",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANK SAMOA, LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-bank-samoa,-ltd."
+        },
+        {
+            "bin_num": "465526",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANK SAMOA, LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-bank-samoa,-ltd."
+        },
+        {
+            "bin_num": "465540",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANK SAMOA, LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-bank-samoa,-ltd."
+        },
+        {
+            "bin_num": "466139",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "WESTPAC BANK SAMOA, LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-bank-samoa,-ltd."
+        },
+        {
+            "bin_num": "481272",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WESTPAC BANK SAMOA, LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-bank-samoa,-ltd."
+        }
+    ]
+}

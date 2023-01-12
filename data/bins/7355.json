@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "523775",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO PANAMA S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-panama-s.a."
+        },
+        {
+            "bin_num": "528185",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO PANAMA S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-panama-s.a."
+        },
+        {
+            "bin_num": "529233",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANCO PANAMA S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-panama-s.a."
+        },
+        {
+            "bin_num": "550476",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO PANAMA S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-panama-s.a."
+        },
+        {
+            "bin_num": "553675",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO PANAMA S.A.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/banco-panama-s.a."
+        }
+    ]
+}

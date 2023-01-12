@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "515076",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SBERBANK BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/sberbank-banka-d.d."
+        },
+        {
+            "bin_num": "527059",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SBERBANK BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/sberbank-banka-d.d."
+        },
+        {
+            "bin_num": "527205",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SBERBANK BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/sberbank-banka-d.d."
+        },
+        {
+            "bin_num": "535886",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SBERBANK BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/sberbank-banka-d.d."
+        }
+    ]
+}

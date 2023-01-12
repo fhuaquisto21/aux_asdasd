@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "542157",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NABIL BANK LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/nabil-bank-ltd."
+        },
+        {
+            "bin_num": "543496",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NABIL BANK LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/nabil-bank-ltd."
+        }
+    ]
+}

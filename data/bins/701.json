@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "512686",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/network-international-llc"
+        },
+        {
+            "bin_num": "516054",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/network-international-llc"
+        },
+        {
+            "bin_num": "526848",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/network-international-llc"
+        },
+        {
+            "bin_num": "532189",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/network-international-llc"
+        },
+        {
+            "bin_num": "533768",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/network-international-llc"
+        }
+    ]
+}

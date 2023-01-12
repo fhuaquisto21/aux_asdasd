@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "516045",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SC CITADELE BANKA",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/sc-citadele-banka"
+        },
+        {
+            "bin_num": "526843",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SC CITADELE BANKA",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/sc-citadele-banka"
+        },
+        {
+            "bin_num": "677200",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "SC CITADELE BANKA",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/sc-citadele-banka"
+        }
+    ]
+}

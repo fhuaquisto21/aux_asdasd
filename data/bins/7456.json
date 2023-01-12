@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "433180",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FINANCIERA FAMILIAR S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/financiera-familiar-s.a.e.c.a."
+        },
+        {
+            "bin_num": "433181",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FINANCIERA FAMILIAR S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/financiera-familiar-s.a.e.c.a."
+        }
+    ]
+}

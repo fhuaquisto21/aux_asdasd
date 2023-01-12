@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "510704",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "527268",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "539230",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "542063",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/guaranty-trust-bank-plc"
+        }
+    ]
+}

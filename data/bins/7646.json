@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437887",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK SPOLDZIELCZY RZEMIOSLA W KRAKOWIE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/bank-spoldzielczy-rzemiosla-w-krakowie"
+        },
+        {
+            "bin_num": "437888",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC/GOLD",
+            "bank_name": "BANK SPOLDZIELCZY RZEMIOSLA W KRAKOWIE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/bank-spoldzielczy-rzemiosla-w-krakowie"
+        },
+        {
+            "bin_num": "437889",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK SPOLDZIELCZY RZEMIOSLA W KRAKOWIE",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/bank-spoldzielczy-rzemiosla-w-krakowie"
+        }
+    ]
+}

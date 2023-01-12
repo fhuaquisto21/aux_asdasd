@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "522592",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "CETELEM BANK LIMITED LIABILITY COMPANY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cetelem-bank-limited-liability-company"
+        },
+        {
+            "bin_num": "532325",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD/GOLD",
+            "bank_name": "CETELEM BANK LIMITED LIABILITY COMPANY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cetelem-bank-limited-liability-company"
+        },
+        {
+            "bin_num": "532326",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CETELEM BANK LIMITED LIABILITY COMPANY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/cetelem-bank-limited-liability-company"
+        }
+    ]
+}

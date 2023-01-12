@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "429586",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TURKISH ZIRAAT BANK BOSNIA D.D.",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/turkish-ziraat-bank-bosnia-d.d."
+        },
+        {
+            "bin_num": "462724",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TURKISH ZIRAAT BANK BOSNIA D.D.",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/turkish-ziraat-bank-bosnia-d.d."
+        },
+        {
+            "bin_num": "462725",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TURKISH ZIRAAT BANK BOSNIA D.D.",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/turkish-ziraat-bank-bosnia-d.d."
+        }
+    ]
+}

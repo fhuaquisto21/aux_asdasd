@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "417010",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "439275",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "439278",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "483014",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "485713",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "489932",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "491619",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "491620",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        },
+        {
+            "bin_num": "491621",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/caribbean-credit-card-corporation"
+        }
+    ]
+}

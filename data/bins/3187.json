@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "462472",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "AKTIA BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/aktia-bank"
+        },
+        {
+            "bin_num": "476679",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AKTIA BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/aktia-bank"
+        },
+        {
+            "bin_num": "476680",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AKTIA BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/aktia-bank"
+        },
+        {
+            "bin_num": "476681",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AKTIA BANK",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/aktia-bank"
+        }
+    ]
+}

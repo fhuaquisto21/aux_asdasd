@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "466563",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "JSC BALTIC INTERNATIONAL BANK",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-baltic-international-bank"
+        },
+        {
+            "bin_num": "466564",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC BALTIC INTERNATIONAL BANK",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/jsc-baltic-international-bank"
+        }
+    ]
+}

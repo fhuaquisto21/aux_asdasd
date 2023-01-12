@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "420037",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNITED LABOR BANK, F.S.B. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/united-labor-bank,-f.s.b.-(closed)"
+        },
+        {
+            "bin_num": "420038",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED LABOR BANK, F.S.B. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/united-labor-bank,-f.s.b.-(closed)"
+        },
+        {
+            "bin_num": "420039",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNITED LABOR BANK, F.S.B. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/united-labor-bank,-f.s.b.-(closed)"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "402153",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SAHARA BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/sahara-bank"
+        },
+        {
+            "bin_num": "408411",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SAHARA BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/sahara-bank"
+        },
+        {
+            "bin_num": "408412",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SAHARA BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/sahara-bank"
+        },
+        {
+            "bin_num": "408413",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SAHARA BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/sahara-bank"
+        }
+    ]
+}

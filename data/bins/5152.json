@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "431931",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ULSTER BANK",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/ulster-bank"
+        },
+        {
+            "bin_num": "431932",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ULSTER BANK",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/ulster-bank"
+        },
+        {
+            "bin_num": "431933",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ULSTER BANK",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/ulster-bank"
+        },
+        {
+            "bin_num": "431934",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ULSTER BANK",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/ulster-bank"
+        },
+        {
+            "bin_num": "677117",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ULSTER BANK",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/ulster-bank"
+        },
+        {
+            "bin_num": "677120",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ULSTER BANK",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/ulster-bank"
+        }
+    ]
+}

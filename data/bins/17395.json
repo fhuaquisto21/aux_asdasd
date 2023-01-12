@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "463977",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PYRAMAX BANK, F.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/pyramax-bank,-f.s.b."
+        },
+        {
+            "bin_num": "467603",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PYRAMAX BANK, F.S.B.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/pyramax-bank,-f.s.b."
+        }
+    ]
+}

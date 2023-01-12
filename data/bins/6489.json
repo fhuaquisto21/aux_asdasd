@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "408234",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO AHORRO FAMSA S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ahorro-famsa-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "428574",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO AHORRO FAMSA S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ahorro-famsa-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "428575",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO AHORRO FAMSA S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ahorro-famsa-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "474494",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO AHORRO FAMSA S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ahorro-famsa-s.a.-institucion-de-banca-multiple"
+        },
+        {
+            "bin_num": "541956",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO AHORRO FAMSA S.A. INSTITUCION DE BANCA MULTIPLE",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ahorro-famsa-s.a.-institucion-de-banca-multiple"
+        }
+    ]
+}

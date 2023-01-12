@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "407173",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GUYANA BANK FOR TRADE AND INDUSTRY, LTD.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/guyana-bank-for-trade-and-industry,-ltd."
+        },
+        {
+            "bin_num": "444026",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "GUYANA BANK FOR TRADE AND INDUSTRY, LTD.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/guyana-bank-for-trade-and-industry,-ltd."
+        },
+        {
+            "bin_num": "479132",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "GUYANA BANK FOR TRADE AND INDUSTRY, LTD.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/guyana-bank-for-trade-and-industry,-ltd."
+        },
+        {
+            "bin_num": "489060",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GUYANA BANK FOR TRADE AND INDUSTRY, LTD.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/guyana-bank-for-trade-and-industry,-ltd."
+        }
+    ]
+}

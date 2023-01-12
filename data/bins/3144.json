@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "423837",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/danske-bank-a+s"
+        },
+        {
+            "bin_num": "440239",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/danske-bank-a+s"
+        }
+    ]
+}

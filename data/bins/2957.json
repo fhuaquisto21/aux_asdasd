@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "409306",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO VIMENCA C. POR A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-vimenca-c.-por-a."
+        },
+        {
+            "bin_num": "410534",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO VIMENCA C. POR A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-vimenca-c.-por-a."
+        },
+        {
+            "bin_num": "410535",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO VIMENCA C. POR A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-vimenca-c.-por-a."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO VIMENCA C. POR A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-vimenca-c.-por-a."
+        },
+        {
+            "bin_num": "421499",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO VIMENCA C. POR A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-vimenca-c.-por-a."
+        },
+        {
+            "bin_num": "459382",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO VIMENCA C. POR A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-vimenca-c.-por-a."
+        }
+    ]
+}

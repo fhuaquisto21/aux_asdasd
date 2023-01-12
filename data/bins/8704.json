@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "406133",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF SAINT LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/bank-of-saint-lucia,-ltd."
+        },
+        {
+            "bin_num": "406134",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF SAINT LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/bank-of-saint-lucia,-ltd."
+        },
+        {
+            "bin_num": "407578",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF SAINT LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/bank-of-saint-lucia,-ltd."
+        },
+        {
+            "bin_num": "422232",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF SAINT LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/bank-of-saint-lucia,-ltd."
+        },
+        {
+            "bin_num": "422233",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF SAINT LUCIA, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/bank-of-saint-lucia,-ltd."
+        }
+    ]
+}

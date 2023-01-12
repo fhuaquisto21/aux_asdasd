@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "465802",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK WINDHOEK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek,-ltd."
+        },
+        {
+            "bin_num": "465824",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK WINDHOEK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek,-ltd."
+        },
+        {
+            "bin_num": "465825",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK WINDHOEK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek,-ltd."
+        },
+        {
+            "bin_num": "494106",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK WINDHOEK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek,-ltd."
+        },
+        {
+            "bin_num": "494107",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK WINDHOEK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek,-ltd."
+        },
+        {
+            "bin_num": "529427",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK WINDHOEK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/bank-windhoek,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "490783",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO DEL NUEVO MUNDO",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-del-nuevo-mundo"
+        },
+        {
+            "bin_num": "490784",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DEL NUEVO MUNDO",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-del-nuevo-mundo"
+        }
+    ]
+}

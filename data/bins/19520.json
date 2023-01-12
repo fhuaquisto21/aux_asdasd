@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "454104",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO INTERNACIONAL INTERBANK, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/banco-internacional-interbank,-c.a."
+        },
+        {
+            "bin_num": "456336",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO INTERNACIONAL INTERBANK, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/banco-internacional-interbank,-c.a."
+        },
+        {
+            "bin_num": "554772",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO INTERNACIONAL INTERBANK, C.A.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/banco-internacional-interbank,-c.a."
+        }
+    ]
+}

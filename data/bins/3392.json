@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "bin_num": "427363",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "465895",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "471253",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "471254",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "471255",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "471256",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "472291",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "478761",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "478762",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "478763",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "478764",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        },
+        {
+            "bin_num": "478765",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC CARTU BANK",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/jsc-cartu-bank"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "410227",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO ANGOLANO DE INVESTIMENTOS, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-angolano-de-investimentos,-s.a."
+        },
+        {
+            "bin_num": "410228",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO ANGOLANO DE INVESTIMENTOS, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-angolano-de-investimentos,-s.a."
+        },
+        {
+            "bin_num": "410318",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO ANGOLANO DE INVESTIMENTOS, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-angolano-de-investimentos,-s.a."
+        },
+        {
+            "bin_num": "424130",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GIFT",
+            "bank_name": "BANCO ANGOLANO DE INVESTIMENTOS, S.A.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-angolano-de-investimentos,-s.a."
+        }
+    ]
+}

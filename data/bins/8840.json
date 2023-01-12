@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "417613",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "417614",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "422615",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "431374",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "438144",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "438158",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "438161",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "438162",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        },
+        {
+            "bin_num": "438163",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/komercijalna-banka-ad-beograd-cjsc"
+        }
+    ]
+}

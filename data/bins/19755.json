@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "418360",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "YEMEN KUWAIT BANK FOR TRADE AND INVESTMENT",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/yemen-kuwait-bank-for-trade-and-investment"
+        },
+        {
+            "bin_num": "418361",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "YEMEN KUWAIT BANK FOR TRADE AND INVESTMENT",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/yemen-kuwait-bank-for-trade-and-investment"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "467947",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "543628",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/bank-of-south-pacific,-ltd."
+        },
+        {
+            "bin_num": "547190",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF SOUTH PACIFIC, LTD.",
+            "country_name": "FIJI",
+            "country_img": "https://bincheck.io/assets/flags/svg/fj.svg",
+            "country_url": "https://bincheck.io/es/fj",
+            "bank_url": "https://bincheck.io/es/fj/bank-of-south-pacific,-ltd."
+        }
+    ]
+}

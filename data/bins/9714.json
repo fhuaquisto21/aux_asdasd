@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "443919",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC BANK ESKHATA",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-bank-eskhata"
+        },
+        {
+            "bin_num": "443920",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC BANK ESKHATA",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-bank-eskhata"
+        },
+        {
+            "bin_num": "443921",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC BANK ESKHATA",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/ojsc-bank-eskhata"
+        }
+    ]
+}

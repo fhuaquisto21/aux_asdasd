@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "436895",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "GLOBAL IME BANK, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/global-ime-bank,-ltd."
+        },
+        {
+            "bin_num": "468950",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "GLOBAL IME BANK, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/global-ime-bank,-ltd."
+        }
+    ]
+}

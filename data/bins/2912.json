@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "446196",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-continental-de-desarrollo,-s.a."
+        },
+        {
+            "bin_num": "476095",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-continental-de-desarrollo,-s.a."
+        },
+        {
+            "bin_num": "476096",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-continental-de-desarrollo,-s.a."
+        }
+    ]
+}

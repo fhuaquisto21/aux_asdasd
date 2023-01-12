@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "433511",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a."
+        },
+        {
+            "bin_num": "433512",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a."
+        },
+        {
+            "bin_num": "433513",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a."
+        },
+        {
+            "bin_num": "433514",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a."
+        },
+        {
+            "bin_num": "433599",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a."
+        },
+        {
+            "bin_num": "489485",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-espirito-santo-dos-acores,-s.a."
+        }
+    ]
+}

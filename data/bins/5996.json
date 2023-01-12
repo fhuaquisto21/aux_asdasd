@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "470530",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/banque-pour-le-commerce-exterieur-lao-public"
+        },
+        {
+            "bin_num": "470531",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/banque-pour-le-commerce-exterieur-lao-public"
+        },
+        {
+            "bin_num": "470532",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/banque-pour-le-commerce-exterieur-lao-public"
+        },
+        {
+            "bin_num": "621354",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/banque-pour-le-commerce-exterieur-lao-public"
+        }
+    ]
+}

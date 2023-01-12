@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "415714",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/microfinance-maximum-savings-bank,-inc."
+        },
+        {
+            "bin_num": "446509",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/microfinance-maximum-savings-bank,-inc."
+        },
+        {
+            "bin_num": "467928",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/microfinance-maximum-savings-bank,-inc."
+        },
+        {
+            "bin_num": "467929",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/microfinance-maximum-savings-bank,-inc."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "418380",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ATTIJARI BANK MAURITANIE SA",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/attijari-bank-mauritanie-sa"
+        },
+        {
+            "bin_num": "418381",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ATTIJARI BANK MAURITANIE SA",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/attijari-bank-mauritanie-sa"
+        },
+        {
+            "bin_num": "418382",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ATTIJARI BANK MAURITANIE SA",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/attijari-bank-mauritanie-sa"
+        },
+        {
+            "bin_num": "418383",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ATTIJARI BANK MAURITANIE SA",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/attijari-bank-mauritanie-sa"
+        }
+    ]
+}

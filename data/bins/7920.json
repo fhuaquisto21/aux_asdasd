@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "512321",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "QATAR ISLAMIC BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/qatar-islamic-bank"
+        },
+        {
+            "bin_num": "533103",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "QATAR ISLAMIC BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/qatar-islamic-bank"
+        },
+        {
+            "bin_num": "543726",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "QATAR ISLAMIC BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/qatar-islamic-bank"
+        },
+        {
+            "bin_num": "543735",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "QATAR ISLAMIC BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/qatar-islamic-bank"
+        },
+        {
+            "bin_num": "557628",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "QATAR ISLAMIC BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/qatar-islamic-bank"
+        },
+        {
+            "bin_num": "557649",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "QATAR ISLAMIC BANK",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/qatar-islamic-bank"
+        }
+    ]
+}

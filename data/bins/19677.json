@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "523611",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/southeast-asia-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "537158",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/southeast-asia-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "540392",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/southeast-asia-commercial-joint-stock-bank"
+        }
+    ]
+}

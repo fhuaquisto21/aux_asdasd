@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "459048",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VENETO BANKA SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/veneto-banka-sh.a."
+        },
+        {
+            "bin_num": "467724",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "VENETO BANKA SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/veneto-banka-sh.a."
+        },
+        {
+            "bin_num": "473892",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "VENETO BANKA SH.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/veneto-banka-sh.a."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "472486",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ACCESS BANK R.D.C. SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/access-bank-r.d.c.-sarl"
+        },
+        {
+            "bin_num": "472487",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ACCESS BANK R.D.C. SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/access-bank-r.d.c.-sarl"
+        }
+    ]
+}

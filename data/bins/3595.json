@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "486726",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST ATLANTIC MERCHANT BANK LIMITED GHANA",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/first-atlantic-merchant-bank-limited-ghana"
+        },
+        {
+            "bin_num": "486727",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FIRST ATLANTIC MERCHANT BANK LIMITED GHANA",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/first-atlantic-merchant-bank-limited-ghana"
+        },
+        {
+            "bin_num": "486728",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST ATLANTIC MERCHANT BANK LIMITED GHANA",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/first-atlantic-merchant-bank-limited-ghana"
+        },
+        {
+            "bin_num": "486729",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRST ATLANTIC MERCHANT BANK LIMITED GHANA",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/first-atlantic-merchant-bank-limited-ghana"
+        },
+        {
+            "bin_num": "486730",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "FIRST ATLANTIC MERCHANT BANK LIMITED GHANA",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/first-atlantic-merchant-bank-limited-ghana"
+        }
+    ]
+}

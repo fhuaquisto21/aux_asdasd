@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "513427",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen-ag"
+        },
+        {
+            "bin_num": "531610",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen-ag"
+        },
+        {
+            "bin_num": "543315",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen-ag"
+        },
+        {
+            "bin_num": "544271",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen-ag"
+        },
+        {
+            "bin_num": "544990",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/erste-bank-der-osterreichischen-sparkassen-ag"
+        }
+    ]
+}

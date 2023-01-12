@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "421518",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO DE SERVICIOS Y TRANSACCIONES, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-servicios-y-transacciones,-s.a."
+        },
+        {
+            "bin_num": "451762",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE SERVICIOS Y TRANSACCIONES, S.A.",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/banco-de-servicios-y-transacciones,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "422206",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AB BANK SNORAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bank-snoras"
+        },
+        {
+            "bin_num": "422207",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AB BANK SNORAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bank-snoras"
+        },
+        {
+            "bin_num": "422208",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AB BANK SNORAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bank-snoras"
+        },
+        {
+            "bin_num": "426533",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AB BANK SNORAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bank-snoras"
+        },
+        {
+            "bin_num": "426559",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AB BANK SNORAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bank-snoras"
+        }
+    ]
+}

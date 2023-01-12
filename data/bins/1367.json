@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "424597",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BGFIBANK CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/bgfibank-cameroun"
+        },
+        {
+            "bin_num": "441653",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BGFIBANK CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/bgfibank-cameroun"
+        },
+        {
+            "bin_num": "441654",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BGFIBANK CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/bgfibank-cameroun"
+        },
+        {
+            "bin_num": "441655",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BGFIBANK CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/bgfibank-cameroun"
+        }
+    ]
+}

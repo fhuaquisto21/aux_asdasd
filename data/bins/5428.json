@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "492253",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HOKKOKU CREDIT SERVICE CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/hokkoku-credit-service-co.,-ltd."
+        },
+        {
+            "bin_num": "492256",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HOKKOKU CREDIT SERVICE CO., LTD.",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/hokkoku-credit-service-co.,-ltd."
+        }
+    ]
+}

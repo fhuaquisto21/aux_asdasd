@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "406964",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        },
+        {
+            "bin_num": "408485",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        },
+        {
+            "bin_num": "408486",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        },
+        {
+            "bin_num": "408487",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        },
+        {
+            "bin_num": "408488",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        },
+        {
+            "bin_num": "408489",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        },
+        {
+            "bin_num": "421858",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ERSTE CARD CLUB D.D.",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/erste-card-club-d.d."
+        }
+    ]
+}

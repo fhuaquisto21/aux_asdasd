@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "532704",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-(q.s.c.)"
+        },
+        {
+            "bin_num": "536335",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-(q.s.c.)"
+        },
+        {
+            "bin_num": "541509",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-(q.s.c.)"
+        },
+        {
+            "bin_num": "544126",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-(q.s.c.)"
+        },
+        {
+            "bin_num": "557685",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-(q.s.c.)"
+        },
+        {
+            "bin_num": "557686",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/international-bank-of-qatar-(q.s.c.)"
+        }
+    ]
+}

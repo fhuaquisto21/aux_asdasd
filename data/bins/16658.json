@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "445282",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHERN STAR CREDIT UNION, INCORPORATED",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-star-credit-union,-incorporated"
+        },
+        {
+            "bin_num": "469325",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHERN STAR CREDIT UNION, INCORPORATED",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-star-credit-union,-incorporated"
+        },
+        {
+            "bin_num": "470305",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHERN STAR CREDIT UNION, INCORPORATED",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-star-credit-union,-incorporated"
+        },
+        {
+            "bin_num": "476765",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NORTHERN STAR CREDIT UNION, INCORPORATED",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-star-credit-union,-incorporated"
+        },
+        {
+            "bin_num": "499111",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NORTHERN STAR CREDIT UNION, INCORPORATED",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-star-credit-union,-incorporated"
+        }
+    ]
+}

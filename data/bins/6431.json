@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "521053",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANQUE POPULAIRE DE MAURITANIE",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/banque-populaire-de-mauritanie"
+        },
+        {
+            "bin_num": "530347",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BANQUE POPULAIRE DE MAURITANIE",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/banque-populaire-de-mauritanie"
+        },
+        {
+            "bin_num": "531978",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "BANQUE POPULAIRE DE MAURITANIE",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/banque-populaire-de-mauritanie"
+        },
+        {
+            "bin_num": "536350",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE POPULAIRE DE MAURITANIE",
+            "country_name": "MAURITANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mr.svg",
+            "country_url": "https://bincheck.io/es/mr",
+            "bank_url": "https://bincheck.io/es/mr/banque-populaire-de-mauritanie"
+        }
+    ]
+}

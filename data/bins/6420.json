@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "536679",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "PAYMIX, LTD.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/paymix,-ltd."
+        },
+        {
+            "bin_num": "541292",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PAYMIX, LTD.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/paymix,-ltd."
+        },
+        {
+            "bin_num": "543861",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "PAYMIX, LTD.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/paymix,-ltd."
+        },
+        {
+            "bin_num": "546354",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "PAYMIX, LTD.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/paymix,-ltd."
+        }
+    ]
+}

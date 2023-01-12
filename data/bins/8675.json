@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517418",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "540059",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "541094",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "543162",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/emerging-markets-payments-africa"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "620058",
+            "bin_mark": "CHINA",
+            "bin_type": "",
+            "bin_level": "",
+            "bank_name": "COMMERCIAL BANK OF CHINA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/commercial-bank-of-china"
+        },
+        {
+            "bin_num": "622204",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "COMMERCIAL BANK OF CHINA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/commercial-bank-of-china"
+        },
+        {
+            "bin_num": "622205",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "COMMERCIAL BANK OF CHINA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/commercial-bank-of-china"
+        }
+    ]
+}

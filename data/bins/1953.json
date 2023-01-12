@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "405546",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK (CHINA) COMPANY, LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/hsbc-bank-(china)-company,-ltd."
+        },
+        {
+            "bin_num": "528911",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "HSBC BANK (CHINA) COMPANY, LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/hsbc-bank-(china)-company,-ltd."
+        },
+        {
+            "bin_num": "530071",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HSBC BANK (CHINA) COMPANY, LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/hsbc-bank-(china)-company,-ltd."
+        },
+        {
+            "bin_num": "552390",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "HSBC BANK (CHINA) COMPANY, LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/hsbc-bank-(china)-company,-ltd."
+        }
+    ]
+}

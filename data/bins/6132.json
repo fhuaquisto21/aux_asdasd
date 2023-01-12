@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "408383",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK LIBERIA, LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/ecobank-liberia,-ltd."
+        },
+        {
+            "bin_num": "408384",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ECOBANK LIBERIA, LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/ecobank-liberia,-ltd."
+        },
+        {
+            "bin_num": "472425",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "ECOBANK LIBERIA, LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/ecobank-liberia,-ltd."
+        },
+        {
+            "bin_num": "484684",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ECOBANK LIBERIA, LTD.",
+            "country_name": "LIBERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lr.svg",
+            "country_url": "https://bincheck.io/es/lr",
+            "bank_url": "https://bincheck.io/es/lr/ecobank-liberia,-ltd."
+        }
+    ]
+}

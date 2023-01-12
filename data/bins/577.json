@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "526998",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/accessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "529855",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/accessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "530499",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD BLACK EDITION",
+            "bank_name": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/accessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "533573",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/accessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "537462",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/accessbank-closed-joint-stock-company"
+        },
+        {
+            "bin_num": "670993",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/accessbank-closed-joint-stock-company"
+        }
+    ]
+}

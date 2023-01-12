@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "521162",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FHB COMMERCIAL BANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/fhb-commercial-bank,-ltd."
+        },
+        {
+            "bin_num": "522994",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FHB COMMERCIAL BANK, LTD.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/fhb-commercial-bank,-ltd."
+        }
+    ]
+}

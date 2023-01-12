@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "431784",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AIG FINANCE (HONG KONG), LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/aig-finance-(hong-kong),-ltd."
+        },
+        {
+            "bin_num": "438617",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AIG FINANCE (HONG KONG), LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/aig-finance-(hong-kong),-ltd."
+        },
+        {
+            "bin_num": "438618",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AIG FINANCE (HONG KONG), LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/aig-finance-(hong-kong),-ltd."
+        }
+    ]
+}

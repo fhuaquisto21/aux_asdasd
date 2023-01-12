@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "476003",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ABN AMRO BANK (COLOMBIA), S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/abn-amro-bank-(colombia),-s.a."
+        },
+        {
+            "bin_num": "476006",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABN AMRO BANK (COLOMBIA), S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/abn-amro-bank-(colombia),-s.a."
+        }
+    ]
+}

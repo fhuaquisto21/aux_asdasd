@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "511871",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "512437",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "521812",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "526792",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "545161",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "547581",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "557385",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD/GOLD/PLATINUM/WORLD",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        },
+        {
+            "bin_num": "677262",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "DANSKE BANK A/S",
+            "country_name": "NORWAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/no.svg",
+            "country_url": "https://bincheck.io/es/no",
+            "bank_url": "https://bincheck.io/es/no/danske-bank--a+s"
+        }
+    ]
+}

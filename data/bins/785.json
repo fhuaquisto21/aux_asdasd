@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "414281",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/mutual-bank-of-the-caribbean,-inc."
+        },
+        {
+            "bin_num": "491090",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/mutual-bank-of-the-caribbean,-inc."
+        },
+        {
+            "bin_num": "491091",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/mutual-bank-of-the-caribbean,-inc."
+        },
+        {
+            "bin_num": "494180",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/mutual-bank-of-the-caribbean,-inc."
+        }
+    ]
+}

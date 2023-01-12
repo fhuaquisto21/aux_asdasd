@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "531238",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BANQUE ET CAISSE D'EPARGNE DE L'ETAT",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/banque-et-caisse-d'epargne-de-l'etat"
+        },
+        {
+            "bin_num": "533167",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANQUE ET CAISSE D'EPARGNE DE L'ETAT",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/banque-et-caisse-d'epargne-de-l'etat"
+        }
+    ]
+}

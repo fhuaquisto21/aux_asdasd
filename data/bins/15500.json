@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403308",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KITSAP COMMUNITY F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/kitsap-community-f.c.u."
+        },
+        {
+            "bin_num": "407191",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KITSAP COMMUNITY F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/kitsap-community-f.c.u."
+        },
+        {
+            "bin_num": "516039",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "KITSAP COMMUNITY F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/kitsap-community-f.c.u."
+        },
+        {
+            "bin_num": "516040",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "KITSAP COMMUNITY F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/kitsap-community-f.c.u."
+        }
+    ]
+}

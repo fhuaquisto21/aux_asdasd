@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "528656",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/guaranty-trust-bank-plc"
+        },
+        {
+            "bin_num": "539938",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GUARANTY TRUST BANK PLC",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/guaranty-trust-bank-plc"
+        }
+    ]
+}

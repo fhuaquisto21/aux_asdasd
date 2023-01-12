@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "559079",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "O.F.SZ. ORSZAGOS FIZETESI SZOLGATATO ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/o.f.sz.-orszagos-fizetesi-szolgatato-zrt."
+        },
+        {
+            "bin_num": "559458",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "O.F.SZ. ORSZAGOS FIZETESI SZOLGATATO ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/o.f.sz.-orszagos-fizetesi-szolgatato-zrt."
+        }
+    ]
+}

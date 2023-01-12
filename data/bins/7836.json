@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "377810",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "BANCO POPULAR PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/banco-popular-puerto-rico"
+        },
+        {
+            "bin_num": "377811",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE BLACK CHARGE",
+            "bank_name": "BANCO POPULAR PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/banco-popular-puerto-rico"
+        },
+        {
+            "bin_num": "377812",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE PLATINUM CHARGE",
+            "bank_name": "BANCO POPULAR PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/banco-popular-puerto-rico"
+        },
+        {
+            "bin_num": "377817",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL PLATINUM REVOLVE",
+            "bank_name": "BANCO POPULAR PUERTO RICO",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/banco-popular-puerto-rico"
+        }
+    ]
+}

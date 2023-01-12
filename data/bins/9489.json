@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "415471",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FORENINGSSPARBANKEN AB (PUBL).",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/foreningssparbanken-ab-(publ)."
+        },
+        {
+            "bin_num": "491868",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FORENINGSSPARBANKEN AB (PUBL).",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/foreningssparbanken-ab-(publ)."
+        }
+    ]
+}

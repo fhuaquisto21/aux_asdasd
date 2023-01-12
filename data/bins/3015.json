@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "411077",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/interdin-s.a.-emisora-y-administradora-de-tarjetas-de-credit"
+        },
+        {
+            "bin_num": "415465",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/interdin-s.a.-emisora-y-administradora-de-tarjetas-de-credit"
+        },
+        {
+            "bin_num": "450081",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/interdin-s.a.-emisora-y-administradora-de-tarjetas-de-credit"
+        },
+        {
+            "bin_num": "499801",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/interdin-s.a.-emisora-y-administradora-de-tarjetas-de-credit"
+        }
+    ]
+}

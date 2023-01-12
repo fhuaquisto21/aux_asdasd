@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "408437",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        },
+        {
+            "bin_num": "408438",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        },
+        {
+            "bin_num": "408439",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        },
+        {
+            "bin_num": "469897",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        },
+        {
+            "bin_num": "469898",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        },
+        {
+            "bin_num": "469899",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        },
+        {
+            "bin_num": "524048",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO CITIBANK DE NICARAGUA, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-citibank-de-nicaragua,-s.a."
+        }
+    ]
+}

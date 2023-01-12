@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431902",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF EAST ASIA, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/bank-of-east-asia,-ltd."
+        },
+        {
+            "bin_num": "512621",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF EAST ASIA, LTD.",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/bank-of-east-asia,-ltd."
+        }
+    ]
+}

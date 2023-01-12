@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "476835",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        },
+        {
+            "bin_num": "476836",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        },
+        {
+            "bin_num": "476837",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        },
+        {
+            "bin_num": "476838",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        },
+        {
+            "bin_num": "479325",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        },
+        {
+            "bin_num": "479326",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        },
+        {
+            "bin_num": "479327",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE COMMERCIALE DU RWANDA SA",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-commerciale-du-rwanda-sa"
+        }
+    ]
+}

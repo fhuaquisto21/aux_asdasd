@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "462030",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LOS TRABAJADORES",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-de-los-trabajadores"
+        },
+        {
+            "bin_num": "499833",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LOS TRABAJADORES",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-de-los-trabajadores"
+        }
+    ]
+}

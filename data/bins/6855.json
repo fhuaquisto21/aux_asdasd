@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "516396",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "LOVCEN BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/lovcen-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "525796",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "LOVCEN BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/lovcen-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "535224",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LOVCEN BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/lovcen-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "535225",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "LOVCEN BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/lovcen-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "536382",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LOVCEN BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/lovcen-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "559291",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "LOVCEN BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/lovcen-banka-ad-podgorica"
+        }
+    ]
+}

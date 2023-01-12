@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "553422",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/citibank-europe-public-limited-company"
+        },
+        {
+            "bin_num": "555045",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE PURCHASING",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/citibank-europe-public-limited-company"
+        }
+    ]
+}

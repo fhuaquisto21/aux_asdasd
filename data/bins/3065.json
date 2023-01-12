@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "520764",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/hsbc-bank-middle-east"
+        },
+        {
+            "bin_num": "520767",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HSBC BANK MIDDLE EAST",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/hsbc-bank-middle-east"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "418665",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        },
+        {
+            "bin_num": "419385",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        },
+        {
+            "bin_num": "419386",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        },
+        {
+            "bin_num": "422686",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        },
+        {
+            "bin_num": "459358",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        },
+        {
+            "bin_num": "499870",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PIRAEUS BANK (CYPRUS), LTD.",
+            "country_name": "CYPRUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/cy.svg",
+            "country_url": "https://bincheck.io/es/cy",
+            "bank_url": "https://bincheck.io/es/cy/piraeus-bank-(cyprus),-ltd."
+        }
+    ]
+}

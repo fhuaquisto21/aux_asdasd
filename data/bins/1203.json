@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "421749",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TSYS SERVICOS DE TRANSACOES ELETRONICAS LTDA.",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/tsys-servicos-de-transacoes-eletronicas-ltda."
+        },
+        {
+            "bin_num": "459363",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TSYS SERVICOS DE TRANSACOES ELETRONICAS LTDA.",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/tsys-servicos-de-transacoes-eletronicas-ltda."
+        }
+    ]
+}

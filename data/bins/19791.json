@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "512690",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "512728",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "516344",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "516351",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "516386",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "519910",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "522850",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "544483",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "554930",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        },
+        {
+            "bin_num": "559134",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/cscbank-sal"
+        }
+    ]
+}

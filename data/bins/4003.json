@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "553965",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "NHB GROWTH CREDIT BANK PLC",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/nhb-growth-credit-bank-plc"
+        },
+        {
+            "bin_num": "559092",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NHB GROWTH CREDIT BANK PLC",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/nhb-growth-credit-bank-plc"
+        }
+    ]
+}

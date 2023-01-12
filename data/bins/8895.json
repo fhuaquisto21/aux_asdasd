@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "432411",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SEYCHELLES SAVINGS BANK, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/seychelles-savings-bank,-ltd."
+        },
+        {
+            "bin_num": "432414",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SEYCHELLES SAVINGS BANK, LTD.",
+            "country_name": "SEYCHELLES",
+            "country_img": "https://bincheck.io/assets/flags/svg/sc.svg",
+            "country_url": "https://bincheck.io/es/sc",
+            "bank_url": "https://bincheck.io/es/sc/seychelles-savings-bank,-ltd."
+        }
+    ]
+}

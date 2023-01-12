@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "400273",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK OF PALESTINE PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/bank-of-palestine-plc"
+        },
+        {
+            "bin_num": "401359",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BANK OF PALESTINE PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/bank-of-palestine-plc"
+        },
+        {
+            "bin_num": "465976",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF PALESTINE PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/bank-of-palestine-plc"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF PALESTINE PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/bank-of-palestine-plc"
+        },
+        {
+            "bin_num": "483439",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF PALESTINE PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/bank-of-palestine-plc"
+        },
+        {
+            "bin_num": "484167",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANK OF PALESTINE PLC",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/bank-of-palestine-plc"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "531167",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agriculture-and-rural-development"
+        },
+        {
+            "bin_num": "534146",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agriculture-and-rural-development"
+        },
+        {
+            "bin_num": "547587",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agriculture-and-rural-development"
+        },
+        {
+            "bin_num": "549794",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agriculture-and-rural-development"
+        },
+        {
+            "bin_num": "554571",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agriculture-and-rural-development"
+        },
+        {
+            "bin_num": "970405",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-bank-for-agriculture-and-rural-development"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417396",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIT LIBANAIS S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/credit-libanais-s.a.l."
+        },
+        {
+            "bin_num": "430290",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIT LIBANAIS S.A.L.",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/credit-libanais-s.a.l."
+        }
+    ]
+}

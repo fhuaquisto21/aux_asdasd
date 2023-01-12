@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "400622",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE EXTERIEURE D'ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-exterieure-d'algerie"
+        },
+        {
+            "bin_num": "516691",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE EXTERIEURE D'ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-exterieure-d'algerie"
+        },
+        {
+            "bin_num": "519189",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANQUE EXTERIEURE D'ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-exterieure-d'algerie"
+        },
+        {
+            "bin_num": "530365",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANQUE EXTERIEURE D'ALGERIE",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/banque-exterieure-d'algerie"
+        }
+    ]
+}

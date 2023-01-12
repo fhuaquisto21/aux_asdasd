@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "536564",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "EUROPEAN AMERICAN INVESTMENT BANK AG",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/european-american-investment-bank-ag"
+        },
+        {
+            "bin_num": "557388",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EUROPEAN AMERICAN INVESTMENT BANK AG",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/european-american-investment-bank-ag"
+        }
+    ]
+}

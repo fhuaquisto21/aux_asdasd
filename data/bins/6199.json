@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "513492",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BUY WAY PERSONAL FINANCE SA",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/buy-way-personal-finance-sa"
+        },
+        {
+            "bin_num": "527535",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BUY WAY PERSONAL FINANCE SA",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/buy-way-personal-finance-sa"
+        },
+        {
+            "bin_num": "530760",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BUY WAY PERSONAL FINANCE SA",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/buy-way-personal-finance-sa"
+        },
+        {
+            "bin_num": "530773",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "BUY WAY PERSONAL FINANCE SA",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/buy-way-personal-finance-sa"
+        }
+    ]
+}

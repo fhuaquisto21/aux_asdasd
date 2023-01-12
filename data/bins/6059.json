@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431370",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NORDEA BANK FINLAND PLC",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/nordea-bank-finland-plc"
+        },
+        {
+            "bin_num": "483061",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "NORDEA BANK FINLAND PLC",
+            "country_name": "LATVIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lv.svg",
+            "country_url": "https://bincheck.io/es/lv",
+            "bank_url": "https://bincheck.io/es/lv/nordea-bank-finland-plc"
+        }
+    ]
+}

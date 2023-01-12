@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "403226",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MUTUAL FEDERAL SAVINGS BANK OF PLYMOUTH COUNTY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/mutual-federal-savings-bank-of-plymouth-county"
+        },
+        {
+            "bin_num": "454407",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MUTUAL FEDERAL SAVINGS BANK OF PLYMOUTH COUNTY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/mutual-federal-savings-bank-of-plymouth-county"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "459087",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-zentralbank-oesterreich-ag"
+        },
+        {
+            "bin_num": "459089",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-zentralbank-oesterreich-ag"
+        },
+        {
+            "bin_num": "498511",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-zentralbank-oesterreich-ag"
+        },
+        {
+            "bin_num": "498512",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-zentralbank-oesterreich-ag"
+        }
+    ]
+}

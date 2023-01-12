@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "510136",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-public-limited-company"
+        },
+        {
+            "bin_num": "510142",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-public-limited-company"
+        },
+        {
+            "bin_num": "511869",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-public-limited-company"
+        },
+        {
+            "bin_num": "516023",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-public-limited-company"
+        },
+        {
+            "bin_num": "516027",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-public-limited-company"
+        },
+        {
+            "bin_num": "528938",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+            "country_name": "CZECH REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/cz.svg",
+            "country_url": "https://bincheck.io/es/cz",
+            "bank_url": "https://bincheck.io/es/cz/citibank-europe-public-limited-company"
+        }
+    ]
+}

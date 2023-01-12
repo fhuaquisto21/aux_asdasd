@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "415004",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAJA RURAL DE ALMERIA Y MALAGA (CAJAMAR)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-rural-de-almeria-y-malaga-(cajamar)"
+        },
+        {
+            "bin_num": "415010",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAJA RURAL DE ALMERIA Y MALAGA (CAJAMAR)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-rural-de-almeria-y-malaga-(cajamar)"
+        },
+        {
+            "bin_num": "455763",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAJA RURAL DE ALMERIA Y MALAGA (CAJAMAR)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-rural-de-almeria-y-malaga-(cajamar)"
+        },
+        {
+            "bin_num": "455764",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAJA RURAL DE ALMERIA Y MALAGA (CAJAMAR)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-rural-de-almeria-y-malaga-(cajamar)"
+        }
+    ]
+}

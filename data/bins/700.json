@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "402639",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NATIONAL BANK OF KUWAIT, S.A.K.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-kuwait,-s.a.k."
+        },
+        {
+            "bin_num": "418766",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK OF KUWAIT, S.A.K.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/national-bank-of-kuwait,-s.a.k."
+        }
+    ]
+}

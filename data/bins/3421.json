@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "370023",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "AMEX GCS GERMANY",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/amex-gcs-germany"
+        },
+        {
+            "bin_num": "372381",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE GE VPAYMENT",
+            "bank_name": "AMEX GCS GERMANY",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/amex-gcs-germany"
+        }
+    ]
+}

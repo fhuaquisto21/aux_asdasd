@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "459336",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "BANKABLE ISSUED BY R RAPHAEL AND SONS PLC",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/bankable-issued-by-r-raphael-and-sons-plc"
+        },
+        {
+            "bin_num": "475742",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANKABLE ISSUED BY R RAPHAEL AND SONS PLC",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/bankable-issued-by-r-raphael-and-sons-plc"
+        }
+    ]
+}

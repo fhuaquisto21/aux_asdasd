@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "410700",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        },
+        {
+            "bin_num": "412665",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        },
+        {
+            "bin_num": "436655",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        },
+        {
+            "bin_num": "440863",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        },
+        {
+            "bin_num": "465614",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        },
+        {
+            "bin_num": "541699",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        },
+        {
+            "bin_num": "545499",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHARLESTON",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-federal-savings-and-loan-association-of-charleston"
+        }
+    ]
+}

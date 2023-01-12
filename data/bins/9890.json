@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "406216",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/beit-ettamwil-tounsi-saudi-(b.e.s.t.)"
+        },
+        {
+            "bin_num": "455044",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/beit-ettamwil-tounsi-saudi-(b.e.s.t.)"
+        },
+        {
+            "bin_num": "455045",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+            "country_name": "TUNISIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/tn.svg",
+            "country_url": "https://bincheck.io/es/tn",
+            "bank_url": "https://bincheck.io/es/tn/beit-ettamwil-tounsi-saudi-(b.e.s.t.)"
+        }
+    ]
+}

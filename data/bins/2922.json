@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "404035",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-providencial,-s.a."
+        },
+        {
+            "bin_num": "431526",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-providencial,-s.a."
+        },
+        {
+            "bin_num": "431527",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-providencial,-s.a."
+        },
+        {
+            "bin_num": "469890",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-providencial,-s.a."
+        },
+        {
+            "bin_num": "469891",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-providencial,-s.a."
+        },
+        {
+            "bin_num": "469892",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-providencial,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "466053",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST FINANCIAL BANK JSC PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/first-financial-bank-jsc-podgorica"
+        },
+        {
+            "bin_num": "466054",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FIRST FINANCIAL BANK JSC PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/first-financial-bank-jsc-podgorica"
+        },
+        {
+            "bin_num": "466056",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FIRST FINANCIAL BANK JSC PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/first-financial-bank-jsc-podgorica"
+        },
+        {
+            "bin_num": "470343",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FIRST FINANCIAL BANK JSC PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/first-financial-bank-jsc-podgorica"
+        }
+    ]
+}

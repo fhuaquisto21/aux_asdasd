@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "448782",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PALESTINE INVESTMENT BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/palestine-investment-bank"
+        },
+        {
+            "bin_num": "448783",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PALESTINE INVESTMENT BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/palestine-investment-bank"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "514077",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/network-international-llc"
+        },
+        {
+            "bin_num": "519962",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/network-international-llc"
+        },
+        {
+            "bin_num": "524380",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/network-international-llc"
+        },
+        {
+            "bin_num": "525788",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/network-international-llc"
+        },
+        {
+            "bin_num": "531835",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/network-international-llc"
+        },
+        {
+            "bin_num": "536281",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/network-international-llc"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "356450",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JCB INTERNATIONAL CREDIT CARD CO.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/jcb-international-credit-card-co."
+        },
+        {
+            "bin_num": "356452",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JCB INTERNATIONAL CREDIT CARD CO.",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/jcb-international-credit-card-co."
+        }
+    ]
+}

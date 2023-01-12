@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "410078",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF ANGUILLA, LTD.",
+            "country_name": "ANGUILLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ai.svg",
+            "country_url": "https://bincheck.io/es/ai",
+            "bank_url": "https://bincheck.io/es/ai/national-bank-of-anguilla,-ltd."
+        },
+        {
+            "bin_num": "451729",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF ANGUILLA, LTD.",
+            "country_name": "ANGUILLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ai.svg",
+            "country_url": "https://bincheck.io/es/ai",
+            "bank_url": "https://bincheck.io/es/ai/national-bank-of-anguilla,-ltd."
+        },
+        {
+            "bin_num": "451730",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF ANGUILLA, LTD.",
+            "country_name": "ANGUILLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ai.svg",
+            "country_url": "https://bincheck.io/es/ai",
+            "bank_url": "https://bincheck.io/es/ai/national-bank-of-anguilla,-ltd."
+        },
+        {
+            "bin_num": "451731",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL BANK OF ANGUILLA, LTD.",
+            "country_name": "ANGUILLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ai.svg",
+            "country_url": "https://bincheck.io/es/ai",
+            "bank_url": "https://bincheck.io/es/ai/national-bank-of-anguilla,-ltd."
+        }
+    ]
+}

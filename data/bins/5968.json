@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "537790",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "539819",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "541313",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "541318",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "552050",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "552277",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "558883",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/national-bank-of-kuwait-(s.a.k.)"
+        }
+    ]
+}

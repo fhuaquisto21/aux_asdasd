@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "428067",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-cb-foreign-capital-promeconombank"
+        },
+        {
+            "bin_num": "428068",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-cb-foreign-capital-promeconombank"
+        },
+        {
+            "bin_num": "428069",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-cb-foreign-capital-promeconombank"
+        },
+        {
+            "bin_num": "428070",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-cb-foreign-capital-promeconombank"
+        },
+        {
+            "bin_num": "428071",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-cb-foreign-capital-promeconombank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "517860",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD/STANDARD",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/industrial-and-commercial-bank-of-china,-ltd."
+        },
+        {
+            "bin_num": "552150",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/industrial-and-commercial-bank-of-china,-ltd."
+        }
+    ]
+}

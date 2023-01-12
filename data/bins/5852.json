@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "940017",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "HANMI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanmi-bank"
+        },
+        {
+            "bin_num": "945034",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HANMI BANK",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanmi-bank"
+        }
+    ]
+}

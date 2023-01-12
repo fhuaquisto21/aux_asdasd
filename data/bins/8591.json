@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "522031",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        },
+        {
+            "bin_num": "531544",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        },
+        {
+            "bin_num": "531860",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        },
+        {
+            "bin_num": "532078",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        },
+        {
+            "bin_num": "546892",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        },
+        {
+            "bin_num": "550437",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        },
+        {
+            "bin_num": "677535",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "SAINT PETERSBURG INDUSTRIAL JOINT STOCK BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-industrial-joint-stock-bank"
+        }
+    ]
+}

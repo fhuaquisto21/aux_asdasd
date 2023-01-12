@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "428648",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF SYRIA AND OVERSEAS",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bank-of-syria-and-overseas"
+        },
+        {
+            "bin_num": "429950",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF SYRIA AND OVERSEAS",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bank-of-syria-and-overseas"
+        },
+        {
+            "bin_num": "429951",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF SYRIA AND OVERSEAS",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bank-of-syria-and-overseas"
+        }
+    ]
+}

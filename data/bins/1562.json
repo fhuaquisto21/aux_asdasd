@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "513335",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        },
+        {
+            "bin_num": "519715",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        },
+        {
+            "bin_num": "528408",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        },
+        {
+            "bin_num": "531419",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        },
+        {
+            "bin_num": "534546",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        },
+        {
+            "bin_num": "536265",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        },
+        {
+            "bin_num": "559274",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/bank-of-n.t.-butterfield-&-son,-ltd."
+        }
+    ]
+}

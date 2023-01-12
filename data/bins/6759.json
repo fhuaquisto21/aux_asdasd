@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506452",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SE TRANSACCIONES",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/se-transacciones"
+        },
+        {
+            "bin_num": "506453",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SE TRANSACCIONES",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/se-transacciones"
+        }
+    ]
+}

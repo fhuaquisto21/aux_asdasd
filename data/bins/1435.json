@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "603527",
+            "bin_mark": "MAESTRO",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/citibank,-n.a."
+        },
+        {
+            "bin_num": "603529",
+            "bin_mark": "MAESTRO",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/citibank,-n.a."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "404940",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/razvojna-banka-vojvodine-ad-novi-sad"
+        },
+        {
+            "bin_num": "445038",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/razvojna-banka-vojvodine-ad-novi-sad"
+        }
+    ]
+}

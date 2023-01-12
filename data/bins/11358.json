@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "499995",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ASTORIA FEDERAL SAVINGS AND LOAN ASSOCIATION",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/astoria-federal-savings-and-loan-association"
+        },
+        {
+            "bin_num": "499996",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASTORIA FEDERAL SAVINGS AND LOAN ASSOCIATION",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/astoria-federal-savings-and-loan-association"
+        },
+        {
+            "bin_num": "499997",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ASTORIA FEDERAL SAVINGS AND LOAN ASSOCIATION",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/astoria-federal-savings-and-loan-association"
+        }
+    ]
+}

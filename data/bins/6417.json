@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "535553",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MONEY CARD PAYMENT INSTITUTION, LTD.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/money-card-payment-institution,-ltd."
+        },
+        {
+            "bin_num": "535554",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MONEY CARD PAYMENT INSTITUTION, LTD.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/money-card-payment-institution,-ltd."
+        }
+    ]
+}

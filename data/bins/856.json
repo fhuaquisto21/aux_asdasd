@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "546898",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD/CORPORATE",
+            "bank_name": "BEOBANK NV/SA",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/beobank-nv+sa"
+        },
+        {
+            "bin_num": "546899",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "BEOBANK NV/SA",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/beobank-nv+sa"
+        }
+    ]
+}

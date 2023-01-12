@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "436486",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FOREIGN TRADE BANK OF CAMBODIA",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/foreign-trade-bank-of-cambodia"
+        },
+        {
+            "bin_num": "436487",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FOREIGN TRADE BANK OF CAMBODIA",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/foreign-trade-bank-of-cambodia"
+        },
+        {
+            "bin_num": "436495",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FOREIGN TRADE BANK OF CAMBODIA",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/foreign-trade-bank-of-cambodia"
+        },
+        {
+            "bin_num": "436496",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID GOLD",
+            "bank_name": "FOREIGN TRADE BANK OF CAMBODIA",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/foreign-trade-bank-of-cambodia"
+        },
+        {
+            "bin_num": "437500",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FOREIGN TRADE BANK OF CAMBODIA",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/foreign-trade-bank-of-cambodia"
+        }
+    ]
+}

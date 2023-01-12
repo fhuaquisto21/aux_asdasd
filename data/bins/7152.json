@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "422127",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        },
+        {
+            "bin_num": "422808",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        },
+        {
+            "bin_num": "423895",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        },
+        {
+            "bin_num": "427889",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        },
+        {
+            "bin_num": "439358",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        },
+        {
+            "bin_num": "471458",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        },
+        {
+            "bin_num": "471459",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+            "country_name": "NIGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ng.svg",
+            "country_url": "https://bincheck.io/es/ng",
+            "bank_url": "https://bincheck.io/es/ng/standard-chartered-bank-nigeria,-ltd."
+        }
+    ]
+}

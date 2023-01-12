@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "409355",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PRIVATE LABEL",
+            "bank_name": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/conavi-banco-comercial-y-de-ahorros,-s.a."
+        },
+        {
+            "bin_num": "491221",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/conavi-banco-comercial-y-de-ahorros,-s.a."
+        },
+        {
+            "bin_num": "493182",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/conavi-banco-comercial-y-de-ahorros,-s.a."
+        },
+        {
+            "bin_num": "493183",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/conavi-banco-comercial-y-de-ahorros,-s.a."
+        }
+    ]
+}

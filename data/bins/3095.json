@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "448447",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "AVAL CARD, S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/aval-card,-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "493194",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AVAL CARD, S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/aval-card,-s.a.-de-c.v."
+        }
+    ]
+}

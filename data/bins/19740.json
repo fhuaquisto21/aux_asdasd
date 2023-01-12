@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "419247",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MERCHANTS COMMERCIAL BANK",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/merchants-commercial-bank"
+        },
+        {
+            "bin_num": "419248",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MERCHANTS COMMERCIAL BANK",
+            "country_name": "VIRGIN ISLANDS, U.S.",
+            "country_img": "https://bincheck.io/assets/flags/svg/vi.svg",
+            "country_url": "https://bincheck.io/es/vir",
+            "bank_url": "https://bincheck.io/es/vir/merchants-commercial-bank"
+        }
+    ]
+}

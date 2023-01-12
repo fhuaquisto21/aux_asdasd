@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "379927",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD CHARGE",
+            "bank_name": "BANCO SABADELL",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-sabadell"
+        },
+        {
+            "bin_num": "379928",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GNS GREEN CHARGE",
+            "bank_name": "BANCO SABADELL",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-sabadell"
+        }
+    ]
+}

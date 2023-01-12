@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "528688",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FIRST DATA CONO SUR S.R.L.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/first-data-cono-sur-s.r.l."
+        },
+        {
+            "bin_num": "554667",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRST DATA CONO SUR S.R.L.",
+            "country_name": "URUGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/uy.svg",
+            "country_url": "https://bincheck.io/es/uy",
+            "bank_url": "https://bincheck.io/es/uy/first-data-cono-sur-s.r.l."
+        }
+    ]
+}

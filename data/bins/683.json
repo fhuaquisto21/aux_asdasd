@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "548930",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FAYSAL ISLAMIC BANK OF BAHRAIN E.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/faysal-islamic-bank-of-bahrain-e.c."
+        },
+        {
+            "bin_num": "548933",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FAYSAL ISLAMIC BANK OF BAHRAIN E.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/faysal-islamic-bank-of-bahrain-e.c."
+        }
+    ]
+}

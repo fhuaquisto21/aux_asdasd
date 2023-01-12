@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "432594",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/arab-bank-plc"
+        },
+        {
+            "bin_num": "432595",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/arab-bank-plc"
+        },
+        {
+            "bin_num": "447523",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/arab-bank-plc"
+        },
+        {
+            "bin_num": "474714",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/arab-bank-plc"
+        },
+        {
+            "bin_num": "474723",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ARAB BANK PLC",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/arab-bank-plc"
+        }
+    ]
+}

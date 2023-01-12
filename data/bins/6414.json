@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "459555",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "LOMBARD BANK MALTA P.L.C.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/lombard-bank-malta-p.l.c."
+        },
+        {
+            "bin_num": "512344",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "LOMBARD BANK MALTA P.L.C.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/lombard-bank-malta-p.l.c."
+        },
+        {
+            "bin_num": "512599",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LOMBARD BANK MALTA P.L.C.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/lombard-bank-malta-p.l.c."
+        },
+        {
+            "bin_num": "535453",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LOMBARD BANK MALTA P.L.C.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/lombard-bank-malta-p.l.c."
+        },
+        {
+            "bin_num": "535459",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "LOMBARD BANK MALTA P.L.C.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/lombard-bank-malta-p.l.c."
+        },
+        {
+            "bin_num": "536130",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "LOMBARD BANK MALTA P.L.C.",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/lombard-bank-malta-p.l.c."
+        }
+    ]
+}

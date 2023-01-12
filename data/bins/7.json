@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "422244",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/standard-chartered-bank"
+        },
+        {
+            "bin_num": "422245",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/standard-chartered-bank"
+        }
+    ]
+}

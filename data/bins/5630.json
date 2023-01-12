@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "454271",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UC CARD CO., LTD. (MIZUHO)",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/uc-card-co.,-ltd.-(mizuho)"
+        },
+        {
+            "bin_num": "454294",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UC CARD CO., LTD. (MIZUHO)",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/uc-card-co.,-ltd.-(mizuho)"
+        }
+    ]
+}

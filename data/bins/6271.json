@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "412527",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "432481",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "432482",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "432483",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "432484",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "432485",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        },
+        {
+            "bin_num": "432486",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NLB TUTUNSKA BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/nlb-tutunska-banka-ad-skopje"
+        }
+    ]
+}

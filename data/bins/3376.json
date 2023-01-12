@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "488969",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SKYE BANK (GAMBIA), LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/skye-bank-(gambia),-ltd."
+        },
+        {
+            "bin_num": "488970",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SKYE BANK (GAMBIA), LTD.",
+            "country_name": "GAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gm.svg",
+            "country_url": "https://bincheck.io/es/gm",
+            "bank_url": "https://bincheck.io/es/gm/skye-bank-(gambia),-ltd."
+        }
+    ]
+}

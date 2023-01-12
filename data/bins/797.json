@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        },
+        {
+            "bin_num": "547691",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        },
+        {
+            "bin_num": "557749",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRONIC",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        },
+        {
+            "bin_num": "557884",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        },
+        {
+            "bin_num": "557885",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        },
+        {
+            "bin_num": "671127",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        },
+        {
+            "bin_num": "676663",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarussian-bank-of-development-and-reconstruction-belinvestbank-jsc"
+        }
+    ]
+}

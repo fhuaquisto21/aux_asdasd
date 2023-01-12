@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "431008",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RBTT BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbtt-bank,-n.v."
+        },
+        {
+            "bin_num": "431009",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RBTT BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbtt-bank,-n.v."
+        },
+        {
+            "bin_num": "448013",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RBTT BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbtt-bank,-n.v."
+        },
+        {
+            "bin_num": "450311",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RBTT BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbtt-bank,-n.v."
+        },
+        {
+            "bin_num": "450312",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RBTT BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbtt-bank,-n.v."
+        },
+        {
+            "bin_num": "450313",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RBTT BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/rbtt-bank,-n.v."
+        }
+    ]
+}

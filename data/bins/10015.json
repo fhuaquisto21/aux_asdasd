@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "515730",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "EXECUTIVE",
+            "bank_name": "SCOTIABANK (TURKS & CAICOS) LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/scotiabank-(turks-&-caicos)-ltd."
+        },
+        {
+            "bin_num": "515852",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SCOTIABANK (TURKS & CAICOS) LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/scotiabank-(turks-&-caicos)-ltd."
+        },
+        {
+            "bin_num": "527589",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SCOTIABANK (TURKS & CAICOS) LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/scotiabank-(turks-&-caicos)-ltd."
+        },
+        {
+            "bin_num": "542032",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SCOTIABANK (TURKS & CAICOS) LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/scotiabank-(turks-&-caicos)-ltd."
+        },
+        {
+            "bin_num": "546618",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "SCOTIABANK (TURKS & CAICOS) LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/scotiabank-(turks-&-caicos)-ltd."
+        },
+        {
+            "bin_num": "547529",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SCOTIABANK (TURKS & CAICOS) LTD.",
+            "country_name": "TURKS AND CAICOS ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/tc.svg",
+            "country_url": "https://bincheck.io/es/tc",
+            "bank_url": "https://bincheck.io/es/tc/scotiabank-(turks-&-caicos)-ltd."
+        }
+    ]
+}

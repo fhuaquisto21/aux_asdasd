@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "421818",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        },
+        {
+            "bin_num": "482408",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        },
+        {
+            "bin_num": "491250",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        },
+        {
+            "bin_num": "493131",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        },
+        {
+            "bin_num": "493132",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        },
+        {
+            "bin_num": "542366",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        },
+        {
+            "bin_num": "554376",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO G AND T CONTINENTAL, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-g-and-t-continental,-s.a."
+        }
+    ]
+}

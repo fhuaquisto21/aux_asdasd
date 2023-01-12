@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "440522",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "GULF BANK ALGERIA",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/gulf-bank-algeria"
+        },
+        {
+            "bin_num": "519876",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "GULF BANK ALGERIA",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/gulf-bank-algeria"
+        },
+        {
+            "bin_num": "531497",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GULF BANK ALGERIA",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/gulf-bank-algeria"
+        },
+        {
+            "bin_num": "546562",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "GULF BANK ALGERIA",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/gulf-bank-algeria"
+        },
+        {
+            "bin_num": "546979",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GULF BANK ALGERIA",
+            "country_name": "ALGERIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dz.svg",
+            "country_url": "https://bincheck.io/es/dz",
+            "bank_url": "https://bincheck.io/es/dz/gulf-bank-algeria"
+        }
+    ]
+}

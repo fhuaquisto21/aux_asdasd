@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "440714",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE AUDI S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/banque-audi-s.a.l."
+        },
+        {
+            "bin_num": "440715",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE AUDI S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/banque-audi-s.a.l."
+        },
+        {
+            "bin_num": "440789",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE AUDI S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/banque-audi-s.a.l."
+        },
+        {
+            "bin_num": "518493",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE AUDI S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/banque-audi-s.a.l."
+        }
+    ]
+}

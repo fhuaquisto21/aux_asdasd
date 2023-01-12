@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "439218",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CENTRE MONETIQUE INTERBANCAIRE",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/centre-monetique-interbancaire"
+        },
+        {
+            "bin_num": "518822",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CENTRE MONETIQUE INTERBANCAIRE",
+            "country_name": "MOROCCO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ma.svg",
+            "country_url": "https://bincheck.io/es/ma",
+            "bank_url": "https://bincheck.io/es/ma/centre-monetique-interbancaire"
+        }
+    ]
+}

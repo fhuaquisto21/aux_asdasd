@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "410669",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NOVA LJUBLJANSKA BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-ljubljanska-banka-d.d."
+        },
+        {
+            "bin_num": "443855",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "NOVA LJUBLJANSKA BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-ljubljanska-banka-d.d."
+        },
+        {
+            "bin_num": "448320",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NOVA LJUBLJANSKA BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-ljubljanska-banka-d.d."
+        },
+        {
+            "bin_num": "454346",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NOVA LJUBLJANSKA BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-ljubljanska-banka-d.d."
+        },
+        {
+            "bin_num": "474819",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NOVA LJUBLJANSKA BANKA D.D.",
+            "country_name": "SLOVENIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/si.svg",
+            "country_url": "https://bincheck.io/es/si",
+            "bank_url": "https://bincheck.io/es/si/nova-ljubljanska-banka-d.d."
+        }
+    ]
+}

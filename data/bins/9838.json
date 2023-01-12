@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "472543",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE ATLANTIQUE TOGO",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-atlantique-togo"
+        },
+        {
+            "bin_num": "472544",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE ATLANTIQUE TOGO",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-atlantique-togo"
+        },
+        {
+            "bin_num": "472545",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE ATLANTIQUE TOGO",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-atlantique-togo"
+        },
+        {
+            "bin_num": "472546",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE ATLANTIQUE TOGO",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-atlantique-togo"
+        },
+        {
+            "bin_num": "472547",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE ATLANTIQUE TOGO",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/banque-atlantique-togo"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "414326",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BAC INTERNATIONAL BANK (PANAMA), INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/bac-international-bank-(panama),-inc."
+        },
+        {
+            "bin_num": "414327",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BAC INTERNATIONAL BANK (PANAMA), INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/bac-international-bank-(panama),-inc."
+        },
+        {
+            "bin_num": "414329",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BAC INTERNATIONAL BANK (PANAMA), INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/bac-international-bank-(panama),-inc."
+        },
+        {
+            "bin_num": "472100",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BAC INTERNATIONAL BANK (PANAMA), INC.",
+            "country_name": "PANAMA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pa.svg",
+            "country_url": "https://bincheck.io/es/pa",
+            "bank_url": "https://bincheck.io/es/pa/bac-international-bank-(panama),-inc."
+        }
+    ]
+}

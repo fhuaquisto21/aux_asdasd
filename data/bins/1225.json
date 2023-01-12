@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "402995",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PRIVATE LABEL",
+            "bank_name": "ALLIANZ BANK BULGARIA A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/allianz-bank-bulgaria-a.d."
+        },
+        {
+            "bin_num": "424468",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ALLIANZ BANK BULGARIA A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/allianz-bank-bulgaria-a.d."
+        },
+        {
+            "bin_num": "424980",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ALLIANZ BANK BULGARIA A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/allianz-bank-bulgaria-a.d."
+        },
+        {
+            "bin_num": "424981",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ALLIANZ BANK BULGARIA A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/allianz-bank-bulgaria-a.d."
+        },
+        {
+            "bin_num": "424982",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ALLIANZ BANK BULGARIA A.D.",
+            "country_name": "BULGARIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/bg.svg",
+            "country_url": "https://bincheck.io/es/bg",
+            "bank_url": "https://bincheck.io/es/bg/allianz-bank-bulgaria-a.d."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "379901",
+            "bin_mark": "AMERICAN",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BPS BANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/bps-bank"
+        },
+        {
+            "bin_num": "379993",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD CHARGE",
+            "bank_name": "BPS BANK",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/bps-bank"
+        }
+    ]
+}

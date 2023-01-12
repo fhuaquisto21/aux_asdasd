@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "998801",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "SZDB (CREDIT CARD)",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/szdb-(credit-card)"
+        },
+        {
+            "bin_num": "998802",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "SZDB (CREDIT CARD)",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/szdb-(credit-card)"
+        }
+    ]
+}

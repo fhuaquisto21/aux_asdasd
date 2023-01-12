@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431256",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ROYAL BANK OF BAKU, JCB",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/royal-bank-of-baku,-jcb"
+        },
+        {
+            "bin_num": "432089",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ROYAL BANK OF BAKU, JCB",
+            "country_name": "AZERBAIJAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/az.svg",
+            "country_url": "https://bincheck.io/es/az",
+            "bank_url": "https://bincheck.io/es/az/royal-bank-of-baku,-jcb"
+        }
+    ]
+}

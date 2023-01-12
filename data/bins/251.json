@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "400440",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/caja-popular-de-ahorros-de-la-provincia-de-tucuman"
+        },
+        {
+            "bin_num": "415463",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/caja-popular-de-ahorros-de-la-provincia-de-tucuman"
+        },
+        {
+            "bin_num": "450754",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/caja-popular-de-ahorros-de-la-provincia-de-tucuman"
+        },
+        {
+            "bin_num": "450755",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/caja-popular-de-ahorros-de-la-provincia-de-tucuman"
+        }
+    ]
+}

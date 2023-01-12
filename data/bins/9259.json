@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "455009",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAJA DE AHORROS DEL MEDITERRANEO",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-del-mediterraneo"
+        },
+        {
+            "bin_num": "455010",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAJA DE AHORROS DEL MEDITERRANEO",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caja-de-ahorros-del-mediterraneo"
+        }
+    ]
+}

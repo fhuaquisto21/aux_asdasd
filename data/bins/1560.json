@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "433160",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANINTER AND TRUST COMPANY",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/baninter-and-trust-company"
+        },
+        {
+            "bin_num": "433161",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANINTER AND TRUST COMPANY",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/baninter-and-trust-company"
+        }
+    ]
+}

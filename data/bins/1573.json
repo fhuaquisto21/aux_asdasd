@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "405549",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FIDELITY BANK (CAYMAN), LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/fidelity-bank-(cayman),-ltd."
+        },
+        {
+            "bin_num": "426297",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIDELITY BANK (CAYMAN), LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/fidelity-bank-(cayman),-ltd."
+        },
+        {
+            "bin_num": "426298",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIDELITY BANK (CAYMAN), LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/fidelity-bank-(cayman),-ltd."
+        },
+        {
+            "bin_num": "431309",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FIDELITY BANK (CAYMAN), LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/fidelity-bank-(cayman),-ltd."
+        },
+        {
+            "bin_num": "431350",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "FIDELITY BANK (CAYMAN), LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/fidelity-bank-(cayman),-ltd."
+        },
+        {
+            "bin_num": "431367",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIDELITY BANK (CAYMAN), LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/fidelity-bank-(cayman),-ltd."
+        }
+    ]
+}

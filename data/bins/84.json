@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "412575",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO TOTTA DE ANGOLA S.A.R.L.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-totta-de-angola-s.a.r.l."
+        },
+        {
+            "bin_num": "447353",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO TOTTA DE ANGOLA S.A.R.L.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-totta-de-angola-s.a.r.l."
+        },
+        {
+            "bin_num": "447354",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO TOTTA DE ANGOLA S.A.R.L.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-totta-de-angola-s.a.r.l."
+        },
+        {
+            "bin_num": "447355",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO TOTTA DE ANGOLA S.A.R.L.",
+            "country_name": "ANGOLA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ao.svg",
+            "country_url": "https://bincheck.io/es/ao",
+            "bank_url": "https://bincheck.io/es/ao/banco-totta-de-angola-s.a.r.l."
+        }
+    ]
+}

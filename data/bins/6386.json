@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "486070",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-internationale-pour-le-mali-s.a.-(b.i.m.)"
+        },
+        {
+            "bin_num": "486071",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-internationale-pour-le-mali-s.a.-(b.i.m.)"
+        },
+        {
+            "bin_num": "486072",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-internationale-pour-le-mali-s.a.-(b.i.m.)"
+        },
+        {
+            "bin_num": "486073",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-internationale-pour-le-mali-s.a.-(b.i.m.)"
+        },
+        {
+            "bin_num": "486074",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-internationale-pour-le-mali-s.a.-(b.i.m.)"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "437968",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF KIRIBATI, LTD.",
+            "country_name": "KIRIBATI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ki.svg",
+            "country_url": "https://bincheck.io/es/ki",
+            "bank_url": "https://bincheck.io/es/ki/bank-of-kiribati,-ltd."
+        },
+        {
+            "bin_num": "437969",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF KIRIBATI, LTD.",
+            "country_name": "KIRIBATI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ki.svg",
+            "country_url": "https://bincheck.io/es/ki",
+            "bank_url": "https://bincheck.io/es/ki/bank-of-kiribati,-ltd."
+        },
+        {
+            "bin_num": "450587",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KIRIBATI, LTD.",
+            "country_name": "KIRIBATI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ki.svg",
+            "country_url": "https://bincheck.io/es/ki",
+            "bank_url": "https://bincheck.io/es/ki/bank-of-kiribati,-ltd."
+        },
+        {
+            "bin_num": "465541",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KIRIBATI, LTD.",
+            "country_name": "KIRIBATI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ki.svg",
+            "country_url": "https://bincheck.io/es/ki",
+            "bank_url": "https://bincheck.io/es/ki/bank-of-kiribati,-ltd."
+        },
+        {
+            "bin_num": "520181",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF KIRIBATI, LTD.",
+            "country_name": "KIRIBATI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ki.svg",
+            "country_url": "https://bincheck.io/es/ki",
+            "bank_url": "https://bincheck.io/es/ki/bank-of-kiribati,-ltd."
+        }
+    ]
+}

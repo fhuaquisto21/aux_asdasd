@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "525727",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        },
+        {
+            "bin_num": "527612",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        },
+        {
+            "bin_num": "540413",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        },
+        {
+            "bin_num": "540822",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        },
+        {
+            "bin_num": "541124",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        },
+        {
+            "bin_num": "548544",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        },
+        {
+            "bin_num": "548630",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE CREDITO DEL PERU (BCP)",
+            "country_name": "PERU",
+            "country_img": "https://bincheck.io/assets/flags/svg/pe.svg",
+            "country_url": "https://bincheck.io/es/pe",
+            "bank_url": "https://bincheck.io/es/pe/banco-de-credito-del-peru-(bcp)"
+        }
+    ]
+}

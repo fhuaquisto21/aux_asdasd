@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "411808",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID CASH",
+            "bank_name": "CHEKIANG FIRST BANK, LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/chekiang-first-bank,-ltd."
+        },
+        {
+            "bin_num": "541652",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CHEKIANG FIRST BANK, LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/chekiang-first-bank,-ltd."
+        }
+    ]
+}

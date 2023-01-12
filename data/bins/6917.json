@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "403313",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "408472",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "457918",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "457919",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "457920",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "457921",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "457922",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        },
+        {
+            "bin_num": "481772",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FNB MOCAMBIQUE SA",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/fnb-mocambique-sa"
+        }
+    ]
+}

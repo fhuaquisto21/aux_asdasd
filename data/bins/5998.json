@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "520066",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JOINT DEVELOPMENT BANK",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/joint-development-bank"
+        },
+        {
+            "bin_num": "520120",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JOINT DEVELOPMENT BANK",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/joint-development-bank"
+        }
+    ]
+}

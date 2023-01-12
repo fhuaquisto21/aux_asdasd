@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "472029",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PEOPLES BANK AND TRUST CO.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/peoples-bank-and-trust-co."
+        },
+        {
+            "bin_num": "472030",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PEOPLES BANK AND TRUST CO.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/peoples-bank-and-trust-co."
+        }
+    ]
+}

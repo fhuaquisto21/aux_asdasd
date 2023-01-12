@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "415815",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "429389",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "445093",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "445094",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "458761",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/hong-kong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "548362",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/hong-kong-and-shanghai-banking-corp.,-ltd."
+        }
+    ]
+}

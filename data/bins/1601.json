@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "447846",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/societe-generale-tchadienne-de-banque-(sgtb)"
+        },
+        {
+            "bin_num": "447847",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/societe-generale-tchadienne-de-banque-(sgtb)"
+        },
+        {
+            "bin_num": "488989",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/societe-generale-tchadienne-de-banque-(sgtb)"
+        },
+        {
+            "bin_num": "488990",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+            "country_name": "CHAD",
+            "country_img": "https://bincheck.io/assets/flags/svg/td.svg",
+            "country_url": "https://bincheck.io/es/td",
+            "bank_url": "https://bincheck.io/es/td/societe-generale-tchadienne-de-banque-(sgtb)"
+        }
+    ]
+}

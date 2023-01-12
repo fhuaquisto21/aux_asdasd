@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "557040",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JS COMMERCIAL BANK RUSSIAN BANKERS HOUSE (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-commercial-bank-russian-bankers-house-(closed)"
+        },
+        {
+            "bin_num": "676530",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "JS COMMERCIAL BANK RUSSIAN BANKERS HOUSE (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-commercial-bank-russian-bankers-house-(closed)"
+        }
+    ]
+}

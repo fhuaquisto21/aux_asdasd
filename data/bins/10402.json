@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "411963",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARBUTHNOT LATHAM & CO LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/arbuthnot-latham-&-co-ltd."
+        },
+        {
+            "bin_num": "411980",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARBUTHNOT LATHAM & CO LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/arbuthnot-latham-&-co-ltd."
+        },
+        {
+            "bin_num": "465856",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARBUTHNOT LATHAM & CO LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/arbuthnot-latham-&-co-ltd."
+        },
+        {
+            "bin_num": "475736",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARBUTHNOT LATHAM & CO LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/arbuthnot-latham-&-co-ltd."
+        },
+        {
+            "bin_num": "477106",
+            "bin_mark": "VISA",
+            "bin_type": "CHARGE CARD",
+            "bin_level": "",
+            "bank_name": "ARBUTHNOT LATHAM & CO LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/arbuthnot-latham-&-co-ltd."
+        }
+    ]
+}

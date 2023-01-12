@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403181",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANK OF CHINA",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/bank-of-china"
+        },
+        {
+            "bin_num": "433663",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF CHINA",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/bank-of-china"
+        },
+        {
+            "bin_num": "470941",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF CHINA",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/bank-of-china"
+        },
+        {
+            "bin_num": "470942",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF CHINA",
+            "country_name": "MACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mo.svg",
+            "country_url": "https://bincheck.io/es/mo",
+            "bank_url": "https://bincheck.io/es/mo/bank-of-china"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "bin_num": "456133",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE SAVOIE",
+            "country_name": "FRANCE",
+            "country_img": "https://bincheck.io/assets/flags/svg/fr.svg",
+            "country_url": "https://bincheck.io/es/fra",
+            "bank_url": "https://bincheck.io/es/fra/banque-de-savoie"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "490947",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ABN AMRO BANK, N.V.",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/abn-amro-bank,-n.v."
+        },
+        {
+            "bin_num": "490948",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ABN AMRO BANK, N.V.",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/abn-amro-bank,-n.v."
+        }
+    ]
+}

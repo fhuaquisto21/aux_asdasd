@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "409864",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BASISBANK JSC",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/basisbank-jsc"
+        },
+        {
+            "bin_num": "409865",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BASISBANK JSC",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/basisbank-jsc"
+        },
+        {
+            "bin_num": "409866",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BASISBANK JSC",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/basisbank-jsc"
+        },
+        {
+            "bin_num": "409867",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BASISBANK JSC",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/basisbank-jsc"
+        },
+        {
+            "bin_num": "417769",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BASISBANK JSC",
+            "country_name": "GEORGIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ge.svg",
+            "country_url": "https://bincheck.io/es/ge",
+            "bank_url": "https://bincheck.io/es/ge/basisbank-jsc"
+        }
+    ]
+}

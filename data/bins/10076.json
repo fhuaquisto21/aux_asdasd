@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "414633",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FINANCE AND CREDIT BANKING CORPORATION",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/finance-and-credit-banking-corporation"
+        },
+        {
+            "bin_num": "414634",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FINANCE AND CREDIT BANKING CORPORATION",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/finance-and-credit-banking-corporation"
+        },
+        {
+            "bin_num": "447606",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FINANCE AND CREDIT BANKING CORPORATION",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/finance-and-credit-banking-corporation"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "432444",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANKCARD SERVICE JAPAN CO. LTD",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/bankcard-service-japan-co.-ltd"
+        },
+        {
+            "bin_num": "432514",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANKCARD SERVICE JAPAN CO. LTD",
+            "country_name": "EQUATORIAL GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gq.svg",
+            "country_url": "https://bincheck.io/es/gq",
+            "bank_url": "https://bincheck.io/es/gq/bankcard-service-japan-co.-ltd"
+        }
+    ]
+}

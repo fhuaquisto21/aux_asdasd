@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "419048",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST COMMONWEALTH BANK OF PRESTONSBURG, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-commonwealth-bank-of-prestonsburg,-inc."
+        },
+        {
+            "bin_num": "460870",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST COMMONWEALTH BANK OF PRESTONSBURG, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-commonwealth-bank-of-prestonsburg,-inc."
+        },
+        {
+            "bin_num": "470735",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST COMMONWEALTH BANK OF PRESTONSBURG, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-commonwealth-bank-of-prestonsburg,-inc."
+        }
+    ]
+}

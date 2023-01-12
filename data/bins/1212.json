@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "400964",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BAIDURI BANK BHD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/baiduri-bank-bhd"
+        },
+        {
+            "bin_num": "400965",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BAIDURI BANK BHD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/baiduri-bank-bhd"
+        },
+        {
+            "bin_num": "414394",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BAIDURI BANK BHD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/baiduri-bank-bhd"
+        },
+        {
+            "bin_num": "421504",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BAIDURI BANK BHD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/baiduri-bank-bhd"
+        },
+        {
+            "bin_num": "443549",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BAIDURI BANK BHD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/baiduri-bank-bhd"
+        },
+        {
+            "bin_num": "450896",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BAIDURI BANK BHD",
+            "country_name": "BRUNEI DARUSSALAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/bn.svg",
+            "country_url": "https://bincheck.io/es/bn",
+            "bank_url": "https://bincheck.io/es/bn/baiduri-bank-bhd"
+        }
+    ]
+}

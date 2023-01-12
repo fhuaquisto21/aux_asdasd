@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "546288",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG), LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/australia-and-new-zealand-banking-group-(png),-ltd."
+        },
+        {
+            "bin_num": "546289",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG), LTD.",
+            "country_name": "PAPUA NEW GUINEA",
+            "country_img": "https://bincheck.io/assets/flags/svg/pg.svg",
+            "country_url": "https://bincheck.io/es/pg",
+            "bank_url": "https://bincheck.io/es/pg/australia-and-new-zealand-banking-group-(png),-ltd."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "511622",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "EQUITY BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/equity-bank,-ltd."
+        },
+        {
+            "bin_num": "519895",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EQUITY BANK, LTD.",
+            "country_name": "UGANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ug.svg",
+            "country_url": "https://bincheck.io/es/ug",
+            "bank_url": "https://bincheck.io/es/ug/equity-bank,-ltd."
+        }
+    ]
+}

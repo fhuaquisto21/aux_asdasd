@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "494004",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HOUSING BANK FOR TRADE AND FINANCE",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/housing-bank-for-trade-and-finance"
+        },
+        {
+            "bin_num": "494005",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "HOUSING BANK FOR TRADE AND FINANCE",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/housing-bank-for-trade-and-finance"
+        }
+    ]
+}

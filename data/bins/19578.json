@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517707",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito,-s.a.,-banco-universal"
+        },
+        {
+            "bin_num": "518310",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito,-s.a.,-banco-universal"
+        },
+        {
+            "bin_num": "524621",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito,-s.a.,-banco-universal"
+        },
+        {
+            "bin_num": "536570",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/venezolano-de-credito,-s.a.,-banco-universal"
+        }
+    ]
+}

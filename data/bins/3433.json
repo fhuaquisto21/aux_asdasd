@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "518237",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/bankverein-werther-aktiengesellschaft"
+        },
+        {
+            "bin_num": "518464",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/bankverein-werther-aktiengesellschaft"
+        },
+        {
+            "bin_num": "518466",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/bankverein-werther-aktiengesellschaft"
+        },
+        {
+            "bin_num": "554692",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/bankverein-werther-aktiengesellschaft"
+        }
+    ]
+}

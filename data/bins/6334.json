@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "450178",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/industrial-and-commercial-bank-of-china-(malaysia)-berhad"
+        },
+        {
+            "bin_num": "452433",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/industrial-and-commercial-bank-of-china-(malaysia)-berhad"
+        },
+        {
+            "bin_num": "463229",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/industrial-and-commercial-bank-of-china-(malaysia)-berhad"
+        },
+        {
+            "bin_num": "476645",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/industrial-and-commercial-bank-of-china-(malaysia)-berhad"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "515850",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF NOVA SCOTIA NV, THE",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/bank-of-nova-scotia-nv,-the"
+        },
+        {
+            "bin_num": "527587",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF NOVA SCOTIA NV, THE",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/bank-of-nova-scotia-nv,-the"
+        }
+    ]
+}

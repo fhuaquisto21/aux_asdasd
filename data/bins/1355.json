@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "437508",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SAIGON THUONG TIN COMMERCIAL JSB",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/saigon-thuong-tin-commercial-jsb"
+        },
+        {
+            "bin_num": "468945",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SAIGON THUONG TIN COMMERCIAL JSB",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/saigon-thuong-tin-commercial-jsb"
+        },
+        {
+            "bin_num": "478082",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SAIGON THUONG TIN COMMERCIAL JSB",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/saigon-thuong-tin-commercial-jsb"
+        }
+    ]
+}

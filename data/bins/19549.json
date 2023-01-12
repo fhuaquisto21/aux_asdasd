@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "400606",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun-c.a.-banco-univers.a.l."
+        },
+        {
+            "bin_num": "411858",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun-c.a.-banco-univers.a.l."
+        },
+        {
+            "bin_num": "476560",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun-c.a.-banco-univers.a.l."
+        },
+        {
+            "bin_num": "476561",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun-c.a.-banco-univers.a.l."
+        },
+        {
+            "bin_num": "476562",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+            "country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ve.svg",
+            "country_url": "https://bincheck.io/es/ve",
+            "bank_url": "https://bincheck.io/es/ve/bfc-banco-fondo-comun-c.a.-banco-univers.a.l."
+        }
+    ]
+}

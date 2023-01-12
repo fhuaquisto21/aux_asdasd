@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "625127",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "GUANGZHOU CREDIT",
+            "bank_name": "GWANGJU",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/gwangju"
+        },
+        {
+            "bin_num": "625179",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "GUANGZHOU CREDIT",
+            "bank_name": "GWANGJU",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/gwangju"
+        },
+        {
+            "bin_num": "625245",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "GUANGZHOU CARD",
+            "bank_name": "GWANGJU",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/gwangju"
+        },
+        {
+            "bin_num": "625246",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "GWANGJU",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/gwangju"
+        },
+        {
+            "bin_num": "947134",
+            "bin_mark": "LOCAL",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "GWANGJU",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/gwangju"
+        }
+    ]
+}

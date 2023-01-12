@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "513767",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO AZTECA EL SALVADOR S.A.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/banco-azteca-el-salvador-s.a."
+        },
+        {
+            "bin_num": "531371",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO AZTECA EL SALVADOR S.A.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/banco-azteca-el-salvador-s.a."
+        },
+        {
+            "bin_num": "549766",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO AZTECA EL SALVADOR S.A.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/banco-azteca-el-salvador-s.a."
+        }
+    ]
+}

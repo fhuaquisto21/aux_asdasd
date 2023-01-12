@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "424178",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/national-bank-of-greece-s.a.-belgrade"
+        },
+        {
+            "bin_num": "424317",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/national-bank-of-greece-s.a.-belgrade"
+        }
+    ]
+}

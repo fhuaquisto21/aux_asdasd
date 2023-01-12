@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "531183",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CREDITCARD SERVICES COMPANY S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/creditcard-services-company-s.a.l."
+        },
+        {
+            "bin_num": "531189",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CREDITCARD SERVICES COMPANY S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/creditcard-services-company-s.a.l."
+        },
+        {
+            "bin_num": "543958",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CREDITCARD SERVICES COMPANY S.A.L.",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/creditcard-services-company-s.a.l."
+        }
+    ]
+}

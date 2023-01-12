@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "418390",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NLB TUZLANSKA BANKA D.D. TUZLA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-tuzlanska-banka-d.d.-tuzla"
+        },
+        {
+            "bin_num": "418391",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NLB TUZLANSKA BANKA D.D. TUZLA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-tuzlanska-banka-d.d.-tuzla"
+        },
+        {
+            "bin_num": "425527",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NLB TUZLANSKA BANKA D.D. TUZLA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-tuzlanska-banka-d.d.-tuzla"
+        },
+        {
+            "bin_num": "425528",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NLB TUZLANSKA BANKA D.D. TUZLA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-tuzlanska-banka-d.d.-tuzla"
+        },
+        {
+            "bin_num": "425529",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NLB TUZLANSKA BANKA D.D. TUZLA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-tuzlanska-banka-d.d.-tuzla"
+        },
+        {
+            "bin_num": "425685",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NLB TUZLANSKA BANKA D.D. TUZLA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nlb-tuzlanska-banka-d.d.-tuzla"
+        }
+    ]
+}

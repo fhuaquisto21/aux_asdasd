@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "426387",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab-(publ)"
+        },
+        {
+            "bin_num": "426388",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab-(publ)"
+        },
+        {
+            "bin_num": "427723",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab-(publ)"
+        },
+        {
+            "bin_num": "449326",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab-(publ)"
+        },
+        {
+            "bin_num": "480930",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SVENSKA HANDELSBANKEN AB (PUBL)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/svenska-handelsbanken-ab-(publ)"
+        }
+    ]
+}

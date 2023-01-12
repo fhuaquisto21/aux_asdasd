@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "419704",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ING DIRECT, N.V.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/ing-direct,-n.v."
+        },
+        {
+            "bin_num": "487710",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "ING DIRECT, N.V.",
+            "country_name": "ITALY",
+            "country_img": "https://bincheck.io/assets/flags/svg/it.svg",
+            "country_url": "https://bincheck.io/es/it",
+            "bank_url": "https://bincheck.io/es/it/ing-direct,-n.v."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "438233",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "MADURO AND CURIEL'S BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiel's-bank,-n.v."
+        },
+        {
+            "bin_num": "456339",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MADURO AND CURIEL'S BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiel's-bank,-n.v."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MADURO AND CURIEL'S BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiel's-bank,-n.v."
+        },
+        {
+            "bin_num": "456396",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MADURO AND CURIEL'S BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiel's-bank,-n.v."
+        },
+        {
+            "bin_num": "512420",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MADURO AND CURIEL'S BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiel's-bank,-n.v."
+        },
+        {
+            "bin_num": "558807",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "EXECUTIVE",
+            "bank_name": "MADURO AND CURIEL'S BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiel's-bank,-n.v."
+        }
+    ]
+}

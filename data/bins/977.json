@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "539604",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LINKSER, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/linkser,-s.a."
+        },
+        {
+            "bin_num": "545390",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LINKSER, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/linkser,-s.a."
+        },
+        {
+            "bin_num": "548627",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LINKSER, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/linkser,-s.a."
+        },
+        {
+            "bin_num": "548628",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "LINKSER, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/linkser,-s.a."
+        }
+    ]
+}

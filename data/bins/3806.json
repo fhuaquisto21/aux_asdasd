@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "bin_num": "443954",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "459404",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "459405",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "459406",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "459407",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "473004",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "473005",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "475490",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "475491",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        },
+        {
+            "bin_num": "475492",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO LAFISE, S.A.",
+            "country_name": "HONDURAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/hn.svg",
+            "country_url": "https://bincheck.io/es/hn",
+            "bank_url": "https://bincheck.io/es/hn/banco-lafise,-s.a."
+        }
+    ]
+}

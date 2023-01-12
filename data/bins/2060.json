@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "622435",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LUSO INTERNATIONAL BANKING LTD",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/luso-international-banking-ltd"
+        },
+        {
+            "bin_num": "622436",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LUSO INTERNATIONAL BANKING LTD",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/luso-international-banking-ltd"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "451093",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/network-international-llc"
+        },
+        {
+            "bin_num": "451094",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/network-international-llc"
+        },
+        {
+            "bin_num": "451095",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/network-international-llc"
+        },
+        {
+            "bin_num": "451096",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/network-international-llc"
+        },
+        {
+            "bin_num": "451097",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "GABON",
+            "country_img": "https://bincheck.io/assets/flags/svg/ga.svg",
+            "country_url": "https://bincheck.io/es/ga",
+            "bank_url": "https://bincheck.io/es/ga/network-international-llc"
+        }
+    ]
+}

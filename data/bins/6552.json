@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "553800",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO VE POR MAS, S.A. IBM GRUPO FINANCIERO VE POR MAS",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ve-por-mas,-s.a.-ibm-grupo-financiero-ve-por-mas"
+        },
+        {
+            "bin_num": "554173",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO VE POR MAS, S.A. IBM GRUPO FINANCIERO VE POR MAS",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-ve-por-mas,-s.a.-ibm-grupo-financiero-ve-por-mas"
+        }
+    ]
+}

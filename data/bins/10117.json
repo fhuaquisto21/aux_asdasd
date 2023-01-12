@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "515662",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/jsc-state-savings-bank-of-ukraine-(oschadbank)"
+        },
+        {
+            "bin_num": "545264",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/jsc-state-savings-bank-of-ukraine-(oschadbank)"
+        },
+        {
+            "bin_num": "545265",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/jsc-state-savings-bank-of-ukraine-(oschadbank)"
+        },
+        {
+            "bin_num": "547625",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/jsc-state-savings-bank-of-ukraine-(oschadbank)"
+        },
+        {
+            "bin_num": "555952",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/jsc-state-savings-bank-of-ukraine-(oschadbank)"
+        },
+        {
+            "bin_num": "557744",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/jsc-state-savings-bank-of-ukraine-(oschadbank)"
+        }
+    ]
+}

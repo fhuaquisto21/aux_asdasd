@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "460094",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ROMANIAN COMMERCIAL BANK CHISINAU JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/romanian-commercial-bank-chisinau-jsc"
+        },
+        {
+            "bin_num": "460095",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "ROMANIAN COMMERCIAL BANK CHISINAU JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/romanian-commercial-bank-chisinau-jsc"
+        },
+        {
+            "bin_num": "460096",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "ROMANIAN COMMERCIAL BANK CHISINAU JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/romanian-commercial-bank-chisinau-jsc"
+        },
+        {
+            "bin_num": "460097",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ROMANIAN COMMERCIAL BANK CHISINAU JSC",
+            "country_name": "MOLDOVA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/md.svg",
+            "country_url": "https://bincheck.io/es/md",
+            "bank_url": "https://bincheck.io/es/md/romanian-commercial-bank-chisinau-jsc"
+        }
+    ]
+}

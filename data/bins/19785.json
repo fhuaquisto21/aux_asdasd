@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "403073",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ZAMBIA NATIONAL COMMERCIAL BANK",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/zambia-national-commercial-bank"
+        },
+        {
+            "bin_num": "403074",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ZAMBIA NATIONAL COMMERCIAL BANK",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/zambia-national-commercial-bank"
+        }
+    ]
+}

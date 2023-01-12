@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "511230",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/magnet-magyar-kozossegi-bank-zrt."
+        },
+        {
+            "bin_num": "519631",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/magnet-magyar-kozossegi-bank-zrt."
+        },
+        {
+            "bin_num": "558301",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/magnet-magyar-kozossegi-bank-zrt."
+        }
+    ]
+}

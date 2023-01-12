@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "418771",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STATETRUST BANK AND TRUST, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/statetrust-bank-and-trust,-ltd."
+        },
+        {
+            "bin_num": "418772",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "STATETRUST BANK AND TRUST, LTD.",
+            "country_name": "SAINT LUCIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lc.svg",
+            "country_url": "https://bincheck.io/es/lc",
+            "bank_url": "https://bincheck.io/es/lc/statetrust-bank-and-trust,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "530267",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO BPI S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi-s.a."
+        },
+        {
+            "bin_num": "552727",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO BPI S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi-s.a."
+        },
+        {
+            "bin_num": "552755",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO BPI S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi-s.a."
+        },
+        {
+            "bin_num": "557888",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO BPI S.A.",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-bpi-s.a."
+        }
+    ]
+}

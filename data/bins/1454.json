@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "559822",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/federation-des-caisses-desjardins-du-quebec"
+        },
+        {
+            "bin_num": "559827",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/federation-des-caisses-desjardins-du-quebec"
+        },
+        {
+            "bin_num": "559828",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+            "country_name": "CANADA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ca.svg",
+            "country_url": "https://bincheck.io/es/ca",
+            "bank_url": "https://bincheck.io/es/ca/federation-des-caisses-desjardins-du-quebec"
+        }
+    ]
+}

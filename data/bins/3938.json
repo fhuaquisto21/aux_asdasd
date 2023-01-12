@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "427711",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        },
+        {
+            "bin_num": "440234",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        },
+        {
+            "bin_num": "440235",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        },
+        {
+            "bin_num": "465957",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        },
+        {
+            "bin_num": "465958",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        },
+        {
+            "bin_num": "465959",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        },
+        {
+            "bin_num": "465960",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+            "country_name": "HUNGARY",
+            "country_img": "https://bincheck.io/assets/flags/svg/hu.svg",
+            "country_url": "https://bincheck.io/es/hu",
+            "bank_url": "https://bincheck.io/es/hu/ae-bank-rt.-(general-banking-and-trust-ltd)"
+        }
+    ]
+}

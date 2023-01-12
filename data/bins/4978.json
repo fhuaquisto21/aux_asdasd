@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "100264",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BCA BANK",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/bca-bank"
+        },
+        {
+            "bin_num": "188880",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BCA BANK",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/bca-bank"
+        }
+    ]
+}

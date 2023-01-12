@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "458539",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUMMIT BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/summit-bank,-ltd."
+        },
+        {
+            "bin_num": "458540",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SUMMIT BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/summit-bank,-ltd."
+        },
+        {
+            "bin_num": "472440",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUMMIT BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/summit-bank,-ltd."
+        },
+        {
+            "bin_num": "472441",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SUMMIT BANK, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/summit-bank,-ltd."
+        }
+    ]
+}

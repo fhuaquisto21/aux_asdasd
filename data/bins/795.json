@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "450040",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarusky-narodny-bank-(belarusian-people's-bank-ojsc)"
+        },
+        {
+            "bin_num": "450041",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarusky-narodny-bank-(belarusian-people's-bank-ojsc)"
+        },
+        {
+            "bin_num": "450042",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarusky-narodny-bank-(belarusian-people's-bank-ojsc)"
+        },
+        {
+            "bin_num": "489062",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+            "country_name": "BELARUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/by.svg",
+            "country_url": "https://bincheck.io/es/by",
+            "bank_url": "https://bincheck.io/es/by/belarusky-narodny-bank-(belarusian-people's-bank-ojsc)"
+        }
+    ]
+}

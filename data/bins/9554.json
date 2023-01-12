@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "402730",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "404240",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "405911",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "405912",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "427331",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "473104",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "540108",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        },
+        {
+            "bin_num": "540109",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CREDIT SUISSE",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/credit-suisse"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "406636",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO AMAMBAY, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-amambay,-s.a."
+        },
+        {
+            "bin_num": "406637",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO AMAMBAY, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-amambay,-s.a."
+        },
+        {
+            "bin_num": "406638",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO AMAMBAY, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-amambay,-s.a."
+        },
+        {
+            "bin_num": "494150",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO AMAMBAY, S.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/banco-amambay,-s.a."
+        }
+    ]
+}

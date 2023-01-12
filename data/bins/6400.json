@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "419679",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANIF BANK (MALTA) PLC",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/banif-bank-(malta)-plc"
+        },
+        {
+            "bin_num": "419680",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANIF BANK (MALTA) PLC",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/banif-bank-(malta)-plc"
+        },
+        {
+            "bin_num": "419681",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANIF BANK (MALTA) PLC",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/banif-bank-(malta)-plc"
+        },
+        {
+            "bin_num": "459538",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANIF BANK (MALTA) PLC",
+            "country_name": "MALTA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mt.svg",
+            "country_url": "https://bincheck.io/es/mt",
+            "bank_url": "https://bincheck.io/es/mt/banif-bank-(malta)-plc"
+        }
+    ]
+}

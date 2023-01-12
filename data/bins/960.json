@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "411044",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "411045",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "428305",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "428341",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "446853",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "457701",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "478785",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        },
+        {
+            "bin_num": "478786",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BISA, S.A.",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-bisa,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "422220",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MADURO AND CURIELS BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiels-bank,-n.v."
+        },
+        {
+            "bin_num": "456349",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MADURO AND CURIELS BANK, N.V.",
+            "country_name": "CURACAO",
+            "country_img": "https://bincheck.io/assets/flags/svg/cw.svg",
+            "country_url": "https://bincheck.io/es/cw",
+            "bank_url": "https://bincheck.io/es/cw/maduro-and-curiels-bank,-n.v."
+        }
+    ]
+}

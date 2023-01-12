@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "475121",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "THE ROYAL BANK OF SCOTLAND INTERNATIONAL, LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/the-royal-bank-of-scotland-international,-ltd."
+        },
+        {
+            "bin_num": "475122",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "THE ROYAL BANK OF SCOTLAND INTERNATIONAL, LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/the-royal-bank-of-scotland-international,-ltd."
+        },
+        {
+            "bin_num": "476238",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "THE ROYAL BANK OF SCOTLAND INTERNATIONAL, LTD.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/the-royal-bank-of-scotland-international,-ltd."
+        }
+    ]
+}

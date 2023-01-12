@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "514513",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/cooperativa-de-ahorro-y-credito-policia-nacional"
+        },
+        {
+            "bin_num": "521557",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/cooperativa-de-ahorro-y-credito-policia-nacional"
+        },
+        {
+            "bin_num": "523506",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/cooperativa-de-ahorro-y-credito-policia-nacional"
+        },
+        {
+            "bin_num": "528569",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/cooperativa-de-ahorro-y-credito-policia-nacional"
+        },
+        {
+            "bin_num": "546435",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/cooperativa-de-ahorro-y-credito-policia-nacional"
+        },
+        {
+            "bin_num": "550488",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+            "country_name": "ECUADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/ec.svg",
+            "country_url": "https://bincheck.io/es/ec",
+            "bank_url": "https://bincheck.io/es/ec/cooperativa-de-ahorro-y-credito-policia-nacional"
+        }
+    ]
+}

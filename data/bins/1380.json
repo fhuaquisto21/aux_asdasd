@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "418762",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/united-bank-for-africa-plc"
+        },
+        {
+            "bin_num": "445538",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/united-bank-for-africa-plc"
+        },
+        {
+            "bin_num": "445539",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/united-bank-for-africa-plc"
+        },
+        {
+            "bin_num": "534400",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "UNITED BANK FOR AFRICA PLC",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/united-bank-for-africa-plc"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "441070",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "WUESTENROT BANK AG PFANDBRIEBANK",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/wuestenrot-bank-ag-pfandbriebank"
+        },
+        {
+            "bin_num": "441071",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WUESTENROT BANK AG PFANDBRIEBANK",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/wuestenrot-bank-ag-pfandbriebank"
+        },
+        {
+            "bin_num": "441072",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "WUESTENROT BANK AG PFANDBRIEBANK",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/wuestenrot-bank-ag-pfandbriebank"
+        },
+        {
+            "bin_num": "489344",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "WUESTENROT BANK AG PFANDBRIEBANK",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/wuestenrot-bank-ag-pfandbriebank"
+        },
+        {
+            "bin_num": "489345",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WUESTENROT BANK AG PFANDBRIEBANK",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/wuestenrot-bank-ag-pfandbriebank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "546090",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "REPUBLIC BANK (BARBADOS), LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/republic-bank-(barbados),-ltd."
+        },
+        {
+            "bin_num": "549082",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "REPUBLIC BANK (BARBADOS), LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/republic-bank-(barbados),-ltd."
+        }
+    ]
+}

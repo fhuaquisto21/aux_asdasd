@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "429790",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/alahli-bank-of-kuwait-(k.s.c.)"
+        },
+        {
+            "bin_num": "429791",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/alahli-bank-of-kuwait-(k.s.c.)"
+        }
+    ]
+}

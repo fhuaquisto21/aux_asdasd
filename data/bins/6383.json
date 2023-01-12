@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "412760",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE DE DEVELOPPEMENT DU MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-de-developpement-du-mali"
+        },
+        {
+            "bin_num": "418916",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE DEVELOPPEMENT DU MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-de-developpement-du-mali"
+        },
+        {
+            "bin_num": "418917",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE DEVELOPPEMENT DU MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-de-developpement-du-mali"
+        },
+        {
+            "bin_num": "431908",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE DEVELOPPEMENT DU MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-de-developpement-du-mali"
+        },
+        {
+            "bin_num": "431909",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE DE DEVELOPPEMENT DU MALI",
+            "country_name": "MALI",
+            "country_img": "https://bincheck.io/assets/flags/svg/ml.svg",
+            "country_url": "https://bincheck.io/es/ml",
+            "bank_url": "https://bincheck.io/es/ml/banque-de-developpement-du-mali"
+        }
+    ]
+}

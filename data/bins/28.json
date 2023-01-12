@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "410725",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TIRANA BANK, S.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/tirana-bank,-s.a."
+        },
+        {
+            "bin_num": "410748",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "TIRANA BANK, S.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/tirana-bank,-s.a."
+        },
+        {
+            "bin_num": "474792",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TIRANA BANK, S.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/tirana-bank,-s.a."
+        },
+        {
+            "bin_num": "478707",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TIRANA BANK, S.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/tirana-bank,-s.a."
+        },
+        {
+            "bin_num": "478727",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "TIRANA BANK, S.A.",
+            "country_name": "ALBANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/al.svg",
+            "country_url": "https://bincheck.io/es/al",
+            "bank_url": "https://bincheck.io/es/al/tirana-bank,-s.a."
+        }
+    ]
+}

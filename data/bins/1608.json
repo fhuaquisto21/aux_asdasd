@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "443854",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "446510",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "446511",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "519741",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "545646",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "548569",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "549451",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        },
+        {
+            "bin_num": "553656",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/banco-bilbao-vizcaya-argentaria-chile"
+        }
+    ]
+}

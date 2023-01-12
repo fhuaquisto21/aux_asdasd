@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "521046",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "530447",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "536336",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/national-bank-of-kuwait-(s.a.k.)"
+        },
+        {
+            "bin_num": "552425",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/national-bank-of-kuwait-(s.a.k.)"
+        }
+    ]
+}

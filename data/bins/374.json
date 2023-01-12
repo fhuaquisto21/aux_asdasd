@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "579931",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AUSWIDE BANK, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/auswide-bank,-ltd."
+        },
+        {
+            "bin_num": "579932",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "AUSWIDE BANK, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/auswide-bank,-ltd."
+        }
+    ]
+}

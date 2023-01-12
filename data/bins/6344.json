@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "529979",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MBF CARDS (M'SIA) SDN BHD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/mbf-cards-(m'sia)-sdn-bhd"
+        },
+        {
+            "bin_num": "541798",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "MBF CARDS (M'SIA) SDN BHD",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/mbf-cards-(m'sia)-sdn-bhd"
+        }
+    ]
+}

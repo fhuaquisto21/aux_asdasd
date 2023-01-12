@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "411807",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK AUDI SYRIA SA",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bank-audi-syria-sa"
+        },
+        {
+            "bin_num": "428236",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK AUDI SYRIA SA",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bank-audi-syria-sa"
+        },
+        {
+            "bin_num": "431250",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK AUDI SYRIA SA",
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/sy.svg",
+            "country_url": "https://bincheck.io/es/sy",
+            "bank_url": "https://bincheck.io/es/sy/bank-audi-syria-sa"
+        }
+    ]
+}

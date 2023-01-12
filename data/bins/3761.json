@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "430385",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "441728",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/bank-of-nova-scotia"
+        },
+        {
+            "bin_num": "473284",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF NOVA SCOTIA",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/bank-of-nova-scotia"
+        }
+    ]
+}

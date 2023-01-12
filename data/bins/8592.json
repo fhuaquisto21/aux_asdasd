@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "426036",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SAINT PETERSBURG JSCB TAVRICHESKIY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-jscb-tavricheskiy"
+        },
+        {
+            "bin_num": "426037",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SAINT PETERSBURG JSCB TAVRICHESKIY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-jscb-tavricheskiy"
+        },
+        {
+            "bin_num": "426038",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SAINT PETERSBURG JSCB TAVRICHESKIY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-jscb-tavricheskiy"
+        },
+        {
+            "bin_num": "426077",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SAINT PETERSBURG JSCB TAVRICHESKIY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-jscb-tavricheskiy"
+        },
+        {
+            "bin_num": "455479",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "VIRTUAL",
+            "bank_name": "SAINT PETERSBURG JSCB TAVRICHESKIY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-jscb-tavricheskiy"
+        },
+        {
+            "bin_num": "484856",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SAINT PETERSBURG JSCB TAVRICHESKIY",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/saint-petersburg-jscb-tavricheskiy"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "472315",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID TRAVEL MONEY",
+            "bank_name": "GOFFIN BANK, N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/goffin-bank,-n.v."
+        },
+        {
+            "bin_num": "472321",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID TRAVEL MONEY",
+            "bank_name": "GOFFIN BANK, N.V.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/goffin-bank,-n.v."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "518323",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/the-hongkong-and-shanghai-banking-corporation,-ltd."
+        },
+        {
+            "bin_num": "518494",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/the-hongkong-and-shanghai-banking-corporation,-ltd."
+        },
+        {
+            "bin_num": "518535",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/the-hongkong-and-shanghai-banking-corporation,-ltd."
+        },
+        {
+            "bin_num": "529442",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/the-hongkong-and-shanghai-banking-corporation,-ltd."
+        }
+    ]
+}

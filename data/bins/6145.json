@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517907",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF COMMERCE AND DEVELOPMENT",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/bank-of-commerce-and-development"
+        },
+        {
+            "bin_num": "521698",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK OF COMMERCE AND DEVELOPMENT",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/bank-of-commerce-and-development"
+        },
+        {
+            "bin_num": "536011",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF COMMERCE AND DEVELOPMENT",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/bank-of-commerce-and-development"
+        },
+        {
+            "bin_num": "557904",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK OF COMMERCE AND DEVELOPMENT",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/bank-of-commerce-and-development"
+        }
+    ]
+}

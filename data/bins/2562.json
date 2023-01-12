@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "402991",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SLAVONSKA BANKA D.D. OSIJEK",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/slavonska-banka-d.d.-osijek"
+        },
+        {
+            "bin_num": "424325",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SLAVONSKA BANKA D.D. OSIJEK",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/slavonska-banka-d.d.-osijek"
+        },
+        {
+            "bin_num": "424444",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SLAVONSKA BANKA D.D. OSIJEK",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/slavonska-banka-d.d.-osijek"
+        },
+        {
+            "bin_num": "431079",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SLAVONSKA BANKA D.D. OSIJEK",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/slavonska-banka-d.d.-osijek"
+        },
+        {
+            "bin_num": "478767",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SLAVONSKA BANKA D.D. OSIJEK",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/slavonska-banka-d.d.-osijek"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SLAVONSKA BANKA D.D. OSIJEK",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/slavonska-banka-d.d.-osijek"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "498816",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/barclays-bank-plc"
+        },
+        {
+            "bin_num": "543254",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/barclays-bank-plc"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "220014",
+            "bin_mark": "NSPK",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "JS CREDIT AND INSURANCE BANK KS BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-credit-and-insurance-bank-ks-bank"
+        },
+        {
+            "bin_num": "405233",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "JS CREDIT AND INSURANCE BANK KS BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-credit-and-insurance-bank-ks-bank"
+        },
+        {
+            "bin_num": "417394",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "JS CREDIT AND INSURANCE BANK KS BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-credit-and-insurance-bank-ks-bank"
+        },
+        {
+            "bin_num": "426075",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JS CREDIT AND INSURANCE BANK KS BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-credit-and-insurance-bank-ks-bank"
+        },
+        {
+            "bin_num": "426076",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "JS CREDIT AND INSURANCE BANK KS BANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/js-credit-and-insurance-bank-ks-bank"
+        }
+    ]
+}

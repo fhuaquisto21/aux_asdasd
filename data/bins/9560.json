@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "443592",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MIGROS BANK AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/migros-bank-ag"
+        },
+        {
+            "bin_num": "443593",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MIGROS BANK AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/migros-bank-ag"
+        }
+    ]
+}

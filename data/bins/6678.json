@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506376",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FUNDACION DONDE PR",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/fundacion-donde-pr"
+        },
+        {
+            "bin_num": "506377",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FUNDACION DONDE PR",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/fundacion-donde-pr"
+        }
+    ]
+}

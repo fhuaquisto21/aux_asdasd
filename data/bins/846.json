@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "489114",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AXA BANK EUROPE, S.A.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/axa-bank-europe,-s.a."
+        },
+        {
+            "bin_num": "489115",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AXA BANK EUROPE, S.A.",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/axa-bank-europe,-s.a."
+        }
+    ]
+}

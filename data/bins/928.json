@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "472554",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE ATLANTIQUE DU BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/banque-atlantique-du-benin"
+        },
+        {
+            "bin_num": "472555",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE ATLANTIQUE DU BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/banque-atlantique-du-benin"
+        },
+        {
+            "bin_num": "472556",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE ATLANTIQUE DU BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/banque-atlantique-du-benin"
+        },
+        {
+            "bin_num": "472557",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE ATLANTIQUE DU BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/banque-atlantique-du-benin"
+        },
+        {
+            "bin_num": "472558",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE ATLANTIQUE DU BENIN",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/banque-atlantique-du-benin"
+        }
+    ]
+}

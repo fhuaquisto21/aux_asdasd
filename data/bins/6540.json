@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "547022",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO SABADELL S.A, INSTITUCION DE BANCA MULTIPLE, S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-sabadell-s.a,-institucion-de-banca-multiple,-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "548640",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE BUSINESS",
+            "bank_name": "BANCO SABADELL S.A, INSTITUCION DE BANCA MULTIPLE, S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-sabadell-s.a,-institucion-de-banca-multiple,-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "549685",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO SABADELL S.A, INSTITUCION DE BANCA MULTIPLE, S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-sabadell-s.a,-institucion-de-banca-multiple,-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "549912",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO SABADELL S.A, INSTITUCION DE BANCA MULTIPLE, S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-sabadell-s.a,-institucion-de-banca-multiple,-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "553548",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "BANCO SABADELL S.A, INSTITUCION DE BANCA MULTIPLE, S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/banco-sabadell-s.a,-institucion-de-banca-multiple,-s.a.-de-c.v."
+        }
+    ]
+}

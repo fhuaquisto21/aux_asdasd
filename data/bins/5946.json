@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "403583",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BURGAN BANK (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/burgan-bank-(s.a.k.)"
+        },
+        {
+            "bin_num": "450238",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BURGAN BANK (S.A.K.)",
+            "country_name": "KUWAIT",
+            "country_img": "https://bincheck.io/assets/flags/svg/kw.svg",
+            "country_url": "https://bincheck.io/es/kw",
+            "bank_url": "https://bincheck.io/es/kw/burgan-bank-(s.a.k.)"
+        }
+    ]
+}

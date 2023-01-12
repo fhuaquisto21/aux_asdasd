@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "405989",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK OF MALAWI",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/national-bank-of-malawi"
+        },
+        {
+            "bin_num": "411511",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK OF MALAWI",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/national-bank-of-malawi"
+        },
+        {
+            "bin_num": "416746",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK OF MALAWI",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/national-bank-of-malawi"
+        },
+        {
+            "bin_num": "450044",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF MALAWI",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/national-bank-of-malawi"
+        },
+        {
+            "bin_num": "450045",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF MALAWI",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/national-bank-of-malawi"
+        },
+        {
+            "bin_num": "450046",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NATIONAL BANK OF MALAWI",
+            "country_name": "MALAWI",
+            "country_img": "https://bincheck.io/assets/flags/svg/mw.svg",
+            "country_url": "https://bincheck.io/es/mw",
+            "bank_url": "https://bincheck.io/es/mw/national-bank-of-malawi"
+        }
+    ]
+}

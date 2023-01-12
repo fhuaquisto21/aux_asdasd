@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "900105",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "JINAN RURAL CREDIT COOPERATIVE UNION (NOT USED)",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/jinan-rural-credit-cooperative-union-(not-used)"
+        },
+        {
+            "bin_num": "900205",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "JINAN RURAL CREDIT COOPERATIVE UNION (NOT USED)",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/jinan-rural-credit-cooperative-union-(not-used)"
+        }
+    ]
+}

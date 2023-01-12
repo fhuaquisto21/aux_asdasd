@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "486297",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ANZ ROYAL BANK CAMBODIA, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/anz-royal-bank-cambodia,-ltd."
+        },
+        {
+            "bin_num": "486298",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ANZ ROYAL BANK CAMBODIA, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/anz-royal-bank-cambodia,-ltd."
+        },
+        {
+            "bin_num": "526487",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ANZ ROYAL BANK CAMBODIA, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/anz-royal-bank-cambodia,-ltd."
+        }
+    ]
+}

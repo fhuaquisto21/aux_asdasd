@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "434418",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RIVER VALLEY CREDIT UNION, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/river-valley-credit-union,-inc."
+        },
+        {
+            "bin_num": "473306",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RIVER VALLEY CREDIT UNION, INC.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/river-valley-credit-union,-inc."
+        }
+    ]
+}

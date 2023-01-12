@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "512001",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SYNERGY CARDS SDN. BHD.",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/synergy-cards-sdn.-bhd."
+        },
+        {
+            "bin_num": "518134",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SYNERGY CARDS SDN. BHD.",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/synergy-cards-sdn.-bhd."
+        }
+    ]
+}

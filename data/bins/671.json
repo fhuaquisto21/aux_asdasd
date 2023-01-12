@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "440250",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "441555",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "455012",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "455013",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "457555",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "484555",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "488978",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        },
+        {
+            "bin_num": "489555",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/bank-of-bahrain-and-kuwait-b.s.c."
+        }
+    ]
+}

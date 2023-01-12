@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "528464",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/demir-kyrgyz-international-bank-cjsc"
+        },
+        {
+            "bin_num": "528525",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/demir-kyrgyz-international-bank-cjsc"
+        },
+        {
+            "bin_num": "544073",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/demir-kyrgyz-international-bank-cjsc"
+        },
+        {
+            "bin_num": "670662",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/demir-kyrgyz-international-bank-cjsc"
+        }
+    ]
+}

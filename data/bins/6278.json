@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "520562",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STOPANSKA BANKA A.D BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d-bitola"
+        },
+        {
+            "bin_num": "535292",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STOPANSKA BANKA A.D BITOLA",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/stopanska-banka-a.d-bitola"
+        }
+    ]
+}

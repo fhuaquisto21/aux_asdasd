@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "533389",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NEW ZEALAND ASSOCIATION OF CREDIT UNIONS",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/new-zealand-association-of-credit-unions"
+        },
+        {
+            "bin_num": "554684",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "NEW ZEALAND ASSOCIATION OF CREDIT UNIONS",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/new-zealand-association-of-credit-unions"
+        }
+    ]
+}

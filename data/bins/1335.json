@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "468940",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK FOR INVESTMENT AND DEVELOPMENT OF CAMBODIA PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/bank-for-investment-and-development-of-cambodia-plc."
+        },
+        {
+            "bin_num": "468941",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK FOR INVESTMENT AND DEVELOPMENT OF CAMBODIA PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/bank-for-investment-and-development-of-cambodia-plc."
+        },
+        {
+            "bin_num": "481350",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "BANK FOR INVESTMENT AND DEVELOPMENT OF CAMBODIA PLC.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/bank-for-investment-and-development-of-cambodia-plc."
+        }
+    ]
+}

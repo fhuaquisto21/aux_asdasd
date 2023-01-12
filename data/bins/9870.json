@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "421931",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/rbc-royal-bank-(trinidad-and-tobago),-ltd."
+        },
+        {
+            "bin_num": "421953",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/rbc-royal-bank-(trinidad-and-tobago),-ltd."
+        },
+        {
+            "bin_num": "452110",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/rbc-royal-bank-(trinidad-and-tobago),-ltd."
+        },
+        {
+            "bin_num": "543814",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+            "country_name": "TRINIDAD AND TOBAGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tt.svg",
+            "country_url": "https://bincheck.io/es/tt",
+            "bank_url": "https://bincheck.io/es/tt/rbc-royal-bank-(trinidad-and-tobago),-ltd."
+        }
+    ]
+}

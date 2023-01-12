@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "462809",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "JAMAICA NATIONAL BUILDING SOCIETY",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/jamaica-national-building-society"
+        },
+        {
+            "bin_num": "462810",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "JAMAICA NATIONAL BUILDING SOCIETY",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/jamaica-national-building-society"
+        }
+    ]
+}

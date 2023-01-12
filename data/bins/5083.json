@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "513788",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/international-development-bank-for-investment-and-finance"
+        },
+        {
+            "bin_num": "513890",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/international-development-bank-for-investment-and-finance"
+        },
+        {
+            "bin_num": "521097",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/international-development-bank-for-investment-and-finance"
+        },
+        {
+            "bin_num": "545722",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/international-development-bank-for-investment-and-finance"
+        },
+        {
+            "bin_num": "546808",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/international-development-bank-for-investment-and-finance"
+        },
+        {
+            "bin_num": "548644",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/international-development-bank-for-investment-and-finance"
+        }
+    ]
+}

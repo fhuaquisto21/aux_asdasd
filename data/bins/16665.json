@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "403306",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHERN TRUST BANK, FEDERAL SAVINGS BANK",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-trust-bank,-federal-savings-bank"
+        },
+        {
+            "bin_num": "403307",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NORTHERN TRUST BANK, FEDERAL SAVINGS BANK",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-trust-bank,-federal-savings-bank"
+        },
+        {
+            "bin_num": "484220",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NORTHERN TRUST BANK, FEDERAL SAVINGS BANK",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/northern-trust-bank,-federal-savings-bank"
+        }
+    ]
+}

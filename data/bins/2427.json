@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "430282",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PROCREDIT BANK CONGO SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/procredit-bank-congo-sarl"
+        },
+        {
+            "bin_num": "442163",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "PROCREDIT BANK CONGO SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/procredit-bank-congo-sarl"
+        },
+        {
+            "bin_num": "456809",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PROCREDIT BANK CONGO SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/procredit-bank-congo-sarl"
+        },
+        {
+            "bin_num": "456818",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PROCREDIT BANK CONGO SARL",
+            "country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cd.svg",
+            "country_url": "https://bincheck.io/es/cd",
+            "bank_url": "https://bincheck.io/es/cd/procredit-bank-congo-sarl"
+        }
+    ]
+}

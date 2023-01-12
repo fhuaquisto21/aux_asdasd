@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "513798",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD/GOLD/PLATINUM",
+            "bank_name": "ECOBANK NIGERIA PLC",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-nigeria-plc"
+        },
+        {
+            "bin_num": "523423",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE/CORPORATE EXECUTIVE/PURCHASING CARD",
+            "bank_name": "ECOBANK NIGERIA PLC",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-nigeria-plc"
+        },
+        {
+            "bin_num": "532631",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ECOBANK NIGERIA PLC",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-nigeria-plc"
+        },
+        {
+            "bin_num": "544529",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ECOBANK NIGERIA PLC",
+            "country_name": "GHANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gh.svg",
+            "country_url": "https://bincheck.io/es/gh",
+            "bank_url": "https://bincheck.io/es/gh/ecobank-nigeria-plc"
+        }
+    ]
+}

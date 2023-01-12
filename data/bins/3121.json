@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "401969",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/emisor-de-tarjetas-br-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "404314",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/emisor-de-tarjetas-br-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "408440",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/emisor-de-tarjetas-br-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "408441",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/emisor-de-tarjetas-br-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "408442",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/emisor-de-tarjetas-br-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "465774",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+            "country_name": "EL SALVADOR",
+            "country_img": "https://bincheck.io/assets/flags/svg/sv.svg",
+            "country_url": "https://bincheck.io/es/svl",
+            "bank_url": "https://bincheck.io/es/svl/emisor-de-tarjetas-br-s.a.-de-c.v."
+        }
+    ]
+}

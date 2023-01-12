@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "361381",
+            "bin_mark": "DINERS",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANK AUSTRIA",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/bank-austria"
+        },
+        {
+            "bin_num": "364876",
+            "bin_mark": "DINERS",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "BANK AUSTRIA",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/bank-austria"
+        }
+    ]
+}

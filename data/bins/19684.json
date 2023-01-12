@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "536156",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/tien-phong-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "536287",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/tien-phong-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "554413",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/tien-phong-commercial-joint-stock-bank"
+        }
+    ]
+}

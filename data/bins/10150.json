@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "404287",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-the-universal-bank-for-development-and-partnership"
+        },
+        {
+            "bin_num": "431889",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-the-universal-bank-for-development-and-partnership"
+        },
+        {
+            "bin_num": "489985",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-the-universal-bank-for-development-and-partnership"
+        },
+        {
+            "bin_num": "489986",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-the-universal-bank-for-development-and-partnership"
+        },
+        {
+            "bin_num": "489987",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/ojsc-the-universal-bank-for-development-and-partnership"
+        }
+    ]
+}

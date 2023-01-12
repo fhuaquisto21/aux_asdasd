@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "406626",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "THE COMMERCIAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/the-commercial-bank-of-qatar-(q.s.c.)"
+        },
+        {
+            "bin_num": "474796",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "THE COMMERCIAL BANK OF QATAR (Q.S.C.)",
+            "country_name": "QATAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/qa.svg",
+            "country_url": "https://bincheck.io/es/qa",
+            "bank_url": "https://bincheck.io/es/qa/the-commercial-bank-of-qatar-(q.s.c.)"
+        }
+    ]
+}

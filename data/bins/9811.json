@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "515533",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY LIMITED",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company-limited"
+        },
+        {
+            "bin_num": "549288",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY LIMITED",
+            "country_name": "THAILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/th.svg",
+            "country_url": "https://bincheck.io/es/th",
+            "bank_url": "https://bincheck.io/es/th/siam-commercial-bank-public-company-limited"
+        }
+    ]
+}

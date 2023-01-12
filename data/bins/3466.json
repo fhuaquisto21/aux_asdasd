@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "516203",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        },
+        {
+            "bin_num": "519250",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        },
+        {
+            "bin_num": "523400",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        },
+        {
+            "bin_num": "531000",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        },
+        {
+            "bin_num": "531001",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        },
+        {
+            "bin_num": "531002",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        },
+        {
+            "bin_num": "531003",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/deutsche-kreditbank-aktiengesellschaft"
+        }
+    ]
+}

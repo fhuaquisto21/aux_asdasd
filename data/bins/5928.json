@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "544433",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "NLB PRISHTINA",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/nlb-prishtina"
+        },
+        {
+            "bin_num": "670533",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "NLB PRISHTINA",
+            "country_name": "KOSOVO, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/ks.svg",
+            "country_url": "https://bincheck.io/es/ks",
+            "bank_url": "https://bincheck.io/es/ks/nlb-prishtina"
+        }
+    ]
+}

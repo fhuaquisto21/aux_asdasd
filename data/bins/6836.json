@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "407576",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/trade-&-development-bank-of-mongolia"
+        },
+        {
+            "bin_num": "514917",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/trade-&-development-bank-of-mongolia"
+        },
+        {
+            "bin_num": "518983",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/trade-&-development-bank-of-mongolia"
+        },
+        {
+            "bin_num": "520078",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/trade-&-development-bank-of-mongolia"
+        },
+        {
+            "bin_num": "556059",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+            "country_name": "MONGOLIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/mn.svg",
+            "country_url": "https://bincheck.io/es/mn",
+            "bank_url": "https://bincheck.io/es/mn/trade-&-development-bank-of-mongolia"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "457644",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HERITAGE INTERNATIONAL BANK & TRUST, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/heritage-international-bank-&-trust,-ltd."
+        },
+        {
+            "bin_num": "513338",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HERITAGE INTERNATIONAL BANK & TRUST, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/heritage-international-bank-&-trust,-ltd."
+        },
+        {
+            "bin_num": "531618",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HERITAGE INTERNATIONAL BANK & TRUST, LTD.",
+            "country_name": "BELIZE",
+            "country_img": "https://bincheck.io/assets/flags/svg/bz.svg",
+            "country_url": "https://bincheck.io/es/bz",
+            "bank_url": "https://bincheck.io/es/bz/heritage-international-bank-&-trust,-ltd."
+        }
+    ]
+}

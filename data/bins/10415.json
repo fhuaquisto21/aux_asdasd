@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "446264",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/banco-bilbao-vizcaya-argentaria-s.a.-(bbva)"
+        },
+        {
+            "bin_num": "463222",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/banco-bilbao-vizcaya-argentaria-s.a.-(bbva)"
+        },
+        {
+            "bin_num": "494017",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/banco-bilbao-vizcaya-argentaria-s.a.-(bbva)"
+        },
+        {
+            "bin_num": "494018",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/banco-bilbao-vizcaya-argentaria-s.a.-(bbva)"
+        }
+    ]
+}

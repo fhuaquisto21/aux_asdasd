@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "457232",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INVESTEC BANK (AUSTRALIA), LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/investec-bank-(australia),-ltd."
+        },
+        {
+            "bin_num": "457233",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "INVESTEC BANK (AUSTRALIA), LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/investec-bank-(australia),-ltd."
+        }
+    ]
+}

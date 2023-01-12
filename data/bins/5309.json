@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "407344",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "417975",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "417976",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "417977",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "421835",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "421836",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "459071",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "459072",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "463467",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "469757",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        },
+        {
+            "bin_num": "517154",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "FIRST GLOBAL BANK, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/first-global-bank,-ltd."
+        }
+    ]
+}

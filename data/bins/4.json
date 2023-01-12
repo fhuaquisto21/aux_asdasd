@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "522066",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "532851",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "552374",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "AFGHANISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/af.svg",
+            "country_url": "https://bincheck.io/es/af",
+            "bank_url": "https://bincheck.io/es/af/cscbank-s.a.l."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "476290",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/network-international-llc"
+        },
+        {
+            "bin_num": "476291",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/network-international-llc"
+        },
+        {
+            "bin_num": "476292",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/network-international-llc"
+        },
+        {
+            "bin_num": "476293",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/network-international-llc"
+        },
+        {
+            "bin_num": "476294",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NETWORK INTERNATIONAL LLC",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/network-international-llc"
+        }
+    ]
+}

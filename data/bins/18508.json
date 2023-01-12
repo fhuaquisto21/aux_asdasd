@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "414954",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "THE FIRST NATIONAL BANK IN SIOUX FALLS",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/the-first-national-bank-in-sioux-falls"
+        },
+        {
+            "bin_num": "417695",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "THE FIRST NATIONAL BANK IN SIOUX FALLS",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/the-first-national-bank-in-sioux-falls"
+        },
+        {
+            "bin_num": "428937",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "THE FIRST NATIONAL BANK IN SIOUX FALLS",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/the-first-national-bank-in-sioux-falls"
+        },
+        {
+            "bin_num": "431646",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "THE FIRST NATIONAL BANK IN SIOUX FALLS",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/the-first-national-bank-in-sioux-falls"
+        }
+    ]
+}

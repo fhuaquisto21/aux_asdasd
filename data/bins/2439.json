@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "421852",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "421859",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "431491",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "464082",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "469527",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "481267",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "518206",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "COOK ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ck.svg",
+            "country_url": "https://bincheck.io/es/ck",
+            "bank_url": "https://bincheck.io/es/ck/westpac-banking-corporation"
+        }
+    ]
+}

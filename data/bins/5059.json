@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "526414",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PT. PAN INDONESIA BANK TBK. (PT. BANK PANIN TBK)",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-pan-indonesia-bank-tbk.-(pt.-bank-panin-tbk)"
+        },
+        {
+            "bin_num": "540225",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT. PAN INDONESIA BANK TBK. (PT. BANK PANIN TBK)",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-pan-indonesia-bank-tbk.-(pt.-bank-panin-tbk)"
+        },
+        {
+            "bin_num": "554199",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PT. PAN INDONESIA BANK TBK. (PT. BANK PANIN TBK)",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-pan-indonesia-bank-tbk.-(pt.-bank-panin-tbk)"
+        },
+        {
+            "bin_num": "557795",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PT. PAN INDONESIA BANK TBK. (PT. BANK PANIN TBK)",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-pan-indonesia-bank-tbk.-(pt.-bank-panin-tbk)"
+        }
+    ]
+}

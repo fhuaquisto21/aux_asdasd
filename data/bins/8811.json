@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "532191",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD/STANDARD",
+            "bank_name": "ALPHA BANK SERBIA AD BELGRADE",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/alpha-bank-serbia-ad-belgrade"
+        },
+        {
+            "bin_num": "534983",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ALPHA BANK SERBIA AD BELGRADE",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/alpha-bank-serbia-ad-belgrade"
+        },
+        {
+            "bin_num": "535256",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ALPHA BANK SERBIA AD BELGRADE",
+            "country_name": "SERBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rs.svg",
+            "country_url": "https://bincheck.io/es/rs",
+            "bank_url": "https://bincheck.io/es/rs/alpha-bank-serbia-ad-belgrade"
+        }
+    ]
+}

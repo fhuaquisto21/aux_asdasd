@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "510846",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO DE LA PRODUCCION S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-la-produccion-s.a."
+        },
+        {
+            "bin_num": "519950",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE LA PRODUCCION S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-de-la-produccion-s.a."
+        }
+    ]
+}

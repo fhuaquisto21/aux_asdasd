@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "529587",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "EPAYLINKS TECHNOLOGY CO., LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/epaylinks-technology-co.,-ltd."
+        },
+        {
+            "bin_num": "538738",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "EPAYLINKS TECHNOLOGY CO., LTD.",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/epaylinks-technology-co.,-ltd."
+        }
+    ]
+}

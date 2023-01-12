@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403020",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SNS BANK, N.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/sns-bank,-n.v."
+        },
+        {
+            "bin_num": "415502",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SNS BANK, N.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/sns-bank,-n.v."
+        },
+        {
+            "bin_num": "487580",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "SNS BANK, N.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/sns-bank,-n.v."
+        },
+        {
+            "bin_num": "487585",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "SNS BANK, N.V.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/sns-bank,-n.v."
+        }
+    ]
+}

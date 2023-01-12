@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "522178",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CATHAY UNITED BANK (CAMBODIA) CORPORATION, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cathay-united-bank-(cambodia)-corporation,-ltd."
+        },
+        {
+            "bin_num": "524330",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CATHAY UNITED BANK (CAMBODIA) CORPORATION, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cathay-united-bank-(cambodia)-corporation,-ltd."
+        },
+        {
+            "bin_num": "524701",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CATHAY UNITED BANK (CAMBODIA) CORPORATION, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cathay-united-bank-(cambodia)-corporation,-ltd."
+        },
+        {
+            "bin_num": "552472",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CATHAY UNITED BANK (CAMBODIA) CORPORATION, LTD.",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/cathay-united-bank-(cambodia)-corporation,-ltd."
+        }
+    ]
+}

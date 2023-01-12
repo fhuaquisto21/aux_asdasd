@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "400778",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        },
+        {
+            "bin_num": "421053",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        },
+        {
+            "bin_num": "426701",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        },
+        {
+            "bin_num": "435206",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        },
+        {
+            "bin_num": "435207",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        },
+        {
+            "bin_num": "447967",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        },
+        {
+            "bin_num": "485726",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-citizens-national-bank-of-upper-sandusky"
+        }
+    ]
+}

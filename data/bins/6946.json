@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "522819",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "530939",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "542488",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD BLACK",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/standard-bank-of-south-africa,-ltd."
+        }
+    ]
+}

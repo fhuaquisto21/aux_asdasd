@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "459440",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PAYONEER ISSUED BY ISRAEL POSTAL BANK CO., LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/payoneer-issued-by-israel-postal-bank-co.,-ltd."
+        },
+        {
+            "bin_num": "459523",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "PAYONEER ISSUED BY ISRAEL POSTAL BANK CO., LTD.",
+            "country_name": "ISRAEL",
+            "country_img": "https://bincheck.io/assets/flags/svg/il.svg",
+            "country_url": "https://bincheck.io/es/il",
+            "bank_url": "https://bincheck.io/es/il/payoneer-issued-by-israel-postal-bank-co.,-ltd."
+        }
+    ]
+}

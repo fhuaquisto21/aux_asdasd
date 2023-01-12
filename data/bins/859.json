@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "375984",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GREEN",
+            "bank_name": "BNP PARISBAS FORTIS",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/bnp-parisbas-fortis"
+        },
+        {
+            "bin_num": "375987",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BNP PARISBAS FORTIS",
+            "country_name": "BELGIUM",
+            "country_img": "https://bincheck.io/assets/flags/svg/be.svg",
+            "country_url": "https://bincheck.io/es/be",
+            "bank_url": "https://bincheck.io/es/be/bnp-parisbas-fortis"
+        }
+    ]
+}

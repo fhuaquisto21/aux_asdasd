@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "471443",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA ZAMBIA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/united-bank-for-africa-zambia,-ltd."
+        },
+        {
+            "bin_num": "471444",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED BANK FOR AFRICA ZAMBIA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/united-bank-for-africa-zambia,-ltd."
+        },
+        {
+            "bin_num": "471482",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UNITED BANK FOR AFRICA ZAMBIA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/united-bank-for-africa-zambia,-ltd."
+        }
+    ]
+}

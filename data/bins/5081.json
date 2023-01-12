@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "401792",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DAR ES SALAAM INVESTMENT BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/dar-es-salaam-investment-bank"
+        },
+        {
+            "bin_num": "424289",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DAR ES SALAAM INVESTMENT BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/dar-es-salaam-investment-bank"
+        },
+        {
+            "bin_num": "444469",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "DAR ES SALAAM INVESTMENT BANK",
+            "country_name": "IRAQ",
+            "country_img": "https://bincheck.io/assets/flags/svg/iq.svg",
+            "country_url": "https://bincheck.io/es/iq",
+            "bank_url": "https://bincheck.io/es/iq/dar-es-salaam-investment-bank"
+        }
+    ]
+}

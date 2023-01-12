@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "463637",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PALESTINE ISLAMIC BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/palestine-islamic-bank"
+        },
+        {
+            "bin_num": "463638",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PALESTINE ISLAMIC BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/palestine-islamic-bank"
+        },
+        {
+            "bin_num": "463639",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PALESTINE ISLAMIC BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/palestine-islamic-bank"
+        }
+    ]
+}

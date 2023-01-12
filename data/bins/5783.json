@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "533471",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "533472",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "534596",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD REWARDS",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "KENYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ke.svg",
+            "country_url": "https://bincheck.io/es/ke",
+            "bank_url": "https://bincheck.io/es/ke/emerging-markets-payments-africa"
+        }
+    ]
+}

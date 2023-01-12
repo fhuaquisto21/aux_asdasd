@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "511852",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD UNEMBOSSED",
+            "bank_name": "CONFIABLE Y EFECTIVO A LA MANO S.A.P.I. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/confiable-y-efectivo-a-la-mano-s.a.p.i.-de-c.v."
+        },
+        {
+            "bin_num": "536240",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CONFIABLE Y EFECTIVO A LA MANO S.A.P.I. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/confiable-y-efectivo-a-la-mano-s.a.p.i.-de-c.v."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "529743",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/swaziland-development-and-savings-bank"
+        },
+        {
+            "bin_num": "536035",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/swaziland-development-and-savings-bank"
+        },
+        {
+            "bin_num": "551272",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/swaziland-development-and-savings-bank"
+        },
+        {
+            "bin_num": "553614",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/swaziland-development-and-savings-bank"
+        }
+    ]
+}

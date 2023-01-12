@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "408773",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "BANQUE DE LUXEMBOURG",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/banque-de-luxembourg"
+        },
+        {
+            "bin_num": "408774",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "V PAY",
+            "bank_name": "BANQUE DE LUXEMBOURG",
+            "country_name": "LUXEMBOURG",
+            "country_img": "https://bincheck.io/assets/flags/svg/lu.svg",
+            "country_url": "https://bincheck.io/es/lu",
+            "bank_url": "https://bincheck.io/es/lu/banque-de-luxembourg"
+        }
+    ]
+}

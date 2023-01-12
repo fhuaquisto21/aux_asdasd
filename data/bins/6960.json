@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "450485",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEPAL BANGLADESH BANK, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/nepal-bangladesh-bank,-ltd."
+        },
+        {
+            "bin_num": "450486",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEPAL BANGLADESH BANK, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/nepal-bangladesh-bank,-ltd."
+        },
+        {
+            "bin_num": "462470",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEPAL BANGLADESH BANK, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/nepal-bangladesh-bank,-ltd."
+        },
+        {
+            "bin_num": "462471",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NEPAL BANGLADESH BANK, LTD.",
+            "country_name": "NEPAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/np.svg",
+            "country_url": "https://bincheck.io/es/np",
+            "bank_url": "https://bincheck.io/es/np/nepal-bangladesh-bank,-ltd."
+        }
+    ]
+}

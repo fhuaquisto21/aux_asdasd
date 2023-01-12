@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "545442",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DBS BANK (HONG KONG) LIMITED",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/dbs-bank-(hong-kong)-limited"
+        },
+        {
+            "bin_num": "547196",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DBS BANK (HONG KONG) LIMITED",
+            "country_name": "HONG KONG",
+            "country_img": "https://bincheck.io/assets/flags/svg/hk.svg",
+            "country_url": "https://bincheck.io/es/hk",
+            "bank_url": "https://bincheck.io/es/hk/dbs-bank-(hong-kong)-limited"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "427349",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STADTSPARKASSE MUENCHEN",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/stadtsparkasse-muenchen"
+        },
+        {
+            "bin_num": "490843",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STADTSPARKASSE MUENCHEN",
+            "country_name": "GERMANY",
+            "country_img": "https://bincheck.io/assets/flags/svg/de.svg",
+            "country_url": "https://bincheck.io/es/deu",
+            "bank_url": "https://bincheck.io/es/deu/stadtsparkasse-muenchen"
+        }
+    ]
+}

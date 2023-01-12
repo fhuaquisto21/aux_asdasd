@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "442442",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PAN ASIA BANKING CORPORATION PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/pan-asia-banking-corporation-plc"
+        },
+        {
+            "bin_num": "488996",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PAN ASIA BANKING CORPORATION PLC",
+            "country_name": "SRI LANKA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lk.svg",
+            "country_url": "https://bincheck.io/es/lk",
+            "bank_url": "https://bincheck.io/es/lk/pan-asia-banking-corporation-plc"
+        }
+    ]
+}

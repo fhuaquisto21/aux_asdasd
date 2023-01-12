@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "430919",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "430971",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "430995",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "450805",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "469274",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "469275",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "479472",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        },
+        {
+            "bin_num": "540264",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "country_img": "https://bincheck.io/assets/flags/svg/sx.svg",
+            "country_url": "https://bincheck.io/es/sx",
+            "bank_url": "https://bincheck.io/es/sx/firstcaribbean-international-bank"
+        }
+    ]
+}

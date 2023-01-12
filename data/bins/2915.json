@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "432460",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-de-las-americas"
+        },
+        {
+            "bin_num": "432461",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-de-las-americas"
+        },
+        {
+            "bin_num": "432462",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+            "country_name": "DOMINICAN REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/do.svg",
+            "country_url": "https://bincheck.io/es/do",
+            "bank_url": "https://bincheck.io/es/do/banco-de-ahorro-y-credito-de-las-americas"
+        }
+    ]
+}

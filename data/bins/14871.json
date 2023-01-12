@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "444976",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HAWAII COUNTY EMPLOYEES F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/hawaii-county-employees-f.c.u."
+        },
+        {
+            "bin_num": "481767",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HAWAII COUNTY EMPLOYEES F.C.U.",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/hawaii-county-employees-f.c.u."
+        }
+    ]
+}

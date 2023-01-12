@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "422875",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/banque-nationale-de-paris-intercontinentale"
+        },
+        {
+            "bin_num": "422876",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/banque-nationale-de-paris-intercontinentale"
+        }
+    ]
+}

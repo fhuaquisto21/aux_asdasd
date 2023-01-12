@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "518472",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO COOPEUCH LTDA.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/cooperativa-de-ahorro-y-credito-coopeuch-ltda."
+        },
+        {
+            "bin_num": "518497",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO COOPEUCH LTDA.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/cooperativa-de-ahorro-y-credito-coopeuch-ltda."
+        },
+        {
+            "bin_num": "518536",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COOPERATIVA DE AHORRO Y CREDITO COOPEUCH LTDA.",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/cooperativa-de-ahorro-y-credito-coopeuch-ltda."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "524465",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DE SURINAAMSCHE BANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/de-surinaamsche-bank,-n.v."
+        },
+        {
+            "bin_num": "550531",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "DE SURINAAMSCHE BANK, N.V.",
+            "country_name": "SURINAME",
+            "country_img": "https://bincheck.io/assets/flags/svg/sr.svg",
+            "country_url": "https://bincheck.io/es/sr",
+            "bank_url": "https://bincheck.io/es/sr/de-surinaamsche-bank,-n.v."
+        }
+    ]
+}

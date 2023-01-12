@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "402288",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FARMERS AND MERCHANTS BANK OF SOUTH CAROLINA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/farmers-and-merchants-bank-of-south-carolina"
+        },
+        {
+            "bin_num": "441245",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FARMERS AND MERCHANTS BANK OF SOUTH CAROLINA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/farmers-and-merchants-bank-of-south-carolina"
+        },
+        {
+            "bin_num": "460830",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FARMERS AND MERCHANTS BANK OF SOUTH CAROLINA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/farmers-and-merchants-bank-of-south-carolina"
+        },
+        {
+            "bin_num": "463878",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FARMERS AND MERCHANTS BANK OF SOUTH CAROLINA",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/farmers-and-merchants-bank-of-south-carolina"
+        }
+    ]
+}

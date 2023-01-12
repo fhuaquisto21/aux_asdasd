@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "402182",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "402183",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "421804",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "472414",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "472415",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "472416",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "472417",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "472418",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "482134",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "482136",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        },
+        {
+            "bin_num": "482137",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "RSK BANK OJSC",
+            "country_name": "KYRGYZSTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/kg.svg",
+            "country_url": "https://bincheck.io/es/kg",
+            "bank_url": "https://bincheck.io/es/kg/rsk-bank-ojsc"
+        }
+    ]
+}

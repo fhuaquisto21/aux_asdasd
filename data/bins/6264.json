@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "412555",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "HALK BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/halk-banka-ad-skopje"
+        },
+        {
+            "bin_num": "429721",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HALK BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/halk-banka-ad-skopje"
+        },
+        {
+            "bin_num": "429722",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "HALK BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/halk-banka-ad-skopje"
+        },
+        {
+            "bin_num": "429723",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HALK BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/halk-banka-ad-skopje"
+        },
+        {
+            "bin_num": "429724",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "HALK BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/halk-banka-ad-skopje"
+        },
+        {
+            "bin_num": "446095",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "HALK BANKA AD SKOPJE",
+            "country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/mk.svg",
+            "country_url": "https://bincheck.io/es/mk",
+            "bank_url": "https://bincheck.io/es/mk/halk-banka-ad-skopje"
+        }
+    ]
+}

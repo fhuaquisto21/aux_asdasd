@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "377632",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "OPEN GOLD REVOLVE",
+            "bank_name": "CORP BANCA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corp-banca-chile"
+        },
+        {
+            "bin_num": "377820",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN CHARGE",
+            "bank_name": "CORP BANCA CHILE",
+            "country_name": "CHILE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cl.svg",
+            "country_url": "https://bincheck.io/es/cl",
+            "bank_url": "https://bincheck.io/es/cl/corp-banca-chile"
+        }
+    ]
+}

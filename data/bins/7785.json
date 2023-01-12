@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "bin_num": "402956",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "403007",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "404864",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "404865",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "405602",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "407575",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "425509",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "425510",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "428184",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "428185",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "428186",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "428187",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "443977",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "443978",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "444248",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "455051",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "455575",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "478062",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "478063",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "479702",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "479703",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        },
+        {
+            "bin_num": "479704",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/banco-internacional-do-funchal-s.a.-(banif)"
+        }
+    ]
+}

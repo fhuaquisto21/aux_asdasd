@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "428649",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ACCESS BANK ZAMBIA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/access-bank-zambia,-ltd."
+        },
+        {
+            "bin_num": "428650",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ACCESS BANK ZAMBIA, LTD.",
+            "country_name": "ZAMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/zm.svg",
+            "country_url": "https://bincheck.io/es/zm",
+            "bank_url": "https://bincheck.io/es/zm/access-bank-zambia,-ltd."
+        }
+    ]
+}

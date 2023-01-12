@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "526710",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANK MUSCAT LTD. (S.A.O.G.)",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-muscat-ltd.-(s.a.o.g.)"
+        },
+        {
+            "bin_num": "548966",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK MUSCAT LTD. (S.A.O.G.)",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/bank-muscat-ltd.-(s.a.o.g.)"
+        }
+    ]
+}

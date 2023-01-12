@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "415464",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "KHALEEJI COMMERCIAL BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/khaleeji-commercial-bank-b.s.c."
+        },
+        {
+            "bin_num": "471397",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KHALEEJI COMMERCIAL BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/khaleeji-commercial-bank-b.s.c."
+        },
+        {
+            "bin_num": "471398",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "KHALEEJI COMMERCIAL BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/khaleeji-commercial-bank-b.s.c."
+        },
+        {
+            "bin_num": "471399",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "KHALEEJI COMMERCIAL BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/khaleeji-commercial-bank-b.s.c."
+        },
+        {
+            "bin_num": "471400",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "KHALEEJI COMMERCIAL BANK B.S.C.",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/khaleeji-commercial-bank-b.s.c."
+        }
+    ]
+}

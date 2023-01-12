@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "548958",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/firstcaribbean-international-bank-barbados,-ltd."
+        },
+        {
+            "bin_num": "548959",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/firstcaribbean-international-bank-barbados,-ltd."
+        }
+    ]
+}

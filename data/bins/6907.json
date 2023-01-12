@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "404749",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "411982",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "411983",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "433373",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "478703",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "478704",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "478705",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        },
+        {
+            "bin_num": "478706",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+            "country_name": "MOZAMBIQUE",
+            "country_img": "https://bincheck.io/assets/flags/svg/mz.svg",
+            "country_url": "https://bincheck.io/es/mz",
+            "bank_url": "https://bincheck.io/es/mz/banco-internacional-de-mocambique,-s.a.r.l."
+        }
+    ]
+}

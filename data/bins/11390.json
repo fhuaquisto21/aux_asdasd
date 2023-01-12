@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "405827",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AURORA BANK, F.S.B. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/aurora-bank,-f.s.b.-(closed)"
+        },
+        {
+            "bin_num": "429448",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AURORA BANK, F.S.B. (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/aurora-bank,-f.s.b.-(closed)"
+        }
+    ]
+}

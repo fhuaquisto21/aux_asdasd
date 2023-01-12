@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "462882",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANKISLAMI PAKISTAN, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/bankislami-pakistan,-ltd."
+        },
+        {
+            "bin_num": "462883",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANKISLAMI PAKISTAN, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/bankislami-pakistan,-ltd."
+        }
+    ]
+}

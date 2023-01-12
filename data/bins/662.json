@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "437335",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AL SALAM BANK",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-salam-bank"
+        },
+        {
+            "bin_num": "456784",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "AL SALAM BANK",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-salam-bank"
+        }
+    ]
+}

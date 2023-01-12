@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "405659",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CANADIA BANK PUBLIC LIMITED COMPANY",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/canadia-bank-public-limited-company"
+        },
+        {
+            "bin_num": "405660",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CANADIA BANK PUBLIC LIMITED COMPANY",
+            "country_name": "CAMBODIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/kh.svg",
+            "country_url": "https://bincheck.io/es/kh",
+            "bank_url": "https://bincheck.io/es/kh/canadia-bank-public-limited-company"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "452006",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAIFFEISEN BANK POLSKA S.A.",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/raiffeisen-bank-polska-s.a."
+        },
+        {
+            "bin_num": "452007",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "RAIFFEISEN BANK POLSKA S.A.",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/raiffeisen-bank-polska-s.a."
+        },
+        {
+            "bin_num": "452009",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "RAIFFEISEN BANK POLSKA S.A.",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/raiffeisen-bank-polska-s.a."
+        }
+    ]
+}

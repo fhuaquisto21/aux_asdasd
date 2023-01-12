@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "bin_num": "412560",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "412561",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "414500",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "414501",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "416730",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "428532",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "428533",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "521064",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "528012",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "531037",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "534307",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "534309",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "534314",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "548071",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        },
+        {
+            "bin_num": "552371",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "INTERNATIONAL BANK OF YEMEN",
+            "country_name": "YEMEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/ye.svg",
+            "country_url": "https://bincheck.io/es/ye",
+            "bank_url": "https://bincheck.io/es/ye/international-bank-of-yemen"
+        }
+    ]
+}

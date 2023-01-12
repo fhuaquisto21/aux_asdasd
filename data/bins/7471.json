@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "414770",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "SIGNATURE",
+            "bank_name": "SUDAMERIS BANK S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/sudameris-bank-s.a.e.c.a."
+        },
+        {
+            "bin_num": "433120",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUDAMERIS BANK S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/sudameris-bank-s.a.e.c.a."
+        },
+        {
+            "bin_num": "433170",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUDAMERIS BANK S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/sudameris-bank-s.a.e.c.a."
+        },
+        {
+            "bin_num": "433171",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SUDAMERIS BANK S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/sudameris-bank-s.a.e.c.a."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "459069",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/eastern-caribbean-amalgamated-bank,-ltd."
+        },
+        {
+            "bin_num": "484640",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/eastern-caribbean-amalgamated-bank,-ltd."
+        },
+        {
+            "bin_num": "484641",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/eastern-caribbean-amalgamated-bank,-ltd."
+        },
+        {
+            "bin_num": "515896",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/eastern-caribbean-amalgamated-bank,-ltd."
+        },
+        {
+            "bin_num": "544193",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/eastern-caribbean-amalgamated-bank,-ltd."
+        }
+    ]
+}

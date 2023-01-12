@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "490938",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "IRISH NATIONWIDE BUILDING SOCIETY",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/irish-nationwide-building-society"
+        },
+        {
+            "bin_num": "491876",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "IRISH NATIONWIDE BUILDING SOCIETY",
+            "country_name": "IRELAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ie.svg",
+            "country_url": "https://bincheck.io/es/ie",
+            "bank_url": "https://bincheck.io/es/ie/irish-nationwide-building-society"
+        }
+    ]
+}

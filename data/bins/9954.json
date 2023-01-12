@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403228",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/milli-aydin-bankasi-t.a.s.-tarisbank"
+        },
+        {
+            "bin_num": "427335",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/milli-aydin-bankasi-t.a.s.-tarisbank"
+        },
+        {
+            "bin_num": "427336",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/milli-aydin-bankasi-t.a.s.-tarisbank"
+        },
+        {
+            "bin_num": "498845",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+            "country_name": "TURKEY",
+            "country_img": "https://bincheck.io/assets/flags/svg/tr.svg",
+            "country_url": "https://bincheck.io/es/trk",
+            "bank_url": "https://bincheck.io/es/trk/milli-aydin-bankasi-t.a.s.-tarisbank"
+        }
+    ]
+}

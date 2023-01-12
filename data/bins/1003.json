@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "417371",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NOVA BANKA A.D. BIJELJINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nova-banka-a.d.-bijeljina"
+        },
+        {
+            "bin_num": "417372",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NOVA BANKA A.D. BIJELJINA",
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ba.svg",
+            "country_url": "https://bincheck.io/es/ba",
+            "bank_url": "https://bincheck.io/es/ba/nova-banka-a.d.-bijeljina"
+        }
+    ]
+}

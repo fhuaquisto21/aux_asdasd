@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "476801",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARAB ISLAMIC BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/arab-islamic-bank"
+        },
+        {
+            "bin_num": "476802",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ARAB ISLAMIC BANK",
+            "country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "country_img": "https://bincheck.io/assets/flags/svg/ps.svg",
+            "country_url": "https://bincheck.io/es/ps",
+            "bank_url": "https://bincheck.io/es/ps/arab-islamic-bank"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "402763",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "INTERPAYMENT SERVICES, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/interpayment-services,-ltd."
+        },
+        {
+            "bin_num": "474112",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID TRAVEL MONEY",
+            "bank_name": "INTERPAYMENT SERVICES, LTD.",
+            "country_name": "UNITED ARAB EMIRATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ae.svg",
+            "country_url": "https://bincheck.io/es/ae",
+            "bank_url": "https://bincheck.io/es/ae/interpayment-services,-ltd."
+        }
+    ]
+}

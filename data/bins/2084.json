@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "521530",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NANYANG COMMERCIAL BANK (CHINA), LIMITED.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank-(china),-limited."
+        },
+        {
+            "bin_num": "553134",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE EXECUTIVE",
+            "bank_name": "NANYANG COMMERCIAL BANK (CHINA), LIMITED.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank-(china),-limited."
+        },
+        {
+            "bin_num": "553183",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "B2B",
+            "bank_name": "NANYANG COMMERCIAL BANK (CHINA), LIMITED.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank-(china),-limited."
+        },
+        {
+            "bin_num": "553185",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "B2B",
+            "bank_name": "NANYANG COMMERCIAL BANK (CHINA), LIMITED.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/nanyang-commercial-bank-(china),-limited."
+        }
+    ]
+}

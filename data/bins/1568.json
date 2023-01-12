@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "444091",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAYMAN NATIONAL BANK AND TRUST, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/cayman-national-bank-and-trust,-ltd."
+        },
+        {
+            "bin_num": "454611",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAYMAN NATIONAL BANK AND TRUST, LTD.",
+            "country_name": "CAYMAN ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/ky.svg",
+            "country_url": "https://bincheck.io/es/ky",
+            "bank_url": "https://bincheck.io/es/ky/cayman-national-bank-and-trust,-ltd."
+        }
+    ]
+}

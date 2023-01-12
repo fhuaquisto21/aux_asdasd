@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "400686",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "400687",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "417389",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "429021",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "440632",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "440633",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        },
+        {
+            "bin_num": "440634",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+            "country_name": "SLOVAKIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sk.svg",
+            "country_url": "https://bincheck.io/es/sk",
+            "bank_url": "https://bincheck.io/es/sk/ceskoslovenska-obchodni-banka,-a.s."
+        }
+    ]
+}

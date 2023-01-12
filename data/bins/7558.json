@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "455366",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/development-bank-of-the-philippines"
+        },
+        {
+            "bin_num": "457574",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "GIFT",
+            "bank_name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/development-bank-of-the-philippines"
+        },
+        {
+            "bin_num": "466536",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/development-bank-of-the-philippines"
+        },
+        {
+            "bin_num": "467736",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/development-bank-of-the-philippines"
+        },
+        {
+            "bin_num": "470676",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "DEVELOPMENT BANK OF THE PHILIPPINES",
+            "country_name": "PHILIPPINES",
+            "country_img": "https://bincheck.io/assets/flags/svg/ph.svg",
+            "country_url": "https://bincheck.io/es/ph",
+            "bank_url": "https://bincheck.io/es/ph/development-bank-of-the-philippines"
+        }
+    ]
+}

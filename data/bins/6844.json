@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "431203",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "ATLASMONT BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/atlasmont-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "431204",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ATLASMONT BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/atlasmont-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "431205",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ATLASMONT BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/atlasmont-banka-ad-podgorica"
+        }
+    ]
+}

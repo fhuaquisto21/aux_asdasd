@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "512337",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/cscbank-sal"
+        },
+        {
+            "bin_num": "533897",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/cscbank-sal"
+        },
+        {
+            "bin_num": "544133",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/cscbank-sal"
+        },
+        {
+            "bin_num": "555946",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/cscbank-sal"
+        }
+    ]
+}

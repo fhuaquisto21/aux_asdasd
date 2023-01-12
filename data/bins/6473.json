@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "370856",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/american-express-company"
+        },
+        {
+            "bin_num": "376862",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GRMS CORPORATE CONTROL",
+            "bank_name": "AMERICAN EXPRESS COMPANY",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/american-express-company"
+        }
+    ]
+}

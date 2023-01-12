@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "468946",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SAIGON THUONG TIN COMMERCIAL JSB",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/saigon-thuong-tin-commercial-jsb"
+        },
+        {
+            "bin_num": "468947",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SAIGON THUONG TIN COMMERCIAL JSB",
+            "country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "country_img": "https://bincheck.io/assets/flags/svg/la.svg",
+            "country_url": "https://bincheck.io/es/la",
+            "bank_url": "https://bincheck.io/es/la/saigon-thuong-tin-commercial-jsb"
+        }
+    ]
+}

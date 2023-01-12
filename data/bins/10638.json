@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "426565",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MONUMENT ISSUED BY R RAPHAEL & SONS PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/monument-issued-by-r-raphael-&-sons-plc"
+        },
+        {
+            "bin_num": "426567",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MONUMENT ISSUED BY R RAPHAEL & SONS PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/monument-issued-by-r-raphael-&-sons-plc"
+        }
+    ]
+}

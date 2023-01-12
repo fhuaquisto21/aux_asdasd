@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "512016",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PODRAVSKA BANKA D.D. KOPRIVNICA",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/podravska-banka-d.d.-koprivnica"
+        },
+        {
+            "bin_num": "512761",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PODRAVSKA BANKA D.D. KOPRIVNICA",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/podravska-banka-d.d.-koprivnica"
+        },
+        {
+            "bin_num": "552545",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "PODRAVSKA BANKA D.D. KOPRIVNICA",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/podravska-banka-d.d.-koprivnica"
+        },
+        {
+            "bin_num": "602023",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "PODRAVSKA BANKA D.D. KOPRIVNICA",
+            "country_name": "CROATIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/hr.svg",
+            "country_url": "https://bincheck.io/es/hr",
+            "bank_url": "https://bincheck.io/es/hr/podravska-banka-d.d.-koprivnica"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "401618",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        },
+        {
+            "bin_num": "407387",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        },
+        {
+            "bin_num": "407388",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        },
+        {
+            "bin_num": "409739",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        },
+        {
+            "bin_num": "421363",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        },
+        {
+            "bin_num": "483447",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        },
+        {
+            "bin_num": "489512",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF MALDIVES PLC",
+            "country_name": "MALDIVES",
+            "country_img": "https://bincheck.io/assets/flags/svg/mv.svg",
+            "country_url": "https://bincheck.io/es/mv",
+            "bank_url": "https://bincheck.io/es/mv/bank-of-maldives-plc"
+        }
+    ]
+}

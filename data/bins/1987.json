@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "620030",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/industrial-and-commercial-bank-of-china-asia"
+        },
+        {
+            "bin_num": "620050",
+            "bin_mark": "CHINA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/industrial-and-commercial-bank-of-china-asia"
+        },
+        {
+            "bin_num": "622949",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/industrial-and-commercial-bank-of-china-asia"
+        },
+        {
+            "bin_num": "625900",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/industrial-and-commercial-bank-of-china-asia"
+        },
+        {
+            "bin_num": "625915",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/industrial-and-commercial-bank-of-china-asia"
+        },
+        {
+            "bin_num": "625916",
+            "bin_mark": "CHINA",
+            "bin_type": "CREDIT",
+            "bin_level": "REWARDS",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/industrial-and-commercial-bank-of-china-asia"
+        }
+    ]
+}

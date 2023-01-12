@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "424471",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "VISA SWEDEN FORENING (EK. FOR)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/visa-sweden-forening-(ek.-for)"
+        },
+        {
+            "bin_num": "459028",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VISA SWEDEN FORENING (EK. FOR)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/visa-sweden-forening-(ek.-for)"
+        },
+        {
+            "bin_num": "459029",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "VISA SWEDEN FORENING (EK. FOR)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/visa-sweden-forening-(ek.-for)"
+        },
+        {
+            "bin_num": "490929",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "VISA SWEDEN FORENING (EK. FOR)",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/visa-sweden-forening-(ek.-for)"
+        }
+    ]
+}

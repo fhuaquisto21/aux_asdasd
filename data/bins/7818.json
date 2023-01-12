@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "374331",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN CHARGE",
+            "bank_name": "NOVO BANCO DOS ACORES SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-dos-acores-sa"
+        },
+        {
+            "bin_num": "374334",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD REVOLVE",
+            "bank_name": "NOVO BANCO DOS ACORES SA",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco-dos-acores-sa"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "414645",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "440232",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "440233",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "457045",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "457046",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "465239",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "479030",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "479075",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "479709",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "479792",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        },
+        {
+            "bin_num": "479793",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SEB VILNIAUS BANKAS AB",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/seb-vilniaus-bankas-ab"
+        }
+    ]
+}

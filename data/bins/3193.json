@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "515492",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AKTIA SAVINGS BANK P.L.C.",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/aktia-savings-bank-p.l.c."
+        },
+        {
+            "bin_num": "559790",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "AKTIA SAVINGS BANK P.L.C.",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/aktia-savings-bank-p.l.c."
+        }
+    ]
+}

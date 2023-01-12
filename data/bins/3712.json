@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "404011",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INMOBILIARIO, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-inmobiliario,-s.a."
+        },
+        {
+            "bin_num": "404012",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INMOBILIARIO, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-inmobiliario,-s.a."
+        },
+        {
+            "bin_num": "442321",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO INMOBILIARIO, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-inmobiliario,-s.a."
+        },
+        {
+            "bin_num": "442322",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO INMOBILIARIO, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-inmobiliario,-s.a."
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO INMOBILIARIO, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-inmobiliario,-s.a."
+        }
+    ]
+}

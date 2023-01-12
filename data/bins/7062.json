@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "450612",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/national-bank-of-new-zealand,-ltd."
+        },
+        {
+            "bin_num": "477549",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+            "country_name": "NEW ZEALAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/nz.svg",
+            "country_url": "https://bincheck.io/es/nz",
+            "bank_url": "https://bincheck.io/es/nz/national-bank-of-new-zealand,-ltd."
+        }
+    ]
+}

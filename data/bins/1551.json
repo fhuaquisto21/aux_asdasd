@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "414507",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAIXA ECONOMICA DE CABO VERDE",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/caixa-economica-de-cabo-verde"
+        },
+        {
+            "bin_num": "414508",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAIXA ECONOMICA DE CABO VERDE",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/caixa-economica-de-cabo-verde"
+        },
+        {
+            "bin_num": "420555",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "CAIXA ECONOMICA DE CABO VERDE",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/caixa-economica-de-cabo-verde"
+        },
+        {
+            "bin_num": "425688",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "CAIXA ECONOMICA DE CABO VERDE",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/caixa-economica-de-cabo-verde"
+        },
+        {
+            "bin_num": "470637",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CAIXA ECONOMICA DE CABO VERDE",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/caixa-economica-de-cabo-verde"
+        }
+    ]
+}

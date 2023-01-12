@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "400261",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FINANCIERA EL COMERCIO S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/financiera-el-comercio-s.a.e.c.a."
+        },
+        {
+            "bin_num": "403055",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FINANCIERA EL COMERCIO S.A.E.C.A.",
+            "country_name": "PARAGUAY",
+            "country_img": "https://bincheck.io/assets/flags/svg/py.svg",
+            "country_url": "https://bincheck.io/es/py",
+            "bank_url": "https://bincheck.io/es/py/financiera-el-comercio-s.a.e.c.a."
+        }
+    ]
+}

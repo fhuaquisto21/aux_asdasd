@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "417079",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/societe-generale-de-banques-au-cameroun"
+        },
+        {
+            "bin_num": "432547",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/societe-generale-de-banques-au-cameroun"
+        },
+        {
+            "bin_num": "432573",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/societe-generale-de-banques-au-cameroun"
+        },
+        {
+            "bin_num": "433022",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/societe-generale-de-banques-au-cameroun"
+        },
+        {
+            "bin_num": "474139",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/societe-generale-de-banques-au-cameroun"
+        },
+        {
+            "bin_num": "490999",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "country_name": "CAMEROON",
+            "country_img": "https://bincheck.io/assets/flags/svg/cm.svg",
+            "country_url": "https://bincheck.io/es/cm",
+            "bank_url": "https://bincheck.io/es/cm/societe-generale-de-banques-au-cameroun"
+        }
+    ]
+}

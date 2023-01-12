@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "430427",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-rakyat-indonesia-(persero)-tbk"
+        },
+        {
+            "bin_num": "435965",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-rakyat-indonesia-(persero)-tbk"
+        },
+        {
+            "bin_num": "435972",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-rakyat-indonesia-(persero)-tbk"
+        },
+        {
+            "bin_num": "468740",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK",
+            "country_name": "INDONESIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/id.svg",
+            "country_url": "https://bincheck.io/es/id",
+            "bank_url": "https://bincheck.io/es/id/pt.-bank-rakyat-indonesia-(persero)-tbk"
+        }
+    ]
+}

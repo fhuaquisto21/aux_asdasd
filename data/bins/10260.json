@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "424490",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUBSIDIARY BANK SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK) PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-savings-bank-of-the-russian-federation-(sberbank)-pjsc"
+        },
+        {
+            "bin_num": "424491",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SUBSIDIARY BANK SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK) PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-savings-bank-of-the-russian-federation-(sberbank)-pjsc"
+        },
+        {
+            "bin_num": "424492",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SUBSIDIARY BANK SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK) PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-savings-bank-of-the-russian-federation-(sberbank)-pjsc"
+        },
+        {
+            "bin_num": "437435",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SUBSIDIARY BANK SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK) PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-savings-bank-of-the-russian-federation-(sberbank)-pjsc"
+        },
+        {
+            "bin_num": "437518",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SUBSIDIARY BANK SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK) PJSC",
+            "country_name": "UKRAINE",
+            "country_img": "https://bincheck.io/assets/flags/svg/ua.svg",
+            "country_url": "https://bincheck.io/es/ua",
+            "bank_url": "https://bincheck.io/es/ua/subsidiary-bank-savings-bank-of-the-russian-federation-(sberbank)-pjsc"
+        }
+    ]
+}

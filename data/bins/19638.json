@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "522398",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/lienviet-post-joint-stock-commercial-bank"
+        },
+        {
+            "bin_num": "523538",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/lienviet-post-joint-stock-commercial-bank"
+        },
+        {
+            "bin_num": "524680",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/lienviet-post-joint-stock-commercial-bank"
+        },
+        {
+            "bin_num": "527359",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/lienviet-post-joint-stock-commercial-bank"
+        }
+    ]
+}

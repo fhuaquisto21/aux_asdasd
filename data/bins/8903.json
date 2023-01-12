@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "457276",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNITED BANK FOR AFRICA (SL), LTD.",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/united-bank-for-africa-(sl),-ltd."
+        },
+        {
+            "bin_num": "471442",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNITED BANK FOR AFRICA (SL), LTD.",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/united-bank-for-africa-(sl),-ltd."
+        },
+        {
+            "bin_num": "472863",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "UNITED BANK FOR AFRICA (SL), LTD.",
+            "country_name": "SIERRA LEONE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sl.svg",
+            "country_url": "https://bincheck.io/es/sl",
+            "bank_url": "https://bincheck.io/es/sl/united-bank-for-africa-(sl),-ltd."
+        }
+    ]
+}

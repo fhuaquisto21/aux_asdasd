@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "405982",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE BOGOTA (NASSAU), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/banco-de-bogota-(nassau),-ltd."
+        },
+        {
+            "bin_num": "405984",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE BOGOTA (NASSAU), LTD.",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/banco-de-bogota-(nassau),-ltd."
+        }
+    ]
+}

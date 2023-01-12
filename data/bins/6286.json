@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "411984",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE MALGACHE DE LOCEAN INDIEN",
+            "country_name": "MADAGASCAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mg.svg",
+            "country_url": "https://bincheck.io/es/mg",
+            "bank_url": "https://bincheck.io/es/mg/banque-malgache-de-locean-indien"
+        },
+        {
+            "bin_num": "419750",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE MALGACHE DE LOCEAN INDIEN",
+            "country_name": "MADAGASCAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mg.svg",
+            "country_url": "https://bincheck.io/es/mg",
+            "bank_url": "https://bincheck.io/es/mg/banque-malgache-de-locean-indien"
+        },
+        {
+            "bin_num": "419751",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE MALGACHE DE LOCEAN INDIEN",
+            "country_name": "MADAGASCAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mg.svg",
+            "country_url": "https://bincheck.io/es/mg",
+            "bank_url": "https://bincheck.io/es/mg/banque-malgache-de-locean-indien"
+        },
+        {
+            "bin_num": "423365",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE MALGACHE DE LOCEAN INDIEN",
+            "country_name": "MADAGASCAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mg.svg",
+            "country_url": "https://bincheck.io/es/mg",
+            "bank_url": "https://bincheck.io/es/mg/banque-malgache-de-locean-indien"
+        },
+        {
+            "bin_num": "423366",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANQUE MALGACHE DE LOCEAN INDIEN",
+            "country_name": "MADAGASCAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mg.svg",
+            "country_url": "https://bincheck.io/es/mg",
+            "bank_url": "https://bincheck.io/es/mg/banque-malgache-de-locean-indien"
+        },
+        {
+            "bin_num": "455060",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE MALGACHE DE LOCEAN INDIEN",
+            "country_name": "MADAGASCAR",
+            "country_img": "https://bincheck.io/assets/flags/svg/mg.svg",
+            "country_url": "https://bincheck.io/es/mg",
+            "bank_url": "https://bincheck.io/es/mg/banque-malgache-de-locean-indien"
+        }
+    ]
+}

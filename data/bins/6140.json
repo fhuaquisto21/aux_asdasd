@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "511618",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "ALEJMAA ALARABI BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/alejmaa-alarabi-bank"
+        },
+        {
+            "bin_num": "539262",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "ALEJMAA ALARABI BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/alejmaa-alarabi-bank"
+        },
+        {
+            "bin_num": "550433",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ALEJMAA ALARABI BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/alejmaa-alarabi-bank"
+        },
+        {
+            "bin_num": "559420",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "ALEJMAA ALARABI BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/alejmaa-alarabi-bank"
+        }
+    ]
+}

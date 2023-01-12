@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "420315",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE INDOSUEZ MER ROUGE",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/banque-indosuez-mer-rouge"
+        },
+        {
+            "bin_num": "420316",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INDOSUEZ MER ROUGE",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/banque-indosuez-mer-rouge"
+        },
+        {
+            "bin_num": "420317",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE INDOSUEZ MER ROUGE",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/banque-indosuez-mer-rouge"
+        },
+        {
+            "bin_num": "420318",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANQUE INDOSUEZ MER ROUGE",
+            "country_name": "DJIBOUTI",
+            "country_img": "https://bincheck.io/assets/flags/svg/dj.svg",
+            "country_url": "https://bincheck.io/es/dj",
+            "bank_url": "https://bincheck.io/es/dj/banque-indosuez-mer-rouge"
+        }
+    ]
+}

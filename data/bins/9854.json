@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "457779",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "UNION TOGOLAISE DE BANQUE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/union-togolaise-de-banque"
+        },
+        {
+            "bin_num": "458852",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNION TOGOLAISE DE BANQUE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/union-togolaise-de-banque"
+        },
+        {
+            "bin_num": "458853",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "UNION TOGOLAISE DE BANQUE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/union-togolaise-de-banque"
+        },
+        {
+            "bin_num": "458854",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "UNION TOGOLAISE DE BANQUE",
+            "country_name": "TOGO",
+            "country_img": "https://bincheck.io/assets/flags/svg/tg.svg",
+            "country_url": "https://bincheck.io/es/tg",
+            "bank_url": "https://bincheck.io/es/tg/union-togolaise-de-banque"
+        }
+    ]
+}

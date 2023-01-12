@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "535573",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INVESTMENT BANK OF GREECE",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/investment-bank-of-greece"
+        },
+        {
+            "bin_num": "536843",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "INVESTMENT BANK OF GREECE",
+            "country_name": "GREECE",
+            "country_img": "https://bincheck.io/assets/flags/svg/gr.svg",
+            "country_url": "https://bincheck.io/es/gr",
+            "bank_url": "https://bincheck.io/es/gr/investment-bank-of-greece"
+        }
+    ]
+}

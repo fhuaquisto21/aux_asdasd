@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "459399",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITIZENS BANK GUYANA, INC.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/citizens-bank-guyana,-inc."
+        },
+        {
+            "bin_num": "459400",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIZENS BANK GUYANA, INC.",
+            "country_name": "GUYANA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gy.svg",
+            "country_url": "https://bincheck.io/es/gy",
+            "bank_url": "https://bincheck.io/es/gy/citizens-bank-guyana,-inc."
+        }
+    ]
+}

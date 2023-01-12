@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "455756",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/bersa-(banco-de-entre-rios-s.a.)"
+        },
+        {
+            "bin_num": "456582",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/bersa-(banco-de-entre-rios-s.a.)"
+        },
+        {
+            "bin_num": "456583",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/bersa-(banco-de-entre-rios-s.a.)"
+        },
+        {
+            "bin_num": "456584",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/bersa-(banco-de-entre-rios-s.a.)"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "530586",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RAIFFEISEN ZENTRALBANK OSTERREICH AG (RZB)",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-zentralbank-osterreich-ag-(rzb)"
+        },
+        {
+            "bin_num": "558377",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RAIFFEISEN ZENTRALBANK OSTERREICH AG (RZB)",
+            "country_name": "AUSTRIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/at.svg",
+            "country_url": "https://bincheck.io/es/at",
+            "bank_url": "https://bincheck.io/es/at/raiffeisen-zentralbank-osterreich-ag-(rzb)"
+        }
+    ]
+}

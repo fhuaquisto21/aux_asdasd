@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "410073",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        },
+        {
+            "bin_num": "410074",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        },
+        {
+            "bin_num": "426818",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        },
+        {
+            "bin_num": "426819",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        },
+        {
+            "bin_num": "432788",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        },
+        {
+            "bin_num": "491400",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        },
+        {
+            "bin_num": "491429",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARBADOS NATIONAL BANK",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/barbados-national-bank"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "492060",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANK OF AALAND LTD. (AALANDSBANKEN AB)",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/bank-of-aaland-ltd.-(aalandsbanken-ab)"
+        },
+        {
+            "bin_num": "492066",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANK OF AALAND LTD. (AALANDSBANKEN AB)",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/bank-of-aaland-ltd.-(aalandsbanken-ab)"
+        },
+        {
+            "bin_num": "492069",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF AALAND LTD. (AALANDSBANKEN AB)",
+            "country_name": "FINLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/fi.svg",
+            "country_url": "https://bincheck.io/es/fin",
+            "bank_url": "https://bincheck.io/es/fin/bank-of-aaland-ltd.-(aalandsbanken-ab)"
+        }
+    ]
+}

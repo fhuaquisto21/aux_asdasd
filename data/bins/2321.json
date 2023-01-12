@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "517411",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO COLPATRIA RED MULTIBANCA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/banco-colpatria-red-multibanca"
+        },
+        {
+            "bin_num": "528614",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCO COLPATRIA RED MULTIBANCA",
+            "country_name": "COLOMBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/co.svg",
+            "country_url": "https://bincheck.io/es/co",
+            "bank_url": "https://bincheck.io/es/co/banco-colpatria-red-multibanca"
+        }
+    ]
+}

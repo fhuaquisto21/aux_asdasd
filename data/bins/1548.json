@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "524751",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANCO DE FOMENTO INTERNACIONAL SA",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/banco-de-fomento-internacional-sa"
+        },
+        {
+            "bin_num": "549922",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANCO DE FOMENTO INTERNACIONAL SA",
+            "country_name": "CAPE VERDE",
+            "country_img": "https://bincheck.io/assets/flags/svg/cv.svg",
+            "country_url": "https://bincheck.io/es/cv",
+            "bank_url": "https://bincheck.io/es/cv/banco-de-fomento-internacional-sa"
+        }
+    ]
+}

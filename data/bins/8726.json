@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "468231",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-banking-corporation"
+        },
+        {
+            "bin_num": "517694",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WESTPAC BANKING CORPORATION",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/westpac-banking-corporation"
+        }
+    ]
+}

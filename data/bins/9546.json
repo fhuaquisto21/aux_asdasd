@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "409424",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "419372",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "419373",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "419374",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "419375",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "431431",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "453162",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "453163",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "459485",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "466219",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        },
+        {
+            "bin_num": "466274",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BONUSCARD.CH AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/bonuscard.ch-ag"
+        }
+    ]
+}

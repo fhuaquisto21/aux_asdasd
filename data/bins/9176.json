@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "400884",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PEQUENA Y MEDIANA EMPRESA (BANKPYME)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-la-pequena-y-mediana-empresa-(bankpyme)"
+        },
+        {
+            "bin_num": "405906",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PEQUENA Y MEDIANA EMPRESA (BANKPYME)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-la-pequena-y-mediana-empresa-(bankpyme)"
+        },
+        {
+            "bin_num": "408534",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PEQUENA Y MEDIANA EMPRESA (BANKPYME)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-la-pequena-y-mediana-empresa-(bankpyme)"
+        },
+        {
+            "bin_num": "438678",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO DE LA PEQUENA Y MEDIANA EMPRESA (BANKPYME)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-la-pequena-y-mediana-empresa-(bankpyme)"
+        },
+        {
+            "bin_num": "453958",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA PEQUENA Y MEDIANA EMPRESA (BANKPYME)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-la-pequena-y-mediana-empresa-(bankpyme)"
+        },
+        {
+            "bin_num": "453977",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA PEQUENA Y MEDIANA EMPRESA (BANKPYME)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/banco-de-la-pequena-y-mediana-empresa-(bankpyme)"
+        }
+    ]
+}

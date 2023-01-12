@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "354101",
+            "bin_mark": "JCB",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "WASEDA",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/waseda"
+        },
+        {
+            "bin_num": "369115",
+            "bin_mark": "DINERS",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "WASEDA",
+            "country_name": "JAPAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jp.svg",
+            "country_url": "https://bincheck.io/es/jp",
+            "bank_url": "https://bincheck.io/es/jp/waseda"
+        }
+    ]
+}

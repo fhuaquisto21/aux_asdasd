@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "516503",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "NORTH INTERNATIONAL BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/north-international-bank,-ltd."
+        },
+        {
+            "bin_num": "534319",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "NORTH INTERNATIONAL BANK, LTD.",
+            "country_name": "ANTIGUA AND BARBUDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ag.svg",
+            "country_url": "https://bincheck.io/es/ag",
+            "bank_url": "https://bincheck.io/es/ag/north-international-bank,-ltd."
+        }
+    ]
+}

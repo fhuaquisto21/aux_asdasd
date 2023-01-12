@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "428507",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "AB UKIO BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-ukio-bankas"
+        },
+        {
+            "bin_num": "428508",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AB UKIO BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-ukio-bankas"
+        },
+        {
+            "bin_num": "428509",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AB UKIO BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-ukio-bankas"
+        },
+        {
+            "bin_num": "428510",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "AB UKIO BANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-ukio-bankas"
+        }
+    ]
+}

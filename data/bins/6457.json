@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "400076",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD BANK (MAURITIUS), LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/standard-bank-(mauritius),-ltd."
+        },
+        {
+            "bin_num": "400077",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "STANDARD BANK (MAURITIUS), LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/standard-bank-(mauritius),-ltd."
+        },
+        {
+            "bin_num": "442107",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "STANDARD BANK (MAURITIUS), LTD.",
+            "country_name": "MAURITIUS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mu.svg",
+            "country_url": "https://bincheck.io/es/mu",
+            "bank_url": "https://bincheck.io/es/mu/standard-bank-(mauritius),-ltd."
+        }
+    ]
+}

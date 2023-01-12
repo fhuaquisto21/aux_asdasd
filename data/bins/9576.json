@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "406377",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TELEKURS MULTIPAY AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/telekurs-multipay-ag"
+        },
+        {
+            "bin_num": "406756",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "TELEKURS MULTIPAY AG",
+            "country_name": "SWITZERLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/ch.svg",
+            "country_url": "https://bincheck.io/es/ch",
+            "bank_url": "https://bincheck.io/es/ch/telekurs-multipay-ag"
+        }
+    ]
+}

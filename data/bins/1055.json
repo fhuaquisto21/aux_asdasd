@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "529861",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AVISTA S/A ADMINISTRADORA DE CARTOES DE CREDITO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/avista-s+a-administradora-de-cartoes-de-credito"
+        },
+        {
+            "bin_num": "534436",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "AVISTA S/A ADMINISTRADORA DE CARTOES DE CREDITO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/avista-s+a-administradora-de-cartoes-de-credito"
+        },
+        {
+            "bin_num": "535016",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AVISTA S/A ADMINISTRADORA DE CARTOES DE CREDITO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/avista-s+a-administradora-de-cartoes-de-credito"
+        },
+        {
+            "bin_num": "536106",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "AVISTA S/A ADMINISTRADORA DE CARTOES DE CREDITO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/avista-s+a-administradora-de-cartoes-de-credito"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "517532",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANK ALJAZIRA",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/bank-aljazira"
+        },
+        {
+            "bin_num": "523041",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANK ALJAZIRA",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/bank-aljazira"
+        },
+        {
+            "bin_num": "524236",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "BANK ALJAZIRA",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/bank-aljazira"
+        },
+        {
+            "bin_num": "546924",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD ELITE",
+            "bank_name": "BANK ALJAZIRA",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/bank-aljazira"
+        },
+        {
+            "bin_num": "550002",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "BANK ALJAZIRA",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/bank-aljazira"
+        }
+    ]
+}

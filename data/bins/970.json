@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "404719",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-solidario-s.a.-(bancosol-s.a.)"
+        },
+        {
+            "bin_num": "411768",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-solidario-s.a.-(bancosol-s.a.)"
+        },
+        {
+            "bin_num": "412552",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+            "country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/bo.svg",
+            "country_url": "https://bincheck.io/es/bo",
+            "bank_url": "https://bincheck.io/es/bo/banco-solidario-s.a.-(bancosol-s.a.)"
+        }
+    ]
+}

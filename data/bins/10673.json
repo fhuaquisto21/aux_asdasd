@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "405606",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "NORWICH AND PETERBOROUGH BUILDING SOCIETY",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/norwich-and-peterborough-building-society"
+        },
+        {
+            "bin_num": "564102",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "NORWICH AND PETERBOROUGH BUILDING SOCIETY",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/norwich-and-peterborough-building-society"
+        }
+    ]
+}

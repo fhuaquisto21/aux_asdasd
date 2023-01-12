@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "533763",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "NIGER",
+            "country_img": "https://bincheck.io/assets/flags/svg/ne.svg",
+            "country_url": "https://bincheck.io/es/ne",
+            "bank_url": "https://bincheck.io/es/ne/cscbank-s.a.l."
+        },
+        {
+            "bin_num": "545413",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK S.A.L.",
+            "country_name": "NIGER",
+            "country_img": "https://bincheck.io/assets/flags/svg/ne.svg",
+            "country_url": "https://bincheck.io/es/ne",
+            "bank_url": "https://bincheck.io/es/ne/cscbank-s.a.l."
+        }
+    ]
+}

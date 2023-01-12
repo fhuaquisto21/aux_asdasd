@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "532588",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/shanghai-rural-commercial-bank-co.,-ltd."
+        },
+        {
+            "bin_num": "550150",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/shanghai-rural-commercial-bank-co.,-ltd."
+        },
+        {
+            "bin_num": "552408",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/shanghai-rural-commercial-bank-co.,-ltd."
+        }
+    ]
+}

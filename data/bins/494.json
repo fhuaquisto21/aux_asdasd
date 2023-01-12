@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "443441",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "QT MUTUAL BANK, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/qt-mutual-bank,-ltd."
+        },
+        {
+            "bin_num": "586195",
+            "bin_mark": "EFTPOS",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "QT MUTUAL BANK, LTD.",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/qt-mutual-bank,-ltd."
+        }
+    ]
+}

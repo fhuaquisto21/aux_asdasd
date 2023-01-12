@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "429835",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNIVERSITY AND STATE EMPLOYEES C.U. OF SAN DIEGO",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/university-and-state-employees-c.u.-of-san-diego"
+        },
+        {
+            "bin_num": "429838",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "UNIVERSITY AND STATE EMPLOYEES C.U. OF SAN DIEGO",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/university-and-state-employees-c.u.-of-san-diego"
+        }
+    ]
+}

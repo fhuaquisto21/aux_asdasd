@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "414160",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/citibank,-n.a."
+        },
+        {
+            "bin_num": "431505",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/citibank,-n.a."
+        },
+        {
+            "bin_num": "431506",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/citibank,-n.a."
+        },
+        {
+            "bin_num": "453210",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CITIBANK, N.A.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/citibank,-n.a."
+        }
+    ]
+}

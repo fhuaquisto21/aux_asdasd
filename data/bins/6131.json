@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517887",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "LESOTHO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ls.svg",
+            "country_url": "https://bincheck.io/es/ls",
+            "bank_url": "https://bincheck.io/es/ls/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "540334",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "LESOTHO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ls.svg",
+            "country_url": "https://bincheck.io/es/ls",
+            "bank_url": "https://bincheck.io/es/ls/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "541363",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "LESOTHO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ls.svg",
+            "country_url": "https://bincheck.io/es/ls",
+            "bank_url": "https://bincheck.io/es/ls/standard-bank-of-south-africa,-ltd."
+        },
+        {
+            "bin_num": "542916",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+            "country_name": "LESOTHO",
+            "country_img": "https://bincheck.io/assets/flags/svg/ls.svg",
+            "country_url": "https://bincheck.io/es/ls",
+            "bank_url": "https://bincheck.io/es/ls/standard-bank-of-south-africa,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "400738",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "416206",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "416207",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "480400",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "493455",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "INFINITE",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "942081",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "GIFT",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "946081",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        },
+        {
+            "bin_num": "948031",
+            "bin_mark": "PRIVATE",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "HANASK CARD CO., LTD.",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/hanask-card-co.,-ltd."
+        }
+    ]
+}

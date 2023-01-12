@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "424936",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "COMMUNITY FIRST GUAM F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/community-first-guam-f.c.u."
+        },
+        {
+            "bin_num": "430457",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COMMUNITY FIRST GUAM F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/community-first-guam-f.c.u."
+        },
+        {
+            "bin_num": "430458",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "COMMUNITY FIRST GUAM F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/community-first-guam-f.c.u."
+        },
+        {
+            "bin_num": "484709",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMUNITY FIRST GUAM F.C.U.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/community-first-guam-f.c.u."
+        }
+    ]
+}

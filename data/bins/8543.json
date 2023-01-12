@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "419579",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OJSC SOCIAL COMMERCIAL BANK OF PRIMORYE PRIMSOTSBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/ojsc-social-commercial-bank-of-primorye-primsotsbank"
+        },
+        {
+            "bin_num": "419580",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "OJSC SOCIAL COMMERCIAL BANK OF PRIMORYE PRIMSOTSBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/ojsc-social-commercial-bank-of-primorye-primsotsbank"
+        },
+        {
+            "bin_num": "419581",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "OJSC SOCIAL COMMERCIAL BANK OF PRIMORYE PRIMSOTSBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/ojsc-social-commercial-bank-of-primorye-primsotsbank"
+        },
+        {
+            "bin_num": "443998",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OJSC SOCIAL COMMERCIAL BANK OF PRIMORYE PRIMSOTSBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/ojsc-social-commercial-bank-of-primorye-primsotsbank"
+        },
+        {
+            "bin_num": "450819",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "OJSC SOCIAL COMMERCIAL BANK OF PRIMORYE PRIMSOTSBANK",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/ojsc-social-commercial-bank-of-primorye-primsotsbank"
+        }
+    ]
+}

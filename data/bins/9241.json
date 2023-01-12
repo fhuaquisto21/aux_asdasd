@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "426303",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CAIXA D'ESTALVIS I PENSIONS/DE AHORROS Y PENSIONES DE BARCELONA (LA CAIXA)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caixa-d'estalvis-i-pensions+de-ahorros-y-pensiones-de-barcelona-(la-caixa)"
+        },
+        {
+            "bin_num": "426304",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CAIXA D'ESTALVIS I PENSIONS/DE AHORROS Y PENSIONES DE BARCELONA (LA CAIXA)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caixa-d'estalvis-i-pensions+de-ahorros-y-pensiones-de-barcelona-(la-caixa)"
+        },
+        {
+            "bin_num": "491853",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CAIXA D'ESTALVIS I PENSIONS/DE AHORROS Y PENSIONES DE BARCELONA (LA CAIXA)",
+            "country_name": "SPAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/es.svg",
+            "country_url": "https://bincheck.io/es/esp",
+            "bank_url": "https://bincheck.io/es/esp/caixa-d'estalvis-i-pensions+de-ahorros-y-pensiones-de-barcelona-(la-caixa)"
+        }
+    ]
+}

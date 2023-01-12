@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "426891",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRSTRAND BANK, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/firstrand-bank,-ltd."
+        },
+        {
+            "bin_num": "426892",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRSTRAND BANK, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/firstrand-bank,-ltd."
+        },
+        {
+            "bin_num": "426893",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "FIRSTRAND BANK, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/firstrand-bank,-ltd."
+        },
+        {
+            "bin_num": "426894",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "FIRSTRAND BANK, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/firstrand-bank,-ltd."
+        },
+        {
+            "bin_num": "426895",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRSTRAND BANK, LTD.",
+            "country_name": "SWAZILAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/sz.svg",
+            "country_url": "https://bincheck.io/es/sz",
+            "bank_url": "https://bincheck.io/es/sz/firstrand-bank,-ltd."
+        }
+    ]
+}

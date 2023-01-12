@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "438048",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE, LINDUSTRIE ET LAGRICULTURE DUBURKINA",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/banque-internationale-pour-le-commerce,-lindustrie-et-lagriculture-duburkina"
+        },
+        {
+            "bin_num": "438049",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE INTERNATIONALE POUR LE COMMERCE, LINDUSTRIE ET LAGRICULTURE DUBURKINA",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/banque-internationale-pour-le-commerce,-lindustrie-et-lagriculture-duburkina"
+        }
+    ]
+}

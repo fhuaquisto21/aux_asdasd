@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "422524",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "UNIFIED PAYMENT SERVICES, LTD.",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/unified-payment-services,-ltd."
+        },
+        {
+            "bin_num": "422525",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "UNIFIED PAYMENT SERVICES, LTD.",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/unified-payment-services,-ltd."
+        }
+    ]
+}

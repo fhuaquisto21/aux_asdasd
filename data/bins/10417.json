@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "472308",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID TRAVEL MONEY",
+            "bank_name": "BANK INSINGER DE BEAUFORT PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/bank-insinger-de-beaufort-plc"
+        },
+        {
+            "bin_num": "472328",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID TRAVEL MONEY",
+            "bank_name": "BANK INSINGER DE BEAUFORT PLC",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/bank-insinger-de-beaufort-plc"
+        }
+    ]
+}

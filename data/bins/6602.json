@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506423",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CAJA POPULAR SANTIAGO APOSTOL",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/caja-popular-santiago-apostol"
+        },
+        {
+            "bin_num": "506461",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "CAJA POPULAR SANTIAGO APOSTOL",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/caja-popular-santiago-apostol"
+        }
+    ]
+}

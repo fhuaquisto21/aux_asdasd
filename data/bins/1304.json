@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "413290",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "CORIS BANK INTERNATIONAL",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/coris-bank-international"
+        },
+        {
+            "bin_num": "440510",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CORIS BANK INTERNATIONAL",
+            "country_name": "BURKINA FASO",
+            "country_img": "https://bincheck.io/assets/flags/svg/bf.svg",
+            "country_url": "https://bincheck.io/es/bf",
+            "bank_url": "https://bincheck.io/es/bf/coris-bank-international"
+        }
+    ]
+}

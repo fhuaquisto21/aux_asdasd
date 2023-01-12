@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "539717",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "COMMERCIAL BANK TRANSPORTNY INVESTITIONAL BANK LTD (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/commercial-bank-transportny-investitional-bank-ltd-(closed)"
+        },
+        {
+            "bin_num": "552553",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE CARD",
+            "bank_name": "COMMERCIAL BANK TRANSPORTNY INVESTITIONAL BANK LTD (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/commercial-bank-transportny-investitional-bank-ltd-(closed)"
+        },
+        {
+            "bin_num": "676876",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "COMMERCIAL BANK TRANSPORTNY INVESTITIONAL BANK LTD (CLOSED)",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/commercial-bank-transportny-investitional-bank-ltd-(closed)"
+        }
+    ]
+}

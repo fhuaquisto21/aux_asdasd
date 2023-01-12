@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "402506",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "MBF CARDS (M'SIA) SDN. BHD.",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/mbf-cards-(m'sia)-sdn.-bhd."
+        },
+        {
+            "bin_num": "450590",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "MBF CARDS (M'SIA) SDN. BHD.",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/mbf-cards-(m'sia)-sdn.-bhd."
+        },
+        {
+            "bin_num": "473452",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "MBF CARDS (M'SIA) SDN. BHD.",
+            "country_name": "MALAYSIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/my.svg",
+            "country_url": "https://bincheck.io/es/my",
+            "bank_url": "https://bincheck.io/es/my/mbf-cards-(m'sia)-sdn.-bhd."
+        }
+    ]
+}

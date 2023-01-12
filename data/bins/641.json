@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "450969",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/barclays-bank-plc"
+        },
+        {
+            "bin_num": "454044",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/barclays-bank-plc"
+        },
+        {
+            "bin_num": "491300",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/barclays-bank-plc"
+        },
+        {
+            "bin_num": "491301",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/barclays-bank-plc"
+        },
+        {
+            "bin_num": "547647",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/barclays-bank-plc"
+        },
+        {
+            "bin_num": "547746",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BARCLAYS BANK PLC",
+            "country_name": "BAHAMAS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bs.svg",
+            "country_url": "https://bincheck.io/es/bs",
+            "bank_url": "https://bincheck.io/es/bs/barclays-bank-plc"
+        }
+    ]
+}

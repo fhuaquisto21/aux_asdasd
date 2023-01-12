@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "407919",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "WELLS FARGO BANK, N.A.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/wells-fargo-bank,-n.a."
+        },
+        {
+            "bin_num": "459503",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "WELLS FARGO BANK, N.A.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/wells-fargo-bank,-n.a."
+        }
+    ]
+}

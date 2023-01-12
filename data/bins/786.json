@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "406378",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "RBTT BANK BARBADOS, LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/rbtt-bank-barbados,-ltd."
+        },
+        {
+            "bin_num": "542569",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "RBTT BANK BARBADOS, LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/rbtt-bank-barbados,-ltd."
+        },
+        {
+            "bin_num": "544739",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "RBTT BANK BARBADOS, LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/rbtt-bank-barbados,-ltd."
+        },
+        {
+            "bin_num": "552996",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "RBTT BANK BARBADOS, LTD.",
+            "country_name": "BARBADOS",
+            "country_img": "https://bincheck.io/assets/flags/svg/bb.svg",
+            "country_url": "https://bincheck.io/es/bb",
+            "bank_url": "https://bincheck.io/es/bb/rbtt-bank-barbados,-ltd."
+        }
+    ]
+}

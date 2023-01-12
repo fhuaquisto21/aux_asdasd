@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "418352",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KENYA COMMERCIAL BANK TANZANIA, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/kenya-commercial-bank-tanzania,-ltd."
+        },
+        {
+            "bin_num": "418353",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "KENYA COMMERCIAL BANK TANZANIA, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/kenya-commercial-bank-tanzania,-ltd."
+        },
+        {
+            "bin_num": "418354",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "KENYA COMMERCIAL BANK TANZANIA, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/kenya-commercial-bank-tanzania,-ltd."
+        },
+        {
+            "bin_num": "418355",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "KENYA COMMERCIAL BANK TANZANIA, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/kenya-commercial-bank-tanzania,-ltd."
+        },
+        {
+            "bin_num": "418392",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "KENYA COMMERCIAL BANK TANZANIA, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/kenya-commercial-bank-tanzania,-ltd."
+        }
+    ]
+}

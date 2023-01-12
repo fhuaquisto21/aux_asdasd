@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "434480",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "INDIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/in.svg",
+            "country_url": "https://bincheck.io/es/in",
+            "bank_url": "https://bincheck.io/es/en/standard-chartered-bank"
+        },
+        {
+            "bin_num": "544659",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "INDIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/in.svg",
+            "country_url": "https://bincheck.io/es/in",
+            "bank_url": "https://bincheck.io/es/en/standard-chartered-bank"
+        },
+        {
+            "bin_num": "544729",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "STANDARD CHARTERED BANK",
+            "country_name": "INDIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/in.svg",
+            "country_url": "https://bincheck.io/es/in",
+            "bank_url": "https://bincheck.io/es/en/standard-chartered-bank"
+        }
+    ]
+}

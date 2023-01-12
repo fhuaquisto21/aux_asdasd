@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "431458",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FIRST STATE BANK AND TRUST CO. OF LARNED (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-state-bank-and-trust-co.-of-larned-(closed)"
+        },
+        {
+            "bin_num": "463108",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FIRST STATE BANK AND TRUST CO. OF LARNED (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/first-state-bank-and-trust-co.-of-larned-(closed)"
+        }
+    ]
+}

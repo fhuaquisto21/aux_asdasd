@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "535253",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GFC GOOD FINANCE COMPANY AS",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/gfc-good-finance-company-as"
+        },
+        {
+            "bin_num": "540952",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "GFC GOOD FINANCE COMPANY AS",
+            "country_name": "ESTONIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ee.svg",
+            "country_url": "https://bincheck.io/es/ee",
+            "bank_url": "https://bincheck.io/es/ee/gfc-good-finance-company-as"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "539873",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/egyptian-banks-co.-for-technological-advancement,-s.a"
+        },
+        {
+            "bin_num": "548759",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/egyptian-banks-co.-for-technological-advancement,-s.a"
+        }
+    ]
+}

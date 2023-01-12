@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "377940",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GREEN REVOLVE",
+            "bank_name": "BANK MILLENNIUM SA",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/bank-millennium-sa"
+        },
+        {
+            "bin_num": "377941",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL GOLD REVOLVE",
+            "bank_name": "BANK MILLENNIUM SA",
+            "country_name": "POLAND",
+            "country_img": "https://bincheck.io/assets/flags/svg/pl.svg",
+            "country_url": "https://bincheck.io/es/pl",
+            "bank_url": "https://bincheck.io/es/pl/bank-millennium-sa"
+        }
+    ]
+}

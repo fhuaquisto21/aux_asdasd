@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "418131",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "478089",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PROPRIETARY",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "483547",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "489602",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "532871",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-banking-corp.,-ltd."
+        },
+        {
+            "bin_num": "543913",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+            "country_name": "SINGAPORE",
+            "country_img": "https://bincheck.io/assets/flags/svg/sg.svg",
+            "country_url": "https://bincheck.io/es/sg",
+            "bank_url": "https://bincheck.io/es/sg/hongkong-and-shanghai-banking-corp.,-ltd."
+        }
+    ]
+}

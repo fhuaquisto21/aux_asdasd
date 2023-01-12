@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "477130",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "PRESTACIONES UNIVERSALES S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/prestaciones-universales-s.a.-de-c.v."
+        },
+        {
+            "bin_num": "498589",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PURCHASING",
+            "bank_name": "PRESTACIONES UNIVERSALES S.A. DE C.V.",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/prestaciones-universales-s.a.-de-c.v."
+        }
+    ]
+}

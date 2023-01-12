@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "422251",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-procredit,-s.a."
+        },
+        {
+            "bin_num": "431916",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-procredit,-s.a."
+        },
+        {
+            "bin_num": "432083",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-procredit,-s.a."
+        },
+        {
+            "bin_num": "434792",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCO PROCREDIT, S.A.",
+            "country_name": "NICARAGUA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ni.svg",
+            "country_url": "https://bincheck.io/es/ni",
+            "bank_url": "https://bincheck.io/es/ni/banco-procredit,-s.a."
+        }
+    ]
+}

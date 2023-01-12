@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "519859",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "WORLD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/cscbank-sal"
+        },
+        {
+            "bin_num": "521099",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CSCBANK SAL",
+            "country_name": "LEBANON",
+            "country_img": "https://bincheck.io/assets/flags/svg/lb.svg",
+            "country_url": "https://bincheck.io/es/lb",
+            "bank_url": "https://bincheck.io/es/lb/cscbank-sal"
+        }
+    ]
+}

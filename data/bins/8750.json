@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "410682",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EMIRATES BANK INTERNATIONAL PJSC",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/emirates-bank-international-pjsc"
+        },
+        {
+            "bin_num": "410683",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EMIRATES BANK INTERNATIONAL PJSC",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/emirates-bank-international-pjsc"
+        }
+    ]
+}

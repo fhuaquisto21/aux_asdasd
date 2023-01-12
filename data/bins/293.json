@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "603493",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARJETA CENCOSUD",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/tarjeta-cencosud"
+        },
+        {
+            "bin_num": "905050",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARJETA CENCOSUD",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/tarjeta-cencosud"
+        },
+        {
+            "bin_num": "905051",
+            "bin_mark": "PRIVATE",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "TARJETA CENCOSUD",
+            "country_name": "ARGENTINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ar.svg",
+            "country_url": "https://bincheck.io/es/arg",
+            "bank_url": "https://bincheck.io/es/arg/tarjeta-cencosud"
+        }
+    ]
+}

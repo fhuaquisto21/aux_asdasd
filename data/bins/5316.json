@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "425626",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL COMMERCIAL BANK JAMAICA LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/national-commercial-bank-jamaica-ltd."
+        },
+        {
+            "bin_num": "426367",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL COMMERCIAL BANK JAMAICA LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/national-commercial-bank-jamaica-ltd."
+        },
+        {
+            "bin_num": "426368",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL COMMERCIAL BANK JAMAICA LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/national-commercial-bank-jamaica-ltd."
+        }
+    ]
+}

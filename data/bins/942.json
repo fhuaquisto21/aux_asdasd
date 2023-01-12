@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "403303",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/societe-generale-de-banques-au-benin-sgbbe"
+        },
+        {
+            "bin_num": "403325",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/societe-generale-de-banques-au-benin-sgbbe"
+        },
+        {
+            "bin_num": "403326",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/societe-generale-de-banques-au-benin-sgbbe"
+        },
+        {
+            "bin_num": "403327",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+            "country_name": "BENIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bj.svg",
+            "country_url": "https://bincheck.io/es/bj",
+            "bank_url": "https://bincheck.io/es/bj/societe-generale-de-banques-au-benin-sgbbe"
+        }
+    ]
+}

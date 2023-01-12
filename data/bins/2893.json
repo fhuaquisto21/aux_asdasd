@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "403078",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF DOMINICA",
+            "country_name": "DOMINICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dm.svg",
+            "country_url": "https://bincheck.io/es/dm",
+            "bank_url": "https://bincheck.io/es/dm/national-bank-of-dominica"
+        },
+        {
+            "bin_num": "403079",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF DOMINICA",
+            "country_name": "DOMINICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dm.svg",
+            "country_url": "https://bincheck.io/es/dm",
+            "bank_url": "https://bincheck.io/es/dm/national-bank-of-dominica"
+        },
+        {
+            "bin_num": "403080",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "NATIONAL BANK OF DOMINICA",
+            "country_name": "DOMINICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dm.svg",
+            "country_url": "https://bincheck.io/es/dm",
+            "bank_url": "https://bincheck.io/es/dm/national-bank-of-dominica"
+        },
+        {
+            "bin_num": "452495",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK OF DOMINICA",
+            "country_name": "DOMINICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dm.svg",
+            "country_url": "https://bincheck.io/es/dm",
+            "bank_url": "https://bincheck.io/es/dm/national-bank-of-dominica"
+        },
+        {
+            "bin_num": "452496",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK OF DOMINICA",
+            "country_name": "DOMINICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/dm.svg",
+            "country_url": "https://bincheck.io/es/dm",
+            "bank_url": "https://bincheck.io/es/dm/national-bank-of-dominica"
+        }
+    ]
+}

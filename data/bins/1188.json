@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "412177",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "415274",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "415275",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "446398",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "446690",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "480631",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "484635",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "532930",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "536380",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "536537",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        },
+        {
+            "bin_num": "553659",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "PORTOSEG S.A. CREDITO FINANCIAMENTO E INVESTIMENTO",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/portoseg-s.a.-credito-financiamento-e-investimento"
+        }
+    ]
+}

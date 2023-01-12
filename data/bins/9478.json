@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "520327",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        },
+        {
+            "bin_num": "523936",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        },
+        {
+            "bin_num": "544902",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        },
+        {
+            "bin_num": "552723",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        },
+        {
+            "bin_num": "552724",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        },
+        {
+            "bin_num": "552750",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        },
+        {
+            "bin_num": "557447",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+            "country_name": "SWEDEN",
+            "country_img": "https://bincheck.io/assets/flags/svg/se.svg",
+            "country_url": "https://bincheck.io/es/se",
+            "bank_url": "https://bincheck.io/es/se/danske-bank-aktieselskab,-denmark,-sweden-branch"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "537530",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "COMMERCIAL",
+            "bank_name": "CORNERCARD UK LIMITED",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/cornercard-uk-limited"
+        },
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "COMMERCIAL",
+            "bank_name": "CORNERCARD UK LIMITED",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/cornercard-uk-limited"
+        },
+        {
+            "bin_num": "537532",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "COMMERCIAL",
+            "bank_name": "CORNERCARD UK LIMITED",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/cornercard-uk-limited"
+        }
+    ]
+}

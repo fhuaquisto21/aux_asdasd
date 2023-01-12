@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "409696",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/industrial-and-commercial-bank-of-china"
+        },
+        {
+            "bin_num": "409697",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/industrial-and-commercial-bank-of-china"
+        },
+        {
+            "bin_num": "439198",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/industrial-and-commercial-bank-of-china"
+        }
+    ]
+}

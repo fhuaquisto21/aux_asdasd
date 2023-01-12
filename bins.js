@@ -10,9 +10,6 @@ const fs = require('fs');
         const data = fs.readFileSync(`./data/banks/${i}.json`);
         const banks = JSON.parse(data);
         
-        const browser = await chromium.launch({ headless: true });
-        const context = await browser.newContext();
-        const page = await context.newPage();
 
         bank_loop:
         for (const bank of banks.data) {
@@ -20,6 +17,9 @@ const fs = require('fs');
                 iter++;
                 continue bank_loop;
             }
+            const browser = await chromium.launch({ headless: true });
+            const context = await browser.newContext();
+            const page = await context.newPage();
             await page.goto(bank.bank_url, { timeout: 10000000 });
             const bin_rows = (await page.$$('tr')).slice(1);
 
@@ -39,9 +39,10 @@ const fs = require('fs');
             fs.writeFileSync(`./data/bins/${iter}.json`, bin_json);
             console.log(iter);
             iter++;
+	    await page.close();
+            await context.close();
+            await browser.close();
         }
     
-        await context.close();
-        await browser.close();
     }
-})(0)
+})(19808)

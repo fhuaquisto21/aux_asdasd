@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "407506",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/crnogorska-komercijalna-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "417465",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/crnogorska-komercijalna-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "421860",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/crnogorska-komercijalna-banka-ad-podgorica"
+        },
+        {
+            "bin_num": "421861",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+            "country_name": "MONTENEGRO",
+            "country_img": "https://bincheck.io/assets/flags/svg/me.svg",
+            "country_url": "https://bincheck.io/es/me",
+            "bank_url": "https://bincheck.io/es/me/crnogorska-komercijalna-banka-ad-podgorica"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+browserContext.newPage: Target closed
+    at /root/aux_asdasd/bins.js:15:36 {
+  name: 'Error'
+}
+
+Node.js v18.12.1

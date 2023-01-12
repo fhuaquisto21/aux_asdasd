@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "529063",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID BUSINESS",
+            "bank_name": "FBC BANK, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/fbc-bank,-ltd."
+        },
+        {
+            "bin_num": "533303",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "FBC BANK, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/fbc-bank,-ltd."
+        },
+        {
+            "bin_num": "537027",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "FBC BANK, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/fbc-bank,-ltd."
+        },
+        {
+            "bin_num": "547065",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "FBC BANK, LTD.",
+            "country_name": "ZIMBABWE",
+            "country_img": "https://bincheck.io/assets/flags/svg/zw.svg",
+            "country_url": "https://bincheck.io/es/zw",
+            "bank_url": "https://bincheck.io/es/zw/fbc-bank,-ltd."
+        }
+    ]
+}

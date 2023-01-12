@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "402562",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AB BANKAS HANSABANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bankas-hansabankas"
+        },
+        {
+            "bin_num": "429554",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "AB BANKAS HANSABANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bankas-hansabankas"
+        },
+        {
+            "bin_num": "432435",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AB BANKAS HANSABANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bankas-hansabankas"
+        },
+        {
+            "bin_num": "435247",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "AB BANKAS HANSABANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bankas-hansabankas"
+        },
+        {
+            "bin_num": "448307",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "AB BANKAS HANSABANKAS",
+            "country_name": "LITHUANIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/lt.svg",
+            "country_url": "https://bincheck.io/es/lt",
+            "bank_url": "https://bincheck.io/es/lt/ab-bankas-hansabankas"
+        }
+    ]
+}

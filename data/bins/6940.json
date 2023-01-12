@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "517450",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EBANK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/ebank,-ltd."
+        },
+        {
+            "bin_num": "517451",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EBANK, LTD.",
+            "country_name": "NAMIBIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/na.svg",
+            "country_url": "https://bincheck.io/es/na",
+            "bank_url": "https://bincheck.io/es/na/ebank,-ltd."
+        }
+    ]
+}

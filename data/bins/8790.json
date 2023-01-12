@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "406614",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CREDIT LYONNAIS SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-lyonnais-senegal"
+        },
+        {
+            "bin_num": "406615",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "CREDIT LYONNAIS SENEGAL",
+            "country_name": "SENEGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/sn.svg",
+            "country_url": "https://bincheck.io/es/sn",
+            "bank_url": "https://bincheck.io/es/sn/credit-lyonnais-senegal"
+        }
+    ]
+}

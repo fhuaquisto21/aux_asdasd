@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "533333",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/viet-capital-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "534393",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/viet-capital-commercial-joint-stock-bank"
+        }
+    ]
+}

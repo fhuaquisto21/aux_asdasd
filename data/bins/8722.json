@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "463723",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ANZ BANK (SAMOA), LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/anz-bank-(samoa),-ltd."
+        },
+        {
+            "bin_num": "493754",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "ANZ BANK (SAMOA), LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/anz-bank-(samoa),-ltd."
+        },
+        {
+            "bin_num": "526518",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ BANK (SAMOA), LTD.",
+            "country_name": "SAMOA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ws.svg",
+            "country_url": "https://bincheck.io/es/ws",
+            "bank_url": "https://bincheck.io/es/ws/anz-bank-(samoa),-ltd."
+        }
+    ]
+}

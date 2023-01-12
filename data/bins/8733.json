@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "525679",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/istituto-di-pagamento-sammarinese-t.p@y-spa"
+        },
+        {
+            "bin_num": "531539",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD",
+            "bank_name": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/istituto-di-pagamento-sammarinese-t.p@y-spa"
+        },
+        {
+            "bin_num": "535579",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/istituto-di-pagamento-sammarinese-t.p@y-spa"
+        },
+        {
+            "bin_num": "542815",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/istituto-di-pagamento-sammarinese-t.p@y-spa"
+        },
+        {
+            "bin_num": "549720",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/istituto-di-pagamento-sammarinese-t.p@y-spa"
+        },
+        {
+            "bin_num": "550746",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/istituto-di-pagamento-sammarinese-t.p@y-spa"
+        }
+    ]
+}

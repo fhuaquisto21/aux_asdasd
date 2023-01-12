@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "bin_num": "526968",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        },
+        {
+            "bin_num": "528635",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        },
+        {
+            "bin_num": "542652",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        },
+        {
+            "bin_num": "650516",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        },
+        {
+            "bin_num": "650517",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        },
+        {
+            "bin_num": "651662",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        },
+        {
+            "bin_num": "655012",
+            "bin_mark": "DISCOVER",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "CARTAO DE CREDITO PERNAMBUCANAS",
+            "country_name": "BRAZIL",
+            "country_img": "https://bincheck.io/assets/flags/svg/br.svg",
+            "country_url": "https://bincheck.io/es/br",
+            "bank_url": "https://bincheck.io/es/br/cartao-de-credito-pernambucanas"
+        }
+    ]
+}

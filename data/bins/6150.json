@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "458844",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL COMMERCIAL BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/national-commercial-bank"
+        },
+        {
+            "bin_num": "458845",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL COMMERCIAL BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/national-commercial-bank"
+        },
+        {
+            "bin_num": "458846",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "NATIONAL COMMERCIAL BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/national-commercial-bank"
+        },
+        {
+            "bin_num": "458847",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NATIONAL COMMERCIAL BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/national-commercial-bank"
+        },
+        {
+            "bin_num": "458848",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL COMMERCIAL BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/national-commercial-bank"
+        },
+        {
+            "bin_num": "472498",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL COMMERCIAL BANK",
+            "country_name": "LIBYAN ARAB JAMAHIRIYA",
+            "country_img": "https://bincheck.io/assets/flags/svg/ly.svg",
+            "country_url": "https://bincheck.io/es/ly",
+            "bank_url": "https://bincheck.io/es/ly/national-commercial-bank"
+        }
+    ]
+}

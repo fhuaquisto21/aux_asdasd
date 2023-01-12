@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "401966",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMERCE BANK OF SOUTHWEST FLORIDA (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commerce-bank-of-southwest-florida-(closed)"
+        },
+        {
+            "bin_num": "429878",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "COMMERCE BANK OF SOUTHWEST FLORIDA (CLOSED)",
+            "country_name": "UNITED STATES",
+            "country_img": "https://bincheck.io/assets/flags/svg/us.svg",
+            "country_url": "https://bincheck.io/es/us",
+            "bank_url": "https://bincheck.io/es/us/commerce-bank-of-southwest-florida-(closed)"
+        }
+    ]
+}

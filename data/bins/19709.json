@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "510995",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-maritime-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "511409",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-maritime-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "516294",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-maritime-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "521976",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-maritime-commercial-joint-stock-bank"
+        },
+        {
+            "bin_num": "532451",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+            "country_name": "VIETNAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/vn.svg",
+            "country_url": "https://bincheck.io/es/vn",
+            "bank_url": "https://bincheck.io/es/vn/vietnam-maritime-commercial-joint-stock-bank"
+        }
+    ]
+}

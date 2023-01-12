@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "JOINT STOCK COMMERCIAL BANK ASAKA",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/joint-stock-commercial-bank-asaka"
+        },
+        {
+            "bin_num": "547687",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "JOINT STOCK COMMERCIAL BANK ASAKA",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/joint-stock-commercial-bank-asaka"
+        },
+        {
+            "bin_num": "676662",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "PERSONAL",
+            "bank_name": "JOINT STOCK COMMERCIAL BANK ASAKA",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/joint-stock-commercial-bank-asaka"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "415257",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO DE LA REPUBLICA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-de-la-republica,-s.a."
+        },
+        {
+            "bin_num": "433480",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA REPUBLICA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-de-la-republica,-s.a."
+        },
+        {
+            "bin_num": "491587",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA REPUBLICA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-de-la-republica,-s.a."
+        },
+        {
+            "bin_num": "491588",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANCO DE LA REPUBLICA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-de-la-republica,-s.a."
+        },
+        {
+            "bin_num": "491590",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANCO DE LA REPUBLICA, S.A.",
+            "country_name": "GUATEMALA",
+            "country_img": "https://bincheck.io/assets/flags/svg/gt.svg",
+            "country_url": "https://bincheck.io/es/gt",
+            "bank_url": "https://bincheck.io/es/gt/banco-de-la-republica,-s.a."
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "bin_num": "464688",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "512322",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "512323",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "512416",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "535856",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "538393",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "540179",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "543720",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "546658",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "547441",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        },
+        {
+            "bin_num": "549608",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "SAGICOR BANK JAMAICA, LTD.",
+            "country_name": "JAMAICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/jm.svg",
+            "country_url": "https://bincheck.io/es/jm",
+            "bank_url": "https://bincheck.io/es/jm/sagicor-bank-jamaica,-ltd."
+        }
+    ]
+}

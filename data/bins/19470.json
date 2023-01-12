@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "414381",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan"
+        },
+        {
+            "bin_num": "414382",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan"
+        },
+        {
+            "bin_num": "479091",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan"
+        },
+        {
+            "bin_num": "479092",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan"
+        },
+        {
+            "bin_num": "491664",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan"
+        },
+        {
+            "bin_num": "491699",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "country_name": "UZBEKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/uz.svg",
+            "country_url": "https://bincheck.io/es/uz",
+            "bank_url": "https://bincheck.io/es/uz/national-bank-for-foreign-economic-activity-of-the-republic-of-uzbekistan"
+        }
+    ]
+}

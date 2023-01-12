@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "523585",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-electronicos-s.a.(impesa)"
+        },
+        {
+            "bin_num": "523586",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BLACK",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-electronicos-s.a.(impesa)"
+        },
+        {
+            "bin_num": "524440",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-electronicos-s.a.(impesa)"
+        },
+        {
+            "bin_num": "559069",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-electronicos-s.a.(impesa)"
+        },
+        {
+            "bin_num": "559237",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "WORLD FOR BUSINESS",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-electronicos-s.a.(impesa)"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "428273",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/dubai-islamic-bank-pakistan,-ltd."
+        },
+        {
+            "bin_num": "441574",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/dubai-islamic-bank-pakistan,-ltd."
+        },
+        {
+            "bin_num": "483565",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+            "country_name": "PAKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/pk.svg",
+            "country_url": "https://bincheck.io/es/pk",
+            "bank_url": "https://bincheck.io/es/pk/dubai-islamic-bank-pakistan,-ltd."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "445572",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "STATE SAVINGS BANK OF THE REPUBLIC OF TADJIKISTAN (AMONA",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/state-savings-bank-of-the-republic-of-tadjikistan-(amona"
+        },
+        {
+            "bin_num": "445573",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "STATE SAVINGS BANK OF THE REPUBLIC OF TADJIKISTAN (AMONA",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/state-savings-bank-of-the-republic-of-tadjikistan-(amona"
+        },
+        {
+            "bin_num": "445574",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "STATE SAVINGS BANK OF THE REPUBLIC OF TADJIKISTAN (AMONA",
+            "country_name": "TAJIKISTAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/tj.svg",
+            "country_url": "https://bincheck.io/es/tj",
+            "bank_url": "https://bincheck.io/es/tj/state-savings-bank-of-the-republic-of-tadjikistan-(amona"
+        }
+    ]
+}

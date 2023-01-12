@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "421133",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EQUITY BANK RWANDA, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/equity-bank-rwanda,-ltd."
+        },
+        {
+            "bin_num": "421153",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "EQUITY BANK RWANDA, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/equity-bank-rwanda,-ltd."
+        },
+        {
+            "bin_num": "457668",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "EQUITY BANK RWANDA, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/equity-bank-rwanda,-ltd."
+        },
+        {
+            "bin_num": "457669",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "EQUITY BANK RWANDA, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/equity-bank-rwanda,-ltd."
+        },
+        {
+            "bin_num": "457700",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "EQUITY BANK RWANDA, LTD.",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/equity-bank-rwanda,-ltd."
+        }
+    ]
+}

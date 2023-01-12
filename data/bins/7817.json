@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "374332",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL REVOLVE",
+            "bank_name": "NOVO BANCO",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco"
+        },
+        {
+            "bin_num": "375589",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL REVOLVE",
+            "bank_name": "NOVO BANCO",
+            "country_name": "PORTUGAL",
+            "country_img": "https://bincheck.io/assets/flags/svg/pt.svg",
+            "country_url": "https://bincheck.io/es/pt",
+            "bank_url": "https://bincheck.io/es/pt/novo-banco"
+        }
+    ]
+}

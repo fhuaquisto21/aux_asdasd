@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "bin_num": "511805",
+            "bin_mark": "",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "513760",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "516112",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "532157",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "542630",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/emerging-markets-payments-africa"
+        },
+        {
+            "bin_num": "547179",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "EMERGING MARKETS PAYMENTS AFRICA",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/emerging-markets-payments-africa"
+        }
+    ]
+}

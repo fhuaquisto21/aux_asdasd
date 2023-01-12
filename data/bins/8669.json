@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "429958",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "446999",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "456092",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "456093",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "456094",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "462078",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "471375",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "471376",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        },
+        {
+            "bin_num": "471377",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "BANQUE DE KIGALI",
+            "country_name": "RWANDA",
+            "country_img": "https://bincheck.io/assets/flags/svg/rw.svg",
+            "country_url": "https://bincheck.io/es/rw",
+            "bank_url": "https://bincheck.io/es/rw/banque-de-kigali"
+        }
+    ]
+}

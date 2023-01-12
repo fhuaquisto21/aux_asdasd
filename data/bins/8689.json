@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "525600",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/caribbean-credit-card-corporation-ltd."
+        },
+        {
+            "bin_num": "548545",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/caribbean-credit-card-corporation-ltd."
+        },
+        {
+            "bin_num": "548561",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/caribbean-credit-card-corporation-ltd."
+        },
+        {
+            "bin_num": "549889",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+            "country_name": "SAINT KITTS AND NEVIS",
+            "country_img": "https://bincheck.io/assets/flags/svg/kn.svg",
+            "country_url": "https://bincheck.io/es/kn",
+            "bank_url": "https://bincheck.io/es/kn/caribbean-credit-card-corporation-ltd."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "490327",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ATM",
+            "bank_name": "IMB",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/imb"
+        },
+        {
+            "bin_num": "579989",
+            "bin_mark": "LOCAL",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "IMB",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/imb"
+        },
+        {
+            "bin_num": "579999",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "IMB",
+            "country_name": "AUSTRALIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/au.svg",
+            "country_url": "https://bincheck.io/es/au",
+            "bank_url": "https://bincheck.io/es/au/imb"
+        }
+    ]
+}

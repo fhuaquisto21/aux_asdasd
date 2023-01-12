@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "541045",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ GUAM INC.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/anz-guam-inc."
+        },
+        {
+            "bin_num": "541052",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ANZ GUAM INC.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/anz-guam-inc."
+        },
+        {
+            "bin_num": "547639",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "ANZ GUAM INC.",
+            "country_name": "GUAM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gu.svg",
+            "country_url": "https://bincheck.io/es/gu",
+            "bank_url": "https://bincheck.io/es/gu/anz-guam-inc."
+        }
+    ]
+}

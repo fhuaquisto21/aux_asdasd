@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "465483",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANK OF AMERICA, N.A.",
+            "country_name": "NORTHERN MARIANA ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mp.svg",
+            "country_url": "https://bincheck.io/es/mp",
+            "bank_url": "https://bincheck.io/es/mp/bank-of-america,-n.a."
+        },
+        {
+            "bin_num": "468039",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANK OF AMERICA, N.A.",
+            "country_name": "NORTHERN MARIANA ISLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/mp.svg",
+            "country_url": "https://bincheck.io/es/mp",
+            "bank_url": "https://bincheck.io/es/mp/bank-of-america,-n.a."
+        }
+    ]
+}

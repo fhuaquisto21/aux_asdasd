@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "bin_num": "404161",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "411857",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "416068",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "416445",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE T&E",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "418067",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "INFINITE",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "418068",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "427204",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "GOLD",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "442332",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        },
+        {
+            "bin_num": "450940",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+            "country_name": "PUERTO RICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/pr.svg",
+            "country_url": "https://bincheck.io/es/pr",
+            "bank_url": "https://bincheck.io/es/pr/base-interchange-system-association-puerto-rico-league,-inc."
+        }
+    ]
+}

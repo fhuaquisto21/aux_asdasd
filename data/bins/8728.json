@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "513962",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/banca-sammarinese-di-investimento-spa"
+        },
+        {
+            "bin_num": "525742",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/banca-sammarinese-di-investimento-spa"
+        },
+        {
+            "bin_num": "533989",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/banca-sammarinese-di-investimento-spa"
+        },
+        {
+            "bin_num": "670524",
+            "bin_mark": "MAESTRO",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+            "country_name": "SAN MARINO",
+            "country_img": "https://bincheck.io/assets/flags/svg/sm.svg",
+            "country_url": "https://bincheck.io/es/sm",
+            "bank_url": "https://bincheck.io/es/sm/banca-sammarinese-di-investimento-spa"
+        }
+    ]
+}

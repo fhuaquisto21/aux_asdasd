@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "437576",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "BANCO DA AFRICA OCIDENTAL",
+            "country_name": "GUINEA-BISSAU",
+            "country_img": "https://bincheck.io/assets/flags/svg/gw.svg",
+            "country_url": "https://bincheck.io/es/gw",
+            "bank_url": "https://bincheck.io/es/gw/banco-da-africa-ocidental"
+        },
+        {
+            "bin_num": "437577",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "BANCO DA AFRICA OCIDENTAL",
+            "country_name": "GUINEA-BISSAU",
+            "country_img": "https://bincheck.io/assets/flags/svg/gw.svg",
+            "country_url": "https://bincheck.io/es/gw",
+            "bank_url": "https://bincheck.io/es/gw/banco-da-africa-ocidental"
+        }
+    ]
+}

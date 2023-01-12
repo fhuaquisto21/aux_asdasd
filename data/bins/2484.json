@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "534443",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO E",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-e"
+        },
+        {
+            "bin_num": "534569",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO E",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-e"
+        },
+        {
+            "bin_num": "550459",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "INNOVACION EN MEDIOS DE PAGO E",
+            "country_name": "COSTA RICA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cr.svg",
+            "country_url": "https://bincheck.io/es/cr",
+            "bank_url": "https://bincheck.io/es/cr/innovacion-en-medios-de-pago-e"
+        }
+    ]
+}

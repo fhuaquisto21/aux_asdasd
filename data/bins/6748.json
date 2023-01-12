@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "506407",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "S&C CONSTRUCTORES DE SISTEMAS",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/s&c-constructores-de-sistemas"
+        },
+        {
+            "bin_num": "506408",
+            "bin_mark": "CARNET",
+            "bin_type": "CREDIT",
+            "bin_level": "CREDIT COEMITIDA",
+            "bank_name": "S&C CONSTRUCTORES DE SISTEMAS",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/s&c-constructores-de-sistemas"
+        }
+    ]
+}

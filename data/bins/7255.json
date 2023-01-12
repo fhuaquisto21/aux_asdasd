@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "411688",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "OMAN ARAB BANK, SAOC",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/oman-arab-bank,-saoc"
+        },
+        {
+            "bin_num": "417245",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "OMAN ARAB BANK, SAOC",
+            "country_name": "OMAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/om.svg",
+            "country_url": "https://bincheck.io/es/om",
+            "bank_url": "https://bincheck.io/es/om/oman-arab-bank,-saoc"
+        }
+    ]
+}

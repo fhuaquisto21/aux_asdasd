@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "455618",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF AMERICA N.T. AND, S.A.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/bank-of-america-n.t.-and,-s.a."
+        },
+        {
+            "bin_num": "455619",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "BANK OF AMERICA N.T. AND, S.A.",
+            "country_name": "NETHERLANDS",
+            "country_img": "https://bincheck.io/assets/flags/svg/nl.svg",
+            "country_url": "https://bincheck.io/es/nl",
+            "bank_url": "https://bincheck.io/es/nl/bank-of-america-n.t.-and,-s.a."
+        }
+    ]
+}

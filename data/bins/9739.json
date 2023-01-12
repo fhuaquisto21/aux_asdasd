@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "bin_num": "402279",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "413837",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "413838",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "427285",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "442108",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "494147",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "522196",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        },
+        {
+            "bin_num": "552116",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "FBME BANK, LTD.",
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/tz.svg",
+            "country_url": "https://bincheck.io/es/tz",
+            "bank_url": "https://bincheck.io/es/tz/fbme-bank,-ltd."
+        }
+    ]
+}

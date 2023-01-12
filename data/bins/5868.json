@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GNS GREEN CHARGE",
+            "bank_name": "KB KOOKMIN CARD",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin-card"
+        },
+        {
+            "bin_num": "375144",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GNS PLATINUM CHARGE",
+            "bank_name": "KB KOOKMIN CARD",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin-card"
+        },
+        {
+            "bin_num": "375145",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "KB KOOKMIN CARD",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin-card"
+        },
+        {
+            "bin_num": "376364",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GNS PLATINUM CHARGE",
+            "bank_name": "KB KOOKMIN CARD",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin-card"
+        },
+        {
+            "bin_num": "376365",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "GNS GOLD CHARGE",
+            "bank_name": "KB KOOKMIN CARD",
+            "country_name": "KOREA, REPUBLIC OF",
+            "country_img": "https://bincheck.io/assets/flags/svg/kr.svg",
+            "country_url": "https://bincheck.io/es/kr",
+            "bank_url": "https://bincheck.io/es/kr/kb-kookmin-card"
+        }
+    ]
+}

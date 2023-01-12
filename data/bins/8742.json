@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "374311",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CHARGE CARD",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "ASAL",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/asal"
+        },
+        {
+            "bin_num": "374312",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CHARGE CARD",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "ASAL",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/asal"
+        },
+        {
+            "bin_num": "376655",
+            "bin_mark": "",
+            "bin_type": "CREDIT",
+            "bin_level": "PERSONAL BLUE REVOLVE",
+            "bank_name": "ASAL",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/asal"
+        },
+        {
+            "bin_num": "376656",
+            "bin_mark": "AMERICAN",
+            "bin_type": "CREDIT",
+            "bin_level": "CORPORATE GREEN CHARGE",
+            "bank_name": "ASAL",
+            "country_name": "SAUDI ARABIA",
+            "country_img": "https://bincheck.io/assets/flags/svg/sa.svg",
+            "country_url": "https://bincheck.io/es/sa",
+            "bank_url": "https://bincheck.io/es/sa/asal"
+        }
+    ]
+}

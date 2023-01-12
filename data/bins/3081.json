@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "427820",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "ELECTRON",
+            "bank_name": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/principal-bank-for-development-and-agricultural-credit"
+        },
+        {
+            "bin_num": "427821",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID ELECTRON",
+            "bank_name": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/principal-bank-for-development-and-agricultural-credit"
+        },
+        {
+            "bin_num": "427822",
+            "bin_mark": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "",
+            "bank_name": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+            "country_name": "EGYPT",
+            "country_img": "https://bincheck.io/assets/flags/svg/eg.svg",
+            "country_url": "https://bincheck.io/es/eg",
+            "bank_url": "https://bincheck.io/es/eg/principal-bank-for-development-and-agricultural-credit"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "446519",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "CLASSIC",
+            "bank_name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CJSC",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/credit-agricole-corporate-and-investment-bank-cjsc"
+        },
+        {
+            "bin_num": "446520",
+            "bin_mark": "VISA",
+            "bin_type": "DEBIT",
+            "bin_level": "BUSINESS",
+            "bank_name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CJSC",
+            "country_name": "RUSSIAN FEDERATION",
+            "country_img": "https://bincheck.io/assets/flags/svg/ru.svg",
+            "country_url": "https://bincheck.io/es/ru",
+            "bank_url": "https://bincheck.io/es/ru/credit-agricole-corporate-and-investment-bank-cjsc"
+        }
+    ]
+}

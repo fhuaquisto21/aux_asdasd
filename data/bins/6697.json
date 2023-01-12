@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "bin_num": "506391",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ICTINEO PLATAFORMA",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/ictineo-plataforma"
+        },
+        {
+            "bin_num": "506441",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ICTINEO PLATAFORMA",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/ictineo-plataforma"
+        },
+        {
+            "bin_num": "506460",
+            "bin_mark": "CARNET",
+            "bin_type": "DEBIT",
+            "bin_level": "",
+            "bank_name": "ICTINEO PLATAFORMA",
+            "country_name": "MEXICO",
+            "country_img": "https://bincheck.io/assets/flags/svg/mx.svg",
+            "country_url": "https://bincheck.io/es/mx",
+            "bank_url": "https://bincheck.io/es/mx/ictineo-plataforma"
+        }
+    ]
+}

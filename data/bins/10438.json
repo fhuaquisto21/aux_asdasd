@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "bin_num": "524819",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "BANKA INTESA SANPAOLO D.D.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/banka-intesa-sanpaolo-d.d."
+        },
+        {
+            "bin_num": "535308",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "BANKA INTESA SANPAOLO D.D.",
+            "country_name": "UNITED KINGDOM",
+            "country_img": "https://bincheck.io/assets/flags/svg/gb.svg",
+            "country_url": "https://bincheck.io/es/gb",
+            "bank_url": "https://bincheck.io/es/gb/banka-intesa-sanpaolo-d.d."
+        }
+    ]
+}

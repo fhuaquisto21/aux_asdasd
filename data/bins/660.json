@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "bin_num": "537995",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "PLATINUM",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c.-(closed)"
+        },
+        {
+            "bin_num": "543712",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID RELOADABLE",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c.-(closed)"
+        },
+        {
+            "bin_num": "543752",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c.-(closed)"
+        },
+        {
+            "bin_num": "554969",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "GOLD",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c.-(closed)"
+        },
+        {
+            "bin_num": "555931",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+            "country_name": "BAHRAIN",
+            "country_img": "https://bincheck.io/assets/flags/svg/bh.svg",
+            "country_url": "https://bincheck.io/es/bh",
+            "bank_url": "https://bincheck.io/es/bh/al-baraka-islamic-bank-b.s.c.-(closed)"
+        }
+    ]
+}

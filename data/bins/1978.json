@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "bin_num": "330102",
+            "bin_mark": "ATM",
+            "bin_type": "DEBIT",
+            "bin_level": "STANDARD",
+            "bank_name": "ICBC HANGZHOU",
+            "country_name": "CHINA",
+            "country_img": "https://bincheck.io/assets/flags/svg/cn.svg",
+            "country_url": "https://bincheck.io/es/cn",
+            "bank_url": "https://bincheck.io/es/cn/icbc-hangzhou"
+        }
+    ]
+}

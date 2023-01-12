@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "bin_num": "517393",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES, LTD.",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/middle-east-payment-services,-ltd."
+        },
+        {
+            "bin_num": "527569",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "STANDARD",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES, LTD.",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/middle-east-payment-services,-ltd."
+        },
+        {
+            "bin_num": "531597",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "DEBIT",
+            "bin_level": "PREPAID",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES, LTD.",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/middle-east-payment-services,-ltd."
+        },
+        {
+            "bin_num": "532019",
+            "bin_mark": "MASTERCARD",
+            "bin_type": "CREDIT",
+            "bin_level": "TITANIUM",
+            "bank_name": "MIDDLE EAST PAYMENT SERVICES, LTD.",
+            "country_name": "JORDAN",
+            "country_img": "https://bincheck.io/assets/flags/svg/jo.svg",
+            "country_url": "https://bincheck.io/es/jo",
+            "bank_url": "https://bincheck.io/es/jo/middle-east-payment-services,-ltd."
+        }
+    ]
+}
